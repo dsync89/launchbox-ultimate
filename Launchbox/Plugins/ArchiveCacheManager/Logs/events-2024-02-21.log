@@ -1,0 +1,162 @@
+2024-02-21 02:56:01 - -------- PLUGIN INITIALIZED --------
+2024-02-21 02:56:01 - Archive Cache Manager plugin initialized (v2.16).
+2024-02-21 02:56:01 - Verifying cache integrity... (C:\Programs\LaunchBox\ArchiveCache)
+2024-02-21 02:56:01 - Verification complete.
+2024-02-21 12:40:41 - -------- PLUGIN INITIALIZED --------
+2024-02-21 12:40:41 - Archive Cache Manager plugin initialized (v2.16).
+2024-02-21 12:40:41 - Verifying cache integrity... (C:\Programs\LaunchBox\ArchiveCache)
+2024-02-21 12:40:41 - Verification complete.
+2024-02-21 12:43:23 - LaunchBox / BigBox shutdown.
+2024-02-21 12:44:40 - -------- PLUGIN INITIALIZED --------
+2024-02-21 12:44:40 - Archive Cache Manager plugin initialized (v2.16).
+2024-02-21 12:44:40 - Verifying cache integrity... (C:\Programs\LaunchBox\ArchiveCache)
+2024-02-21 12:44:40 - Verification complete.
+2024-02-21 12:44:46 - Update check found latest version installed.
+2024-02-21 12:50:58 - -------- PLUGIN INITIALIZED --------
+2024-02-21 12:50:58 - Archive Cache Manager plugin initialized (v2.16).
+2024-02-21 12:50:58 - Verifying cache integrity... (C:\Programs\LaunchBox\ArchiveCache)
+2024-02-21 12:50:58 - Verification complete.
+2024-02-21 12:51:03 - Update check found latest version installed.
+2024-02-21 12:54:29 - LaunchBox / BigBox shutdown.
+2024-02-21 12:55:07 - -------- PLUGIN INITIALIZED --------
+2024-02-21 12:55:07 - Archive Cache Manager plugin initialized (v2.16).
+2024-02-21 12:55:07 - Verifying cache integrity... (C:\Programs\LaunchBox\ArchiveCache)
+2024-02-21 12:55:07 - Verification complete.
+2024-02-21 12:55:46 - LaunchBox / BigBox shutdown.
+2024-02-21 12:55:46 - System.IO.IOException: The process cannot access the file 'C:\Programs\LaunchBox\ThirdParty\7-Zip\7z.exe' because it is being used by another process.
+   at System.IO.FileSystem.CopyFile(String sourceFullPath, String destFullPath, Boolean overwrite)
+   at System.IO.File.Copy(String sourceFileName, String destFileName, Boolean overwrite)
+   at ArchiveCacheManager.GameLaunching.Restore7z()
+2024-02-21 12:57:21 - -------- PLUGIN INITIALIZED --------
+2024-02-21 12:57:21 - Archive Cache Manager plugin initialized (v2.16).
+2024-02-21 12:57:21 - Verifying cache integrity... (C:\Programs\LaunchBox\ArchiveCache)
+2024-02-21 12:57:21 - Verification complete.
+2024-02-21 12:59:15 - LaunchBox / BigBox shutdown.
+2024-02-21 13:00:15 - -------- PLUGIN INITIALIZED --------
+2024-02-21 13:00:15 - Archive Cache Manager plugin initialized (v2.16).
+2024-02-21 13:00:15 - Verifying cache integrity... (C:\Programs\LaunchBox\ArchiveCache)
+2024-02-21 13:00:15 - Verification complete.
+2024-02-21 13:15:41 - -------- SHONEN JUMP'S ONE PIECE: GRAND BATTLE --------
+2024-02-21 13:15:41 - Preparing cache for Shonen Jump's One Piece: Grand Battle (Sony Playstation 2) running with RetroArch.
+2024-02-21 13:18:24 - Game started, cleaning up 7-Zip folder.
+2024-02-21 13:50:27 - LaunchBox / BigBox shutdown.
+2024-02-21 13:52:25 - -------- PLUGIN INITIALIZED --------
+2024-02-21 13:52:25 - Archive Cache Manager plugin initialized (v2.16).
+2024-02-21 13:52:26 - Verifying cache integrity... (C:\Programs\LaunchBox\ArchiveCache)
+2024-02-21 13:52:26 - Verification complete.
+2024-02-21 13:52:33 - Update check found latest version installed.
+2024-02-21 14:02:24 - LaunchBox / BigBox shutdown.
+2024-02-21 14:03:06 - -------- PLUGIN INITIALIZED --------
+2024-02-21 14:03:06 - Archive Cache Manager plugin initialized (v2.16).
+2024-02-21 14:03:06 - Verifying cache integrity... (C:\Programs\LaunchBox\ArchiveCache)
+2024-02-21 14:03:06 - Verification complete.
+2024-02-21 14:27:09 - LaunchBox / BigBox shutdown.
+2024-02-21 14:28:12 - -------- PLUGIN INITIALIZED --------
+2024-02-21 14:28:12 - Archive Cache Manager plugin initialized (v2.16).
+2024-02-21 14:28:12 - Verifying cache integrity... (C:\Programs\LaunchBox\ArchiveCache)
+2024-02-21 14:28:12 - Verification complete.
+2024-02-21 14:28:17 - Update check found latest version installed.
+2024-02-21 14:55:52 - -------- PLUGIN INITIALIZED --------
+2024-02-21 14:55:52 - Archive Cache Manager plugin initialized (v2.16).
+2024-02-21 14:55:52 - Verifying cache integrity... (C:\Programs\LaunchBox\ArchiveCache)
+2024-02-21 14:55:52 - Verification complete.
+2024-02-21 14:55:57 - Update check found latest version installed.
+2024-02-21 14:58:29 - -------- PLUGIN INITIALIZED --------
+2024-02-21 14:58:29 - Archive Cache Manager plugin initialized (v2.16).
+2024-02-21 14:58:29 - Verifying cache integrity... (C:\Programs\LaunchBox\ArchiveCache)
+2024-02-21 14:58:29 - Verification complete.
+2024-02-21 14:58:34 - Update check found latest version installed.
+2024-02-21 15:00:09 - -------- PLUGIN INITIALIZED --------
+2024-02-21 15:00:09 - Archive Cache Manager plugin initialized (v2.16).
+2024-02-21 15:00:09 - Verifying cache integrity... (C:\Programs\LaunchBox\ArchiveCache)
+2024-02-21 15:00:09 - Verification complete.
+2024-02-21 15:00:14 - Update check found latest version installed.
+2024-02-21 15:04:26 - -------- PLUGIN INITIALIZED --------
+2024-02-21 15:04:26 - Archive Cache Manager plugin initialized (v2.16).
+2024-02-21 15:04:26 - Verifying cache integrity... (C:\Programs\LaunchBox\ArchiveCache)
+2024-02-21 15:04:26 - Verification complete.
+2024-02-21 15:04:31 - Update check found latest version installed.
+2024-02-21 15:09:41 - LaunchBox / BigBox shutdown.
+2024-02-21 15:10:27 - -------- PLUGIN INITIALIZED --------
+2024-02-21 15:10:27 - Archive Cache Manager plugin initialized (v2.16).
+2024-02-21 15:10:27 - Verifying cache integrity... (C:\Programs\LaunchBox\ArchiveCache)
+2024-02-21 15:10:27 - Verification complete.
+2024-02-21 15:14:54 - LaunchBox / BigBox shutdown.
+2024-02-21 15:15:59 - -------- PLUGIN INITIALIZED --------
+2024-02-21 15:15:59 - Archive Cache Manager plugin initialized (v2.16).
+2024-02-21 15:15:59 - Verifying cache integrity... (C:\Programs\LaunchBox\ArchiveCache)
+2024-02-21 15:15:59 - Verification complete.
+2024-02-21 15:19:03 - LaunchBox / BigBox shutdown.
+2024-02-21 15:21:03 - -------- PLUGIN INITIALIZED --------
+2024-02-21 15:21:03 - Archive Cache Manager plugin initialized (v2.16).
+2024-02-21 15:21:03 - Verifying cache integrity... (C:\Programs\LaunchBox\ArchiveCache)
+2024-02-21 15:21:03 - Verification complete.
+2024-02-21 15:41:44 - LaunchBox / BigBox shutdown.
+2024-02-21 15:42:21 - -------- PLUGIN INITIALIZED --------
+2024-02-21 15:42:21 - Archive Cache Manager plugin initialized (v2.16).
+2024-02-21 15:42:21 - Verifying cache integrity... (C:\Programs\LaunchBox\ArchiveCache)
+2024-02-21 15:42:21 - Verification complete.
+2024-02-21 15:42:26 - Update check found latest version installed.
+2024-02-21 16:19:11 - -------- PLUGIN INITIALIZED --------
+2024-02-21 16:19:11 - Archive Cache Manager plugin initialized (v2.16).
+2024-02-21 16:19:11 - Verifying cache integrity... (C:\Programs\LaunchBox\ArchiveCache)
+2024-02-21 16:19:11 - Verification complete.
+2024-02-21 16:19:16 - Update check found latest version installed.
+2024-02-21 16:27:15 - -------- PLUGIN INITIALIZED --------
+2024-02-21 16:27:15 - Archive Cache Manager plugin initialized (v2.16).
+2024-02-21 16:27:15 - Verifying cache integrity... (C:\Programs\LaunchBox\ArchiveCache)
+2024-02-21 16:27:15 - Verification complete.
+2024-02-21 16:27:21 - Update check found latest version installed.
+2024-02-21 16:31:21 - -------- PLUGIN INITIALIZED --------
+2024-02-21 16:31:21 - Archive Cache Manager plugin initialized (v2.16).
+2024-02-21 16:31:21 - Verifying cache integrity... (C:\Programs\LaunchBox\ArchiveCache)
+2024-02-21 16:31:21 - Verification complete.
+2024-02-21 16:31:25 - Update check found latest version installed.
+2024-02-21 16:37:08 - -------- PLUGIN INITIALIZED --------
+2024-02-21 16:37:08 - Archive Cache Manager plugin initialized (v2.16).
+2024-02-21 16:37:08 - Verifying cache integrity... (C:\Programs\LaunchBox\ArchiveCache)
+2024-02-21 16:37:08 - Verification complete.
+2024-02-21 16:37:13 - Update check found latest version installed.
+2024-02-21 16:52:59 - LaunchBox / BigBox shutdown.
+2024-02-21 16:53:36 - -------- PLUGIN INITIALIZED --------
+2024-02-21 16:53:36 - Archive Cache Manager plugin initialized (v2.16).
+2024-02-21 16:53:36 - Verifying cache integrity... (C:\Programs\LaunchBox\ArchiveCache)
+2024-02-21 16:53:36 - Verification complete.
+2024-02-21 16:55:46 - LaunchBox / BigBox shutdown.
+2024-02-21 16:56:23 - -------- PLUGIN INITIALIZED --------
+2024-02-21 16:56:23 - Archive Cache Manager plugin initialized (v2.16).
+2024-02-21 16:56:23 - Verifying cache integrity... (C:\Programs\LaunchBox\ArchiveCache)
+2024-02-21 16:56:23 - Verification complete.
+2024-02-21 16:56:28 - Update check found latest version installed.
+2024-02-21 17:33:53 - -------- PLUGIN INITIALIZED --------
+2024-02-21 17:33:53 - Archive Cache Manager plugin initialized (v2.16).
+2024-02-21 17:33:53 - Verifying cache integrity... (C:\Programs\LaunchBox\ArchiveCache)
+2024-02-21 17:33:53 - Verification complete.
+2024-02-21 17:33:57 - Update check found latest version installed.
+2024-02-21 17:41:05 - -------- PLUGIN INITIALIZED --------
+2024-02-21 17:41:05 - Archive Cache Manager plugin initialized (v2.16).
+2024-02-21 17:41:05 - Verifying cache integrity... (C:\Programs\LaunchBox\ArchiveCache)
+2024-02-21 17:41:05 - Verification complete.
+2024-02-21 17:41:10 - Update check found latest version installed.
+2024-02-21 17:44:57 - -------- PLUGIN INITIALIZED --------
+2024-02-21 17:44:57 - Archive Cache Manager plugin initialized (v2.16).
+2024-02-21 17:44:57 - Verifying cache integrity... (C:\Programs\LaunchBox\ArchiveCache)
+2024-02-21 17:44:57 - Verification complete.
+2024-02-21 17:45:03 - Update check found latest version installed.
+2024-02-21 17:47:49 - -------- PLUGIN INITIALIZED --------
+2024-02-21 17:47:49 - Archive Cache Manager plugin initialized (v2.16).
+2024-02-21 17:47:49 - Verifying cache integrity... (C:\Programs\LaunchBox\ArchiveCache)
+2024-02-21 17:47:49 - Verification complete.
+2024-02-21 17:47:54 - Update check found latest version installed.
+2024-02-21 18:00:12 - LaunchBox / BigBox shutdown.
+2024-02-21 18:00:54 - -------- PLUGIN INITIALIZED --------
+2024-02-21 18:00:54 - Archive Cache Manager plugin initialized (v2.16).
+2024-02-21 18:00:54 - Verifying cache integrity... (C:\Programs\LaunchBox\ArchiveCache)
+2024-02-21 18:00:54 - Verification complete.
+2024-02-21 18:20:32 - LaunchBox / BigBox shutdown.
+2024-02-21 18:20:33 - LaunchBox / BigBox shutdown.
+2024-02-21 22:22:01 - -------- PLUGIN INITIALIZED --------
+2024-02-21 22:22:01 - Archive Cache Manager plugin initialized (v2.16).
+2024-02-21 22:22:01 - Verifying cache integrity... (C:\Programs\LaunchBox\ArchiveCache)
+2024-02-21 22:22:01 - Verification complete.
+2024-02-21 22:22:06 - Update check found latest version installed.

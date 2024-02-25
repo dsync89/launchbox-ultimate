@@ -1,0 +1,112 @@
+2024-02-26 01:06:26 - ========
+2024-02-26 01:06:26 - Archive Cache Manager started with arguments: x R:\ROMS-1G1R\erista-redump-sega-dreamcast\4x4 Evo (USA).zip -oC:\Programs\LaunchBox\ThirdParty\7-Zip\Temp -y -aoa -bsp1 -spe
+2024-02-26 01:06:26 - Running in extraction mode.
+2024-02-26 01:06:26 - Archive path set to "R:\ROMS-1G1R\erista-redump-sega-dreamcast\4x4 Evo (USA).zip".
+2024-02-26 01:06:26 - Archive cache path set to "C:\Programs\LaunchBox\ArchiveCache\4x4 Evo (USA).zip - FE9452".
+2024-02-26 01:06:26 - Extractor set to "7-Zip".
+2024-02-26 01:06:26 - Using filename priority "cue".
+2024-02-26 01:06:26 - Decompressed archive size is 1188777269 bytes.
+2024-02-26 01:06:26 - Clearing space in cache.
+2024-02-26 01:06:26 - Deleting cached item "C:\Programs\LaunchBox\ArchiveCache\Beast III (Japan).zip - 2BF0D5".
+2024-02-26 01:06:26 - Deleting cached item "C:\Programs\LaunchBox\ArchiveCache\Prince of Persia 2 - The Shadow & The Flame (Japan).zip - 92063B".
+2024-02-26 01:06:26 - Freed 1068288307 bytes from cache.
+2024-02-26 01:06:26 - Extracting archive to "C:\Programs\LaunchBox\ArchiveCache\4x4 Evo (USA).zip - FE9452".
+2024-02-26 01:06:30 - On disk archive size is 1188777269 bytes.
+2024-02-26 01:06:30 - Completed in 3362ms.
+2024-02-26 01:06:30 - ========
+2024-02-26 01:06:30 - Archive Cache Manager started with arguments: l R:\ROMS-1G1R\erista-redump-sega-dreamcast\4x4 Evo (USA).zip -slt
+2024-02-26 01:06:30 - Running in list mode.
+2024-02-26 01:06:30 - Archive path set to "R:\ROMS-1G1R\erista-redump-sega-dreamcast\4x4 Evo (USA).zip".
+2024-02-26 01:06:30 - Archive cache path set to "C:\Programs\LaunchBox\ArchiveCache\4x4 Evo (USA).zip - FE9452".
+2024-02-26 01:06:30 - Extractor set to "7-Zip".
+2024-02-26 01:06:30 - Using filename priority "cue".
+2024-02-26 01:06:30 - Completed in 25ms.
+2024-02-26 01:15:06 - ========
+2024-02-26 01:15:06 - Archive Cache Manager started with arguments: x R:\ROMS-1G1R\erista-nointro-nintendo-3ds-decrypted\Adventure Time - Explore the Dungeon because I DON'T KNOW! (USA).zip -oC:\Programs\LaunchBox\ThirdParty\7-Zip\Temp -y -aoa -bsp1 -spe
+2024-02-26 01:15:06 - Running in extraction mode.
+2024-02-26 01:15:06 - Archive path set to "R:\ROMS-1G1R\erista-nointro-nintendo-3ds-decrypted\Adventure Time - Explore the Dungeon because I DON'T KNOW! (USA).zip".
+2024-02-26 01:15:06 - Archive cache path set to "C:\Programs\LaunchBox\ArchiveCache\Adventure Time - Explore the Dungeon because I DON'T KNOW! (USA).zip - 0577C1".
+2024-02-26 01:15:06 - Extractor set to "7-Zip".
+2024-02-26 01:15:06 - Smart Extraction enabled for file "Adventure Time - Explore the Dungeon because I DON'T KNOW! (USA).3ds".
+2024-02-26 01:15:06 - Decompressed archive size is 134217728 bytes.
+2024-02-26 01:15:06 - Clearing space in cache.
+2024-02-26 01:15:06 - Deleting cached item "C:\Programs\LaunchBox\ArchiveCache\Princess Danger (Japan).zip - 9F2E9C".
+2024-02-26 01:15:06 - Freed 151492432 bytes from cache.
+2024-02-26 01:15:06 - Extracting archive to "C:\Programs\LaunchBox\ArchiveCache\Adventure Time - Explore the Dungeon because I DON'T KNOW! (USA).zip - 0577C1".
+2024-02-26 01:15:07 - On disk archive size is 134217728 bytes.
+2024-02-26 01:15:07 - Completed in 792ms.
+2024-02-26 01:15:07 - ========
+2024-02-26 01:15:07 - Archive Cache Manager started with arguments: l R:\ROMS-1G1R\erista-nointro-nintendo-3ds-decrypted\Adventure Time - Explore the Dungeon because I DON'T KNOW! (USA).zip -slt
+2024-02-26 01:15:07 - Running in list mode.
+2024-02-26 01:15:07 - Archive path set to "R:\ROMS-1G1R\erista-nointro-nintendo-3ds-decrypted\Adventure Time - Explore the Dungeon because I DON'T KNOW! (USA).zip".
+2024-02-26 01:15:07 - Archive cache path set to "C:\Programs\LaunchBox\ArchiveCache\Adventure Time - Explore the Dungeon because I DON'T KNOW! (USA).zip - 0577C1".
+2024-02-26 01:15:07 - Extractor set to "7-Zip".
+2024-02-26 01:15:07 - Completed in 21ms.
+2024-02-26 01:15:51 - ========
+2024-02-26 01:15:51 - Archive Cache Manager started with arguments: x R:\ROMS-1G1R\erista-nointro-nintendo-3ds-decrypted\Adventure Time - Finn & Jake Investigations (USA).zip -oC:\Programs\LaunchBox\ThirdParty\7-Zip\Temp -y -aoa -bsp1 -spe
+2024-02-26 01:15:51 - Running in extraction mode.
+2024-02-26 01:15:51 - Archive path set to "R:\ROMS-1G1R\erista-nointro-nintendo-3ds-decrypted\Adventure Time - Finn & Jake Investigations (USA).zip".
+2024-02-26 01:15:51 - Archive cache path set to "C:\Programs\LaunchBox\ArchiveCache\Adventure Time - Finn & Jake Investigations (USA).zip - 7A0791".
+2024-02-26 01:15:51 - Extractor set to "7-Zip".
+2024-02-26 01:15:51 - Smart Extraction enabled for file "Adventure Time - Finn & Jake Investigations (USA).3ds".
+2024-02-26 01:15:51 - Decompressed archive size is 268435456 bytes.
+2024-02-26 01:15:51 - Clearing space in cache.
+2024-02-26 01:15:51 - Deleting cached item "C:\Programs\LaunchBox\ArchiveCache\Prince of Persia (Japan).zip - D4D93D".
+2024-02-26 01:15:51 - Freed 443471605 bytes from cache.
+2024-02-26 01:15:51 - Extracting archive to "C:\Programs\LaunchBox\ArchiveCache\Adventure Time - Finn & Jake Investigations (USA).zip - 7A0791".
+2024-02-26 01:15:52 - On disk archive size is 268435456 bytes.
+2024-02-26 01:15:52 - Completed in 1446ms.
+2024-02-26 01:15:52 - ========
+2024-02-26 01:15:52 - Archive Cache Manager started with arguments: l R:\ROMS-1G1R\erista-nointro-nintendo-3ds-decrypted\Adventure Time - Finn & Jake Investigations (USA).zip -slt
+2024-02-26 01:15:52 - Running in list mode.
+2024-02-26 01:15:52 - Archive path set to "R:\ROMS-1G1R\erista-nointro-nintendo-3ds-decrypted\Adventure Time - Finn & Jake Investigations (USA).zip".
+2024-02-26 01:15:52 - Archive cache path set to "C:\Programs\LaunchBox\ArchiveCache\Adventure Time - Finn & Jake Investigations (USA).zip - 7A0791".
+2024-02-26 01:15:52 - Extractor set to "7-Zip".
+2024-02-26 01:15:52 - Completed in 20ms.
+2024-02-26 01:16:05 - ========
+2024-02-26 01:16:05 - Archive Cache Manager started with arguments: x R:\ROMS-1G1R\erista-nointro-nintendo-3ds-decrypted\Alliance Alive, The (USA).zip -oC:\Programs\LaunchBox\ThirdParty\7-Zip\Temp -y -aoa -bsp1 -spe
+2024-02-26 01:16:05 - Running in extraction mode.
+2024-02-26 01:16:05 - Archive path set to "R:\ROMS-1G1R\erista-nointro-nintendo-3ds-decrypted\Alliance Alive, The (USA).zip".
+2024-02-26 01:16:05 - Archive cache path set to "C:\Programs\LaunchBox\ArchiveCache\Alliance Alive, The (USA).zip - B32EFF".
+2024-02-26 01:16:05 - Extractor set to "7-Zip".
+2024-02-26 01:16:05 - Smart Extraction enabled for file "Alliance Alive, The (USA).3ds".
+2024-02-26 01:16:05 - Decompressed archive size is 2147483648 bytes.
+2024-02-26 01:16:05 - Clearing space in cache.
+2024-02-26 01:16:05 - Deleting cached item "C:\Programs\LaunchBox\ArchiveCache\Dengeki Nurse 2 - More Sexy (Japan).zip - EE271D".
+2024-02-26 01:16:05 - Deleting cached item "C:\Programs\LaunchBox\ArchiveCache\Dengeki Nurse (Japan).zip - 72AC17".
+2024-02-26 01:16:05 - Deleting cached item "C:\Programs\LaunchBox\ArchiveCache\Shinjuku Labyrinth (Japan).zip - 46EBB3".
+2024-02-26 01:16:05 - Deleting cached item "C:\Programs\LaunchBox\ArchiveCache\CAL III - Kanketsu-hen (Japan).zip - 972084".
+2024-02-26 01:16:05 - Deleting cached item "C:\Programs\LaunchBox\ArchiveCache\Kyrandia II - The Hand of Fate (Japan) (En,Ja).zip - FD3D0E".
+2024-02-26 01:16:05 - Freed 2076270051 bytes from cache.
+2024-02-26 01:16:05 - Extracting archive to "C:\Programs\LaunchBox\ArchiveCache\Alliance Alive, The (USA).zip - B32EFF".
+2024-02-26 01:16:15 - On disk archive size is 2147483648 bytes.
+2024-02-26 01:16:15 - Completed in 9855ms.
+2024-02-26 01:16:15 - ========
+2024-02-26 01:16:15 - Archive Cache Manager started with arguments: l R:\ROMS-1G1R\erista-nointro-nintendo-3ds-decrypted\Alliance Alive, The (USA).zip -slt
+2024-02-26 01:16:15 - Running in list mode.
+2024-02-26 01:16:15 - Archive path set to "R:\ROMS-1G1R\erista-nointro-nintendo-3ds-decrypted\Alliance Alive, The (USA).zip".
+2024-02-26 01:16:15 - Archive cache path set to "C:\Programs\LaunchBox\ArchiveCache\Alliance Alive, The (USA).zip - B32EFF".
+2024-02-26 01:16:15 - Extractor set to "7-Zip".
+2024-02-26 01:16:15 - Completed in 22ms.
+2024-02-26 01:16:28 - ========
+2024-02-26 01:16:28 - Archive Cache Manager started with arguments: x R:\ROMS-1G1R\erista-nointro-nintendo-3ds-decrypted\Amazing Spider-Man 2, The (USA).zip -oC:\Programs\LaunchBox\ThirdParty\7-Zip\Temp -y -aoa -bsp1 -spe
+2024-02-26 01:16:28 - Running in extraction mode.
+2024-02-26 01:16:28 - Archive path set to "R:\ROMS-1G1R\erista-nointro-nintendo-3ds-decrypted\Amazing Spider-Man 2, The (USA).zip".
+2024-02-26 01:16:28 - Archive cache path set to "C:\Programs\LaunchBox\ArchiveCache\Amazing Spider-Man 2, The (USA).zip - FC0B75".
+2024-02-26 01:16:28 - Extractor set to "7-Zip".
+2024-02-26 01:16:28 - Smart Extraction enabled for file "Amazing Spider-Man 2, The (USA).3ds".
+2024-02-26 01:16:28 - Decompressed archive size is 1073741824 bytes.
+2024-02-26 01:16:28 - Clearing space in cache.
+2024-02-26 01:16:28 - Deleting cached item "C:\Programs\LaunchBox\ArchiveCache\One-derful Theater (Japan).zip - FE93DB".
+2024-02-26 01:16:28 - Deleting cached item "C:\Programs\LaunchBox\ArchiveCache\Sugoi Dennou Club (Japan).zip - 755542".
+2024-02-26 01:16:28 - Freed 1356022893 bytes from cache.
+2024-02-26 01:16:28 - Extracting archive to "C:\Programs\LaunchBox\ArchiveCache\Amazing Spider-Man 2, The (USA).zip - FC0B75".
+2024-02-26 01:16:33 - On disk archive size is 1073741824 bytes.
+2024-02-26 01:16:33 - Completed in 4948ms.
+2024-02-26 01:16:33 - ========
+2024-02-26 01:16:33 - Archive Cache Manager started with arguments: l R:\ROMS-1G1R\erista-nointro-nintendo-3ds-decrypted\Amazing Spider-Man 2, The (USA).zip -slt
+2024-02-26 01:16:33 - Running in list mode.
+2024-02-26 01:16:33 - Archive path set to "R:\ROMS-1G1R\erista-nointro-nintendo-3ds-decrypted\Amazing Spider-Man 2, The (USA).zip".
+2024-02-26 01:16:33 - Archive cache path set to "C:\Programs\LaunchBox\ArchiveCache\Amazing Spider-Man 2, The (USA).zip - FC0B75".
+2024-02-26 01:16:33 - Extractor set to "7-Zip".
+2024-02-26 01:16:33 - Completed in 22ms.

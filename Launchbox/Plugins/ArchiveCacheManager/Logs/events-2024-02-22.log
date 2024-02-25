@@ -1,0 +1,73 @@
+2024-02-22 00:20:08 - -------- PLUGIN INITIALIZED --------
+2024-02-22 00:20:08 - Archive Cache Manager plugin initialized (v2.16).
+2024-02-22 00:20:08 - Verifying cache integrity... (C:\Programs\LaunchBox\ArchiveCache)
+2024-02-22 00:20:08 - Verification complete.
+2024-02-22 00:20:13 - Update check found latest version installed.
+2024-02-22 01:51:18 - -------- PLUGIN INITIALIZED --------
+2024-02-22 01:51:18 - Archive Cache Manager plugin initialized (v2.16).
+2024-02-22 01:51:18 - Verifying cache integrity... (C:\Programs\LaunchBox\ArchiveCache)
+2024-02-22 01:51:18 - Verification complete.
+2024-02-22 01:51:23 - Update check found latest version installed.
+2024-02-22 04:14:13 - LaunchBox / BigBox shutdown.
+2024-02-22 04:14:58 - -------- PLUGIN INITIALIZED --------
+2024-02-22 04:14:58 - Archive Cache Manager plugin initialized (v2.16).
+2024-02-22 04:14:58 - Verifying cache integrity... (C:\Programs\LaunchBox\ArchiveCache)
+2024-02-22 04:14:58 - Verification complete.
+2024-02-22 11:16:30 - -------- PLUGIN INITIALIZED --------
+2024-02-22 11:16:30 - Archive Cache Manager plugin initialized (v2.16).
+2024-02-22 11:16:30 - Verifying cache integrity... (C:\Programs\LaunchBox\ArchiveCache)
+2024-02-22 11:16:30 - Verification complete.
+2024-02-22 11:16:35 - Update check found latest version installed.
+2024-02-22 11:59:37 - -------- 007: THE WORLD IS NOT ENOUGH --------
+2024-02-22 11:59:37 - Preparing cache for 007: The World Is Not Enough (Sony Playstation) running with RetroArch.
+2024-02-22 11:59:38 - ========
+2024-02-22 11:59:38 - Archive Cache Manager started with arguments: x R:\ROMS-1G1R\erista-redump-sony-playstation-1\007 - The World Is Not Enough (USA).zip -oC:\Programs\LaunchBox\ThirdParty\7-Zip\Temp -y -aoa -bsp1 -spe
+2024-02-22 11:59:38 - Running in extraction mode.
+2024-02-22 11:59:38 - Archive path set to "R:\ROMS-1G1R\erista-redump-sony-playstation-1\007 - The World Is Not Enough (USA).zip".
+2024-02-22 11:59:38 - Archive cache path set to "C:\Programs\LaunchBox\ArchiveCache\007 - The World Is Not Enough (USA).zip - D83C7A".
+2024-02-22 11:59:38 - Extractor set to "7-Zip".
+2024-02-22 11:59:38 - Using filename priority "cue".
+2024-02-22 11:59:38 - Decompressed archive size is 726429413 bytes.
+2024-02-22 11:59:38 - Clearing space in cache.
+2024-02-22 11:59:38 - Deleting cached item "C:\Programs\LaunchBox\ArchiveCache\Alone in the Dark (Japan).zip - E11ACF".
+2024-02-22 11:59:38 - Deleting cached item "C:\Programs\LaunchBox\ArchiveCache\Alice no Yakata CD II (Japan).zip - 972AD5".
+2024-02-22 11:59:38 - Freed 988107429 bytes from cache.
+2024-02-22 11:59:38 - Extracting archive to "C:\Programs\LaunchBox\ArchiveCache\007 - The World Is Not Enough (USA).zip - D83C7A".
+2024-02-22 11:59:41 - On disk archive size is 726429413 bytes.
+2024-02-22 11:59:41 - Completed in 3317ms.
+2024-02-22 11:59:41 - ========
+2024-02-22 11:59:41 - Archive Cache Manager started with arguments: l R:\ROMS-1G1R\erista-redump-sony-playstation-1\007 - The World Is Not Enough (USA).zip -slt
+2024-02-22 11:59:41 - Running in list mode.
+2024-02-22 11:59:41 - Archive path set to "R:\ROMS-1G1R\erista-redump-sony-playstation-1\007 - The World Is Not Enough (USA).zip".
+2024-02-22 11:59:41 - Archive cache path set to "C:\Programs\LaunchBox\ArchiveCache\007 - The World Is Not Enough (USA).zip - D83C7A".
+2024-02-22 11:59:41 - Extractor set to "7-Zip".
+2024-02-22 11:59:41 - Using filename priority "cue".
+2024-02-22 11:59:41 - Completed in 22ms.
+2024-02-22 11:59:41 - Game started, cleaning up 7-Zip folder.
+2024-02-22 20:28:58 - -------- PLUGIN INITIALIZED --------
+2024-02-22 20:28:58 - Archive Cache Manager plugin initialized (v2.16).
+2024-02-22 20:28:58 - Verifying cache integrity... (C:\Programs\LaunchBox\ArchiveCache)
+2024-02-22 20:28:58 - Verification complete.
+2024-02-22 20:29:03 - Update check found latest version installed.
+2024-02-22 20:38:19 - -------- STREET FIGHTER EX PLUS ALPHA --------
+2024-02-22 20:38:19 - Preparing cache for Street Fighter EX Plus Alpha (Sony Playstation) running with RetroArch.
+2024-02-22 20:38:20 - ========
+2024-02-22 20:38:20 - Archive Cache Manager started with arguments: x R:\ROMS-1G1R\erista-redump-sony-playstation-1\Street Fighter EX Plus Alpha (USA).zip -oC:\Programs\LaunchBox\ThirdParty\7-Zip\Temp -y -aoa -bsp1 -spe
+2024-02-22 20:38:20 - Running in extraction mode.
+2024-02-22 20:38:20 - Archive path set to "R:\ROMS-1G1R\erista-redump-sony-playstation-1\Street Fighter EX Plus Alpha (USA).zip".
+2024-02-22 20:38:20 - Archive cache path set to "C:\Programs\LaunchBox\ArchiveCache\Street Fighter EX Plus Alpha (USA).zip - DC82C6".
+2024-02-22 20:38:20 - Extractor set to "7-Zip".
+2024-02-22 20:38:20 - Using filename priority "cue".
+2024-02-22 20:38:20 - Decompressed archive size is 528049972 bytes.
+2024-02-22 20:38:20 - Extracting archive to "C:\Programs\LaunchBox\ArchiveCache\Street Fighter EX Plus Alpha (USA).zip - DC82C6".
+2024-02-22 20:38:23 - On disk archive size is 528049972 bytes.
+2024-02-22 20:38:23 - Completed in 2785ms.
+2024-02-22 20:38:23 - ========
+2024-02-22 20:38:23 - Archive Cache Manager started with arguments: l R:\ROMS-1G1R\erista-redump-sony-playstation-1\Street Fighter EX Plus Alpha (USA).zip -slt
+2024-02-22 20:38:23 - Running in list mode.
+2024-02-22 20:38:23 - Archive path set to "R:\ROMS-1G1R\erista-redump-sony-playstation-1\Street Fighter EX Plus Alpha (USA).zip".
+2024-02-22 20:38:23 - Archive cache path set to "C:\Programs\LaunchBox\ArchiveCache\Street Fighter EX Plus Alpha (USA).zip - DC82C6".
+2024-02-22 20:38:23 - Extractor set to "7-Zip".
+2024-02-22 20:38:23 - Using filename priority "cue".
+2024-02-22 20:38:23 - Completed in 24ms.
+2024-02-22 20:38:23 - Game started, cleaning up 7-Zip folder.

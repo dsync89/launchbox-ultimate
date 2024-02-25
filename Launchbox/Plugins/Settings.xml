@@ -1,0 +1,70 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<MultiMonitor>
+  <Settings>
+    <game>Box 3D</game>
+    <game2>Box Back</game2>
+    <platform>Platform Device</platform>
+    <category>Category Banner</category>
+    <playlist>Playlist Banner</playlist>
+    <BBmonitor3>2</BBmonitor3>
+    <LBmonitor2>2</LBmonitor2>
+    <LBmonitor3>3</LBmonitor3>
+    <UseBB3>False</UseBB3>
+    <UseLB2>False</UseLB2>
+    <UseLB3>False</UseLB3>
+    <dontHide>True</dontHide>
+    <stretch>False</stretch>
+  </Settings>
+  <Platforms>
+    <Platform>
+      <Name>Arcade</Name>
+      <Image1>*Game Controls</Image1>
+      <Image2>Advertisement Flyer</Image2>
+    </Platform>
+    <Platform>
+      <Name>Nintendo 3DS</Name>
+      <Image1>Screenshot</Image1>
+      <Image2>Box Front</Image2>
+    </Platform>
+    <Platform>
+      <Name>Nintendo 64</Name>
+      <Image1>Screenshot</Image1>
+      <Image2>Box Front</Image2>
+    </Platform>
+    <Platform>
+      <Name>Nintendo DS</Name>
+      <Image1>Screenshot</Image1>
+      <Image2>Box Front</Image2>
+    </Platform>
+    <Platform>
+      <Name>Nintendo Entertainment System</Name>
+      <Image1>Screenshot</Image1>
+      <Image2>Box Front</Image2>
+    </Platform>
+    <Platform>
+      <Name>Nintendo Game Boy</Name>
+      <Image1>Screenshot</Image1>
+      <Image2>Box Front</Image2>
+    </Platform>
+    <Platform>
+      <Name>Nintendo Game Boy Advance</Name>
+      <Image1>Screenshot</Image1>
+      <Image2>Box Front</Image2>
+    </Platform>
+    <Platform>
+      <Name>Nintendo Game Boy Color</Name>
+      <Image1>Screenshot</Image1>
+      <Image2>Box Front</Image2>
+    </Platform>
+    <Platform>
+      <Name>Sony Playstation</Name>
+      <Image1>Screenshot</Image1>
+      <Image2>Box Front</Image2>
+    </Platform>
+    <Platform>
+      <Name>Super Nintendo Entertainment System</Name>
+      <Image1>Screenshot</Image1>
+      <Image2>Box Front</Image2>
+    </Platform>
+  </Platforms>
+</MultiMonitor>

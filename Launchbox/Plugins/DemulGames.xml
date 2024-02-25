@@ -1,0 +1,356 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Demul version="0.7" build="Apr 28 2018">
+  <system name="Naomi Cartridge System">
+    <game rom="18wheelr" title="18 Wheeler (Deluxe) (Rev. A)" />
+    <game rom="18wheels" title="18 Wheeler (Standart)" />
+    <game rom="18wheelu" title="18 Wheeler (Upright)" />
+    <game rom="alienfnt" title="Alien Front (Rev. T)" />
+    <game rom="alienfnta" title="Alien Front (Rev. A)" />
+    <game rom="alpilot" title="Airline Pilots (World) (Rev. B)" />
+    <game rom="alpilotj" title="Airline Pilots (Japan) (Rev. A)" />
+    <game rom="asndynmt" title="Asian Dynamite / Dynamite Deka EX" />
+    <game rom="ausfache" title="Akatsuki Blitzkampf Ausf. Achse" />
+    <game rom="capsnk" title="Capcom Vs. SNK Millennium Fight 2000 (Rev. C)" />
+    <game rom="capsnka" title="Capcom Vs. SNK Millennium Fight 2000 (Rev. A)" />
+    <game rom="capsnkb" title="Capcom Vs. SNK Millennium Fight 2000" />
+    <game rom="crackndj" title="Crackin' DJ" />
+    <game rom="crakndj2" title="Crackin' DJ Part 2" />
+    <game rom="crzytaxi" title="Crazy Taxi" />
+    <game rom="csmash" title="Cosmic Smash (Rev. A)" />
+    <game rom="csmasho" title="Cosmic Smash" />
+    <game rom="cspike" title="Cannon Spike / Gun Spike" />
+    <game rom="deathcox" title="Death Crimson OX (Rev. A)" />
+    <game rom="deathcoxo" title="Death Crimson OX" />
+    <game rom="derbyoc" title="Derby Owners Club (Rev. B)" />
+    <game rom="derbyocm" title="Derby Owners Club (Main) (Rev. B)" />
+    <game rom="derbyo2k" title="Derby Owners Club 2000 Ver.2 (Rev. A)" />
+    <game rom="derbyo2km" title="Derby Owners Club 2000 Ver.2 (Main) (Rev. A)" />
+    <game rom="derbyocw" title="Derby Owners Club World Edition EX (Rev. D)" />
+    <game rom="derbyocwm" title="Derby Owners Club World Edition EX (Main) (Rev. D)" />
+    <game rom="drbyocwc" title="Derby Owners Club World Edition (Rev. C)" />
+    <game rom="drbyocwb" title="Derby Owners Club World Edition (Rev. B)" />
+    <game rom="derbyoc2" title="Derby Owners Club II Ver.2.1 (Rev. B)" />
+    <game rom="derbyoc2m" title="Derby Owners Club II Ver.2.1 (Main) (Rev. B)" />
+    <game rom="doa2" title="Dead or Alive 2" />
+    <game rom="doa2a" title="Dead or Alive 2 (Rev. A)" />
+    <game rom="doa2m" title="Dead or Alive 2 Millennium" />
+    <game rom="dybb99" title="Dynamite Baseball '99 (Rev. B)" />
+    <game rom="dybbnao" title="Dynamite Baseball NAOMI" />
+    <game rom="f355" title="Ferrari F355 Challenge" />
+    <game rom="f355twin" title="Ferrari F355 Challenge (Twin)" />
+    <game rom="f355twind" title="Ferrari F355 Challenge Deluxe (Twin)" />
+    <game rom="f355twn2" title="Ferrari F355 Challenge 2 (Twin)" />
+    <game rom="f355twn2d" title="Ferrari F355 Challenge 2 Deluxe" />
+    <game rom="ggram2" title="Giant Gram: All Japan Pro Wrestling 2" />
+    <game rom="ggx" title="Guilty Gear X" />
+    <game rom="gram2000" title="Giant Gram 2000" />
+    <game rom="gundmct" title="Mobile Suit Gundam: Federation Vs. Zeon" />
+    <game rom="gunsur2" title="Gun Survivor 2 Biohazard Code: Veronica (World) (BHF2 Ver.E)" />
+    <game rom="gunsur2j" title="Gun Survivor 2 Biohazard Code: Veronica (Japan) (BHF1 Ver.E)" />
+    <game rom="gwing2" title="Giga Wing 2" />
+    <game rom="hmgeo" title="Heavy Metal Geomatrix (Rev. B)" />
+    <game rom="hopper" title="SWP Hopper Board" />
+    <game rom="hotd2" title="House of the Dead 2 (USA)" />
+    <game rom="hotd2o" title="House of the Dead 2" />
+    <game rom="hotd2p" title="House of the Dead 2 (prototype)" />
+    <game rom="illvelo" title="Illvelo (Illmatic Envelope)" />
+    <game rom="inunoos" title="Inu No Osanpo (Rev. A)" />
+    <game rom="jambo" title="Jambo! Safari (Rev. A)" />
+    <game rom="kick4csh" title="Kick '4' Cash" />
+    <game rom="mamonoro" title="Mamoru-kun wa Norowarete Shimatta!" />
+    <game rom="manicpnc" title="Manic Panic Ghosts! (USA)" />
+    <game rom="marstv" title="Kaisen Channel Mars TV" />
+    <game rom="mazan" title="Mazan - Flash of The Blade (World) (MAZ2 Ver.A)" />
+    <game rom="mazanu" title="Mazan - Flash of The Blade (US) (MAZ3 Ver.A)" />
+    <game rom="mbaa" title="Melty Blood Actress Again Version A (Rev. A)" />
+    <game rom="mbaao" title="Melty Blood Actress Again" />
+    <game rom="mbslave" title="Multiboard Slave" />
+    <game rom="mushike" title="Mushiking The King Of Beetle (2K3 2ND) (Ver. 1.003-)" />
+    <game rom="mushi2k4" title="Mushiking The King Of Beetles 2004 Second (Japan) (Ver. 1.000)" />
+    <game rom="mushi2k5" title="Mushiking The King Of Beetles 2005 First (Japan) (Ver. 1.000)" />
+    <game rom="mushik2e" title="Mushiking The King Of Beetles - Mushiking II / III / III+ (Ver. 2.001-)" />
+    <game rom="mushi2eo" title="Mushiking The King Of Beetles - Mushiking II / III / III+ (Ver. 1.001-)" />
+    <game rom="mushik4e" title="Mushiking The King Of Beetles - Mushiking IV / V / VI" />
+    <game rom="mvsc2" title="Marvel Vs. Capcom 2 New Age of Heroes (Export, Korea) (Rev. A)" />
+    <game rom="mvsc2u" title="Marvel Vs. Capcom 2 New Age of Heroes (USA) (Rev. A)" />
+    <game rom="ninjaslt" title="Ninja Assault (World) (NJA2 Ver.A)" />
+    <game rom="ninjaslta" title="Ninja Assault (Asia) (NJA4 Ver.A)" />
+    <game rom="ninjasltu" title="Ninja Assault (US) (NJA3 Ver.A)" />
+    <game rom="ninjasltj" title="Ninja Assault (Japan) (NJA1 Ver.A)" />
+    <game rom="oinori" title="Oinori-daimyoujin ~Matsuri~" />
+    <game rom="otrigger" title="OutTrigger" />
+    <game rom="pjustic" title="Project Justice / Moero Justice Gakuen (Rev. A)" />
+    <game rom="pokasuka" title="Pokasuka Ghost!" />
+    <game rom="pstone" title="Power Stone" />
+    <game rom="pstone2" title="Power Stone 2" />
+    <game rom="puyoda" title="Puyo Puyo Da!" />
+    <game rom="puyofevp" title="Puyo Puyo Fever (prototype)" />
+    <game rom="qmegamis" title="Quiz Ah Megamisama" />
+    <game rom="radirgyn" title="Radirgy Noa" />
+    <game rom="rhytngk" title="Rhythm Tengoku" />
+    <game rom="ringout" title="Ring Out 4x4 (Rev. A)" />
+    <game rom="samba" title="Samba De Amigo (Rev. B)" />
+    <game rom="sambap" title="Samba De Amigo (USA) (prototype)" />
+    <game rom="samba2k" title="Samba De Amigo Ver. 2000" />
+    <game rom="sgtetris" title="Sega Tetris" />
+    <game rom="shangril" title="Dengen Tenshi Taisen Janshi Shangri-la" />
+    <game rom="shootopl" title="Shootout Pool" />
+    <game rom="shootpl" title="Shootout Pool Prize / Shootout Pool The Medal (Rev. A)" />
+    <game rom="shootplm" title="Shootout Pool Prize / Shootout Pool The Medal Version B" />
+    <game rom="shootplmp" title="Shootout Pool Prize / Shootout Pool The Medal Version B (prototype)" />
+    <game rom="sl2007" title="Shooting Love 2007" />
+    <game rom="slasho" title="Slashout" />
+    <game rom="smarinef" title="Sega Marine Fishing" />
+    <game rom="smlg99" title="World Series 99 / Super Major League 99" />
+    <game rom="spawn" title="Spawn In the Demon's Hand (Rev. B)" />
+    <game rom="sstrkfgt" title="Sega Strike Fighter (Rev. A)" />
+    <game rom="sstrkfgtd" title="Sega Strike Fighter Deluxe (Rev. A)" />
+    <game rom="sstrkfgta" title="Sega Strike Fighter (Rev. A) (no training mode)" />
+    <game rom="shorsem" title="Star Horse (Main Screens)" />
+    <game rom="shorsel" title="Star Horse (Live and Backup)" />
+    <game rom="shorse" title="Star Horse (Satellite)" />
+    <game rom="shors2k1" title="Star Horse 2001 (Satellite) (Rev. B)" />
+    <game rom="shorsepm" title="Star Horse Progress (Main Screens) (Rev. B)" />
+    <game rom="shorseps" title="Star Horse Progress (Sound &amp; Backup) (Rev. A)" />
+    <game rom="shorsepl" title="Star Horse Progress (Live) (Rev. A)" />
+    <game rom="shorsepb" title="Star Horse Data" />
+    <game rom="shorsep" title="Star Horse Progress (Satellite) (Rev. A)" />
+    <game rom="shorsepr" title="Star Horse Progress Returns (Satellite)" />
+    <game rom="suchie3" title="Idol Janshi Suchie-Pai 3" />
+    <game rom="tduno" title="Touch De Uno!" />
+    <game rom="tduno2" title="Touch De Uno! 2" />
+    <game rom="tokyobus" title="Tokyo Bus Guide (Rev. A)" />
+    <game rom="totd" title="The Typing of the Dead (Rev. A)" />
+    <game rom="totdo" title="The Typing of the Dead" />
+    <game rom="toukon4" title="Shin Nihon Prowrestling Toukon Retsuden 4 Arcade Edition (Japan) (TRF1 Ver.A)" />
+    <game rom="toyfight" title="Toy Fighter" />
+    <game rom="vathletep" title="Virtua Athletics / Virtua Athlete (prototype)" />
+    <game rom="virnba" title="Virtua NBA (USA)" />
+    <game rom="virnbao" title="Virtua NBA" />
+    <game rom="virnbap" title="Virtua NBA (prototype)" />
+    <game rom="vonot" title="Virtual-On Oratorio Tangram M.S.B.S. Ver. 5.66" />
+    <game rom="vs2_2k" title="Virtua Striker 2 Ver. 2000 (Rev. C)" />
+    <game rom="vtennis" title="Virtua Tennis / Power Smash" />
+    <game rom="vtenis2c" title="Virtua Tennis 2 / Power Smash 2 (Rev. A)" />
+    <game rom="wldkicks" title="World Kicks (World) (WK2 Ver.A)" />
+    <game rom="wldkicksu" title="World Kicks (US) (WK3 Ver.A)" />
+    <game rom="wldkicksj" title="World Kicks (Japan) (WK1 Ver.A)" />
+    <game rom="wldkickspw" title="World Kicks PCB (World) (WKC2 Ver.A)" />
+    <game rom="wldkickspj" title="World Kicks PCB (Japan) (WKC1 Ver.A)" />
+    <game rom="wrungp" title="Wave Runner GP" />
+    <game rom="wrungpo" title="Wave Runner GP (USA) (Rev.A)" />
+    <game rom="wwfroyal" title="WWF Royal Rumble" />
+    <game rom="zerogu2" title="Zero Gunner 2" />
+    <game rom="zombrvn" title="Zombie Revenge (Rev. A)" />
+    <game rom="zombrvno" title="Zombie Revenge" />
+    <game rom="zunou" title="Touch de Zunou (Rev. A)" />
+  </system>
+  <system name="Naomi GDROM">
+    <game rom="azumanga" title="Azumanga Daioh Puzzle Bobble (GDL-0018)" />
+    <game rom="bdrdown" title="Border Down (Rev. A) (GDL-0023A)" />
+    <game rom="cfield" title="Chaos Field (GDL-0025)" />
+    <game rom="chocomk" title="Musapey's Choco Marker (Rev. A) (GDL-0014A)" />
+    <game rom="cleoftp" title="Cleopatra Fortune Plus (GDL-0012)" />
+    <game rom="confmiss" title="Confidential Mission (GDS-0001)" />
+    <game rom="cvs2" title="Capcom vs SNK 2 Mark Of The Millennium 2001 (GDL-0008)" />
+    <game rom="cvs2mf" title="Capcom vs SNK 2 Millionaire Fighting 2001 (Rev. A) (GDL-0007A)" />
+    <game rom="cvsgd" title="Capcom vs SNK Millenium Fight 2000 Pro (GDL-0004)" />
+    <game rom="dragntr" title="Dragon Treasure (Rev. B) (GDS-0030B)" />
+    <game rom="dragntrs" title="Dragon Treasure (satellite) (Rev. B) (GDS-0030B)" />
+    <game rom="dragntra" title="Dragon Treasure (Rev. A) (GDS-0030A)" />
+    <game rom="dragntras" title="Dragon Treasure (satellite) (Rev. A) (GDS-0030A)" />
+    <game rom="dragntr2" title="Dragon Treasure 2 (Rev. A) (GDS-0037A)" />
+    <game rom="dragntr2s" title="Dragon Treasure 2 (satellite) (Rev. A) (GDS-0037A)" />
+    <game rom="dragntr3" title="Dragon Treasure 3 (Rev. A) (GDS-0041A)" />
+    <game rom="dragntr3s" title="Dragon Treasure 3 (satellite) (Rev. A) (GDS-0041A)" />
+    <game rom="dygolf" title="Virtua Golf / Dynamic Golf (Rev. A) (GDS-0009A)" />
+    <game rom="ggxx" title="Guilty Gear XX (GDL-0011)" />
+    <game rom="ggxxac" title="Guilty Gear XX Accent Core (GDL-0041)" />
+    <game rom="ggxxrl" title="Guilty Gear XX #Reload (Rev. A) (GDL-0019A)" />
+    <game rom="ggxxrlo" title="Guilty Gear XX #Reload (GDL-0019)" />
+    <game rom="ggxxsla" title="Guilty Gear XX Slash (Rev. A) (GDL-0033A)" />
+    <game rom="gundmgd" title="Mobile Suit Gundam: Federation Vs. Zeon (GDL-0001)" />
+    <game rom="gundmxgd" title="Mobile Suit Gundam: Federation Vs. Zeon DX (GDL-0006)" />
+    <game rom="ikaruga" title="Ikaruga (GDL-0010)" />
+    <game rom="jingystm" title="Jingi Storm - The Arcade (GDL-0037)" />
+    <game rom="karous" title="Karous (GDL-0040)" />
+    <game rom="keyboard" title="La Keyboard (GDS-0017)" />
+    <game rom="kurucham" title="Kurukuru Chameleon (GDL-0034)" />
+    <game rom="lupinsho" title="Lupin The Third - The Shooting (GDS-0018)" />
+    <game rom="luptype" title="Lupin The Third - The Typing (Rev. A) (GDS-0021A)" />
+    <game rom="meltyb" title="Melty Blood Act Cadenza Version B2 (GDL-0039A)" />
+    <game rom="meltybo" title="Melty Blood Act Cadenza Version B (GDL-0039)" />
+    <game rom="meltybld" title="Melty Blood Act Cadenza Ver. A (GDL-0028C)" />
+    <game rom="meltyblo" title="Melty Blood Act Cadenza (GDL-0028)" />
+    <game rom="moeru" title="Moeru Casinyo (GDL-0013)" />
+    <game rom="mok" title="Maze of the Kings, The (GDS-0022)" />
+    <game rom="monkeyba" title="Monkey Ball (GDS-0008)" />
+    <game rom="ndcfboxa" title="Naomi DIMM Firmware Updater (4.01) (GDS-0042A)" />
+    <game rom="ngdup23a" title="Naomi DIMM Firmware Updater (2.13) (GDS-0023A)" />
+    <game rom="ngdup23c" title="Naomi DIMM Firmware Updater (2.17) (GDS-0023C)" />
+    <game rom="ngdup23e" title="Naomi DIMM Firmware Updater (3.17) (GDS-0023E)" />
+    <game rom="psyvar2" title="Psyvariar 2 - The Will To Fabricate (GDL-0024)" />
+    <game rom="puyofev" title="Puyo Puyo Fever (GDS-0031)" />
+    <game rom="quizqgd" title="Quiz Keitai Q mode (GDL-0017)" />
+    <game rom="radirgy" title="Radirgy (Rev. A) (GDL-0032A)" />
+    <game rom="radirgyo" title="Radirgy (GDL-0032)" />
+    <game rom="senko" title="Senko No Ronde NEW ver. (Rev. A) (GDL-0030A)" />
+    <game rom="senkoo" title="Senko No Ronde (GDL-0030)" />
+    <game rom="senkosp" title="Senko No Ronde Special (GDL-0038)" />
+    <game rom="sfz3ugd" title="Street Fighter Zero 3 Upper (GDL-0002)" />
+    <game rom="shaktam" title="Shakatto Tambourine (Rev. B) (GDS-0002B)" />
+    <game rom="shaktmsp" title="Shakatto Tambourine Motto Norinori Shinkyoku Tsuika (2K1 SPR) (GDS-0013)" />
+    <game rom="shaktamb" title="Shakatto Tambourine Cho Powerup Chu (2K1 AUT) (GDS-0016)" />
+    <game rom="shikgam2" title="Shikigami No Shiro II / The Castle of Shikigami II (GDL-0021)" />
+    <game rom="slashout" title="Slashout (GDS-0004)" />
+    <game rom="spkrbtl" title="Spikers Battle (GDS-0005)" />
+    <game rom="sprtjam" title="Sports Jam (GDS-0003)" />
+    <game rom="ss2005" title="Super Shanghai 2005 (Rev. A) (GDL-0031A)" />
+    <game rom="ss2005o" title="Super Shanghai 2005 (GDL-0031)" />
+    <game rom="starseek" title="Doki Doki Idol Star Seeker (GDL-0005)" />
+    <game rom="takoron" title="Noukone Puzzle Takoron (GDL-0042)" />
+    <game rom="tetkiwam" title="Tetris Kiwamemichi (GDL-0020)" />
+    <game rom="trgheart" title="Trigger Heart Exelica Ver.A (GDL-0036A)" />
+    <game rom="trghearto" title="Trigger Heart Exelica (GDL-0036)" />
+    <game rom="trizeal" title="Trizeal (GDL-0026)" />
+    <game rom="undefeat" title="Under Defeat (GDL-0035)" />
+    <game rom="usagiym" title="Usagui - Yamashiro Mahjong Hen (GDL-0022)" />
+    <game rom="vathlete" title="Virtua Athletics / Virtua Athlete (GDS-0019)" />
+    <game rom="vtennis2" title="Virtua Tennis 2 / Power Smash 2 (Rev. A) (GDS-0015A)" />
+    <game rom="vtennisg" title="Virtua Tennis / Power Smash (GDS-0011)" />
+    <game rom="wsbbgd" title="World Series Baseball / Super Major League (GDS-0010)" />
+  </system>
+  <system name="Atomiswave">
+    <game rom="anmlbskt" title="Animal Basket / Hustle Tamaire Kyousou (24 Jan 2005)" />
+    <game rom="anmlbskta" title="Animal Basket / Hustle Tamaire Kyousou (19 Jan 2005)" />
+    <game rom="basschal" title="Sega Bass Fishing Challenge Version A" />
+    <game rom="basschalo" title="Sega Bass Fishing Challenge" />
+    <game rom="blokpong" title="Block Pong-Pong" />
+    <game rom="claychal" title="Sega Clay Challenge" />
+    <game rom="demofist" title="Demolish Fist" />
+    <game rom="dirtypig" title="Dirty Pigskin Football" />
+    <game rom="dolphin" title="Dolphin Blue" />
+    <game rom="fotns" title="Hokuto no Ken / Fist Of The North Star (JP)" />
+    <game rom="ftspeed" title="Faster Than Speed" />
+    <game rom="ggisuka" title="Guilty Gear Isuka" />
+    <game rom="ggx15" title="Guilty Gear X Ver. 1.5 (EN, SP, CS, CT, KO)" />
+    <game rom="kofnw" title="King of Fighters, The - Neo Wave (EN)" />
+    <game rom="kofnwj" title="King of Fighters, The - Neo Wave (JP)" />
+    <game rom="kofxi" title="King of Fighters XI, The" />
+    <game rom="kov7sprt" title="Knights of Valor - The Seven Spirits" />
+    <game rom="maxspeed" title="Maximum Speed" />
+    <game rom="mslug6" title="Metal Slug 6" />
+    <game rom="ngbc" title="NeoGeo Battle Coliseum (EN)" />
+    <game rom="ngbcj" title="NeoGeo Battle Coliseum (JP)" />
+    <game rom="rangrmsn" title="Ranger Mission" />
+    <game rom="rumblef" title="Rumble Fish, The" />
+    <game rom="rumblefp" title="Rumble Fish, The (prototype, 20 Feb 2004)" />
+    <game rom="rumblef2" title="Rumble Fish 2, The" />
+    <game rom="rumblf2p" title="Rumble Fish 2, The (prototype, 11 Jan 2005)" />
+    <game rom="salmankt" title="Net Select: Salaryman Kintaro" />
+    <game rom="samsptk" title="Samurai Spirits Tenkaichi Kenkakuden / Samurai Shodown VI (JP)" />
+    <game rom="sprtshot" title="Sports Shooting USA" />
+    <game rom="sushibar" title="Sushi Bar (prototype, 23 May 2003)" />
+    <game rom="vfurlong" title="Net Select Horse Racing: Victory Furlong" />
+    <game rom="xtrmhunt" title="Extreme Hunting" />
+    <game rom="xtrmhnt2" title="Extreme Hunting 2" />
+    <game rom="waidrive" title="WaiWai Drive" />
+  </system>
+  <system name="Cave3rd">
+    <game rom="akatana" title="Akai Katana (2010/ 8/13 MASTER VER.)" />
+    <game rom="deathsml" title="Death Smiles (2007/10/09 MASTER VER)" />
+    <game rom="dsmbl" title="Death Smiles ~Mega Black Label~ (2008/10/06 MEGABLACK LABEL VER)" />
+    <game rom="ddpdfk" title="Dodonpachi Daifukkatsu Ver. 1.5 (2008/06/23 MASTER VER 1.5)" />
+    <game rom="ddpdfk10" title="Dodonpachi Daifukkatsu 1.0 (2008/05/16 MASTER VER)" />
+    <game rom="dfkbl" title="Dodonpachi Daifukkatsu Black Label (2010/ 1/18 BLACK LABEL)" />
+    <game rom="espgal2" title="Espgaluda II (2005/11/14 MASTER VER)" />
+    <game rom="futari10" title="Mushihime-sama Futari (2006/10/23 MASTER VER.)" />
+    <game rom="futari15" title="Mushihime-sama Futari Ver. 1.5 (2006/12/8.MASTER VER. 1.54.)" />
+    <game rom="futari15a" title="Mushihime-sama Futari Ver. 1.5 (2006/12/8 MASTER VER 1.54)" />
+    <game rom="futaribl" title="Mushihime-sama Futari Black Label - Another Ver (2009/11/27 INTERNATIONAL BL)" />
+    <game rom="futariblj" title="Mushihime-sama Futari Black Label (2007/12/11 BLACK LABEL VER)" />
+    <game rom="ibara" title="Ibara (2005/03/22 MASTER VER..)" />
+    <game rom="ibarablk" title="Ibara Kuro ~Black Label~ (2006/02/06. MASTER VER.)" />
+    <game rom="ibarablka" title="Ibara Kuro ~Black Label~ (2006/02/06 MASTER VER.)" />
+    <game rom="mmmbanc" title="Medal Mahjong Moukari Bancho (2007/06/05 MASTER VER.)" />
+    <game rom="mmpork" title="Muchi Muchi Pork! (2007/ 4/17 MASTER VER.)" />
+    <game rom="mushisam" title="Mushihime-sama (2004/10/12.MASTER VER.)" />
+    <game rom="mushisama" title="Mushihime-sama (2004/10/12 MASTER VER.)" />
+    <game rom="mushisamb" title="Mushihime-sama (2004/10/12 MASTER VER)" />
+    <game rom="mushitam" title="Puzzle! Mushihime-tama (2005/09/09. MASTER VER)" />
+    <game rom="mushitama" title="Puzzle! Mushihime-tama (2005/09/09 MASTER VER)" />
+    <game rom="pinkswts" title="Pink Sweets ~Ibara Sorekara~ (2006/04/06 MASTER VER....)" />
+    <game rom="pinkswtsa" title="Pink Sweets ~Ibara Sorekara~ (2006/04/06 MASTER VER...)" />
+    <game rom="pinkswtsb" title="Pink Sweets ~Ibara Sorekara~ (2006/04/06 MASTER VER.)" />
+    <game rom="pinkswtsx" title="Pink Sweets ~Ibara Sorekara~ (2006/XX/XX MASTER VER.)" />
+  </system>
+  <system name="Gaelco PVR2">
+    <game rom="atvtrack" title="ATV Track (set 1)" />
+    <game rom="atvtracka" title="ATV Track (set 2)" />
+    <game rom="gfootbal" title="Gaelco Football" />
+    <game rom="smashdrv" title="Smashing Drive (UK)" />
+  </system>
+  <system name="Hikaru">
+    <game rom="airtrix" title="Air Trix (Rev. A)" />
+    <game rom="airtrixo" title="Air Trix (original)" />
+    <game rom="braveff" title="Brave Firefighters" />
+    <game rom="pharrier" title="Planet Harriers (Rev. A)" />
+    <game rom="swracer" title="Star Wars: Racer Arcade" />
+    <game rom="sgnascar" title="NASCAR Racing (Rev. A)" />
+    <game rom="sgnascaro" title="NASCAR Racing (original)" />
+  </system>
+  <system name="Naomi 2 Cartridge System">
+    <game rom="clubkrt" title="Club Kart - European Session (2001) (Rev. D)" />
+    <game rom="clubkrtc" title="Club Kart - European Session (2001) (Rev. C)" />
+    <game rom="clubkrto" title="Club Kart - European Session (2001)" />
+    <game rom="clubk2k3" title="Club Kart - European Session (2003) (Rev. A)" />
+    <game rom="clubk2kp" title="Club Kart - European Session (2003) (Prototype)" />
+    <game rom="clubkprz" title="Club Kart Prize" />
+    <game rom="clubkpzb" title="Club Kart Prize Version B" />
+    <game rom="kingrt66" title="King of Route 66, The (Rev. A)" />
+    <game rom="soulsurf" title="Soul Surfer (Rev. A)" />
+    <game rom="vf4cart" title="Virtua Fighter 4" />
+    <game rom="vf4evoct" title="Virtua Fighter 4 Evolution" />
+    <game rom="vstrik3c" title="Virtua Striker 3 (Rev. B)" />
+    <game rom="vstrik3co" title="Virtua Striker 3" />
+    <game rom="wldrider" title="Wild Riders" />
+  </system>
+  <system name="System SP">
+    <game rom="brickppl" title="Brick People / Block PeePoo (Ver 1.002)" />
+    <game rom="dinoking" title="Dinosaur King (USA)" />
+    <game rom="dinokior" title="Dinosaur King - Operation: Dinosaur Rescue (USA, Export) (MDA-C0021)" />
+    <game rom="dinoki25" title="Dinosaur King - D-Team VS. the Alpha Fortress (Export) (Ver 2.500) (MDA-C0047)" />
+    <game rom="lovebery" title="Love And Berry - 1st-2nd Collection (Export) (Ver 2.000)" />
+    <game rom="lovebero" title="Love And Berry - 1st-2nd Collection (Export) (Ver 1.003)" />
+    <game rom="loveber3" title="Love And Berry - 3rd-5th Collection (USA, Export) (Ver 1.002) (MDA-C0042)" />
+    <game rom="ochaken" title="Ocha-Ken Hot Medal" />
+    <game rom="tetgiant" title="Tetris Giant / Tetris Dekaris (Ver.2.000)" />
+    <game rom="tetgiano" title="Tetris Giant / Tetris Dekaris (MDA-C0076)" />
+  </system>
+  <system name="Naomi 2 GDROM">
+    <game rom="beachspi" title="Beach Spikers (GDS-0014)" />
+    <game rom="clubkcyc" title="Club Kart for Cycraft (Rev. A) (GDS-0029A)" />
+    <game rom="initd" title="Initial D Arcade Stage (Japan) (Rev. B) (GDS-0020B)" />
+    <game rom="initdo" title="Initial D Arcade Stage (Japan) (GDS-0020)" />
+    <game rom="initdexp" title="Initial D Arcade Stage (Export) (Rev. A) (GDS-0025A)" />
+    <game rom="initdexpo" title="Initial D Arcade Stage (Export) (GDS-0025)" />
+    <game rom="initdv2j" title="Initial D Arcade Stage Ver. 2 (Japan) (Rev. A) (GDS-0026A)" />
+    <game rom="initdv2jo" title="Initial D Arcade Stage Ver. 2 (Japan) (GDS-0026)" />
+    <game rom="initdv2e" title="Initial D Arcade Stage Ver. 2 (Export) (GDS-0027)" />
+    <game rom="initdv3j" title="Initial D Arcade Stage Ver. 3 (Japan) (Rev. C) (GDS-0032C)" />
+    <game rom="initdv3jb" title="Initial D Arcade Stage Ver. 3 (Japan) (Rev. B) (GDS-0032B)" />
+    <game rom="initdv3e" title="Initial D Arcade Stage Ver. 3 (Export) (GDS-0033)" />
+    <game rom="inidv3cy" title="Initial D Arcade Stage Ver. 3 - Cycraft Edition (Export) (Rev. B) (GDS-0039B)" />
+    <game rom="inidv3ca" title="Initial D Arcade Stage Ver. 3 - Cycraft Edition (Export) (Rev. A) (GDS-0039A)" />
+    <game rom="vf4" title="Virtua Fighter 4 Version C (GDS-0012C)" />
+    <game rom="vf4b" title="Virtua Fighter 4 (GDS-0012B)" />
+    <game rom="vf4o" title="Virtua Fighter 4 (GDS-0012)" />
+    <game rom="vf4evo" title="Virtua Fighter 4 Evolution (Version B) (GDS-0024C)" />
+    <game rom="vf4evob" title="Virtua Fighter 4 Evolution (Version B) (GDS-0024B)" />
+    <game rom="vf4evoa" title="Virtua Fighter 4 Evolution (GDS-0024A)" />
+    <game rom="vf4tuned" title="Virtua Fighter 4 Final Tuned (Ver. B) (GDS-0036F)" />
+    <game rom="vf4tunedd" title="Virtua Fighter 4 Final Tuned (Ver. A) (GDS-0036D)" />
+    <game rom="vf4tuneda" title="Virtua Fighter 4 Final Tuned (GDS-0036A)" />
+    <game rom="vstrik3" title="Virtua Striker 3 (GDS-0006)" />
+  </system>
+</Demul>

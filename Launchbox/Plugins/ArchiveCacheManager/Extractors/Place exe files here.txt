@@ -1,0 +1,1 @@
+Place the extractor applications in this folder, such as chdman.exe and DolphinTool.exe

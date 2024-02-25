@@ -1,0 +1,19 @@
+2024-02-20 01:30:18 - -------- PLUGIN INITIALIZED --------
+2024-02-20 01:30:18 - Archive Cache Manager plugin initialized (v2.16).
+2024-02-20 01:30:18 - Verifying cache integrity... (C:\Programs\LaunchBox\ArchiveCache)
+2024-02-20 01:30:18 - Verification complete.
+2024-02-20 01:58:12 - LaunchBox / BigBox shutdown.
+2024-02-20 03:06:19 - -------- PLUGIN INITIALIZED --------
+2024-02-20 03:06:19 - Archive Cache Manager plugin initialized (v2.16).
+2024-02-20 03:06:19 - Verifying cache integrity... (C:\Programs\LaunchBox\ArchiveCache)
+2024-02-20 03:06:19 - Verification complete.
+2024-02-20 03:06:26 - Update check found latest version installed.
+2024-02-20 03:06:36 - LaunchBox / BigBox shutdown.
+2024-02-20 03:06:36 - System.IO.IOException: The process cannot access the file 'C:\Programs\LaunchBox\ThirdParty\7-Zip\7z.exe' because it is being used by another process.
+   at System.IO.FileSystem.CopyFile(String sourceFullPath, String destFullPath, Boolean overwrite)
+   at System.IO.File.Copy(String sourceFileName, String destFileName, Boolean overwrite)
+   at ArchiveCacheManager.GameLaunching.Restore7z()
+2024-02-20 03:07:01 - -------- PLUGIN INITIALIZED --------
+2024-02-20 03:07:01 - Archive Cache Manager plugin initialized (v2.16).
+2024-02-20 03:07:01 - Verifying cache integrity... (C:\Programs\LaunchBox\ArchiveCache)
+2024-02-20 03:07:01 - Verification complete.
