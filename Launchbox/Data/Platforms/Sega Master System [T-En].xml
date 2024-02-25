@@ -1,0 +1,1118 @@
+<?xml version="1.0" standalone="yes"?>
+<LaunchBox>
+  <Game>
+    <GogAppId />
+    <OriginAppId />
+    <OriginInstallPath />
+    <VideoPath />
+    <ThemeVideoPath />
+    <ApplicationPath>S:\roms-translated-1g1r\archive-org-sega-master-system\Story of Mio (Japan) [T-En by Filler &amp; SSTranslations v1.0] [n].zip</ApplicationPath>
+    <CommandLine />
+    <Completed>false</Completed>
+    <ConfigurationCommandLine />
+    <ConfigurationPath />
+    <DateAdded>2023-12-25T19:20:13.0114246+08:00</DateAdded>
+    <DateModified>2024-01-29T02:05:21.4852654+08:00</DateModified>
+    <Developer>Sega Enterprises</Developer>
+    <DosBoxConfigurationPath />
+    <Emulator>c055fd74-0975-40ad-8f82-bc63ed1adb73</Emulator>
+    <Favorite>false</Favorite>
+    <ID>ceb16933-cf45-4f6d-a67a-621785a5e441</ID>
+    <LastPlayedDate>2023-12-06T11:59:31.537+08:00</LastPlayedDate>
+    <ManualPath />
+    <MusicPath />
+    <Notes>The story of Mio begins as you, finally having gone on holidays, arrive on the planet Ilm to see your sweetheart Laila again. Before going to her house, you decide to buy a present for her. You visit a shady foreign man's shop and buy an egg that he promises will hatch a cute pet. When Laila sees the egg, she recognizes it as a Mio egg, Mios being a rare animal that is thought to be extinct. Since you gave her the egg, it is your responsibility to find out how you keep a Mio. Still, the fact that you have a Mio egg should not be known to everyone, since scientists will be very keen to take the animal from you for purposes of their studies.</Notes>
+    <Platform>Sega Master System [T-En]</Platform>
+    <Publisher>Sega Enterprises</Publisher>
+    <Rating>Not Rated</Rating>
+    <ReleaseDate>1988-04-02T16:00:00+08:00</ReleaseDate>
+    <RootFolder />
+    <ScummVMAspectCorrection>false</ScummVMAspectCorrection>
+    <ScummVMFullscreen>false</ScummVMFullscreen>
+    <ScummVMGameDataFolderPath />
+    <ScummVMGameType />
+    <SortTitle />
+    <Source />
+    <StarRatingFloat>0</StarRatingFloat>
+    <StarRating>0</StarRating>
+    <CommunityStarRating>2.75</CommunityStarRating>
+    <CommunityStarRatingTotalVotes>6</CommunityStarRatingTotalVotes>
+    <Status>Imported ROM</Status>
+    <DatabaseID>2849</DatabaseID>
+    <WikipediaURL>https://en.wikipedia.org/wiki/Hoshi_wo_Sagashite...</WikipediaURL>
+    <Title>Story of Mio</Title>
+    <UseDosBox>false</UseDosBox>
+    <UseScummVM>false</UseScummVM>
+    <Version>(Japan) [T-En by Filler &amp; SSTranslations v1.0] [n]</Version>
+    <Series />
+    <PlayMode>Single Player</PlayMode>
+    <Region>Japan</Region>
+    <PlayCount>1</PlayCount>
+    <PlayTime>37</PlayTime>
+    <Portable>false</Portable>
+    <Hide>false</Hide>
+    <Broken>false</Broken>
+    <CloneOf />
+    <Genre>Adventure</Genre>
+    <MissingVideo>true</MissingVideo>
+    <MissingBoxFrontImage>false</MissingBoxFrontImage>
+    <MissingScreenshotImage>false</MissingScreenshotImage>
+    <MissingMarqueeImage>true</MissingMarqueeImage>
+    <MissingClearLogoImage>false</MissingClearLogoImage>
+    <MissingBackgroundImage>true</MissingBackgroundImage>
+    <MissingBox3dImage>false</MissingBox3dImage>
+    <MissingCartImage>false</MissingCartImage>
+    <MissingCart3dImage>false</MissingCart3dImage>
+    <MissingManual>true</MissingManual>
+    <MissingBannerImage>false</MissingBannerImage>
+    <MissingMusic>true</MissingMusic>
+    <UseStartupScreen>false</UseStartupScreen>
+    <HideAllNonExclusiveFullscreenWindows>false</HideAllNonExclusiveFullscreenWindows>
+    <StartupLoadDelay>0</StartupLoadDelay>
+    <HideMouseCursorInGame>false</HideMouseCursorInGame>
+    <DisableShutdownScreen>false</DisableShutdownScreen>
+    <AggressiveWindowHiding>false</AggressiveWindowHiding>
+    <OverrideDefaultStartupScreenSettings>false</OverrideDefaultStartupScreenSettings>
+    <UsePauseScreen>false</UsePauseScreen>
+    <PauseAutoHotkeyScript />
+    <ResumeAutoHotkeyScript />
+    <OverrideDefaultPauseScreenSettings>false</OverrideDefaultPauseScreenSettings>
+    <SuspendProcessOnPause>false</SuspendProcessOnPause>
+    <ForcefulPauseScreenActivation>false</ForcefulPauseScreenActivation>
+    <LoadStateAutoHotkeyScript />
+    <SaveStateAutoHotkeyScript />
+    <ResetAutoHotkeyScript />
+    <SwapDiscsAutoHotkeyScript />
+    <CustomDosBoxVersionPath />
+    <ReleaseType>Released</ReleaseType>
+    <MaxPlayers>1</MaxPlayers>
+    <VideoUrl />
+    <AndroidBoxFrontThumbPath />
+    <AndroidBoxFrontFullPath />
+    <AndroidClearLogoThumbPath />
+    <AndroidClearLogoFullPath />
+    <AndroidBackgroundPath />
+    <AndroidBackgroundThumbPath />
+    <AndroidGameTitleScreenshotThumbPath />
+    <AndroidGameplayScreenshotThumbPath />
+    <AndroidGameTitleScreenshotPath />
+    <AndroidGameplayScreenshotPath />
+    <AndroidVideoPath />
+    <HasCloudSynced>true</HasCloudSynced>
+  </Game>
+  <Game>
+    <GogAppId />
+    <OriginAppId />
+    <OriginInstallPath />
+    <VideoPath />
+    <ThemeVideoPath />
+    <ApplicationPath>S:\roms-translated-1g1r\archive-org-sega-master-system\Genius Bakabon, The (Japan) [T-En by Cccmar &amp; FCandChill &amp; TheMajinZenki v1.2] [n].zip</ApplicationPath>
+    <CommandLine />
+    <Completed>false</Completed>
+    <ConfigurationCommandLine />
+    <ConfigurationPath />
+    <DateAdded>2023-12-25T19:20:13.0103846+08:00</DateAdded>
+    <DateModified>2024-01-29T01:54:52.0415003+08:00</DateModified>
+    <Developer>AM R&amp;D Dept. #2</Developer>
+    <DosBoxConfigurationPath />
+    <Emulator>c055fd74-0975-40ad-8f82-bc63ed1adb73</Emulator>
+    <Favorite>false</Favorite>
+    <ID>1be01f3b-6741-490c-b72b-994750988193</ID>
+    <ManualPath />
+    <MusicPath />
+    <Notes>Tensai Bakabon ("Genius Bakabon") is based on the manga and anime of the same name, a comedic slice-of-life comic strip that has long since shifted its focus from the original main character, a dull-witted young boy, to the more appealing character of his rather crazy and stubborn Papa.
+
+The game has sparse sequences where Papa can jump, shoot enemies and fight with random NPCs, but the game is largely about exploration and talking to NPCs, like in any text/graphic adventure game.</Notes>
+    <Platform>Sega Master System [T-En]</Platform>
+    <Publisher>Sega Enterprises</Publisher>
+    <Rating>Not Rated</Rating>
+    <ReleaseDate>1988-06-02T15:00:00+08:00</ReleaseDate>
+    <RootFolder />
+    <ScummVMAspectCorrection>false</ScummVMAspectCorrection>
+    <ScummVMFullscreen>false</ScummVMFullscreen>
+    <ScummVMGameDataFolderPath />
+    <ScummVMGameType />
+    <SortTitle />
+    <Source />
+    <StarRatingFloat>0</StarRatingFloat>
+    <StarRating>0</StarRating>
+    <CommunityStarRating>2</CommunityStarRating>
+    <CommunityStarRatingTotalVotes>7</CommunityStarRatingTotalVotes>
+    <Status>Imported ROM</Status>
+    <DatabaseID>3054</DatabaseID>
+    <WikipediaURL />
+    <Title>Tensai Bakabon</Title>
+    <UseDosBox>false</UseDosBox>
+    <UseScummVM>false</UseScummVM>
+    <Version>(Japan) [T-En by Cccmar &amp; FCandChill &amp; TheMajinZenki v1.2] [n]</Version>
+    <Series />
+    <PlayMode>Single Player</PlayMode>
+    <Region>Japan</Region>
+    <PlayCount>0</PlayCount>
+    <PlayTime>0</PlayTime>
+    <Portable>false</Portable>
+    <Hide>false</Hide>
+    <Broken>false</Broken>
+    <CloneOf />
+    <Genre>Action; Adventure</Genre>
+    <MissingVideo>true</MissingVideo>
+    <MissingBoxFrontImage>false</MissingBoxFrontImage>
+    <MissingScreenshotImage>false</MissingScreenshotImage>
+    <MissingMarqueeImage>true</MissingMarqueeImage>
+    <MissingClearLogoImage>false</MissingClearLogoImage>
+    <MissingBackgroundImage>true</MissingBackgroundImage>
+    <MissingBox3dImage>false</MissingBox3dImage>
+    <MissingCartImage>false</MissingCartImage>
+    <MissingCart3dImage>false</MissingCart3dImage>
+    <MissingManual>true</MissingManual>
+    <MissingBannerImage>false</MissingBannerImage>
+    <MissingMusic>false</MissingMusic>
+    <UseStartupScreen>false</UseStartupScreen>
+    <HideAllNonExclusiveFullscreenWindows>false</HideAllNonExclusiveFullscreenWindows>
+    <StartupLoadDelay>0</StartupLoadDelay>
+    <HideMouseCursorInGame>false</HideMouseCursorInGame>
+    <DisableShutdownScreen>false</DisableShutdownScreen>
+    <AggressiveWindowHiding>false</AggressiveWindowHiding>
+    <OverrideDefaultStartupScreenSettings>false</OverrideDefaultStartupScreenSettings>
+    <UsePauseScreen>false</UsePauseScreen>
+    <PauseAutoHotkeyScript />
+    <ResumeAutoHotkeyScript />
+    <OverrideDefaultPauseScreenSettings>false</OverrideDefaultPauseScreenSettings>
+    <SuspendProcessOnPause>false</SuspendProcessOnPause>
+    <ForcefulPauseScreenActivation>false</ForcefulPauseScreenActivation>
+    <LoadStateAutoHotkeyScript />
+    <SaveStateAutoHotkeyScript />
+    <ResetAutoHotkeyScript />
+    <SwapDiscsAutoHotkeyScript />
+    <CustomDosBoxVersionPath />
+    <ReleaseType>Released</ReleaseType>
+    <MaxPlayers>1</MaxPlayers>
+    <VideoUrl />
+    <AndroidBoxFrontThumbPath />
+    <AndroidBoxFrontFullPath />
+    <AndroidClearLogoThumbPath />
+    <AndroidClearLogoFullPath />
+    <AndroidBackgroundPath />
+    <AndroidBackgroundThumbPath />
+    <AndroidGameTitleScreenshotThumbPath />
+    <AndroidGameplayScreenshotThumbPath />
+    <AndroidGameTitleScreenshotPath />
+    <AndroidGameplayScreenshotPath />
+    <AndroidVideoPath />
+    <HasCloudSynced>false</HasCloudSynced>
+  </Game>
+  <Game>
+    <GogAppId />
+    <OriginAppId />
+    <OriginInstallPath />
+    <VideoPath />
+    <ThemeVideoPath />
+    <ApplicationPath>S:\roms-translated-1g1r\archive-org-sega-master-system\Fist of the North Star (Japan) [T-En by PhalanX v1.0] [Add by Jackic 0.99] [Title B] [n].zip</ApplicationPath>
+    <CommandLine />
+    <Completed>false</Completed>
+    <ConfigurationCommandLine />
+    <ConfigurationPath />
+    <DateAdded>2023-12-25T19:20:13.0108159+08:00</DateAdded>
+    <DateModified>2024-01-29T02:05:21.4860485+08:00</DateModified>
+    <Developer>Sega Enterprises</Developer>
+    <DosBoxConfigurationPath />
+    <Emulator>c055fd74-0975-40ad-8f82-bc63ed1adb73</Emulator>
+    <Favorite>false</Favorite>
+    <ID>03dd4181-731a-4e3c-a8ed-21aad97825f7</ID>
+    <LastPlayedDate>2023-12-06T11:58:16.227+08:00</LastPlayedDate>
+    <ManualPath />
+    <MusicPath />
+    <Notes>In this game, you play Riki. Kyoko, your beautiful Japanese girlfriend, has been kidnapped, and in order to rescue her, you must get through a tireless army of enemies. These enemies come equipped with weapons that include whips, knives, swords, and flamethrowers, but Riki has to make do with his well-trained martial arts body.
+
+Black Belt is a side-scrolling game that is split into seven chapters. During these chapters, you are fighting Chinese Kung Fu men, wrestlers, jujitsu men, eagles, ninjas, and black women. When you get halfway through the chapter, you will fight a different enemy than one that you encounter before. At the end of each chapter, you have to defeat several bosses before continuing on to the next round. Each type of these has their own personal strengths and weaknesses.
+
+Once you touch an enemy or boss, you will lose energy. once you lose all energy, you lose a life, but more life can be restored by getting the cake when it comes across the screen in mid-air, or by defeating an enemy that will come at you halfway and you receive a bonus for doing so.
+
+Black Belt is a modified version of the Japanese-exclusive Hokuto no Ken, with the licence removed and new level designs.</Notes>
+    <Platform>Sega Master System [T-En]</Platform>
+    <Publisher>Sega of America</Publisher>
+    <Rating>Not Rated</Rating>
+    <ReleaseDate>1986-07-20T15:00:00+08:00</ReleaseDate>
+    <RootFolder />
+    <ScummVMAspectCorrection>false</ScummVMAspectCorrection>
+    <ScummVMFullscreen>false</ScummVMFullscreen>
+    <ScummVMGameDataFolderPath />
+    <ScummVMGameType />
+    <SortTitle />
+    <Source />
+    <StarRatingFloat>0</StarRatingFloat>
+    <StarRating>0</StarRating>
+    <CommunityStarRating>3.5961537</CommunityStarRating>
+    <CommunityStarRatingTotalVotes>78</CommunityStarRatingTotalVotes>
+    <Status>Imported ROM</Status>
+    <DatabaseID>2706</DatabaseID>
+    <WikipediaURL>https://en.wikipedia.org/wiki/Black_Belt_(video_game)</WikipediaURL>
+    <Title>Fist of the North Star</Title>
+    <UseDosBox>false</UseDosBox>
+    <UseScummVM>false</UseScummVM>
+    <Version>(Japan) [T-En by PhalanX v1.0] [Add by Jackic 0.99] [Title B] [n]</Version>
+    <Series />
+    <PlayMode>Multiplayer</PlayMode>
+    <Region>Japan</Region>
+    <PlayCount>1</PlayCount>
+    <PlayTime>62</PlayTime>
+    <Portable>false</Portable>
+    <Hide>false</Hide>
+    <Broken>false</Broken>
+    <CloneOf />
+    <Genre>Beat 'em Up</Genre>
+    <MissingVideo>true</MissingVideo>
+    <MissingBoxFrontImage>false</MissingBoxFrontImage>
+    <MissingScreenshotImage>false</MissingScreenshotImage>
+    <MissingMarqueeImage>true</MissingMarqueeImage>
+    <MissingClearLogoImage>false</MissingClearLogoImage>
+    <MissingBackgroundImage>true</MissingBackgroundImage>
+    <MissingBox3dImage>false</MissingBox3dImage>
+    <MissingCartImage>false</MissingCartImage>
+    <MissingCart3dImage>false</MissingCart3dImage>
+    <MissingManual>true</MissingManual>
+    <MissingBannerImage>false</MissingBannerImage>
+    <MissingMusic>true</MissingMusic>
+    <UseStartupScreen>false</UseStartupScreen>
+    <HideAllNonExclusiveFullscreenWindows>false</HideAllNonExclusiveFullscreenWindows>
+    <StartupLoadDelay>0</StartupLoadDelay>
+    <HideMouseCursorInGame>false</HideMouseCursorInGame>
+    <DisableShutdownScreen>false</DisableShutdownScreen>
+    <AggressiveWindowHiding>false</AggressiveWindowHiding>
+    <OverrideDefaultStartupScreenSettings>false</OverrideDefaultStartupScreenSettings>
+    <UsePauseScreen>false</UsePauseScreen>
+    <PauseAutoHotkeyScript />
+    <ResumeAutoHotkeyScript />
+    <OverrideDefaultPauseScreenSettings>false</OverrideDefaultPauseScreenSettings>
+    <SuspendProcessOnPause>false</SuspendProcessOnPause>
+    <ForcefulPauseScreenActivation>false</ForcefulPauseScreenActivation>
+    <LoadStateAutoHotkeyScript />
+    <SaveStateAutoHotkeyScript />
+    <ResetAutoHotkeyScript />
+    <SwapDiscsAutoHotkeyScript />
+    <CustomDosBoxVersionPath />
+    <ReleaseType>Released</ReleaseType>
+    <MaxPlayers>2</MaxPlayers>
+    <VideoUrl>https://www.youtube.com/watch?v=7cWghtUFZBM</VideoUrl>
+    <AndroidBoxFrontThumbPath />
+    <AndroidBoxFrontFullPath />
+    <AndroidClearLogoThumbPath />
+    <AndroidClearLogoFullPath />
+    <AndroidBackgroundPath />
+    <AndroidBackgroundThumbPath />
+    <AndroidGameTitleScreenshotThumbPath />
+    <AndroidGameplayScreenshotThumbPath />
+    <AndroidGameTitleScreenshotPath />
+    <AndroidGameplayScreenshotPath />
+    <AndroidVideoPath />
+    <HasCloudSynced>true</HasCloudSynced>
+  </Game>
+  <Game>
+    <GogAppId />
+    <OriginAppId />
+    <OriginInstallPath />
+    <VideoPath />
+    <ThemeVideoPath />
+    <ApplicationPath>S:\roms-translated-1g1r\archive-org-sega-master-system\Sukeban Deka II (Japan) [T-En by Enigmaopoeia &amp; SSTranslations v1.0] [n].zip</ApplicationPath>
+    <CommandLine />
+    <Completed>false</Completed>
+    <ConfigurationCommandLine />
+    <ConfigurationPath />
+    <DateAdded>2023-12-25T19:20:13.0111311+08:00</DateAdded>
+    <DateModified>2024-01-26T01:04:07.1421459+08:00</DateModified>
+    <Developer>AM R&amp;D Dept. #2</Developer>
+    <DosBoxConfigurationPath />
+    <Emulator>c055fd74-0975-40ad-8f82-bc63ed1adb73</Emulator>
+    <Favorite>false</Favorite>
+    <ID>8a8a4282-3f8c-44b1-abbc-72f3c261819d</ID>
+    <ManualPath />
+    <MusicPath />
+    <Notes>Sukeban Deka II: Shoujo Tekkamen Densetsu ("Delinquent Girl Cop: Legend of the Maiden's Iron Mask") is a game based on the Sukeban Deka license, specifically that of the TV show remake in the 80s which was named Sukeban Deka II (which is why this game has no predecessor despite being a "II"). The series follows a Japanese schoolgirl who has chosen to fight crime after flaunting the law herself one too many times. Her only notable characteristic, as far as this game is concerned, is the use of a weaponized metal yo-yo to pummel her foes.
+
+The game is one part brawler, pitting the main character Suki against either a wave of criminals which she must defeat en masse or a single boss with a considerable amount of strength and health. The rest of the game is presented as a first-person adventure game, like Portopia and other text and point and click adventures available for Japanese home computers at the time. The player's actions in one mode generally leads them to the other, as enemies are met in the adventure's story and are then summarily dealt with in the brawler mode.</Notes>
+    <Platform>Sega Master System [T-En]</Platform>
+    <Publisher>Sega Enterprises</Publisher>
+    <Rating>Not Rated</Rating>
+    <ReleaseDate>1987-04-19T15:00:00+08:00</ReleaseDate>
+    <RootFolder />
+    <ScummVMAspectCorrection>false</ScummVMAspectCorrection>
+    <ScummVMFullscreen>false</ScummVMFullscreen>
+    <ScummVMGameDataFolderPath />
+    <ScummVMGameType />
+    <SortTitle />
+    <Source />
+    <StarRatingFloat>0</StarRatingFloat>
+    <StarRating>0</StarRating>
+    <CommunityStarRating>2.875</CommunityStarRating>
+    <CommunityStarRatingTotalVotes>3</CommunityStarRatingTotalVotes>
+    <Status>Imported ROM</Status>
+    <DatabaseID>3037</DatabaseID>
+    <WikipediaURL />
+    <Title>Sukeban Deka II: Shoujo Tekkamen Densetsu</Title>
+    <UseDosBox>false</UseDosBox>
+    <UseScummVM>false</UseScummVM>
+    <Version>(Japan) [T-En by Enigmaopoeia &amp; SSTranslations v1.0] [n]</Version>
+    <Series />
+    <PlayMode>Single Player</PlayMode>
+    <Region>Japan</Region>
+    <PlayCount>0</PlayCount>
+    <PlayTime>0</PlayTime>
+    <Portable>false</Portable>
+    <Hide>false</Hide>
+    <Broken>false</Broken>
+    <CloneOf />
+    <Genre>Action; Adventure</Genre>
+    <MissingVideo>false</MissingVideo>
+    <MissingBoxFrontImage>false</MissingBoxFrontImage>
+    <MissingScreenshotImage>false</MissingScreenshotImage>
+    <MissingMarqueeImage>false</MissingMarqueeImage>
+    <MissingClearLogoImage>false</MissingClearLogoImage>
+    <MissingBackgroundImage>true</MissingBackgroundImage>
+    <MissingBox3dImage>false</MissingBox3dImage>
+    <MissingCartImage>false</MissingCartImage>
+    <MissingCart3dImage>false</MissingCart3dImage>
+    <MissingManual>false</MissingManual>
+    <MissingBannerImage>false</MissingBannerImage>
+    <MissingMusic>false</MissingMusic>
+    <UseStartupScreen>false</UseStartupScreen>
+    <HideAllNonExclusiveFullscreenWindows>false</HideAllNonExclusiveFullscreenWindows>
+    <StartupLoadDelay>0</StartupLoadDelay>
+    <HideMouseCursorInGame>false</HideMouseCursorInGame>
+    <DisableShutdownScreen>false</DisableShutdownScreen>
+    <AggressiveWindowHiding>false</AggressiveWindowHiding>
+    <OverrideDefaultStartupScreenSettings>false</OverrideDefaultStartupScreenSettings>
+    <UsePauseScreen>false</UsePauseScreen>
+    <PauseAutoHotkeyScript />
+    <ResumeAutoHotkeyScript />
+    <OverrideDefaultPauseScreenSettings>false</OverrideDefaultPauseScreenSettings>
+    <SuspendProcessOnPause>false</SuspendProcessOnPause>
+    <ForcefulPauseScreenActivation>false</ForcefulPauseScreenActivation>
+    <LoadStateAutoHotkeyScript />
+    <SaveStateAutoHotkeyScript />
+    <ResetAutoHotkeyScript />
+    <SwapDiscsAutoHotkeyScript />
+    <CustomDosBoxVersionPath />
+    <ReleaseType>Released</ReleaseType>
+    <MaxPlayers>1</MaxPlayers>
+    <VideoUrl />
+    <AndroidBoxFrontThumbPath />
+    <AndroidBoxFrontFullPath />
+    <AndroidClearLogoThumbPath />
+    <AndroidClearLogoFullPath />
+    <AndroidBackgroundPath />
+    <AndroidBackgroundThumbPath />
+    <AndroidGameTitleScreenshotThumbPath />
+    <AndroidGameplayScreenshotThumbPath />
+    <AndroidGameTitleScreenshotPath />
+    <AndroidGameplayScreenshotPath />
+    <AndroidVideoPath />
+    <HasCloudSynced>false</HasCloudSynced>
+  </Game>
+  <Game>
+    <GogAppId />
+    <OriginAppId />
+    <OriginInstallPath />
+    <VideoPath />
+    <ThemeVideoPath />
+    <ApplicationPath>S:\roms-translated-1g1r\archive-org-sega-master-system\Highschool! Kimengumi (Japan) [T-En by SMS Power! v1.00] [n].zip</ApplicationPath>
+    <CommandLine />
+    <Completed>false</Completed>
+    <ConfigurationCommandLine />
+    <ConfigurationPath />
+    <DateAdded>2023-12-25T19:20:13.0102593+08:00</DateAdded>
+    <DateModified>2024-01-26T01:06:52.66396+08:00</DateModified>
+    <Developer>AM R&amp;D Dept. #2</Developer>
+    <DosBoxConfigurationPath />
+    <Emulator>c055fd74-0975-40ad-8f82-bc63ed1adb73</Emulator>
+    <Favorite>false</Favorite>
+    <ID>2245fb54-9db8-4394-974d-4d384d11cb4d</ID>
+    <ManualPath />
+    <MusicPath />
+    <Notes>High School! Kimengumi (ハイスクール！ 奇面組) is a Sega Master System game based upon the 1985 anime adaptation of High School! Kimengumi.</Notes>
+    <Platform>Sega Master System [T-En]</Platform>
+    <Publisher>Pony Cannon</Publisher>
+    <Rating>Not Rated</Rating>
+    <ReleaseDate>1986-12-15T16:00:00+08:00</ReleaseDate>
+    <RootFolder />
+    <ScummVMAspectCorrection>false</ScummVMAspectCorrection>
+    <ScummVMFullscreen>false</ScummVMFullscreen>
+    <ScummVMGameDataFolderPath />
+    <ScummVMGameType />
+    <SortTitle />
+    <Source />
+    <StarRatingFloat>0</StarRatingFloat>
+    <StarRating>0</StarRating>
+    <CommunityStarRating>3.0833333</CommunityStarRating>
+    <CommunityStarRatingTotalVotes>5</CommunityStarRatingTotalVotes>
+    <Status>Imported ROM</Status>
+    <DatabaseID>2828</DatabaseID>
+    <WikipediaURL />
+    <Title>High School! Kimengumi</Title>
+    <UseDosBox>false</UseDosBox>
+    <UseScummVM>false</UseScummVM>
+    <Version>(Japan) [T-En by SMS Power! v1.00] [n]</Version>
+    <Series />
+    <PlayMode>Single Player</PlayMode>
+    <Region>Japan</Region>
+    <PlayCount>0</PlayCount>
+    <PlayTime>0</PlayTime>
+    <Portable>false</Portable>
+    <Hide>false</Hide>
+    <Broken>false</Broken>
+    <CloneOf />
+    <Genre>Adventure</Genre>
+    <MissingVideo>false</MissingVideo>
+    <MissingBoxFrontImage>false</MissingBoxFrontImage>
+    <MissingScreenshotImage>false</MissingScreenshotImage>
+    <MissingMarqueeImage>false</MissingMarqueeImage>
+    <MissingClearLogoImage>false</MissingClearLogoImage>
+    <MissingBackgroundImage>true</MissingBackgroundImage>
+    <MissingBox3dImage>false</MissingBox3dImage>
+    <MissingCartImage>false</MissingCartImage>
+    <MissingCart3dImage>false</MissingCart3dImage>
+    <MissingManual>false</MissingManual>
+    <MissingBannerImage>false</MissingBannerImage>
+    <MissingMusic>false</MissingMusic>
+    <UseStartupScreen>false</UseStartupScreen>
+    <HideAllNonExclusiveFullscreenWindows>false</HideAllNonExclusiveFullscreenWindows>
+    <StartupLoadDelay>0</StartupLoadDelay>
+    <HideMouseCursorInGame>false</HideMouseCursorInGame>
+    <DisableShutdownScreen>false</DisableShutdownScreen>
+    <AggressiveWindowHiding>false</AggressiveWindowHiding>
+    <OverrideDefaultStartupScreenSettings>false</OverrideDefaultStartupScreenSettings>
+    <UsePauseScreen>false</UsePauseScreen>
+    <PauseAutoHotkeyScript />
+    <ResumeAutoHotkeyScript />
+    <OverrideDefaultPauseScreenSettings>false</OverrideDefaultPauseScreenSettings>
+    <SuspendProcessOnPause>false</SuspendProcessOnPause>
+    <ForcefulPauseScreenActivation>false</ForcefulPauseScreenActivation>
+    <LoadStateAutoHotkeyScript />
+    <SaveStateAutoHotkeyScript />
+    <ResetAutoHotkeyScript />
+    <SwapDiscsAutoHotkeyScript />
+    <CustomDosBoxVersionPath />
+    <ReleaseType>Released</ReleaseType>
+    <MaxPlayers>1</MaxPlayers>
+    <VideoUrl />
+    <AndroidBoxFrontThumbPath />
+    <AndroidBoxFrontFullPath />
+    <AndroidClearLogoThumbPath />
+    <AndroidClearLogoFullPath />
+    <AndroidBackgroundPath />
+    <AndroidBackgroundThumbPath />
+    <AndroidGameTitleScreenshotThumbPath />
+    <AndroidGameplayScreenshotThumbPath />
+    <AndroidGameTitleScreenshotPath />
+    <AndroidGameplayScreenshotPath />
+    <AndroidVideoPath />
+    <HasCloudSynced>false</HasCloudSynced>
+  </Game>
+  <Game>
+    <GogAppId />
+    <OriginAppId />
+    <OriginInstallPath />
+    <VideoPath />
+    <ThemeVideoPath />
+    <ApplicationPath>S:\roms-translated-1g1r\archive-org-sega-master-system\Rygar - Legendary Warrior (Japan) [T-En by Psyklax v1.0] [n].zip</ApplicationPath>
+    <CommandLine />
+    <Completed>false</Completed>
+    <ConfigurationCommandLine />
+    <ConfigurationPath />
+    <DateAdded>2023-12-25T19:20:13.0097705+08:00</DateAdded>
+    <DateModified>2024-01-29T01:52:05.2758698+08:00</DateModified>
+    <Developer>Tecmo</Developer>
+    <DosBoxConfigurationPath />
+    <Emulator>c055fd74-0975-40ad-8f82-bc63ed1adb73</Emulator>
+    <Favorite>false</Favorite>
+    <ID>b4d00849-78db-4b04-b68e-1475d4a5c226</ID>
+    <ManualPath />
+    <MusicPath />
+    <Notes>An evil being known as Ligar is about to conquer the land of Argool. Such is his power that no living creature dares to cross paths with him. But the legendary warrior Rygar rises from his grave to restore peace and justice. Armed with his famed weapon Diskarmor, Rygar begins to traverse the vast lands that lead to the lair of the demon, as his minions are trying in vain to stop him...
+
+Originally released on the arcades, Rygar is a side-scrolling action game. The player controls the titular hero, advancing through stages populated by hostile creatures. Beside the Diskarmor, a weapon that looks like a shield with a chain attached to it, the hero can use a variety of other weapons, including projectiles that can be fired in four directions. Various "powers" are scattered through the levels and can be collected. The effects of these powers include increasing the fire power of the equipped weapon, adding time to the clock, temporary invisibility, extra points, etc.
+
+Japan-only release.</Notes>
+    <Platform>Sega Master System [T-En]</Platform>
+    <Publisher>Salio</Publisher>
+    <Rating>Not Rated</Rating>
+    <ReleaseDate>1988-03-25T16:00:00+08:00</ReleaseDate>
+    <RootFolder />
+    <ScummVMAspectCorrection>false</ScummVMAspectCorrection>
+    <ScummVMFullscreen>false</ScummVMFullscreen>
+    <ScummVMGameDataFolderPath />
+    <ScummVMGameType />
+    <SortTitle />
+    <Source />
+    <StarRatingFloat>0</StarRatingFloat>
+    <StarRating>0</StarRating>
+    <CommunityStarRating>2.73</CommunityStarRating>
+    <CommunityStarRatingTotalVotes>26</CommunityStarRatingTotalVotes>
+    <Status>Imported ROM</Status>
+    <DatabaseID>2692</DatabaseID>
+    <WikipediaURL>https://en.wikipedia.org/wiki/Rygar</WikipediaURL>
+    <Title>Rygar: Legendary Warrior</Title>
+    <UseDosBox>false</UseDosBox>
+    <UseScummVM>false</UseScummVM>
+    <Version>(Japan) [T-En by Psyklax v1.0] [n]</Version>
+    <Series />
+    <PlayMode>Multiplayer</PlayMode>
+    <Region>Japan</Region>
+    <PlayCount>0</PlayCount>
+    <PlayTime>0</PlayTime>
+    <Portable>false</Portable>
+    <Hide>false</Hide>
+    <Broken>false</Broken>
+    <CloneOf />
+    <Genre>Action</Genre>
+    <MissingVideo>true</MissingVideo>
+    <MissingBoxFrontImage>false</MissingBoxFrontImage>
+    <MissingScreenshotImage>false</MissingScreenshotImage>
+    <MissingMarqueeImage>true</MissingMarqueeImage>
+    <MissingClearLogoImage>false</MissingClearLogoImage>
+    <MissingBackgroundImage>false</MissingBackgroundImage>
+    <MissingBox3dImage>false</MissingBox3dImage>
+    <MissingCartImage>false</MissingCartImage>
+    <MissingCart3dImage>false</MissingCart3dImage>
+    <MissingManual>true</MissingManual>
+    <MissingBannerImage>false</MissingBannerImage>
+    <MissingMusic>true</MissingMusic>
+    <UseStartupScreen>false</UseStartupScreen>
+    <HideAllNonExclusiveFullscreenWindows>false</HideAllNonExclusiveFullscreenWindows>
+    <StartupLoadDelay>0</StartupLoadDelay>
+    <HideMouseCursorInGame>false</HideMouseCursorInGame>
+    <DisableShutdownScreen>false</DisableShutdownScreen>
+    <AggressiveWindowHiding>false</AggressiveWindowHiding>
+    <OverrideDefaultStartupScreenSettings>false</OverrideDefaultStartupScreenSettings>
+    <UsePauseScreen>false</UsePauseScreen>
+    <PauseAutoHotkeyScript />
+    <ResumeAutoHotkeyScript />
+    <OverrideDefaultPauseScreenSettings>false</OverrideDefaultPauseScreenSettings>
+    <SuspendProcessOnPause>false</SuspendProcessOnPause>
+    <ForcefulPauseScreenActivation>false</ForcefulPauseScreenActivation>
+    <LoadStateAutoHotkeyScript />
+    <SaveStateAutoHotkeyScript />
+    <ResetAutoHotkeyScript />
+    <SwapDiscsAutoHotkeyScript />
+    <CustomDosBoxVersionPath />
+    <ReleaseType>Released</ReleaseType>
+    <MaxPlayers>2</MaxPlayers>
+    <VideoUrl />
+    <AndroidBoxFrontThumbPath />
+    <AndroidBoxFrontFullPath />
+    <AndroidClearLogoThumbPath />
+    <AndroidClearLogoFullPath />
+    <AndroidBackgroundPath />
+    <AndroidBackgroundThumbPath />
+    <AndroidGameTitleScreenshotThumbPath />
+    <AndroidGameplayScreenshotThumbPath />
+    <AndroidGameTitleScreenshotPath />
+    <AndroidGameplayScreenshotPath />
+    <AndroidVideoPath />
+    <HasCloudSynced>false</HasCloudSynced>
+  </Game>
+  <Game>
+    <GogAppId />
+    <OriginAppId />
+    <OriginInstallPath />
+    <VideoPath />
+    <ThemeVideoPath />
+    <ApplicationPath>S:\roms-translated-1g1r\archive-org-sega-master-system\Phantasy Star (Japan) [T-En by SMS Power! v2.3.1] [Literal].zip</ApplicationPath>
+    <CommandLine />
+    <Completed>false</Completed>
+    <ConfigurationCommandLine />
+    <ConfigurationPath />
+    <DateAdded>2023-12-25T19:20:13.0100142+08:00</DateAdded>
+    <DateModified>2024-01-26T01:08:18.3803123+08:00</DateModified>
+    <Developer>Sega Enterprises</Developer>
+    <DosBoxConfigurationPath />
+    <Emulator>c055fd74-0975-40ad-8f82-bc63ed1adb73</Emulator>
+    <Favorite>false</Favorite>
+    <ID>465fbc81-9e93-47c7-815e-65703d296180</ID>
+    <ManualPath />
+    <MusicPath />
+    <Notes>The time: Space Century 3240. The place: The Algol Star System. It began when King Lassic turned evil and let hordes of hideous, magical creatures run amok on the three planets. When her brother was killed, Alis vowed to avenge his death and put an end to Lassic forever.
+
+Join her in a journey across time and space to worlds where creatures speak...where magic and science combine to take you on the ultimate video quest.
+
+Phantasy Star is total adventure role playing with towns full of people and shops...16 level dungeons full of traps and treasure...three companions who will help you if you find them and some of the most awesome graphics ever put in a video game.</Notes>
+    <Platform>Sega Master System [T-En]</Platform>
+    <Publisher>Sega of America</Publisher>
+    <Rating>Not Rated</Rating>
+    <ReleaseDate>1987-12-20T16:00:00+08:00</ReleaseDate>
+    <RootFolder />
+    <ScummVMAspectCorrection>false</ScummVMAspectCorrection>
+    <ScummVMFullscreen>false</ScummVMFullscreen>
+    <ScummVMGameDataFolderPath />
+    <ScummVMGameType />
+    <SortTitle />
+    <Source />
+    <StarRatingFloat>0</StarRatingFloat>
+    <StarRating>0</StarRating>
+    <CommunityStarRating>4.3421054</CommunityStarRating>
+    <CommunityStarRatingTotalVotes>95</CommunityStarRatingTotalVotes>
+    <Status>Imported ROM</Status>
+    <DatabaseID>2965</DatabaseID>
+    <WikipediaURL>https://en.wikipedia.org/wiki/Phantasy_Star_(video_game)</WikipediaURL>
+    <Title>Phantasy Star</Title>
+    <UseDosBox>false</UseDosBox>
+    <UseScummVM>false</UseScummVM>
+    <Version>(Japan) [T-En by SMS Power! v2.3.1] [Literal]</Version>
+    <Series />
+    <PlayMode>Single Player</PlayMode>
+    <Region>Japan</Region>
+    <PlayCount>0</PlayCount>
+    <PlayTime>0</PlayTime>
+    <Portable>false</Portable>
+    <Hide>false</Hide>
+    <Broken>false</Broken>
+    <CloneOf />
+    <Genre>Role-Playing</Genre>
+    <MissingVideo>false</MissingVideo>
+    <MissingBoxFrontImage>false</MissingBoxFrontImage>
+    <MissingScreenshotImage>false</MissingScreenshotImage>
+    <MissingMarqueeImage>false</MissingMarqueeImage>
+    <MissingClearLogoImage>false</MissingClearLogoImage>
+    <MissingBackgroundImage>false</MissingBackgroundImage>
+    <MissingBox3dImage>false</MissingBox3dImage>
+    <MissingCartImage>false</MissingCartImage>
+    <MissingCart3dImage>false</MissingCart3dImage>
+    <MissingManual>false</MissingManual>
+    <MissingBannerImage>false</MissingBannerImage>
+    <MissingMusic>false</MissingMusic>
+    <UseStartupScreen>false</UseStartupScreen>
+    <HideAllNonExclusiveFullscreenWindows>false</HideAllNonExclusiveFullscreenWindows>
+    <StartupLoadDelay>0</StartupLoadDelay>
+    <HideMouseCursorInGame>false</HideMouseCursorInGame>
+    <DisableShutdownScreen>false</DisableShutdownScreen>
+    <AggressiveWindowHiding>false</AggressiveWindowHiding>
+    <OverrideDefaultStartupScreenSettings>false</OverrideDefaultStartupScreenSettings>
+    <UsePauseScreen>false</UsePauseScreen>
+    <PauseAutoHotkeyScript />
+    <ResumeAutoHotkeyScript />
+    <OverrideDefaultPauseScreenSettings>false</OverrideDefaultPauseScreenSettings>
+    <SuspendProcessOnPause>false</SuspendProcessOnPause>
+    <ForcefulPauseScreenActivation>false</ForcefulPauseScreenActivation>
+    <LoadStateAutoHotkeyScript />
+    <SaveStateAutoHotkeyScript />
+    <ResetAutoHotkeyScript />
+    <SwapDiscsAutoHotkeyScript />
+    <CustomDosBoxVersionPath />
+    <ReleaseType>Released</ReleaseType>
+    <MaxPlayers>1</MaxPlayers>
+    <VideoUrl>https://www.youtube.com/watch?v=dWVUn-U7FZg</VideoUrl>
+    <AndroidBoxFrontThumbPath />
+    <AndroidBoxFrontFullPath />
+    <AndroidClearLogoThumbPath />
+    <AndroidClearLogoFullPath />
+    <AndroidBackgroundPath />
+    <AndroidBackgroundThumbPath />
+    <AndroidGameTitleScreenshotThumbPath />
+    <AndroidGameplayScreenshotThumbPath />
+    <AndroidGameTitleScreenshotPath />
+    <AndroidGameplayScreenshotPath />
+    <AndroidVideoPath />
+    <HasCloudSynced>false</HasCloudSynced>
+  </Game>
+  <Game>
+    <GogAppId />
+    <OriginAppId />
+    <OriginInstallPath />
+    <VideoPath />
+    <ThemeVideoPath />
+    <ApplicationPath>S:\roms-translated-1g1r\archive-org-sega-master-system\Solomon's Key - Tears of Princess Lihita (Japan) [T-En by FlashPV v1.0] [n].zip</ApplicationPath>
+    <CommandLine />
+    <Completed>false</Completed>
+    <ConfigurationCommandLine />
+    <ConfigurationPath />
+    <DateAdded>2023-12-25T19:20:13.0094413+08:00</DateAdded>
+    <DateModified>2024-01-30T10:04:45.3329255+08:00</DateModified>
+    <Developer>Aisystem Tokyo</Developer>
+    <DosBoxConfigurationPath />
+    <Emulator>c055fd74-0975-40ad-8f82-bc63ed1adb73</Emulator>
+    <Favorite>false</Favorite>
+    <ID>7fc0ea4f-c924-4f01-aac0-833124b0fca0</ID>
+    <ManualPath />
+    <MusicPath />
+    <Notes>Solomon no Kagi: Oujo Rihita no Namida is a platform-puzzle arcade game developed by Tecmo, which was subsequently brought to the Sega Master System by Salio in 1988. The game was brought to the west via other platforms as Solomon's Key, though the Master System version remained exclusive to Japan.
+
+The object of the game is get a key and then make your way to the exit. To achieve this, Solomon can create and destroy blocks, which can be used to trap enemies or as platforms. 
+
+You and Dana, the wizard of Lyrac, must unlock Solomon's scroll of secrets to restore peace in the constellations. With Dana's magic, fire, and mystical powers, you will help release the imprisoned Princess of the Fairies and harness the evil forces within the constellations. But first, you need the key! Solomon's Key!</Notes>
+    <Platform>Sega Master System [T-En]</Platform>
+    <Publisher>Salio</Publisher>
+    <Rating>Not Rated</Rating>
+    <ReleaseDate>1988-04-17T15:00:00+08:00</ReleaseDate>
+    <RootFolder />
+    <ScummVMAspectCorrection>false</ScummVMAspectCorrection>
+    <ScummVMFullscreen>false</ScummVMFullscreen>
+    <ScummVMGameDataFolderPath />
+    <ScummVMGameType />
+    <SortTitle />
+    <Source />
+    <StarRatingFloat>0</StarRatingFloat>
+    <StarRating>0</StarRating>
+    <CommunityStarRating>3.28125</CommunityStarRating>
+    <CommunityStarRatingTotalVotes>16</CommunityStarRatingTotalVotes>
+    <Status>Imported ROM</Status>
+    <DatabaseID>3012</DatabaseID>
+    <WikipediaURL>https://en.wikipedia.org/wiki/Solomon%27s_Key</WikipediaURL>
+    <Title>Solomon's Key: Tears of Princess Lihita</Title>
+    <UseDosBox>false</UseDosBox>
+    <UseScummVM>false</UseScummVM>
+    <Version>(Japan) [T-En by FlashPV v1.0] [n]</Version>
+    <Series />
+    <PlayMode>Single Player</PlayMode>
+    <Region>Japan</Region>
+    <PlayCount>0</PlayCount>
+    <PlayTime>0</PlayTime>
+    <Portable>false</Portable>
+    <Hide>false</Hide>
+    <Broken>false</Broken>
+    <CloneOf />
+    <Genre>Platform; Puzzle</Genre>
+    <MissingVideo>true</MissingVideo>
+    <MissingBoxFrontImage>false</MissingBoxFrontImage>
+    <MissingScreenshotImage>false</MissingScreenshotImage>
+    <MissingMarqueeImage>true</MissingMarqueeImage>
+    <MissingClearLogoImage>false</MissingClearLogoImage>
+    <MissingBackgroundImage>true</MissingBackgroundImage>
+    <MissingBox3dImage>false</MissingBox3dImage>
+    <MissingCartImage>false</MissingCartImage>
+    <MissingCart3dImage>false</MissingCart3dImage>
+    <MissingManual>true</MissingManual>
+    <MissingBannerImage>false</MissingBannerImage>
+    <MissingMusic>true</MissingMusic>
+    <UseStartupScreen>false</UseStartupScreen>
+    <HideAllNonExclusiveFullscreenWindows>false</HideAllNonExclusiveFullscreenWindows>
+    <StartupLoadDelay>0</StartupLoadDelay>
+    <HideMouseCursorInGame>false</HideMouseCursorInGame>
+    <DisableShutdownScreen>false</DisableShutdownScreen>
+    <AggressiveWindowHiding>false</AggressiveWindowHiding>
+    <OverrideDefaultStartupScreenSettings>false</OverrideDefaultStartupScreenSettings>
+    <UsePauseScreen>false</UsePauseScreen>
+    <PauseAutoHotkeyScript />
+    <ResumeAutoHotkeyScript />
+    <OverrideDefaultPauseScreenSettings>false</OverrideDefaultPauseScreenSettings>
+    <SuspendProcessOnPause>false</SuspendProcessOnPause>
+    <ForcefulPauseScreenActivation>false</ForcefulPauseScreenActivation>
+    <LoadStateAutoHotkeyScript />
+    <SaveStateAutoHotkeyScript />
+    <ResetAutoHotkeyScript />
+    <SwapDiscsAutoHotkeyScript />
+    <CustomDosBoxVersionPath />
+    <ReleaseType>Released</ReleaseType>
+    <MaxPlayers>1</MaxPlayers>
+    <VideoUrl>https://www.youtube.com/watch?v=QVYHOB33CMk</VideoUrl>
+    <AndroidBoxFrontThumbPath />
+    <AndroidBoxFrontFullPath />
+    <AndroidClearLogoThumbPath />
+    <AndroidClearLogoFullPath />
+    <AndroidBackgroundPath />
+    <AndroidBackgroundThumbPath />
+    <AndroidGameTitleScreenshotThumbPath />
+    <AndroidGameplayScreenshotThumbPath />
+    <AndroidGameTitleScreenshotPath />
+    <AndroidGameplayScreenshotPath />
+    <AndroidVideoPath />
+    <HasCloudSynced>false</HasCloudSynced>
+  </Game>
+  <Game>
+    <GogAppId />
+    <OriginAppId />
+    <OriginInstallPath />
+    <VideoPath />
+    <ThemeVideoPath />
+    <ApplicationPath>S:\roms-translated-1g1r\archive-org-sega-master-system\Fist of the North Star - Hokuto no Ken (Japan) [T-En by PhalanX v1.0] [n].zip</ApplicationPath>
+    <CommandLine />
+    <Completed>false</Completed>
+    <ConfigurationCommandLine />
+    <ConfigurationPath />
+    <DateAdded>2023-12-25T19:20:13.010658+08:00</DateAdded>
+    <DateModified>2024-01-30T10:04:45.0475948+08:00</DateModified>
+    <Developer>Sega Enterprises</Developer>
+    <DosBoxConfigurationPath />
+    <Emulator>c055fd74-0975-40ad-8f82-bc63ed1adb73</Emulator>
+    <Favorite>false</Favorite>
+    <ID>5211e40b-2fd9-44ac-9fad-a0941ea723e9</ID>
+    <ManualPath />
+    <MusicPath />
+    <Notes>In this game, you play Riki. Kyoko, your beautiful Japanese girlfriend, has been kidnapped, and in order to rescue her, you must get through a tireless army of enemies. These enemies come equipped with weapons that include whips, knives, swords, and flamethrowers, but Riki has to make do with his well-trained martial arts body.
+
+Black Belt is a side-scrolling game that is split into seven chapters. During these chapters, you are fighting Chinese Kung Fu men, wrestlers, jujitsu men, eagles, ninjas, and black women. When you get halfway through the chapter, you will fight a different enemy than one that you encounter before. At the end of each chapter, you have to defeat several bosses before continuing on to the next round. Each type of these has their own personal strengths and weaknesses.
+
+Once you touch an enemy or boss, you will lose energy. once you lose all energy, you lose a life, but more life can be restored by getting the cake when it comes across the screen in mid-air, or by defeating an enemy that will come at you halfway and you receive a bonus for doing so.
+
+Black Belt is a modified version of the Japanese-exclusive Hokuto no Ken, with the licence removed and new level designs.</Notes>
+    <Platform>Sega Master System [T-En]</Platform>
+    <Publisher>Sega of America</Publisher>
+    <Rating>Not Rated</Rating>
+    <ReleaseDate>1986-07-20T15:00:00+08:00</ReleaseDate>
+    <RootFolder />
+    <ScummVMAspectCorrection>false</ScummVMAspectCorrection>
+    <ScummVMFullscreen>false</ScummVMFullscreen>
+    <ScummVMGameDataFolderPath />
+    <ScummVMGameType />
+    <SortTitle />
+    <Source />
+    <StarRatingFloat>0</StarRatingFloat>
+    <StarRating>0</StarRating>
+    <CommunityStarRating>3.5961537</CommunityStarRating>
+    <CommunityStarRatingTotalVotes>78</CommunityStarRatingTotalVotes>
+    <Status>Imported ROM</Status>
+    <DatabaseID>2706</DatabaseID>
+    <WikipediaURL>https://en.wikipedia.org/wiki/Black_Belt_(video_game)</WikipediaURL>
+    <Title>Fist of the North Star: Hokuto no Ken</Title>
+    <UseDosBox>false</UseDosBox>
+    <UseScummVM>false</UseScummVM>
+    <Version>(Japan) [T-En by PhalanX v1.0] [n]</Version>
+    <Series />
+    <PlayMode>Multiplayer</PlayMode>
+    <Region>Japan</Region>
+    <PlayCount>0</PlayCount>
+    <PlayTime>0</PlayTime>
+    <Portable>false</Portable>
+    <Hide>false</Hide>
+    <Broken>false</Broken>
+    <CloneOf />
+    <Genre>Beat 'em Up</Genre>
+    <MissingVideo>true</MissingVideo>
+    <MissingBoxFrontImage>false</MissingBoxFrontImage>
+    <MissingScreenshotImage>false</MissingScreenshotImage>
+    <MissingMarqueeImage>true</MissingMarqueeImage>
+    <MissingClearLogoImage>false</MissingClearLogoImage>
+    <MissingBackgroundImage>true</MissingBackgroundImage>
+    <MissingBox3dImage>false</MissingBox3dImage>
+    <MissingCartImage>false</MissingCartImage>
+    <MissingCart3dImage>false</MissingCart3dImage>
+    <MissingManual>true</MissingManual>
+    <MissingBannerImage>false</MissingBannerImage>
+    <MissingMusic>true</MissingMusic>
+    <UseStartupScreen>false</UseStartupScreen>
+    <HideAllNonExclusiveFullscreenWindows>false</HideAllNonExclusiveFullscreenWindows>
+    <StartupLoadDelay>0</StartupLoadDelay>
+    <HideMouseCursorInGame>false</HideMouseCursorInGame>
+    <DisableShutdownScreen>false</DisableShutdownScreen>
+    <AggressiveWindowHiding>false</AggressiveWindowHiding>
+    <OverrideDefaultStartupScreenSettings>false</OverrideDefaultStartupScreenSettings>
+    <UsePauseScreen>false</UsePauseScreen>
+    <PauseAutoHotkeyScript />
+    <ResumeAutoHotkeyScript />
+    <OverrideDefaultPauseScreenSettings>false</OverrideDefaultPauseScreenSettings>
+    <SuspendProcessOnPause>false</SuspendProcessOnPause>
+    <ForcefulPauseScreenActivation>false</ForcefulPauseScreenActivation>
+    <LoadStateAutoHotkeyScript />
+    <SaveStateAutoHotkeyScript />
+    <ResetAutoHotkeyScript />
+    <SwapDiscsAutoHotkeyScript />
+    <CustomDosBoxVersionPath />
+    <ReleaseType>Released</ReleaseType>
+    <MaxPlayers>2</MaxPlayers>
+    <VideoUrl>https://www.youtube.com/watch?v=7cWghtUFZBM</VideoUrl>
+    <AndroidBoxFrontThumbPath />
+    <AndroidBoxFrontFullPath />
+    <AndroidClearLogoThumbPath />
+    <AndroidClearLogoFullPath />
+    <AndroidBackgroundPath />
+    <AndroidBackgroundThumbPath />
+    <AndroidGameTitleScreenshotThumbPath />
+    <AndroidGameplayScreenshotThumbPath />
+    <AndroidGameTitleScreenshotPath />
+    <AndroidGameplayScreenshotPath />
+    <AndroidVideoPath />
+    <HasCloudSynced>false</HasCloudSynced>
+  </Game>
+  <Game>
+    <GogAppId />
+    <OriginAppId />
+    <OriginInstallPath />
+    <VideoPath />
+    <ThemeVideoPath />
+    <ApplicationPath>S:\roms-translated-1g1r\archive-org-sega-master-system\Final Bubble Bobble (Japan) [T-En by Brad Smith v1.0].zip</ApplicationPath>
+    <CommandLine />
+    <Completed>false</Completed>
+    <ConfigurationCommandLine />
+    <ConfigurationPath />
+    <DateAdded>2023-12-25T19:20:13.0109757+08:00</DateAdded>
+    <DateModified>2024-01-26T03:14:46.7516931+08:00</DateModified>
+    <Developer>Sega Enterprises</Developer>
+    <DosBoxConfigurationPath />
+    <Emulator>c055fd74-0975-40ad-8f82-bc63ed1adb73</Emulator>
+    <Favorite>false</Favorite>
+    <ID>6389cc19-3c1a-4db0-a02d-d84a4d83de27</ID>
+    <ManualPath />
+    <MusicPath />
+    <Notes>Welcome to the world of Bubble Bobble! Those funny critters, Bubblen and Bobblen are finally making an appearance in the Sega Master system. Play this game and see the wild adventures of Bubblen and Bobblen.</Notes>
+    <Platform>Sega Master System [T-En]</Platform>
+    <Publisher>Sega Enterprises</Publisher>
+    <Rating>Not Rated</Rating>
+    <ReleaseDate>1988-07-02T15:00:00+08:00</ReleaseDate>
+    <RootFolder />
+    <ScummVMAspectCorrection>false</ScummVMAspectCorrection>
+    <ScummVMFullscreen>false</ScummVMFullscreen>
+    <ScummVMGameDataFolderPath />
+    <ScummVMGameType />
+    <SortTitle />
+    <Source />
+    <StarRatingFloat>0</StarRatingFloat>
+    <StarRating>0</StarRating>
+    <CommunityStarRating>3.9605262</CommunityStarRating>
+    <CommunityStarRatingTotalVotes>57</CommunityStarRatingTotalVotes>
+    <Status>Imported ROM</Status>
+    <DatabaseID>2777</DatabaseID>
+    <WikipediaURL>https://en.wikipedia.org/wiki/Bubble_Bobble</WikipediaURL>
+    <Title>Final Bubble Bobble</Title>
+    <UseDosBox>false</UseDosBox>
+    <UseScummVM>false</UseScummVM>
+    <Version>(Japan) [T-En by Brad Smith v1.0]</Version>
+    <Series />
+    <PlayMode>Cooperative; Multiplayer</PlayMode>
+    <Region>Japan</Region>
+    <PlayCount>0</PlayCount>
+    <PlayTime>0</PlayTime>
+    <Portable>false</Portable>
+    <Hide>false</Hide>
+    <Broken>false</Broken>
+    <CloneOf />
+    <Genre>Platform</Genre>
+    <MissingVideo>true</MissingVideo>
+    <MissingBoxFrontImage>false</MissingBoxFrontImage>
+    <MissingScreenshotImage>false</MissingScreenshotImage>
+    <MissingMarqueeImage>false</MissingMarqueeImage>
+    <MissingClearLogoImage>false</MissingClearLogoImage>
+    <MissingBackgroundImage>false</MissingBackgroundImage>
+    <MissingBox3dImage>false</MissingBox3dImage>
+    <MissingCartImage>false</MissingCartImage>
+    <MissingCart3dImage>false</MissingCart3dImage>
+    <MissingManual>true</MissingManual>
+    <MissingBannerImage>false</MissingBannerImage>
+    <MissingMusic>true</MissingMusic>
+    <UseStartupScreen>false</UseStartupScreen>
+    <HideAllNonExclusiveFullscreenWindows>false</HideAllNonExclusiveFullscreenWindows>
+    <StartupLoadDelay>0</StartupLoadDelay>
+    <HideMouseCursorInGame>false</HideMouseCursorInGame>
+    <DisableShutdownScreen>false</DisableShutdownScreen>
+    <AggressiveWindowHiding>false</AggressiveWindowHiding>
+    <OverrideDefaultStartupScreenSettings>false</OverrideDefaultStartupScreenSettings>
+    <UsePauseScreen>false</UsePauseScreen>
+    <PauseAutoHotkeyScript />
+    <ResumeAutoHotkeyScript />
+    <OverrideDefaultPauseScreenSettings>false</OverrideDefaultPauseScreenSettings>
+    <SuspendProcessOnPause>false</SuspendProcessOnPause>
+    <ForcefulPauseScreenActivation>false</ForcefulPauseScreenActivation>
+    <LoadStateAutoHotkeyScript />
+    <SaveStateAutoHotkeyScript />
+    <ResetAutoHotkeyScript />
+    <SwapDiscsAutoHotkeyScript />
+    <CustomDosBoxVersionPath />
+    <ReleaseType>Released</ReleaseType>
+    <MaxPlayers>2</MaxPlayers>
+    <VideoUrl />
+    <AndroidBoxFrontThumbPath />
+    <AndroidBoxFrontFullPath />
+    <AndroidClearLogoThumbPath />
+    <AndroidClearLogoFullPath />
+    <AndroidBackgroundPath />
+    <AndroidBackgroundThumbPath />
+    <AndroidGameTitleScreenshotThumbPath />
+    <AndroidGameplayScreenshotThumbPath />
+    <AndroidGameTitleScreenshotPath />
+    <AndroidGameplayScreenshotPath />
+    <AndroidVideoPath />
+    <HasCloudSynced>false</HasCloudSynced>
+  </Game>
+  <AlternateName>
+    <GameID>ceb16933-cf45-4f6d-a67a-621785a5e441</GameID>
+    <Name>Hoshi wo Sagasite...</Name>
+    <Region />
+  </AlternateName>
+  <AlternateName>
+    <GameID>ceb16933-cf45-4f6d-a67a-621785a5e441</GameID>
+    <Name>Hoshi wo Sagashite...</Name>
+    <Region />
+  </AlternateName>
+  <AlternateName>
+    <GameID>1be01f3b-6741-490c-b72b-994750988193</GameID>
+    <Name>The Genius Bakabon</Name>
+    <Region />
+  </AlternateName>
+  <AlternateName>
+    <GameID>03dd4181-731a-4e3c-a8ed-21aad97825f7</GameID>
+    <Name>Northen Ken</Name>
+    <Region>Asia</Region>
+  </AlternateName>
+  <AlternateName>
+    <GameID>03dd4181-731a-4e3c-a8ed-21aad97825f7</GameID>
+    <Name>Fist of the North Star: Hokuto no Ken</Name>
+    <Region />
+  </AlternateName>
+  <AlternateName>
+    <GameID>03dd4181-731a-4e3c-a8ed-21aad97825f7</GameID>
+    <Name>Hokuto No Ken</Name>
+    <Region>Japan</Region>
+  </AlternateName>
+  <AlternateName>
+    <GameID>03dd4181-731a-4e3c-a8ed-21aad97825f7</GameID>
+    <Name>Black Belt</Name>
+    <Region />
+  </AlternateName>
+  <AlternateName>
+    <GameID>b4d00849-78db-4b04-b68e-1475d4a5c226</GameID>
+    <Name>Alocos</Name>
+    <Region>Asia</Region>
+  </AlternateName>
+  <AlternateName>
+    <GameID>b4d00849-78db-4b04-b68e-1475d4a5c226</GameID>
+    <Name>Argos no Juujiken</Name>
+    <Region />
+  </AlternateName>
+  <AlternateName>
+    <GameID>7fc0ea4f-c924-4f01-aac0-833124b0fca0</GameID>
+    <Name>Solomon's Key</Name>
+    <Region>North America</Region>
+  </AlternateName>
+  <AlternateName>
+    <GameID>7fc0ea4f-c924-4f01-aac0-833124b0fca0</GameID>
+    <Name>Solomon no Kagi: Oujo Rihita no Namida</Name>
+    <Region />
+  </AlternateName>
+  <AlternateName>
+    <GameID>5211e40b-2fd9-44ac-9fad-a0941ea723e9</GameID>
+    <Name>Northen Ken</Name>
+    <Region>Asia</Region>
+  </AlternateName>
+  <AlternateName>
+    <GameID>5211e40b-2fd9-44ac-9fad-a0941ea723e9</GameID>
+    <Name>Fist of the North Star</Name>
+    <Region />
+  </AlternateName>
+  <AlternateName>
+    <GameID>5211e40b-2fd9-44ac-9fad-a0941ea723e9</GameID>
+    <Name>Hokuto No Ken</Name>
+    <Region>Japan</Region>
+  </AlternateName>
+  <AlternateName>
+    <GameID>5211e40b-2fd9-44ac-9fad-a0941ea723e9</GameID>
+    <Name>Black Belt</Name>
+    <Region />
+  </AlternateName>
+  <AlternateName>
+    <GameID>6389cc19-3c1a-4db0-a02d-d84a4d83de27</GameID>
+    <Name>Bubble Bobble ~ Dragon Maze</Name>
+    <Region>Europe</Region>
+  </AlternateName>
+  <AlternateName>
+    <GameID>6389cc19-3c1a-4db0-a02d-d84a4d83de27</GameID>
+    <Name>Bobble Bobble</Name>
+    <Region>Korea</Region>
+  </AlternateName>
+  <AlternateName>
+    <GameID>6389cc19-3c1a-4db0-a02d-d84a4d83de27</GameID>
+    <Name>Bubble Bobble: Dragon Maze</Name>
+    <Region />
+  </AlternateName>
+  <AlternateName>
+    <GameID>6389cc19-3c1a-4db0-a02d-d84a4d83de27</GameID>
+    <Name>Bubble Bobble</Name>
+    <Region />
+  </AlternateName>
+</LaunchBox>

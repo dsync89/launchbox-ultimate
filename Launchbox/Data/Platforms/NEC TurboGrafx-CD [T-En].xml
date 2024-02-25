@@ -1,0 +1,1802 @@
+<?xml version="1.0" standalone="yes"?>
+<LaunchBox>
+  <Game>
+    <GogAppId />
+    <OriginAppId />
+    <OriginInstallPath />
+    <VideoPath />
+    <ThemeVideoPath />
+    <ApplicationPath>S:\roms-translated-1g1r\archive-org-nec-pc-engine-cd-turbografx-cd\Castlevania - Rondo of Blood (Japan) [T-En by Burnt Lasagna &amp; Cubanraul v1.01] [n].zip</ApplicationPath>
+    <CommandLine />
+    <Completed>false</Completed>
+    <ConfigurationCommandLine />
+    <ConfigurationPath />
+    <DateAdded>2023-12-25T19:35:20.1712408+08:00</DateAdded>
+    <DateModified>2024-01-26T01:05:04.1060796+08:00</DateModified>
+    <Developer>Konami</Developer>
+    <DosBoxConfigurationPath />
+    <Emulator>c055fd74-0975-40ad-8f82-bc63ed1adb73</Emulator>
+    <Favorite>false</Favorite>
+    <ID>6debfe05-6413-4af8-8d52-902b524b5f55</ID>
+    <ManualPath />
+    <MusicPath />
+    <Notes>Castlevania: Rondo of Blood (Akumajou Dracula X: Chi no Rondo) is a 2-D side-scrolling platformer with a gothic horror theme. Released in 1993, this game features the ability to save a player's progress, advances the plot via full-screen cutscenes, and utilizes CD audio tracks instead of the PC Engine's HUCard, producing a higher quality of musical audio.
+
+Set in the year 1792, you play as Richter Belmont, a vampire hunter. The dark priest Shaft has kidnapped Annette Renard, Richter's main love interest, and taken her to Castlevania along with a handful of other female victims. Wielding an ancestral whip imbued with holy powers to crush darkness, Richter heads out into the night alone to rescue the victims and deal out some justice, Belmont style.
+
+The game is divided up into multiple stages, some hidden, where the goal is to reach the end of each and (usually) face a boss monster. Along the way you may collect hearts from candles to power one of 6 different subweapons; the dagger, holy water, axe, cross, grimoire, and stopwatch. Each subweapon has a specific style of use and special "Item Crash" attack, which allows for an expensive but devastating super attack.
+
+Numerous hidden secrets may be found during the adventure, opening up pathways to new stages or leading to one of the four victims to rescue; one of which becomes a playable character after being freed. The victims Richter is able to rescue will affect which of the multiple endings you will see. Even if a maiden is missed, however, the player can return to any unlocked level later and take another shot at discovering any secrets they may have missed via the main menu's stage select.
+
+Rondo of Blood has great looking graphics, serves up multiple endings, plenty of secrets to discover, offers a decent difficulty level, and a delivers a quality soundtrack.</Notes>
+    <Platform>NEC TurboGrafx-CD [T-En]</Platform>
+    <Publisher>Konami</Publisher>
+    <Rating>Not Rated</Rating>
+    <ReleaseDate>1993-10-29T15:00:00+08:00</ReleaseDate>
+    <RootFolder />
+    <ScummVMAspectCorrection>false</ScummVMAspectCorrection>
+    <ScummVMFullscreen>false</ScummVMFullscreen>
+    <ScummVMGameDataFolderPath />
+    <ScummVMGameType />
+    <SortTitle />
+    <Source />
+    <StarRatingFloat>0</StarRatingFloat>
+    <StarRating>0</StarRating>
+    <CommunityStarRating>4.60728</CommunityStarRating>
+    <CommunityStarRatingTotalVotes>261</CommunityStarRatingTotalVotes>
+    <Status>Imported ROM</Status>
+    <DatabaseID>16793</DatabaseID>
+    <WikipediaURL>https://en.wikipedia.org/wiki/Castlevania:_Rondo_of_Blood</WikipediaURL>
+    <Title>Castlevania: Rondo of Blood</Title>
+    <UseDosBox>false</UseDosBox>
+    <UseScummVM>false</UseScummVM>
+    <Version>(Japan) [T-En by Burnt Lasagna &amp; Cubanraul v1.01] [n]</Version>
+    <Series />
+    <PlayMode>Single Player</PlayMode>
+    <Region>Japan</Region>
+    <PlayCount>0</PlayCount>
+    <PlayTime>0</PlayTime>
+    <Portable>false</Portable>
+    <Hide>false</Hide>
+    <Broken>false</Broken>
+    <CloneOf />
+    <Genre>Action; Adventure; Platform</Genre>
+    <MissingVideo>false</MissingVideo>
+    <MissingBoxFrontImage>false</MissingBoxFrontImage>
+    <MissingScreenshotImage>false</MissingScreenshotImage>
+    <MissingMarqueeImage>false</MissingMarqueeImage>
+    <MissingClearLogoImage>false</MissingClearLogoImage>
+    <MissingBackgroundImage>false</MissingBackgroundImage>
+    <MissingBox3dImage>false</MissingBox3dImage>
+    <MissingCartImage>false</MissingCartImage>
+    <MissingCart3dImage>true</MissingCart3dImage>
+    <MissingManual>true</MissingManual>
+    <MissingBannerImage>false</MissingBannerImage>
+    <MissingMusic>true</MissingMusic>
+    <UseStartupScreen>false</UseStartupScreen>
+    <HideAllNonExclusiveFullscreenWindows>false</HideAllNonExclusiveFullscreenWindows>
+    <StartupLoadDelay>0</StartupLoadDelay>
+    <HideMouseCursorInGame>false</HideMouseCursorInGame>
+    <DisableShutdownScreen>false</DisableShutdownScreen>
+    <AggressiveWindowHiding>false</AggressiveWindowHiding>
+    <OverrideDefaultStartupScreenSettings>false</OverrideDefaultStartupScreenSettings>
+    <UsePauseScreen>false</UsePauseScreen>
+    <PauseAutoHotkeyScript />
+    <ResumeAutoHotkeyScript />
+    <OverrideDefaultPauseScreenSettings>false</OverrideDefaultPauseScreenSettings>
+    <SuspendProcessOnPause>false</SuspendProcessOnPause>
+    <ForcefulPauseScreenActivation>false</ForcefulPauseScreenActivation>
+    <LoadStateAutoHotkeyScript />
+    <SaveStateAutoHotkeyScript />
+    <ResetAutoHotkeyScript />
+    <SwapDiscsAutoHotkeyScript />
+    <CustomDosBoxVersionPath />
+    <ReleaseType>Released</ReleaseType>
+    <MaxPlayers>1</MaxPlayers>
+    <VideoUrl>http://www.youtube.com/watch?v=0BPn4hGmYts</VideoUrl>
+    <AndroidBoxFrontThumbPath />
+    <AndroidBoxFrontFullPath />
+    <AndroidClearLogoThumbPath />
+    <AndroidClearLogoFullPath />
+    <AndroidBackgroundPath />
+    <AndroidBackgroundThumbPath />
+    <AndroidGameTitleScreenshotThumbPath />
+    <AndroidGameplayScreenshotThumbPath />
+    <AndroidGameTitleScreenshotPath />
+    <AndroidGameplayScreenshotPath />
+    <AndroidVideoPath />
+    <HasCloudSynced>false</HasCloudSynced>
+  </Game>
+  <Game>
+    <GogAppId />
+    <OriginAppId />
+    <OriginInstallPath />
+    <VideoPath />
+    <ThemeVideoPath />
+    <ApplicationPath>S:\roms-translated-1g1r\archive-org-nec-pc-engine-cd-turbografx-cd\Exile (USA) [Un-Worked Design by Supper v0 (28-01-2017)].zip</ApplicationPath>
+    <CommandLine />
+    <Completed>false</Completed>
+    <ConfigurationCommandLine />
+    <ConfigurationPath />
+    <DateAdded>2023-12-25T19:35:20.1709828+08:00</DateAdded>
+    <DateModified>2024-01-26T03:30:48.6519745+08:00</DateModified>
+    <Developer>Telenet Japan</Developer>
+    <DosBoxConfigurationPath />
+    <Emulator>c055fd74-0975-40ad-8f82-bc63ed1adb73</Emulator>
+    <Favorite>false</Favorite>
+    <ID>ea2ee868-e1d9-4fe6-a931-9fd37f13fe3f</ID>
+    <ManualPath />
+    <MusicPath />
+    <Notes>Become Sadler the desert warrior as he travels the known world in search of the precious Holimax! Join forces with Rumi, Kindi, and Fakhyle to piece together the puzzle that will allow you to find the Holimax and use it to overthrow the ruthless Klispin Crusaders! But keep your cool! In this quest, you'll have to trudge through waist deep snow, jump through haunted forests, plan a jailbreak, slink through creepy towers, and defeat terrifying monsters if you're going to get anywhere! Hurry! There is only one Holimax, and the enemy forces are closing in!</Notes>
+    <Platform>NEC TurboGrafx-CD [T-En]</Platform>
+    <Publisher>Working Designs</Publisher>
+    <Rating>Not Rated</Rating>
+    <ReleaseDate>1991-03-29T16:00:00+08:00</ReleaseDate>
+    <RootFolder />
+    <ScummVMAspectCorrection>false</ScummVMAspectCorrection>
+    <ScummVMFullscreen>false</ScummVMFullscreen>
+    <ScummVMGameDataFolderPath />
+    <ScummVMGameType />
+    <SortTitle />
+    <Source />
+    <StarRatingFloat>0</StarRatingFloat>
+    <StarRating>0</StarRating>
+    <CommunityStarRating>3.5192308</CommunityStarRating>
+    <CommunityStarRatingTotalVotes>26</CommunityStarRatingTotalVotes>
+    <Status>Imported ROM</Status>
+    <DatabaseID>9992</DatabaseID>
+    <WikipediaURL>https://en.wikipedia.org/wiki/Exile_(1988_video_game_series)</WikipediaURL>
+    <Title>Exile</Title>
+    <UseDosBox>false</UseDosBox>
+    <UseScummVM>false</UseScummVM>
+    <Version>(USA) [Un-Worked Design by Supper v0 (28-01-2017)]</Version>
+    <Series />
+    <PlayMode>Single Player</PlayMode>
+    <Region>North America</Region>
+    <PlayCount>0</PlayCount>
+    <PlayTime>0</PlayTime>
+    <Portable>false</Portable>
+    <Hide>false</Hide>
+    <Broken>false</Broken>
+    <CloneOf />
+    <Genre>Role-Playing</Genre>
+    <MissingVideo>true</MissingVideo>
+    <MissingBoxFrontImage>true</MissingBoxFrontImage>
+    <MissingScreenshotImage>false</MissingScreenshotImage>
+    <MissingMarqueeImage>true</MissingMarqueeImage>
+    <MissingClearLogoImage>false</MissingClearLogoImage>
+    <MissingBackgroundImage>true</MissingBackgroundImage>
+    <MissingBox3dImage>false</MissingBox3dImage>
+    <MissingCartImage>false</MissingCartImage>
+    <MissingCart3dImage>true</MissingCart3dImage>
+    <MissingManual>true</MissingManual>
+    <MissingBannerImage>false</MissingBannerImage>
+    <MissingMusic>true</MissingMusic>
+    <UseStartupScreen>false</UseStartupScreen>
+    <HideAllNonExclusiveFullscreenWindows>false</HideAllNonExclusiveFullscreenWindows>
+    <StartupLoadDelay>0</StartupLoadDelay>
+    <HideMouseCursorInGame>false</HideMouseCursorInGame>
+    <DisableShutdownScreen>false</DisableShutdownScreen>
+    <AggressiveWindowHiding>false</AggressiveWindowHiding>
+    <OverrideDefaultStartupScreenSettings>false</OverrideDefaultStartupScreenSettings>
+    <UsePauseScreen>false</UsePauseScreen>
+    <PauseAutoHotkeyScript />
+    <ResumeAutoHotkeyScript />
+    <OverrideDefaultPauseScreenSettings>false</OverrideDefaultPauseScreenSettings>
+    <SuspendProcessOnPause>false</SuspendProcessOnPause>
+    <ForcefulPauseScreenActivation>false</ForcefulPauseScreenActivation>
+    <LoadStateAutoHotkeyScript />
+    <SaveStateAutoHotkeyScript />
+    <ResetAutoHotkeyScript />
+    <SwapDiscsAutoHotkeyScript />
+    <CustomDosBoxVersionPath />
+    <ReleaseType>Released</ReleaseType>
+    <MaxPlayers>1</MaxPlayers>
+    <VideoUrl>https://www.youtube.com/watch?v=CkInczf7RL4</VideoUrl>
+    <AndroidBoxFrontThumbPath />
+    <AndroidBoxFrontFullPath />
+    <AndroidClearLogoThumbPath />
+    <AndroidClearLogoFullPath />
+    <AndroidBackgroundPath />
+    <AndroidBackgroundThumbPath />
+    <AndroidGameTitleScreenshotThumbPath />
+    <AndroidGameplayScreenshotThumbPath />
+    <AndroidGameTitleScreenshotPath />
+    <AndroidGameplayScreenshotPath />
+    <AndroidVideoPath />
+    <HasCloudSynced>false</HasCloudSynced>
+  </Game>
+  <Game>
+    <GogAppId />
+    <OriginAppId />
+    <OriginInstallPath />
+    <VideoPath />
+    <ThemeVideoPath />
+    <ApplicationPath>S:\roms-translated-1g1r\archive-org-nec-pc-engine-cd-turbografx-cd\Bishoujo Senshi Sailor Moon (Japan) [T-En by Supper &amp; TheMajinZenki v1.1] [Honorifics].zip</ApplicationPath>
+    <CommandLine />
+    <Completed>false</Completed>
+    <ConfigurationCommandLine />
+    <ConfigurationPath />
+    <DateAdded>2023-12-25T19:35:20.1714387+08:00</DateAdded>
+    <DateModified>2024-01-26T03:31:39.6930128+08:00</DateModified>
+    <Developer>Banpresto</Developer>
+    <DosBoxConfigurationPath />
+    <Emulator>c055fd74-0975-40ad-8f82-bc63ed1adb73</Emulator>
+    <Favorite>false</Favorite>
+    <ID>b5ac49b2-23ce-47ca-bdc9-820a0d085522</ID>
+    <ManualPath />
+    <MusicPath />
+    <Notes>Sailor Moon was the title of a video game released in Japan in 1994 for the PC-Engine console. The game was an interactive story, including characters and voice actors from the anime as well as some original characters.
+The songs "Koisuru Otome wa Makenai" and "Onaji Hoshi ni Umareta Futari Dakara" were written specifically for this game. A shortened version of each song appeared in the game, while full versions were available on the single "Sailor Moon: PC Engine Theme Songs".</Notes>
+    <Platform>NEC TurboGrafx-CD [T-En]</Platform>
+    <Publisher>Banpresto</Publisher>
+    <Rating>Not Rated</Rating>
+    <ReleaseDate>1994-08-05T15:00:00+08:00</ReleaseDate>
+    <RootFolder />
+    <ScummVMAspectCorrection>false</ScummVMAspectCorrection>
+    <ScummVMFullscreen>false</ScummVMFullscreen>
+    <ScummVMGameDataFolderPath />
+    <ScummVMGameType />
+    <SortTitle />
+    <Source />
+    <StarRatingFloat>0</StarRatingFloat>
+    <StarRating>0</StarRating>
+    <CommunityStarRating>3.2727273</CommunityStarRating>
+    <CommunityStarRatingTotalVotes>22</CommunityStarRatingTotalVotes>
+    <Status>Imported ROM</Status>
+    <DatabaseID>29744</DatabaseID>
+    <WikipediaURL />
+    <Title>Bishoujo Senshi Sailor Moon</Title>
+    <UseDosBox>false</UseDosBox>
+    <UseScummVM>false</UseScummVM>
+    <Version>(Japan) [T-En by Supper &amp; TheMajinZenki v1.1] [Honorifics]</Version>
+    <Series />
+    <PlayMode>Single Player</PlayMode>
+    <Region>Japan</Region>
+    <PlayCount>0</PlayCount>
+    <PlayTime>0</PlayTime>
+    <Portable>false</Portable>
+    <Hide>false</Hide>
+    <Broken>false</Broken>
+    <CloneOf />
+    <Genre>Adventure</Genre>
+    <MissingVideo>true</MissingVideo>
+    <MissingBoxFrontImage>true</MissingBoxFrontImage>
+    <MissingScreenshotImage>false</MissingScreenshotImage>
+    <MissingMarqueeImage>true</MissingMarqueeImage>
+    <MissingClearLogoImage>false</MissingClearLogoImage>
+    <MissingBackgroundImage>false</MissingBackgroundImage>
+    <MissingBox3dImage>false</MissingBox3dImage>
+    <MissingCartImage>false</MissingCartImage>
+    <MissingCart3dImage>true</MissingCart3dImage>
+    <MissingManual>true</MissingManual>
+    <MissingBannerImage>false</MissingBannerImage>
+    <MissingMusic>false</MissingMusic>
+    <UseStartupScreen>false</UseStartupScreen>
+    <HideAllNonExclusiveFullscreenWindows>false</HideAllNonExclusiveFullscreenWindows>
+    <StartupLoadDelay>0</StartupLoadDelay>
+    <HideMouseCursorInGame>false</HideMouseCursorInGame>
+    <DisableShutdownScreen>false</DisableShutdownScreen>
+    <AggressiveWindowHiding>false</AggressiveWindowHiding>
+    <OverrideDefaultStartupScreenSettings>false</OverrideDefaultStartupScreenSettings>
+    <UsePauseScreen>false</UsePauseScreen>
+    <PauseAutoHotkeyScript />
+    <ResumeAutoHotkeyScript />
+    <OverrideDefaultPauseScreenSettings>false</OverrideDefaultPauseScreenSettings>
+    <SuspendProcessOnPause>false</SuspendProcessOnPause>
+    <ForcefulPauseScreenActivation>false</ForcefulPauseScreenActivation>
+    <LoadStateAutoHotkeyScript />
+    <SaveStateAutoHotkeyScript />
+    <ResetAutoHotkeyScript />
+    <SwapDiscsAutoHotkeyScript />
+    <CustomDosBoxVersionPath />
+    <ReleaseType>Released</ReleaseType>
+    <MaxPlayers>1</MaxPlayers>
+    <VideoUrl>https://www.youtube.com/watch?v=CateUXJQXAs</VideoUrl>
+    <AndroidBoxFrontThumbPath />
+    <AndroidBoxFrontFullPath />
+    <AndroidClearLogoThumbPath />
+    <AndroidClearLogoFullPath />
+    <AndroidBackgroundPath />
+    <AndroidBackgroundThumbPath />
+    <AndroidGameTitleScreenshotThumbPath />
+    <AndroidGameplayScreenshotThumbPath />
+    <AndroidGameTitleScreenshotPath />
+    <AndroidGameplayScreenshotPath />
+    <AndroidVideoPath />
+    <HasCloudSynced>false</HasCloudSynced>
+  </Game>
+  <Game>
+    <GogAppId />
+    <OriginAppId />
+    <OriginInstallPath />
+    <VideoPath />
+    <ThemeVideoPath />
+    <ApplicationPath>S:\roms-translated-1g1r\archive-org-nec-pc-engine-cd-turbografx-cd\Bazar de Gozarre's Puzzle Game (Japan) [T-En by Dave Shadoff &amp; Diogo Ribeiro &amp; MooZ v1.0] [n].zip</ApplicationPath>
+    <CommandLine />
+    <Completed>false</Completed>
+    <ConfigurationCommandLine />
+    <ConfigurationPath />
+    <DateAdded>2023-12-25T19:35:20.1716067+08:00</DateAdded>
+    <DateModified>2024-01-26T03:32:19.661484+08:00</DateModified>
+    <Developer>Game Freak</Developer>
+    <DosBoxConfigurationPath />
+    <Emulator>c055fd74-0975-40ad-8f82-bc63ed1adb73</Emulator>
+    <Favorite>false</Favorite>
+    <ID>68b9fa52-574d-4277-89e8-59d65bdf25eb</ID>
+    <ManualPath />
+    <MusicPath />
+    <Notes>Bazaru de Gozaru no Game de Gozaru is a puzzle game starring a monkey protagonist named Bazaru. The concept of the game is remotely similar to that of Lemmings: the player's task is to "program" the actions of the hero in order to safely traverse a stage full of traps and hazards. Unlike Lemmings, there is only one primate to control in this game; also, the player's "programming" must be performed before letting the monkey loose, unlike the real-time player input in Lemmings.
+
+The player basically orders the monkey what to do at specific spots (which are highlighted by exclamation marks on the level map). In the beginning the levels are short and simple, and the monkey can perform only one action. As the game advances, the puzzles become more and more complex, and so is the amount of actions the monkey must perform to reach safety.</Notes>
+    <Platform>NEC TurboGrafx-CD [T-En]</Platform>
+    <Publisher>NEC Home Electronics</Publisher>
+    <Rating />
+    <ReleaseDate>1996-07-26T15:00:00+08:00</ReleaseDate>
+    <RootFolder />
+    <ScummVMAspectCorrection>false</ScummVMAspectCorrection>
+    <ScummVMFullscreen>false</ScummVMFullscreen>
+    <ScummVMGameDataFolderPath />
+    <ScummVMGameType />
+    <SortTitle />
+    <Source />
+    <StarRatingFloat>0</StarRatingFloat>
+    <StarRating>0</StarRating>
+    <CommunityStarRating>4.28125</CommunityStarRating>
+    <CommunityStarRatingTotalVotes>16</CommunityStarRatingTotalVotes>
+    <Status>Imported ROM</Status>
+    <DatabaseID>132990</DatabaseID>
+    <WikipediaURL />
+    <Title>Bazar de Gozarre's Puzzle Game</Title>
+    <UseDosBox>false</UseDosBox>
+    <UseScummVM>false</UseScummVM>
+    <Version>(Japan) [T-En by Dave Shadoff &amp; Diogo Ribeiro &amp; MooZ v1.0] [n]</Version>
+    <Series />
+    <PlayMode>Single Player</PlayMode>
+    <Region>Japan</Region>
+    <PlayCount>0</PlayCount>
+    <PlayTime>0</PlayTime>
+    <Portable>false</Portable>
+    <Hide>false</Hide>
+    <Broken>false</Broken>
+    <CloneOf />
+    <Genre>Puzzle</Genre>
+    <MissingVideo>true</MissingVideo>
+    <MissingBoxFrontImage>true</MissingBoxFrontImage>
+    <MissingScreenshotImage>false</MissingScreenshotImage>
+    <MissingMarqueeImage>true</MissingMarqueeImage>
+    <MissingClearLogoImage>false</MissingClearLogoImage>
+    <MissingBackgroundImage>true</MissingBackgroundImage>
+    <MissingBox3dImage>false</MissingBox3dImage>
+    <MissingCartImage>false</MissingCartImage>
+    <MissingCart3dImage>true</MissingCart3dImage>
+    <MissingManual>true</MissingManual>
+    <MissingBannerImage>false</MissingBannerImage>
+    <MissingMusic>true</MissingMusic>
+    <UseStartupScreen>false</UseStartupScreen>
+    <HideAllNonExclusiveFullscreenWindows>false</HideAllNonExclusiveFullscreenWindows>
+    <StartupLoadDelay>0</StartupLoadDelay>
+    <HideMouseCursorInGame>false</HideMouseCursorInGame>
+    <DisableShutdownScreen>false</DisableShutdownScreen>
+    <AggressiveWindowHiding>false</AggressiveWindowHiding>
+    <OverrideDefaultStartupScreenSettings>false</OverrideDefaultStartupScreenSettings>
+    <UsePauseScreen>false</UsePauseScreen>
+    <PauseAutoHotkeyScript />
+    <ResumeAutoHotkeyScript />
+    <OverrideDefaultPauseScreenSettings>false</OverrideDefaultPauseScreenSettings>
+    <SuspendProcessOnPause>false</SuspendProcessOnPause>
+    <ForcefulPauseScreenActivation>false</ForcefulPauseScreenActivation>
+    <LoadStateAutoHotkeyScript />
+    <SaveStateAutoHotkeyScript />
+    <ResetAutoHotkeyScript />
+    <SwapDiscsAutoHotkeyScript />
+    <CustomDosBoxVersionPath />
+    <ReleaseType>Released</ReleaseType>
+    <MaxPlayers>1</MaxPlayers>
+    <VideoUrl />
+    <AndroidBoxFrontThumbPath />
+    <AndroidBoxFrontFullPath />
+    <AndroidClearLogoThumbPath />
+    <AndroidClearLogoFullPath />
+    <AndroidBackgroundPath />
+    <AndroidBackgroundThumbPath />
+    <AndroidGameTitleScreenshotThumbPath />
+    <AndroidGameplayScreenshotThumbPath />
+    <AndroidGameTitleScreenshotPath />
+    <AndroidGameplayScreenshotPath />
+    <AndroidVideoPath />
+    <HasCloudSynced>false</HasCloudSynced>
+  </Game>
+  <Game>
+    <GogAppId />
+    <OriginAppId />
+    <OriginInstallPath />
+    <VideoPath />
+    <ThemeVideoPath />
+    <ApplicationPath>S:\roms-translated-1g1r\archive-org-nec-pc-engine-cd-turbografx-cd\Super Daisenryaku (Japan) [T-En by Gaijin Productions v0.99].zip</ApplicationPath>
+    <CommandLine />
+    <Completed>false</Completed>
+    <ConfigurationCommandLine />
+    <ConfigurationPath />
+    <DateAdded>2023-12-25T19:35:20.1693908+08:00</DateAdded>
+    <DateModified>2024-01-26T01:03:41.6113202+08:00</DateModified>
+    <Developer>SystemSoft</Developer>
+    <DosBoxConfigurationPath />
+    <Emulator>c055fd74-0975-40ad-8f82-bc63ed1adb73</Emulator>
+    <Favorite>false</Favorite>
+    <ID>337a8e0e-a974-4205-9e4f-e2796312791f</ID>
+    <ManualPath />
+    <MusicPath />
+    <Notes>Super Daisenryaku is one of the many titles in SystemSoft's long-running war strategy series. The game mechanics are based on Daisenryaku II, but many of the included maps are unique to this release, including several based on Phantasy Star in Sega's console version. There is no campaign mode, and any of the included maps can be played. Some maps are for two players, some for four, and any map can be played with any combination of human and computer players. The computer versions also feature an editor.
+
+The game is played on a large map made up of hexagonal spaces, each of which consists of one of the included terrain types. Each player controls a number of units (bought with money), which each take up one space on the grid. The unit types are for the most part based on real-life military equipment from around the time the game was released, what is available to the player depends on the chosen faction. The choices range from single nations, such as China or the USA (the CD port by Microcabin in particular adds a lot of smaller ones, like Sweden and Libya), to alliances and blocs, for example NATO, which uses a mixture of equipment of it's members.
+
+Different units have different strengths and weaknesses, which affect their performance in combat and their general role on the battlefield. The cheap infantry units for example are not very strong and mobile, but may capture facilities and cities, unlike battle tanks. Terrain also affects the outcome of battles. The goal of each game is to capture the other players' capitals.</Notes>
+    <Platform>NEC TurboGrafx-CD [T-En]</Platform>
+    <Publisher>Micro Cabin</Publisher>
+    <Rating>Not Rated</Rating>
+    <ReleaseDate>1990-04-27T15:00:00+08:00</ReleaseDate>
+    <RootFolder />
+    <ScummVMAspectCorrection>false</ScummVMAspectCorrection>
+    <ScummVMFullscreen>false</ScummVMFullscreen>
+    <ScummVMGameDataFolderPath />
+    <ScummVMGameType />
+    <SortTitle />
+    <Source />
+    <StarRatingFloat>0</StarRatingFloat>
+    <StarRating>0</StarRating>
+    <CommunityStarRating>4.6666665</CommunityStarRating>
+    <CommunityStarRatingTotalVotes>4</CommunityStarRatingTotalVotes>
+    <Status>Imported ROM</Status>
+    <DatabaseID>156845</DatabaseID>
+    <WikipediaURL />
+    <Title>Super Daisenryaku</Title>
+    <UseDosBox>false</UseDosBox>
+    <UseScummVM>false</UseScummVM>
+    <Version>(Japan) [T-En by Gaijin Productions v0.99]</Version>
+    <Series />
+    <PlayMode>Single Player</PlayMode>
+    <Region>Japan</Region>
+    <PlayCount>0</PlayCount>
+    <PlayTime>0</PlayTime>
+    <Portable>false</Portable>
+    <Hide>false</Hide>
+    <Broken>false</Broken>
+    <CloneOf />
+    <Genre>Strategy</Genre>
+    <MissingVideo>false</MissingVideo>
+    <MissingBoxFrontImage>false</MissingBoxFrontImage>
+    <MissingScreenshotImage>false</MissingScreenshotImage>
+    <MissingMarqueeImage>true</MissingMarqueeImage>
+    <MissingClearLogoImage>false</MissingClearLogoImage>
+    <MissingBackgroundImage>true</MissingBackgroundImage>
+    <MissingBox3dImage>false</MissingBox3dImage>
+    <MissingCartImage>false</MissingCartImage>
+    <MissingCart3dImage>true</MissingCart3dImage>
+    <MissingManual>true</MissingManual>
+    <MissingBannerImage>false</MissingBannerImage>
+    <MissingMusic>false</MissingMusic>
+    <UseStartupScreen>false</UseStartupScreen>
+    <HideAllNonExclusiveFullscreenWindows>false</HideAllNonExclusiveFullscreenWindows>
+    <StartupLoadDelay>0</StartupLoadDelay>
+    <HideMouseCursorInGame>false</HideMouseCursorInGame>
+    <DisableShutdownScreen>false</DisableShutdownScreen>
+    <AggressiveWindowHiding>false</AggressiveWindowHiding>
+    <OverrideDefaultStartupScreenSettings>false</OverrideDefaultStartupScreenSettings>
+    <UsePauseScreen>false</UsePauseScreen>
+    <PauseAutoHotkeyScript />
+    <ResumeAutoHotkeyScript />
+    <OverrideDefaultPauseScreenSettings>false</OverrideDefaultPauseScreenSettings>
+    <SuspendProcessOnPause>false</SuspendProcessOnPause>
+    <ForcefulPauseScreenActivation>false</ForcefulPauseScreenActivation>
+    <LoadStateAutoHotkeyScript />
+    <SaveStateAutoHotkeyScript />
+    <ResetAutoHotkeyScript />
+    <SwapDiscsAutoHotkeyScript />
+    <CustomDosBoxVersionPath />
+    <ReleaseType>Released</ReleaseType>
+    <MaxPlayers>1</MaxPlayers>
+    <VideoUrl />
+    <AndroidBoxFrontThumbPath />
+    <AndroidBoxFrontFullPath />
+    <AndroidClearLogoThumbPath />
+    <AndroidClearLogoFullPath />
+    <AndroidBackgroundPath />
+    <AndroidBackgroundThumbPath />
+    <AndroidGameTitleScreenshotThumbPath />
+    <AndroidGameplayScreenshotThumbPath />
+    <AndroidGameTitleScreenshotPath />
+    <AndroidGameplayScreenshotPath />
+    <AndroidVideoPath />
+    <HasCloudSynced>false</HasCloudSynced>
+  </Game>
+  <Game>
+    <GogAppId />
+    <OriginAppId />
+    <OriginInstallPath />
+    <VideoPath />
+    <ThemeVideoPath />
+    <ApplicationPath>S:\roms-translated-1g1r\archive-org-nec-pc-engine-cd-turbografx-cd\Private Eye dol (Japan) [T-En by Supper v1.0].zip</ApplicationPath>
+    <CommandLine />
+    <Completed>false</Completed>
+    <ConfigurationCommandLine />
+    <ConfigurationPath />
+    <DateAdded>2023-12-25T19:35:20.1699392+08:00</DateAdded>
+    <DateModified>2024-01-26T03:30:31.5683725+08:00</DateModified>
+    <Developer>HuneX</Developer>
+    <DosBoxConfigurationPath />
+    <Emulator>c055fd74-0975-40ad-8f82-bc63ed1adb73</Emulator>
+    <Favorite>false</Favorite>
+    <ID>8cf7db83-2e8d-411a-8c37-9d57e6460f1f</ID>
+    <ManualPath />
+    <MusicPath />
+    <Notes>Some day in the near future, the crew of an "idol" (a popular culture star) takes a ride on the bus through the countryside. One of the female crew members unexpectedly faints and is taken by her friends into an abandoned mansion discovered nearby. Very soon, however, the accident begins to repeat itself, and evidence of a gruesome murder and possible ghostly presence in the mansion surfaces. Mei Star, an investigator with the team, and her computerized holographic assistant Navi must solve the mystery before it becomes too late.
+
+Private eye dol is an adventure game played for the most part from a top-down perspective. The player navigates Mei around the playable environment, examines places and items of interest, and talks to other characters. With a few exceptions, there are no puzzles in the game, and the plot is advanced by triggering events. On several occasions items must be picked up, but they are used automatically in correspondent locations.</Notes>
+    <Platform>NEC TurboGrafx-CD [T-En]</Platform>
+    <Publisher>NEC Home Electronics</Publisher>
+    <Rating>Not Rated</Rating>
+    <ReleaseDate>1995-08-15T15:00:00+08:00</ReleaseDate>
+    <RootFolder />
+    <ScummVMAspectCorrection>false</ScummVMAspectCorrection>
+    <ScummVMFullscreen>false</ScummVMFullscreen>
+    <ScummVMGameDataFolderPath />
+    <ScummVMGameType />
+    <SortTitle />
+    <Source />
+    <StarRatingFloat>0</StarRatingFloat>
+    <StarRating>0</StarRating>
+    <CommunityStarRating>2.9166667</CommunityStarRating>
+    <CommunityStarRatingTotalVotes>6</CommunityStarRatingTotalVotes>
+    <Status>Imported ROM</Status>
+    <DatabaseID>156782</DatabaseID>
+    <WikipediaURL />
+    <Title>Private Eye dol</Title>
+    <UseDosBox>false</UseDosBox>
+    <UseScummVM>false</UseScummVM>
+    <Version>(Japan) [T-En by Supper v1.0]</Version>
+    <Series />
+    <PlayMode>Single Player</PlayMode>
+    <Region>Japan</Region>
+    <PlayCount>0</PlayCount>
+    <PlayTime>0</PlayTime>
+    <Portable>false</Portable>
+    <Hide>false</Hide>
+    <Broken>false</Broken>
+    <CloneOf />
+    <Genre>Adventure</Genre>
+    <MissingVideo>true</MissingVideo>
+    <MissingBoxFrontImage>true</MissingBoxFrontImage>
+    <MissingScreenshotImage>false</MissingScreenshotImage>
+    <MissingMarqueeImage>true</MissingMarqueeImage>
+    <MissingClearLogoImage>false</MissingClearLogoImage>
+    <MissingBackgroundImage>true</MissingBackgroundImage>
+    <MissingBox3dImage>false</MissingBox3dImage>
+    <MissingCartImage>false</MissingCartImage>
+    <MissingCart3dImage>true</MissingCart3dImage>
+    <MissingManual>true</MissingManual>
+    <MissingBannerImage>false</MissingBannerImage>
+    <MissingMusic>false</MissingMusic>
+    <UseStartupScreen>false</UseStartupScreen>
+    <HideAllNonExclusiveFullscreenWindows>false</HideAllNonExclusiveFullscreenWindows>
+    <StartupLoadDelay>0</StartupLoadDelay>
+    <HideMouseCursorInGame>false</HideMouseCursorInGame>
+    <DisableShutdownScreen>false</DisableShutdownScreen>
+    <AggressiveWindowHiding>false</AggressiveWindowHiding>
+    <OverrideDefaultStartupScreenSettings>false</OverrideDefaultStartupScreenSettings>
+    <UsePauseScreen>false</UsePauseScreen>
+    <PauseAutoHotkeyScript />
+    <ResumeAutoHotkeyScript />
+    <OverrideDefaultPauseScreenSettings>false</OverrideDefaultPauseScreenSettings>
+    <SuspendProcessOnPause>false</SuspendProcessOnPause>
+    <ForcefulPauseScreenActivation>false</ForcefulPauseScreenActivation>
+    <LoadStateAutoHotkeyScript />
+    <SaveStateAutoHotkeyScript />
+    <ResetAutoHotkeyScript />
+    <SwapDiscsAutoHotkeyScript />
+    <CustomDosBoxVersionPath />
+    <ReleaseType>Released</ReleaseType>
+    <MaxPlayers>1</MaxPlayers>
+    <VideoUrl />
+    <AndroidBoxFrontThumbPath />
+    <AndroidBoxFrontFullPath />
+    <AndroidClearLogoThumbPath />
+    <AndroidClearLogoFullPath />
+    <AndroidBackgroundPath />
+    <AndroidBackgroundThumbPath />
+    <AndroidGameTitleScreenshotThumbPath />
+    <AndroidGameplayScreenshotThumbPath />
+    <AndroidGameTitleScreenshotPath />
+    <AndroidGameplayScreenshotPath />
+    <AndroidVideoPath />
+    <HasCloudSynced>false</HasCloudSynced>
+  </Game>
+  <Game>
+    <GogAppId />
+    <OriginAppId />
+    <OriginInstallPath />
+    <VideoPath />
+    <ThemeVideoPath />
+    <ApplicationPath>S:\roms-translated-1g1r\archive-org-nec-pc-engine-cd-turbografx-cd\Startling Odyssey II - Maryuu Sensou (Japan) [T-En by TruMisery v20100331].zip</ApplicationPath>
+    <CommandLine />
+    <Completed>false</Completed>
+    <ConfigurationCommandLine />
+    <ConfigurationPath />
+    <DateAdded>2023-12-25T19:35:20.1695311+08:00</DateAdded>
+    <DateModified>2024-01-26T01:05:13.2827419+08:00</DateModified>
+    <Developer>Rayforce</Developer>
+    <DosBoxConfigurationPath />
+    <Emulator>c055fd74-0975-40ad-8f82-bc63ed1adb73</Emulator>
+    <Favorite>false</Favorite>
+    <ID>43a074cb-0e88-4244-b10b-ee1623553726</ID>
+    <ManualPath />
+    <MusicPath />
+    <Notes>A mad scientist named Dr. Killbait succeeded in resurrecting one of the eight ancient dragons, endangering the country of Hyneld. The captain of the king's knights, Robin Solford, witnesses the dragon's attack on the castle. His two comrades are killed, and the princess Patricia, Robin's adoptive sister, is nowhere to be seen. Robin is determined to find Patricia and stop Dr. Killbait, and begins to wander around the world, hoping to find friends who will help him on his perilous journey.
+
+Startling Odyssey II: Maryū Sensō is not a sequel, but a prequel to the first game, Robin Solford being the father of the previous game's hero. The game is set in a predominantly medieval fantasy-themed world with a touch of sci-fi, and plays like a traditional Japanese RPG. The player navigates a party of characters on a top-down overworld, visiting cities and dungeon-like areas. Enemies are encountered randomly. Battles are viewed from isometric perspective, with an "auto" option to speed up combat. 
+
+Characters join the party as dictated by the plot; the party will eventually contain four active combatants. Each character has his or her own sets of offensive, supporting, or healing spells, which are learned automatically when the character levels up. The game features full-screen anime-style cutscenes and voice acting during important events.</Notes>
+    <Platform>NEC TurboGrafx-CD [T-En]</Platform>
+    <Publisher>Rayforce</Publisher>
+    <Rating />
+    <ReleaseDate>1994-10-21T15:00:00+08:00</ReleaseDate>
+    <RootFolder />
+    <ScummVMAspectCorrection>false</ScummVMAspectCorrection>
+    <ScummVMFullscreen>false</ScummVMFullscreen>
+    <ScummVMGameDataFolderPath />
+    <ScummVMGameType />
+    <SortTitle />
+    <Source />
+    <StarRatingFloat>0</StarRatingFloat>
+    <StarRating>0</StarRating>
+    <CommunityStarRating>3.6153846</CommunityStarRating>
+    <CommunityStarRatingTotalVotes>13</CommunityStarRatingTotalVotes>
+    <Status>Imported ROM</Status>
+    <DatabaseID>33033</DatabaseID>
+    <WikipediaURL />
+    <Title>Startling Odyssey II: Maryuu Sensou</Title>
+    <UseDosBox>false</UseDosBox>
+    <UseScummVM>false</UseScummVM>
+    <Version>(Japan) [T-En by TruMisery v20100331]</Version>
+    <Series />
+    <PlayMode>Multiplayer</PlayMode>
+    <Region>Japan</Region>
+    <PlayCount>0</PlayCount>
+    <PlayTime>0</PlayTime>
+    <Portable>false</Portable>
+    <Hide>false</Hide>
+    <Broken>false</Broken>
+    <CloneOf />
+    <Genre>Role-Playing</Genre>
+    <MissingVideo>false</MissingVideo>
+    <MissingBoxFrontImage>false</MissingBoxFrontImage>
+    <MissingScreenshotImage>false</MissingScreenshotImage>
+    <MissingMarqueeImage>true</MissingMarqueeImage>
+    <MissingClearLogoImage>false</MissingClearLogoImage>
+    <MissingBackgroundImage>true</MissingBackgroundImage>
+    <MissingBox3dImage>false</MissingBox3dImage>
+    <MissingCartImage>false</MissingCartImage>
+    <MissingCart3dImage>true</MissingCart3dImage>
+    <MissingManual>true</MissingManual>
+    <MissingBannerImage>false</MissingBannerImage>
+    <MissingMusic>false</MissingMusic>
+    <UseStartupScreen>false</UseStartupScreen>
+    <HideAllNonExclusiveFullscreenWindows>false</HideAllNonExclusiveFullscreenWindows>
+    <StartupLoadDelay>0</StartupLoadDelay>
+    <HideMouseCursorInGame>false</HideMouseCursorInGame>
+    <DisableShutdownScreen>false</DisableShutdownScreen>
+    <AggressiveWindowHiding>false</AggressiveWindowHiding>
+    <OverrideDefaultStartupScreenSettings>false</OverrideDefaultStartupScreenSettings>
+    <UsePauseScreen>false</UsePauseScreen>
+    <PauseAutoHotkeyScript />
+    <ResumeAutoHotkeyScript />
+    <OverrideDefaultPauseScreenSettings>false</OverrideDefaultPauseScreenSettings>
+    <SuspendProcessOnPause>false</SuspendProcessOnPause>
+    <ForcefulPauseScreenActivation>false</ForcefulPauseScreenActivation>
+    <LoadStateAutoHotkeyScript />
+    <SaveStateAutoHotkeyScript />
+    <ResetAutoHotkeyScript />
+    <SwapDiscsAutoHotkeyScript />
+    <CustomDosBoxVersionPath />
+    <ReleaseType />
+    <MaxPlayers>0</MaxPlayers>
+    <VideoUrl />
+    <AndroidBoxFrontThumbPath />
+    <AndroidBoxFrontFullPath />
+    <AndroidClearLogoThumbPath />
+    <AndroidClearLogoFullPath />
+    <AndroidBackgroundPath />
+    <AndroidBackgroundThumbPath />
+    <AndroidGameTitleScreenshotThumbPath />
+    <AndroidGameplayScreenshotThumbPath />
+    <AndroidGameTitleScreenshotPath />
+    <AndroidGameplayScreenshotPath />
+    <AndroidVideoPath />
+    <HasCloudSynced>false</HasCloudSynced>
+  </Game>
+  <Game>
+    <GogAppId />
+    <OriginAppId />
+    <OriginInstallPath />
+    <VideoPath />
+    <ThemeVideoPath />
+    <ApplicationPath>S:\roms-translated-1g1r\archive-org-nec-pc-engine-cd-turbografx-cd\Sorcery Saga I - The Fiery Kindergarten Graduation (Japan) [T-En by LIPEMCO! Translations v1.0] [n].zip</ApplicationPath>
+    <CommandLine />
+    <Completed>false</Completed>
+    <ConfigurationCommandLine />
+    <ConfigurationPath />
+    <DateAdded>2023-12-25T19:35:20.1696956+08:00</DateAdded>
+    <DateModified>2024-01-26T03:32:28.8491912+08:00</DateModified>
+    <Developer>NEC Avenue</Developer>
+    <DosBoxConfigurationPath />
+    <Emulator>c055fd74-0975-40ad-8f82-bc63ed1adb73</Emulator>
+    <Favorite>false</Favorite>
+    <ID>1cb15ace-91d5-42a7-a49b-c4cbb6a58bb6</ID>
+    <ManualPath />
+    <MusicPath />
+    <Notes>Madou Monogatari I: Honoo No Sotsuenji is the PC-Engine CD remake Madou Monogatari I in a more fully colorful form like Madou Monogatari: Genesis. Like the original story, Arle must collect three spheres and defeat Fudoushi in the tower in order to graduate kindergarten.</Notes>
+    <Platform>NEC TurboGrafx-CD [T-En]</Platform>
+    <Publisher>NEC Avenue</Publisher>
+    <Rating>Not Rated</Rating>
+    <ReleaseDate>1996-12-13T16:00:00+08:00</ReleaseDate>
+    <RootFolder />
+    <ScummVMAspectCorrection>false</ScummVMAspectCorrection>
+    <ScummVMFullscreen>false</ScummVMFullscreen>
+    <ScummVMGameDataFolderPath />
+    <ScummVMGameType />
+    <SortTitle />
+    <Source />
+    <StarRatingFloat>0</StarRatingFloat>
+    <StarRating>0</StarRating>
+    <CommunityStarRating>4.285714</CommunityStarRating>
+    <CommunityStarRatingTotalVotes>8</CommunityStarRatingTotalVotes>
+    <Status>Imported ROM</Status>
+    <DatabaseID>34512</DatabaseID>
+    <WikipediaURL />
+    <Title>Sorcery Saga I: The Fiery Kindergarten Graduation</Title>
+    <UseDosBox>false</UseDosBox>
+    <UseScummVM>false</UseScummVM>
+    <Version>(Japan) [T-En by LIPEMCO! Translations v1.0] [n]</Version>
+    <Series />
+    <PlayMode>Single Player</PlayMode>
+    <Region>Japan</Region>
+    <PlayCount>0</PlayCount>
+    <PlayTime>0</PlayTime>
+    <Portable>false</Portable>
+    <Hide>false</Hide>
+    <Broken>false</Broken>
+    <CloneOf />
+    <Genre>Role-Playing</Genre>
+    <MissingVideo>true</MissingVideo>
+    <MissingBoxFrontImage>true</MissingBoxFrontImage>
+    <MissingScreenshotImage>false</MissingScreenshotImage>
+    <MissingMarqueeImage>true</MissingMarqueeImage>
+    <MissingClearLogoImage>false</MissingClearLogoImage>
+    <MissingBackgroundImage>true</MissingBackgroundImage>
+    <MissingBox3dImage>false</MissingBox3dImage>
+    <MissingCartImage>false</MissingCartImage>
+    <MissingCart3dImage>true</MissingCart3dImage>
+    <MissingManual>true</MissingManual>
+    <MissingBannerImage>false</MissingBannerImage>
+    <MissingMusic>true</MissingMusic>
+    <UseStartupScreen>false</UseStartupScreen>
+    <HideAllNonExclusiveFullscreenWindows>false</HideAllNonExclusiveFullscreenWindows>
+    <StartupLoadDelay>0</StartupLoadDelay>
+    <HideMouseCursorInGame>false</HideMouseCursorInGame>
+    <DisableShutdownScreen>false</DisableShutdownScreen>
+    <AggressiveWindowHiding>false</AggressiveWindowHiding>
+    <OverrideDefaultStartupScreenSettings>false</OverrideDefaultStartupScreenSettings>
+    <UsePauseScreen>false</UsePauseScreen>
+    <PauseAutoHotkeyScript />
+    <ResumeAutoHotkeyScript />
+    <OverrideDefaultPauseScreenSettings>false</OverrideDefaultPauseScreenSettings>
+    <SuspendProcessOnPause>false</SuspendProcessOnPause>
+    <ForcefulPauseScreenActivation>false</ForcefulPauseScreenActivation>
+    <LoadStateAutoHotkeyScript />
+    <SaveStateAutoHotkeyScript />
+    <ResetAutoHotkeyScript />
+    <SwapDiscsAutoHotkeyScript />
+    <CustomDosBoxVersionPath />
+    <ReleaseType>Released</ReleaseType>
+    <MaxPlayers>1</MaxPlayers>
+    <VideoUrl>https://www.youtube.com/watch?v=Y_bLtE35QBg</VideoUrl>
+    <AndroidBoxFrontThumbPath />
+    <AndroidBoxFrontFullPath />
+    <AndroidClearLogoThumbPath />
+    <AndroidClearLogoFullPath />
+    <AndroidBackgroundPath />
+    <AndroidBackgroundThumbPath />
+    <AndroidGameTitleScreenshotThumbPath />
+    <AndroidGameplayScreenshotThumbPath />
+    <AndroidGameTitleScreenshotPath />
+    <AndroidGameplayScreenshotPath />
+    <AndroidVideoPath />
+    <HasCloudSynced>false</HasCloudSynced>
+  </Game>
+  <Game>
+    <GogAppId />
+    <OriginAppId />
+    <OriginInstallPath />
+    <VideoPath />
+    <ThemeVideoPath />
+    <ApplicationPath>S:\roms-translated-1g1r\archive-org-nec-pc-engine-cd-turbografx-cd\Exile - Wicked Phenomenon (USA) [Un-Worked Design by Supper v1 (09-02-2017)].zip</ApplicationPath>
+    <CommandLine />
+    <Completed>false</Completed>
+    <ConfigurationCommandLine />
+    <ConfigurationPath />
+    <DateAdded>2023-12-25T19:35:20.1706614+08:00</DateAdded>
+    <DateModified>2024-01-26T03:30:48.391911+08:00</DateModified>
+    <Developer>AlfaSystem</Developer>
+    <DosBoxConfigurationPath />
+    <Emulator>c055fd74-0975-40ad-8f82-bc63ed1adb73</Emulator>
+    <Favorite>false</Favorite>
+    <ID>fa356cce-b7f8-4041-bf80-1d4f23635b0f</ID>
+    <ManualPath />
+    <MusicPath />
+    <Notes>Exile: Wicked Phenomenon is a sequel to Exile, following once again the adventures of the series' protagonist, the Middle Eastern assassin. Separated from his companions in the end of the previous game, Sadler encounters a mysterious prophet who tells him a curse has fallen upon Baghdad, and the destiny of the world lies in his hands. Sadler travels to Baghdad, where he encounters old friends and old enemies, and learns about a great threat that stirs hatred and turns people into monsters...
+
+Like its predecessors, Exile: Wicked Phenomenon is an action RPG. The game is viewed from top-down perspective when exploring towns and other peaceful locations, but switches to side-scrolling view for hostile areas. The player controls one character at a time, but is able to switch between Sadler and his friends (Rumi, Kindi, and Fakhyle), whenever they travel together. Each of the characters has advantages and disadvantages (strength, ranged weapons, spells, limited mobility, etc.). Characters gain experience points and money upon defeating enemies. Leveling up is automatic, increases the characters' parameters and hit points. In towns, characters can buy and equip weapons, armor, as well as healing and supportive items.</Notes>
+    <Platform>NEC TurboGrafx-CD [T-En]</Platform>
+    <Publisher>Working Designs</Publisher>
+    <Rating>Not Rated</Rating>
+    <ReleaseDate>1992-09-22T15:00:00+08:00</ReleaseDate>
+    <RootFolder />
+    <ScummVMAspectCorrection>false</ScummVMAspectCorrection>
+    <ScummVMFullscreen>false</ScummVMFullscreen>
+    <ScummVMGameDataFolderPath />
+    <ScummVMGameType />
+    <SortTitle />
+    <Source />
+    <StarRatingFloat>0</StarRatingFloat>
+    <StarRating>0</StarRating>
+    <CommunityStarRating>4</CommunityStarRating>
+    <CommunityStarRatingTotalVotes>3</CommunityStarRatingTotalVotes>
+    <Status>Imported ROM</Status>
+    <DatabaseID>218973</DatabaseID>
+    <WikipediaURL>https://en.wikipedia.org/wiki/Exile_(1988_video_game_series)#Exile:_Wicked_Phenomenon</WikipediaURL>
+    <Title>Exile: Wicked Phenomenon</Title>
+    <UseDosBox>false</UseDosBox>
+    <UseScummVM>false</UseScummVM>
+    <Version>(USA) [Un-Worked Design by Supper v1 (09-02-2017)]</Version>
+    <Series />
+    <PlayMode>Single Player</PlayMode>
+    <Region>North America</Region>
+    <PlayCount>0</PlayCount>
+    <PlayTime>0</PlayTime>
+    <Portable>false</Portable>
+    <Hide>false</Hide>
+    <Broken>false</Broken>
+    <CloneOf />
+    <Genre>Role-Playing</Genre>
+    <MissingVideo>true</MissingVideo>
+    <MissingBoxFrontImage>true</MissingBoxFrontImage>
+    <MissingScreenshotImage>false</MissingScreenshotImage>
+    <MissingMarqueeImage>true</MissingMarqueeImage>
+    <MissingClearLogoImage>false</MissingClearLogoImage>
+    <MissingBackgroundImage>true</MissingBackgroundImage>
+    <MissingBox3dImage>false</MissingBox3dImage>
+    <MissingCartImage>true</MissingCartImage>
+    <MissingCart3dImage>true</MissingCart3dImage>
+    <MissingManual>true</MissingManual>
+    <MissingBannerImage>false</MissingBannerImage>
+    <MissingMusic>true</MissingMusic>
+    <UseStartupScreen>false</UseStartupScreen>
+    <HideAllNonExclusiveFullscreenWindows>false</HideAllNonExclusiveFullscreenWindows>
+    <StartupLoadDelay>0</StartupLoadDelay>
+    <HideMouseCursorInGame>false</HideMouseCursorInGame>
+    <DisableShutdownScreen>false</DisableShutdownScreen>
+    <AggressiveWindowHiding>false</AggressiveWindowHiding>
+    <OverrideDefaultStartupScreenSettings>false</OverrideDefaultStartupScreenSettings>
+    <UsePauseScreen>false</UsePauseScreen>
+    <PauseAutoHotkeyScript />
+    <ResumeAutoHotkeyScript />
+    <OverrideDefaultPauseScreenSettings>false</OverrideDefaultPauseScreenSettings>
+    <SuspendProcessOnPause>false</SuspendProcessOnPause>
+    <ForcefulPauseScreenActivation>false</ForcefulPauseScreenActivation>
+    <LoadStateAutoHotkeyScript />
+    <SaveStateAutoHotkeyScript />
+    <ResetAutoHotkeyScript />
+    <SwapDiscsAutoHotkeyScript />
+    <CustomDosBoxVersionPath />
+    <ReleaseType>Released</ReleaseType>
+    <MaxPlayers>1</MaxPlayers>
+    <VideoUrl />
+    <AndroidBoxFrontThumbPath />
+    <AndroidBoxFrontFullPath />
+    <AndroidClearLogoThumbPath />
+    <AndroidClearLogoFullPath />
+    <AndroidBackgroundPath />
+    <AndroidBackgroundThumbPath />
+    <AndroidGameTitleScreenshotThumbPath />
+    <AndroidGameplayScreenshotThumbPath />
+    <AndroidGameTitleScreenshotPath />
+    <AndroidGameplayScreenshotPath />
+    <AndroidVideoPath />
+    <HasCloudSynced>false</HasCloudSynced>
+  </Game>
+  <Game>
+    <GogAppId />
+    <OriginAppId />
+    <OriginInstallPath />
+    <VideoPath />
+    <ThemeVideoPath />
+    <ApplicationPath>S:\roms-translated-1g1r\archive-org-nec-pc-engine-cd-turbografx-cd\Galaxy Fraulein Yuna 2 - The Eternal Princess (Japan) [T-En by Supper &amp; Mafoo343 &amp; TheMajinZenki v1.1] [n].zip</ApplicationPath>
+    <CommandLine />
+    <Completed>false</Completed>
+    <ConfigurationCommandLine />
+    <ConfigurationPath />
+    <DateAdded>2023-12-25T19:35:20.1702788+08:00</DateAdded>
+    <DateModified>2024-01-26T03:33:52.9095846+08:00</DateModified>
+    <Developer>Hudson Soft</Developer>
+    <DosBoxConfigurationPath />
+    <Emulator>c055fd74-0975-40ad-8f82-bc63ed1adb73</Emulator>
+    <Favorite>false</Favorite>
+    <ID>1ac2aace-55ed-46d8-b970-9eae447f85b0</ID>
+    <ManualPath />
+    <MusicPath />
+    <Notes />
+    <Platform>NEC TurboGrafx-CD [T-En]</Platform>
+    <Publisher>Hudson Soft</Publisher>
+    <Rating />
+    <ReleaseDate>1995-06-30T15:00:00+08:00</ReleaseDate>
+    <RootFolder />
+    <ScummVMAspectCorrection>false</ScummVMAspectCorrection>
+    <ScummVMFullscreen>false</ScummVMFullscreen>
+    <ScummVMGameDataFolderPath />
+    <ScummVMGameType />
+    <SortTitle />
+    <Source />
+    <StarRatingFloat>0</StarRatingFloat>
+    <StarRating>0</StarRating>
+    <CommunityStarRating>3.090909</CommunityStarRating>
+    <CommunityStarRatingTotalVotes>11</CommunityStarRatingTotalVotes>
+    <Status>Imported ROM</Status>
+    <DatabaseID>131860</DatabaseID>
+    <WikipediaURL>https://en.wikipedia.org/wiki/Galaxy_Fr%C3%A4ulein_Yuna#Video_games</WikipediaURL>
+    <Title>Ginga Ojousama Densetsu Yuna 2: Eien no Princess</Title>
+    <UseDosBox>false</UseDosBox>
+    <UseScummVM>false</UseScummVM>
+    <Version>(Japan) [T-En by Supper &amp; Mafoo343 &amp; TheMajinZenki v1.1] [n]</Version>
+    <Series />
+    <PlayMode>Single Player</PlayMode>
+    <Region>Japan</Region>
+    <PlayCount>0</PlayCount>
+    <PlayTime>0</PlayTime>
+    <Portable>false</Portable>
+    <Hide>false</Hide>
+    <Broken>false</Broken>
+    <CloneOf />
+    <Genre>Adventure</Genre>
+    <MissingVideo>true</MissingVideo>
+    <MissingBoxFrontImage>true</MissingBoxFrontImage>
+    <MissingScreenshotImage>false</MissingScreenshotImage>
+    <MissingMarqueeImage>true</MissingMarqueeImage>
+    <MissingClearLogoImage>false</MissingClearLogoImage>
+    <MissingBackgroundImage>true</MissingBackgroundImage>
+    <MissingBox3dImage>false</MissingBox3dImage>
+    <MissingCartImage>false</MissingCartImage>
+    <MissingCart3dImage>true</MissingCart3dImage>
+    <MissingManual>true</MissingManual>
+    <MissingBannerImage>false</MissingBannerImage>
+    <MissingMusic>false</MissingMusic>
+    <UseStartupScreen>false</UseStartupScreen>
+    <HideAllNonExclusiveFullscreenWindows>false</HideAllNonExclusiveFullscreenWindows>
+    <StartupLoadDelay>0</StartupLoadDelay>
+    <HideMouseCursorInGame>false</HideMouseCursorInGame>
+    <DisableShutdownScreen>false</DisableShutdownScreen>
+    <AggressiveWindowHiding>false</AggressiveWindowHiding>
+    <OverrideDefaultStartupScreenSettings>false</OverrideDefaultStartupScreenSettings>
+    <UsePauseScreen>false</UsePauseScreen>
+    <PauseAutoHotkeyScript />
+    <ResumeAutoHotkeyScript />
+    <OverrideDefaultPauseScreenSettings>false</OverrideDefaultPauseScreenSettings>
+    <SuspendProcessOnPause>false</SuspendProcessOnPause>
+    <ForcefulPauseScreenActivation>false</ForcefulPauseScreenActivation>
+    <LoadStateAutoHotkeyScript />
+    <SaveStateAutoHotkeyScript />
+    <ResetAutoHotkeyScript />
+    <SwapDiscsAutoHotkeyScript />
+    <CustomDosBoxVersionPath />
+    <ReleaseType>Released</ReleaseType>
+    <MaxPlayers>1</MaxPlayers>
+    <VideoUrl />
+    <AndroidBoxFrontThumbPath />
+    <AndroidBoxFrontFullPath />
+    <AndroidClearLogoThumbPath />
+    <AndroidClearLogoFullPath />
+    <AndroidBackgroundPath />
+    <AndroidBackgroundThumbPath />
+    <AndroidGameTitleScreenshotThumbPath />
+    <AndroidGameplayScreenshotThumbPath />
+    <AndroidGameTitleScreenshotPath />
+    <AndroidGameplayScreenshotPath />
+    <AndroidVideoPath />
+    <HasCloudSynced>false</HasCloudSynced>
+  </Game>
+  <Game>
+    <GogAppId />
+    <OriginAppId />
+    <OriginInstallPath />
+    <VideoPath />
+    <ThemeVideoPath />
+    <ApplicationPath>S:\roms-translated-1g1r\archive-org-nec-pc-engine-cd-turbografx-cd\Dead of the Brain 1&amp;2 (Japan) [T-En by Dave Shadoff v1.0E] [DOTB1 only].zip</ApplicationPath>
+    <CommandLine />
+    <Completed>false</Completed>
+    <ConfigurationCommandLine />
+    <ConfigurationPath />
+    <DateAdded>2023-12-25T19:35:20.1710736+08:00</DateAdded>
+    <DateModified>2024-01-26T13:23:47.4984982+08:00</DateModified>
+    <Developer>NEC Home Electronics</Developer>
+    <DosBoxConfigurationPath />
+    <Emulator>c055fd74-0975-40ad-8f82-bc63ed1adb73</Emulator>
+    <Favorite>false</Favorite>
+    <ID>3e0e8ec8-f92e-4d8e-a082-2ebe30a360cf</ID>
+    <ManualPath />
+    <MusicPath />
+    <Notes>Cole’s friend Doctor Cooger has made an incredible discovery which he wants to show Cole but things go awry… Then, a zombie rampage which threatens to destroy the town and Cole needs to do whatever is necessary in order to try to save himself, his girlfriend Sheila, and Doctor Cooger.
+
+Dead of the Brain 1 &amp; 2 was the last official release to be published on the PC Engine in Japan in 1999, and consists of two complete games.
+
+The first of these two games was released on several home computers in Japan (PC-98, FM Towns, X68000, MSX2) early in the 1990s, with Dead of the Brain 2 being released only on PC-98 prior to this release.
+
+The games are done in a Visual Novel style, similar to a point-and-click adventure. You control Cole’s actions as he tries to figure out how to save himself and his friends. There are some graphic scenes of violence and sexual situations in this game. For this reason, the game carries an “18+” rating, and was marked as such in Japan.</Notes>
+    <Platform>NEC TurboGrafx-CD [T-En]</Platform>
+    <Publisher>NEC Home Electronics</Publisher>
+    <Rating>Not Rated</Rating>
+    <ReleaseDate>1999-06-03T15:00:00+08:00</ReleaseDate>
+    <RootFolder />
+    <ScummVMAspectCorrection>false</ScummVMAspectCorrection>
+    <ScummVMFullscreen>false</ScummVMFullscreen>
+    <ScummVMGameDataFolderPath />
+    <ScummVMGameType />
+    <SortTitle />
+    <Source />
+    <StarRatingFloat>0</StarRatingFloat>
+    <StarRating>0</StarRating>
+    <CommunityStarRating>3.0625</CommunityStarRating>
+    <CommunityStarRatingTotalVotes>8</CommunityStarRatingTotalVotes>
+    <Status>Imported ROM</Status>
+    <DatabaseID>34509</DatabaseID>
+    <WikipediaURL />
+    <Title>Dead of the Brain 1 &amp; 2</Title>
+    <UseDosBox>false</UseDosBox>
+    <UseScummVM>false</UseScummVM>
+    <Version>(Japan) [T-En by Dave Shadoff v1.0E] [DOTB1 only]</Version>
+    <Series />
+    <PlayMode>Multiplayer</PlayMode>
+    <Region>Japan</Region>
+    <PlayCount>0</PlayCount>
+    <PlayTime>0</PlayTime>
+    <Portable>false</Portable>
+    <Hide>false</Hide>
+    <Broken>false</Broken>
+    <CloneOf />
+    <Genre>Adventure</Genre>
+    <MissingVideo>true</MissingVideo>
+    <MissingBoxFrontImage>true</MissingBoxFrontImage>
+    <MissingScreenshotImage>true</MissingScreenshotImage>
+    <MissingMarqueeImage>true</MissingMarqueeImage>
+    <MissingClearLogoImage>false</MissingClearLogoImage>
+    <MissingBackgroundImage>true</MissingBackgroundImage>
+    <MissingBox3dImage>false</MissingBox3dImage>
+    <MissingCartImage>false</MissingCartImage>
+    <MissingCart3dImage>true</MissingCart3dImage>
+    <MissingManual>true</MissingManual>
+    <MissingBannerImage>false</MissingBannerImage>
+    <MissingMusic>false</MissingMusic>
+    <UseStartupScreen>false</UseStartupScreen>
+    <HideAllNonExclusiveFullscreenWindows>false</HideAllNonExclusiveFullscreenWindows>
+    <StartupLoadDelay>0</StartupLoadDelay>
+    <HideMouseCursorInGame>false</HideMouseCursorInGame>
+    <DisableShutdownScreen>false</DisableShutdownScreen>
+    <AggressiveWindowHiding>false</AggressiveWindowHiding>
+    <OverrideDefaultStartupScreenSettings>false</OverrideDefaultStartupScreenSettings>
+    <UsePauseScreen>false</UsePauseScreen>
+    <PauseAutoHotkeyScript />
+    <ResumeAutoHotkeyScript />
+    <OverrideDefaultPauseScreenSettings>false</OverrideDefaultPauseScreenSettings>
+    <SuspendProcessOnPause>false</SuspendProcessOnPause>
+    <ForcefulPauseScreenActivation>false</ForcefulPauseScreenActivation>
+    <LoadStateAutoHotkeyScript />
+    <SaveStateAutoHotkeyScript />
+    <ResetAutoHotkeyScript />
+    <SwapDiscsAutoHotkeyScript />
+    <CustomDosBoxVersionPath />
+    <ReleaseType>Released</ReleaseType>
+    <MaxPlayers>0</MaxPlayers>
+    <VideoUrl />
+    <AndroidBoxFrontThumbPath />
+    <AndroidBoxFrontFullPath />
+    <AndroidClearLogoThumbPath />
+    <AndroidClearLogoFullPath />
+    <AndroidBackgroundPath />
+    <AndroidBackgroundThumbPath />
+    <AndroidGameTitleScreenshotThumbPath />
+    <AndroidGameplayScreenshotThumbPath />
+    <AndroidGameTitleScreenshotPath />
+    <AndroidGameplayScreenshotPath />
+    <AndroidVideoPath />
+    <HasCloudSynced>false</HasCloudSynced>
+  </Game>
+  <Game>
+    <GogAppId />
+    <OriginAppId />
+    <OriginInstallPath />
+    <VideoPath />
+    <ThemeVideoPath />
+    <ApplicationPath>S:\roms-translated-1g1r\archive-org-nec-pc-engine-cd-turbografx-cd\Cosmic Fantasy 2 (USA) [Un-Worked Design by Supper v0 (21-03-2017)].zip</ApplicationPath>
+    <CommandLine />
+    <Completed>false</Completed>
+    <ConfigurationCommandLine />
+    <ConfigurationPath />
+    <DateAdded>2023-12-25T19:35:20.1711403+08:00</DateAdded>
+    <DateModified>2024-01-29T01:57:57.9871985+08:00</DateModified>
+    <Developer>Telenet Japan</Developer>
+    <DosBoxConfigurationPath />
+    <Emulator>c055fd74-0975-40ad-8f82-bc63ed1adb73</Emulator>
+    <Favorite>false</Favorite>
+    <ID>b69d7590-38f0-4703-914b-8f7f5c84d970</ID>
+    <ManualPath />
+    <MusicPath />
+    <Notes>Van is a young boy who lives on the planet Idea, a place where technology has not yet reached a high level. One day his sweetheart Laura gets kidnapped by an unknown villain. Van soon discovers that Laura possesses mysterious powers that may grant immortality to the one who marries her. That is exactly what the evil wizard Galam has in mind. Van sets off to rescue Laura, on a quest that involves intergalactic journeys and travel through time.
+
+Cosmic Fantasy 2 is a sequel to Cosmic Fantasy: Bōken Shōnen Yuu, and the only installment in the series to have been released in the West. Though initially not directly related to its predecessor story-wise, the game features several common characters and themes.
+
+Like the previous game, it is a Japanese-style RPG set in a mixed sci-fi and medieval world. The game has random enemy encounters and simple turn-based combat mechanics. Player-controlled characters can learn and use various offensive and healing spells; however, enemies are restricted to physical attacks. Characters join and leave the party frequently, as dictated by the plot; the party may contain up to four active combatants. Story progression and overworld exploration is linear; dungeons are usually fairly complex and maze-like. Full-screen anime-style cutscenes with voice-overs advance the story of the game.</Notes>
+    <Platform>NEC TurboGrafx-CD [T-En]</Platform>
+    <Publisher>Working Designs</Publisher>
+    <Rating>Not Rated</Rating>
+    <ReleaseDate>1991-04-05T16:00:00+08:00</ReleaseDate>
+    <RootFolder />
+    <ScummVMAspectCorrection>false</ScummVMAspectCorrection>
+    <ScummVMFullscreen>false</ScummVMFullscreen>
+    <ScummVMGameDataFolderPath />
+    <ScummVMGameType />
+    <SortTitle />
+    <Source />
+    <StarRatingFloat>0</StarRatingFloat>
+    <StarRating>0</StarRating>
+    <CommunityStarRating>4.2272725</CommunityStarRating>
+    <CommunityStarRatingTotalVotes>21</CommunityStarRatingTotalVotes>
+    <Status>Imported ROM</Status>
+    <DatabaseID>9988</DatabaseID>
+    <WikipediaURL>https://en.wikipedia.org/wiki/Cosmic_Fantasy_2</WikipediaURL>
+    <Title>Cosmic Fantasy 2</Title>
+    <UseDosBox>false</UseDosBox>
+    <UseScummVM>false</UseScummVM>
+    <Version>(USA) [Un-Worked Design by Supper v0 (21-03-2017)]</Version>
+    <Series />
+    <PlayMode>Single Player</PlayMode>
+    <Region>North America</Region>
+    <PlayCount>0</PlayCount>
+    <PlayTime>0</PlayTime>
+    <Portable>false</Portable>
+    <Hide>false</Hide>
+    <Broken>false</Broken>
+    <CloneOf />
+    <Genre>Role-Playing</Genre>
+    <MissingVideo>true</MissingVideo>
+    <MissingBoxFrontImage>false</MissingBoxFrontImage>
+    <MissingScreenshotImage>false</MissingScreenshotImage>
+    <MissingMarqueeImage>true</MissingMarqueeImage>
+    <MissingClearLogoImage>false</MissingClearLogoImage>
+    <MissingBackgroundImage>true</MissingBackgroundImage>
+    <MissingBox3dImage>false</MissingBox3dImage>
+    <MissingCartImage>false</MissingCartImage>
+    <MissingCart3dImage>true</MissingCart3dImage>
+    <MissingManual>true</MissingManual>
+    <MissingBannerImage>false</MissingBannerImage>
+    <MissingMusic>true</MissingMusic>
+    <UseStartupScreen>false</UseStartupScreen>
+    <HideAllNonExclusiveFullscreenWindows>false</HideAllNonExclusiveFullscreenWindows>
+    <StartupLoadDelay>0</StartupLoadDelay>
+    <HideMouseCursorInGame>false</HideMouseCursorInGame>
+    <DisableShutdownScreen>false</DisableShutdownScreen>
+    <AggressiveWindowHiding>false</AggressiveWindowHiding>
+    <OverrideDefaultStartupScreenSettings>false</OverrideDefaultStartupScreenSettings>
+    <UsePauseScreen>false</UsePauseScreen>
+    <PauseAutoHotkeyScript />
+    <ResumeAutoHotkeyScript />
+    <OverrideDefaultPauseScreenSettings>false</OverrideDefaultPauseScreenSettings>
+    <SuspendProcessOnPause>false</SuspendProcessOnPause>
+    <ForcefulPauseScreenActivation>false</ForcefulPauseScreenActivation>
+    <LoadStateAutoHotkeyScript />
+    <SaveStateAutoHotkeyScript />
+    <ResetAutoHotkeyScript />
+    <SwapDiscsAutoHotkeyScript />
+    <CustomDosBoxVersionPath />
+    <ReleaseType>Released</ReleaseType>
+    <MaxPlayers>1</MaxPlayers>
+    <VideoUrl />
+    <AndroidBoxFrontThumbPath />
+    <AndroidBoxFrontFullPath />
+    <AndroidClearLogoThumbPath />
+    <AndroidClearLogoFullPath />
+    <AndroidBackgroundPath />
+    <AndroidBackgroundThumbPath />
+    <AndroidGameTitleScreenshotThumbPath />
+    <AndroidGameplayScreenshotThumbPath />
+    <AndroidGameTitleScreenshotPath />
+    <AndroidGameplayScreenshotPath />
+    <AndroidVideoPath />
+    <HasCloudSynced>false</HasCloudSynced>
+  </Game>
+  <Game>
+    <GogAppId />
+    <OriginAppId />
+    <OriginInstallPath />
+    <VideoPath />
+    <ThemeVideoPath />
+    <ApplicationPath>S:\roms-translated-1g1r\archive-org-nec-pc-engine-cd-turbografx-cd\Galaxy Fraulein Yuna (Japan) [T-En by Supper &amp; Mafoo343 v1.2] [n].zip</ApplicationPath>
+    <CommandLine />
+    <Completed>false</Completed>
+    <ConfigurationCommandLine />
+    <ConfigurationPath />
+    <DateAdded>2023-12-25T19:35:20.1704023+08:00</DateAdded>
+    <DateModified>2024-01-29T01:57:50.8720458+08:00</DateModified>
+    <Developer>Red Entertainment</Developer>
+    <DosBoxConfigurationPath />
+    <Emulator>c055fd74-0975-40ad-8f82-bc63ed1adb73</Emulator>
+    <Favorite>false</Favorite>
+    <ID>0b9dd554-c4fe-4e22-a1b3-b4213d9d5594</ID>
+    <ManualPath />
+    <MusicPath />
+    <Notes>After having successfully saved the Earth, Yuna and her new friend, the ever-hungry female android Yuri Cube, return to their normal high school life - or so they think. Because her old enemies will do anything to destroy her, including wrongly accusing her of world domination plans. This draws the attention of a highly ranked female intelligence officer of the Galaxy Alliance, who operated under codename "Sirene" and who pretends to be an exchange student in the Shiraokadai High School, while her true goal is to arrest Yuna...</Notes>
+    <Platform>NEC TurboGrafx-CD [T-En]</Platform>
+    <Publisher>Hudson Soft</Publisher>
+    <Rating>Not Rated</Rating>
+    <ReleaseDate>1992-11-06T16:00:00+08:00</ReleaseDate>
+    <RootFolder />
+    <ScummVMAspectCorrection>false</ScummVMAspectCorrection>
+    <ScummVMFullscreen>false</ScummVMFullscreen>
+    <ScummVMGameDataFolderPath />
+    <ScummVMGameType />
+    <SortTitle />
+    <Source />
+    <StarRatingFloat>0</StarRatingFloat>
+    <StarRating>0</StarRating>
+    <CommunityStarRating>3.6153846</CommunityStarRating>
+    <CommunityStarRatingTotalVotes>13</CommunityStarRatingTotalVotes>
+    <Status>Imported ROM</Status>
+    <DatabaseID>131856</DatabaseID>
+    <WikipediaURL>https://en.wikipedia.org/wiki/Galaxy_Fr%C3%A4ulein_Yuna#Video_games</WikipediaURL>
+    <Title>Galaxy Fraulein Yuna</Title>
+    <UseDosBox>false</UseDosBox>
+    <UseScummVM>false</UseScummVM>
+    <Version>(Japan) [T-En by Supper &amp; Mafoo343 v1.2] [n]</Version>
+    <Series />
+    <PlayMode>Single Player</PlayMode>
+    <Region>Japan</Region>
+    <PlayCount>0</PlayCount>
+    <PlayTime>0</PlayTime>
+    <Portable>false</Portable>
+    <Hide>false</Hide>
+    <Broken>false</Broken>
+    <CloneOf />
+    <Genre>Adventure</Genre>
+    <MissingVideo>true</MissingVideo>
+    <MissingBoxFrontImage>false</MissingBoxFrontImage>
+    <MissingScreenshotImage>false</MissingScreenshotImage>
+    <MissingMarqueeImage>true</MissingMarqueeImage>
+    <MissingClearLogoImage>false</MissingClearLogoImage>
+    <MissingBackgroundImage>true</MissingBackgroundImage>
+    <MissingBox3dImage>false</MissingBox3dImage>
+    <MissingCartImage>false</MissingCartImage>
+    <MissingCart3dImage>true</MissingCart3dImage>
+    <MissingManual>true</MissingManual>
+    <MissingBannerImage>false</MissingBannerImage>
+    <MissingMusic>true</MissingMusic>
+    <UseStartupScreen>false</UseStartupScreen>
+    <HideAllNonExclusiveFullscreenWindows>false</HideAllNonExclusiveFullscreenWindows>
+    <StartupLoadDelay>0</StartupLoadDelay>
+    <HideMouseCursorInGame>false</HideMouseCursorInGame>
+    <DisableShutdownScreen>false</DisableShutdownScreen>
+    <AggressiveWindowHiding>false</AggressiveWindowHiding>
+    <OverrideDefaultStartupScreenSettings>false</OverrideDefaultStartupScreenSettings>
+    <UsePauseScreen>false</UsePauseScreen>
+    <PauseAutoHotkeyScript />
+    <ResumeAutoHotkeyScript />
+    <OverrideDefaultPauseScreenSettings>false</OverrideDefaultPauseScreenSettings>
+    <SuspendProcessOnPause>false</SuspendProcessOnPause>
+    <ForcefulPauseScreenActivation>false</ForcefulPauseScreenActivation>
+    <LoadStateAutoHotkeyScript />
+    <SaveStateAutoHotkeyScript />
+    <ResetAutoHotkeyScript />
+    <SwapDiscsAutoHotkeyScript />
+    <CustomDosBoxVersionPath />
+    <ReleaseType>Released</ReleaseType>
+    <MaxPlayers>1</MaxPlayers>
+    <VideoUrl />
+    <AndroidBoxFrontThumbPath />
+    <AndroidBoxFrontFullPath />
+    <AndroidClearLogoThumbPath />
+    <AndroidClearLogoFullPath />
+    <AndroidBackgroundPath />
+    <AndroidBackgroundThumbPath />
+    <AndroidGameTitleScreenshotThumbPath />
+    <AndroidGameplayScreenshotThumbPath />
+    <AndroidGameTitleScreenshotPath />
+    <AndroidGameplayScreenshotPath />
+    <AndroidVideoPath />
+    <HasCloudSynced>false</HasCloudSynced>
+  </Game>
+  <Game>
+    <GogAppId />
+    <OriginAppId />
+    <OriginInstallPath />
+    <VideoPath />
+    <ThemeVideoPath />
+    <ApplicationPath>S:\roms-translated-1g1r\archive-org-nec-pc-engine-cd-turbografx-cd\Ys IV - The Dawn of Ys (Japan) [T-En by NightWolve v0.95] [En Dub by Burnt Lasagna v1.1].zip</ApplicationPath>
+    <CommandLine />
+    <Completed>false</Completed>
+    <ConfigurationCommandLine />
+    <ConfigurationPath />
+    <DateAdded>2023-12-25T19:35:20.1717929+08:00</DateAdded>
+    <DateModified>2024-01-26T01:01:02.079004+08:00</DateModified>
+    <Developer>Hudson Soft</Developer>
+    <DosBoxConfigurationPath />
+    <Emulator>c055fd74-0975-40ad-8f82-bc63ed1adb73</Emulator>
+    <Favorite>false</Favorite>
+    <ID>293118a6-be32-4370-b9bd-9bd1f0ce9c02</ID>
+    <ManualPath />
+    <MusicPath />
+    <Notes>The Dawn of Ys is one of two games released under the title of Ys IV, the other being Tonkin House's Ys IV: Mask of the Sun. The two games share the same basic story, but have many differences regarding concrete events, locations, gameplay details, etc. The events of the game take place a short while after those described in Ys II, and before the events of Ys III: Wanderers from Ys.
+
+As the game begins, Adol and his friend return to the town of Minea, where the first game began. The evil Lord Darm has been defeated, and it's time to relax and spend some time with friends - but not for long. A new evil is rising, and Adol decides to set sail for the overseas land of Celceta to investigate these occurrences.
+
+Ys IV returns to the style of play used in the first and second games. The gameplay area is viewed from a top-down perspective, and the player attacks enemies by running into them to cause damage. Combat is slightly more sophisticated than in the first two games, since Adol can now move in eight directions, and attacking enemies diagonally or from the sides is more efficient than bumping into them headstrong. Adol gains experience from defeating enemies, which serves to raise his attack and defense power, like in the previous games. He can equip various swords, armor, shields, and rings to enhance his attributes. The magic system introduced in Ys II is also brought back for this game.
+
+Ys IV has received a full fan translation and fan dub of all the in-game dialogue.</Notes>
+    <Platform>NEC TurboGrafx-CD [T-En]</Platform>
+    <Publisher>Hudson Soft</Publisher>
+    <Rating>Not Rated</Rating>
+    <ReleaseDate>1993-12-22T16:00:00+08:00</ReleaseDate>
+    <RootFolder />
+    <ScummVMAspectCorrection>false</ScummVMAspectCorrection>
+    <ScummVMFullscreen>false</ScummVMFullscreen>
+    <ScummVMGameDataFolderPath />
+    <ScummVMGameType />
+    <SortTitle />
+    <Source />
+    <StarRatingFloat>0</StarRatingFloat>
+    <StarRating>0</StarRating>
+    <CommunityStarRating>4.0833335</CommunityStarRating>
+    <CommunityStarRatingTotalVotes>30</CommunityStarRatingTotalVotes>
+    <Status>Imported ROM</Status>
+    <DatabaseID>10014</DatabaseID>
+    <WikipediaURL>https://en.wikipedia.org/wiki/Ys_IV:_The_Dawn_of_Ys</WikipediaURL>
+    <Title>Ys IV: The Dawn of Ys</Title>
+    <UseDosBox>false</UseDosBox>
+    <UseScummVM>false</UseScummVM>
+    <Version>(Japan) [T-En by NightWolve v0.95] [En Dub by Burnt Lasagna v1.1]</Version>
+    <Series />
+    <PlayMode>Single Player</PlayMode>
+    <Region>Japan</Region>
+    <PlayCount>0</PlayCount>
+    <PlayTime>0</PlayTime>
+    <Portable>false</Portable>
+    <Hide>false</Hide>
+    <Broken>false</Broken>
+    <CloneOf />
+    <Genre>Action; Role-Playing</Genre>
+    <MissingVideo>false</MissingVideo>
+    <MissingBoxFrontImage>false</MissingBoxFrontImage>
+    <MissingScreenshotImage>false</MissingScreenshotImage>
+    <MissingMarqueeImage>false</MissingMarqueeImage>
+    <MissingClearLogoImage>false</MissingClearLogoImage>
+    <MissingBackgroundImage>true</MissingBackgroundImage>
+    <MissingBox3dImage>false</MissingBox3dImage>
+    <MissingCartImage>false</MissingCartImage>
+    <MissingCart3dImage>true</MissingCart3dImage>
+    <MissingManual>true</MissingManual>
+    <MissingBannerImage>false</MissingBannerImage>
+    <MissingMusic>false</MissingMusic>
+    <UseStartupScreen>false</UseStartupScreen>
+    <HideAllNonExclusiveFullscreenWindows>false</HideAllNonExclusiveFullscreenWindows>
+    <StartupLoadDelay>0</StartupLoadDelay>
+    <HideMouseCursorInGame>false</HideMouseCursorInGame>
+    <DisableShutdownScreen>false</DisableShutdownScreen>
+    <AggressiveWindowHiding>false</AggressiveWindowHiding>
+    <OverrideDefaultStartupScreenSettings>false</OverrideDefaultStartupScreenSettings>
+    <UsePauseScreen>false</UsePauseScreen>
+    <PauseAutoHotkeyScript />
+    <ResumeAutoHotkeyScript />
+    <OverrideDefaultPauseScreenSettings>false</OverrideDefaultPauseScreenSettings>
+    <SuspendProcessOnPause>false</SuspendProcessOnPause>
+    <ForcefulPauseScreenActivation>false</ForcefulPauseScreenActivation>
+    <LoadStateAutoHotkeyScript />
+    <SaveStateAutoHotkeyScript />
+    <ResetAutoHotkeyScript />
+    <SwapDiscsAutoHotkeyScript />
+    <CustomDosBoxVersionPath />
+    <ReleaseType>Released</ReleaseType>
+    <MaxPlayers>1</MaxPlayers>
+    <VideoUrl />
+    <AndroidBoxFrontThumbPath />
+    <AndroidBoxFrontFullPath />
+    <AndroidClearLogoThumbPath />
+    <AndroidClearLogoFullPath />
+    <AndroidBackgroundPath />
+    <AndroidBackgroundThumbPath />
+    <AndroidGameTitleScreenshotThumbPath />
+    <AndroidGameplayScreenshotThumbPath />
+    <AndroidGameTitleScreenshotPath />
+    <AndroidGameplayScreenshotPath />
+    <AndroidVideoPath />
+    <HasCloudSynced>false</HasCloudSynced>
+  </Game>
+  <Game>
+    <GogAppId />
+    <OriginAppId />
+    <OriginInstallPath />
+    <VideoPath />
+    <ThemeVideoPath />
+    <ApplicationPath>S:\roms-translated-1g1r\archive-org-nec-pc-engine-cd-turbografx-cd\Might and Magic (Japan) [T-En by TiCoKH v20230918] [Req NuFont BIOS].zip</ApplicationPath>
+    <CommandLine />
+    <Completed>false</Completed>
+    <ConfigurationCommandLine />
+    <ConfigurationPath />
+    <DateAdded>2023-12-25T19:35:20.1701498+08:00</DateAdded>
+    <DateModified>2024-01-29T01:56:00.550407+08:00</DateModified>
+    <Developer>NEC Avenue</Developer>
+    <DosBoxConfigurationPath />
+    <Emulator>c055fd74-0975-40ad-8f82-bc63ed1adb73</Emulator>
+    <Favorite>false</Favorite>
+    <ID>b2f3bd77-fbf9-4da2-be9e-df80938d23a9</ID>
+    <ManualPath />
+    <MusicPath />
+    <Notes>Fantasy stat-driven RPG.</Notes>
+    <Platform>NEC TurboGrafx-CD [T-En]</Platform>
+    <Publisher>NEC Avenue</Publisher>
+    <Rating>Not Rated</Rating>
+    <ReleaseDate>1992-01-24T16:00:00+08:00</ReleaseDate>
+    <RootFolder />
+    <ScummVMAspectCorrection>false</ScummVMAspectCorrection>
+    <ScummVMFullscreen>false</ScummVMFullscreen>
+    <ScummVMGameDataFolderPath />
+    <ScummVMGameType />
+    <SortTitle />
+    <Source />
+    <StarRatingFloat>0</StarRatingFloat>
+    <StarRating>0</StarRating>
+    <CommunityStarRating>4</CommunityStarRating>
+    <CommunityStarRatingTotalVotes>7</CommunityStarRatingTotalVotes>
+    <Status>Imported ROM</Status>
+    <DatabaseID>123565</DatabaseID>
+    <WikipediaURL>https://en.wikipedia.org/wiki/Might_and_Magic</WikipediaURL>
+    <Title>Might and Magic</Title>
+    <UseDosBox>false</UseDosBox>
+    <UseScummVM>false</UseScummVM>
+    <Version>(Japan) [T-En by TiCoKH v20230918] [Req NuFont BIOS]</Version>
+    <Series />
+    <PlayMode>Single Player</PlayMode>
+    <Region>Japan</Region>
+    <PlayCount>0</PlayCount>
+    <PlayTime>0</PlayTime>
+    <Portable>false</Portable>
+    <Hide>false</Hide>
+    <Broken>false</Broken>
+    <CloneOf />
+    <Genre>Role-Playing</Genre>
+    <MissingVideo>true</MissingVideo>
+    <MissingBoxFrontImage>false</MissingBoxFrontImage>
+    <MissingScreenshotImage>false</MissingScreenshotImage>
+    <MissingMarqueeImage>true</MissingMarqueeImage>
+    <MissingClearLogoImage>false</MissingClearLogoImage>
+    <MissingBackgroundImage>true</MissingBackgroundImage>
+    <MissingBox3dImage>false</MissingBox3dImage>
+    <MissingCartImage>false</MissingCartImage>
+    <MissingCart3dImage>true</MissingCart3dImage>
+    <MissingManual>true</MissingManual>
+    <MissingBannerImage>false</MissingBannerImage>
+    <MissingMusic>false</MissingMusic>
+    <UseStartupScreen>false</UseStartupScreen>
+    <HideAllNonExclusiveFullscreenWindows>false</HideAllNonExclusiveFullscreenWindows>
+    <StartupLoadDelay>0</StartupLoadDelay>
+    <HideMouseCursorInGame>false</HideMouseCursorInGame>
+    <DisableShutdownScreen>false</DisableShutdownScreen>
+    <AggressiveWindowHiding>false</AggressiveWindowHiding>
+    <OverrideDefaultStartupScreenSettings>false</OverrideDefaultStartupScreenSettings>
+    <UsePauseScreen>false</UsePauseScreen>
+    <PauseAutoHotkeyScript />
+    <ResumeAutoHotkeyScript />
+    <OverrideDefaultPauseScreenSettings>false</OverrideDefaultPauseScreenSettings>
+    <SuspendProcessOnPause>false</SuspendProcessOnPause>
+    <ForcefulPauseScreenActivation>false</ForcefulPauseScreenActivation>
+    <LoadStateAutoHotkeyScript />
+    <SaveStateAutoHotkeyScript />
+    <ResetAutoHotkeyScript />
+    <SwapDiscsAutoHotkeyScript />
+    <CustomDosBoxVersionPath />
+    <ReleaseType />
+    <MaxPlayers>1</MaxPlayers>
+    <VideoUrl>https://www.youtube.com/watch?v=CvSLA5KFRZU</VideoUrl>
+    <AndroidBoxFrontThumbPath />
+    <AndroidBoxFrontFullPath />
+    <AndroidClearLogoThumbPath />
+    <AndroidClearLogoFullPath />
+    <AndroidBackgroundPath />
+    <AndroidBackgroundThumbPath />
+    <AndroidGameTitleScreenshotThumbPath />
+    <AndroidGameplayScreenshotThumbPath />
+    <AndroidGameTitleScreenshotPath />
+    <AndroidGameplayScreenshotPath />
+    <AndroidVideoPath />
+    <HasCloudSynced>false</HasCloudSynced>
+  </Game>
+  <Game>
+    <GogAppId />
+    <OriginAppId />
+    <OriginInstallPath />
+    <VideoPath />
+    <ThemeVideoPath />
+    <ApplicationPath>S:\roms-translated-1g1r\archive-org-nec-pc-engine-cd-turbografx-cd\Motteke Tamago (Japan) [T-En by Dave Shadoff v1.0].zip</ApplicationPath>
+    <CommandLine />
+    <Completed>false</Completed>
+    <ConfigurationCommandLine />
+    <ConfigurationPath />
+    <DateAdded>2023-12-25T19:35:20.1700598+08:00</DateAdded>
+    <DateModified>2024-01-26T01:07:37.8012299+08:00</DateModified>
+    <Developer>NAXAT Soft</Developer>
+    <DosBoxConfigurationPath />
+    <Emulator>c055fd74-0975-40ad-8f82-bc63ed1adb73</Emulator>
+    <Favorite>false</Favorite>
+    <ID>9926f4ba-3772-4f91-a161-44c244f9c00a</ID>
+    <ManualPath />
+    <MusicPath />
+    <Notes>You control a cute little duck walking around a maze, collecting eggs and powerups. When your eggs hatch, they head for your home, and bring you points (sometimes bonus points too). Of course, you can always disrupt the efforts of the other players, and there are other perils in the game. So, the object of the game is basically to hatch the most eggs &amp; get the chicks to your home before anyone else... There are 3 worlds, each containing 10 levels which are all selectable at anytime... The game follows much the same look &amp; feel as the Bomberman series, similarly, it allows up to 4 simultaneous players for multi-barrels of fun.</Notes>
+    <Platform>NEC TurboGrafx-CD [T-En]</Platform>
+    <Publisher>Tokuma Shoten Intermedia</Publisher>
+    <Rating>Not Rated</Rating>
+    <ReleaseDate>1997-04-16T15:00:00+08:00</ReleaseDate>
+    <RootFolder />
+    <ScummVMAspectCorrection>false</ScummVMAspectCorrection>
+    <ScummVMFullscreen>false</ScummVMFullscreen>
+    <ScummVMGameDataFolderPath />
+    <ScummVMGameType />
+    <SortTitle />
+    <Source />
+    <StarRatingFloat>0</StarRatingFloat>
+    <StarRating>0</StarRating>
+    <CommunityStarRating>3.5333333</CommunityStarRating>
+    <CommunityStarRatingTotalVotes>15</CommunityStarRatingTotalVotes>
+    <Status>Imported ROM</Status>
+    <DatabaseID>33509</DatabaseID>
+    <WikipediaURL />
+    <Title>Motteke Tamago</Title>
+    <UseDosBox>false</UseDosBox>
+    <UseScummVM>false</UseScummVM>
+    <Version>(Japan) [T-En by Dave Shadoff v1.0]</Version>
+    <Series />
+    <PlayMode>Multiplayer</PlayMode>
+    <Region>Japan</Region>
+    <PlayCount>0</PlayCount>
+    <PlayTime>0</PlayTime>
+    <Portable>false</Portable>
+    <Hide>false</Hide>
+    <Broken>false</Broken>
+    <CloneOf />
+    <Genre>Puzzle</Genre>
+    <MissingVideo>false</MissingVideo>
+    <MissingBoxFrontImage>false</MissingBoxFrontImage>
+    <MissingScreenshotImage>false</MissingScreenshotImage>
+    <MissingMarqueeImage>false</MissingMarqueeImage>
+    <MissingClearLogoImage>false</MissingClearLogoImage>
+    <MissingBackgroundImage>true</MissingBackgroundImage>
+    <MissingBox3dImage>false</MissingBox3dImage>
+    <MissingCartImage>false</MissingCartImage>
+    <MissingCart3dImage>true</MissingCart3dImage>
+    <MissingManual>true</MissingManual>
+    <MissingBannerImage>false</MissingBannerImage>
+    <MissingMusic>false</MissingMusic>
+    <UseStartupScreen>false</UseStartupScreen>
+    <HideAllNonExclusiveFullscreenWindows>false</HideAllNonExclusiveFullscreenWindows>
+    <StartupLoadDelay>0</StartupLoadDelay>
+    <HideMouseCursorInGame>false</HideMouseCursorInGame>
+    <DisableShutdownScreen>false</DisableShutdownScreen>
+    <AggressiveWindowHiding>false</AggressiveWindowHiding>
+    <OverrideDefaultStartupScreenSettings>false</OverrideDefaultStartupScreenSettings>
+    <UsePauseScreen>false</UsePauseScreen>
+    <PauseAutoHotkeyScript />
+    <ResumeAutoHotkeyScript />
+    <OverrideDefaultPauseScreenSettings>false</OverrideDefaultPauseScreenSettings>
+    <SuspendProcessOnPause>false</SuspendProcessOnPause>
+    <ForcefulPauseScreenActivation>false</ForcefulPauseScreenActivation>
+    <LoadStateAutoHotkeyScript />
+    <SaveStateAutoHotkeyScript />
+    <ResetAutoHotkeyScript />
+    <SwapDiscsAutoHotkeyScript />
+    <CustomDosBoxVersionPath />
+    <ReleaseType>Released</ReleaseType>
+    <MaxPlayers>4</MaxPlayers>
+    <VideoUrl />
+    <AndroidBoxFrontThumbPath />
+    <AndroidBoxFrontFullPath />
+    <AndroidClearLogoThumbPath />
+    <AndroidClearLogoFullPath />
+    <AndroidBackgroundPath />
+    <AndroidBackgroundThumbPath />
+    <AndroidGameTitleScreenshotThumbPath />
+    <AndroidGameplayScreenshotThumbPath />
+    <AndroidGameTitleScreenshotPath />
+    <AndroidGameplayScreenshotPath />
+    <AndroidVideoPath />
+    <HasCloudSynced>false</HasCloudSynced>
+  </Game>
+  <Game>
+    <GogAppId />
+    <OriginAppId />
+    <OriginInstallPath />
+    <VideoPath />
+    <ThemeVideoPath />
+    <ApplicationPath>S:\roms-translated-1g1r\archive-org-nec-pc-engine-cd-turbografx-cd\Xak III - The Eternal Recurrence (Japan) [T-En by NightWolve v1.00].zip</ApplicationPath>
+    <CommandLine />
+    <Completed>false</Completed>
+    <ConfigurationCommandLine />
+    <ConfigurationPath />
+    <DateAdded>2023-12-25T19:35:20.1719532+08:00</DateAdded>
+    <DateModified>2024-01-26T01:06:29.6524235+08:00</DateModified>
+    <Developer>Micro Cabin</Developer>
+    <DosBoxConfigurationPath />
+    <Emulator>c055fd74-0975-40ad-8f82-bc63ed1adb73</Emulator>
+    <Favorite>false</Favorite>
+    <ID>42e008ad-2ad8-4e40-b148-a29be02e848e</ID>
+    <ManualPath />
+    <MusicPath />
+    <Notes>The great hero Latok, the descendant of the war god Duel, has returned to his hometown Fearless, where he lives peacefully with his mother. But one day, a messenger brings terrible news: the castle of Farland was attacked, the king, the princess, and countless soldiers brutally slain. Zomu Dizae, the third and the final demon commander of the dark world Zekisis (Latok has defeated the other two, Badu and Gospel), has arrived. He is aided by the treacherous Necromancer, who turned the soldiers of Farland into monsters. Will Latok be able to defeat the evil once again?
+
+Xak III: The Eternal Recurrence is an action RPG, similar in gameplay style to its predecessors, but also incorporating some elements first introduced in Tower of Gazel, such as the ability to jump and having companions (although this feature is much more limited here). Jumping ability is crucial in many cases, as there are obstacles that can only be avoided by jumping over them. Latok starts at level 50, but still can gain experience points and become stronger. A new (and very useful) feature is hit points restoration, which occurs when Latok is standing still. To counter that, enemies can re-spawn, which means that there aren't many completely safe areas in the game.</Notes>
+    <Platform>NEC TurboGrafx-CD [T-En]</Platform>
+    <Publisher>NEC Home Electronics</Publisher>
+    <Rating>Not Rated</Rating>
+    <ReleaseDate>1994-09-30T15:00:00+08:00</ReleaseDate>
+    <RootFolder />
+    <ScummVMAspectCorrection>false</ScummVMAspectCorrection>
+    <ScummVMFullscreen>false</ScummVMFullscreen>
+    <ScummVMGameDataFolderPath />
+    <ScummVMGameType />
+    <SortTitle />
+    <Source />
+    <StarRatingFloat>0</StarRatingFloat>
+    <StarRating>0</StarRating>
+    <CommunityStarRating>2.4285715</CommunityStarRating>
+    <CommunityStarRatingTotalVotes>14</CommunityStarRatingTotalVotes>
+    <Status>Imported ROM</Status>
+    <DatabaseID>10013</DatabaseID>
+    <WikipediaURL />
+    <Title>Xak III: The Eternal Recurrence</Title>
+    <UseDosBox>false</UseDosBox>
+    <UseScummVM>false</UseScummVM>
+    <Version>(Japan) [T-En by NightWolve v1.00]</Version>
+    <Series />
+    <PlayMode>Single Player</PlayMode>
+    <Region>Japan</Region>
+    <PlayCount>0</PlayCount>
+    <PlayTime>0</PlayTime>
+    <Portable>false</Portable>
+    <Hide>false</Hide>
+    <Broken>false</Broken>
+    <CloneOf />
+    <Genre>Role-Playing</Genre>
+    <MissingVideo>false</MissingVideo>
+    <MissingBoxFrontImage>false</MissingBoxFrontImage>
+    <MissingScreenshotImage>false</MissingScreenshotImage>
+    <MissingMarqueeImage>false</MissingMarqueeImage>
+    <MissingClearLogoImage>false</MissingClearLogoImage>
+    <MissingBackgroundImage>true</MissingBackgroundImage>
+    <MissingBox3dImage>false</MissingBox3dImage>
+    <MissingCartImage>false</MissingCartImage>
+    <MissingCart3dImage>true</MissingCart3dImage>
+    <MissingManual>true</MissingManual>
+    <MissingBannerImage>false</MissingBannerImage>
+    <MissingMusic>false</MissingMusic>
+    <UseStartupScreen>false</UseStartupScreen>
+    <HideAllNonExclusiveFullscreenWindows>false</HideAllNonExclusiveFullscreenWindows>
+    <StartupLoadDelay>0</StartupLoadDelay>
+    <HideMouseCursorInGame>false</HideMouseCursorInGame>
+    <DisableShutdownScreen>false</DisableShutdownScreen>
+    <AggressiveWindowHiding>false</AggressiveWindowHiding>
+    <OverrideDefaultStartupScreenSettings>false</OverrideDefaultStartupScreenSettings>
+    <UsePauseScreen>false</UsePauseScreen>
+    <PauseAutoHotkeyScript />
+    <ResumeAutoHotkeyScript />
+    <OverrideDefaultPauseScreenSettings>false</OverrideDefaultPauseScreenSettings>
+    <SuspendProcessOnPause>false</SuspendProcessOnPause>
+    <ForcefulPauseScreenActivation>false</ForcefulPauseScreenActivation>
+    <LoadStateAutoHotkeyScript />
+    <SaveStateAutoHotkeyScript />
+    <ResetAutoHotkeyScript />
+    <SwapDiscsAutoHotkeyScript />
+    <CustomDosBoxVersionPath />
+    <ReleaseType>Released</ReleaseType>
+    <MaxPlayers>1</MaxPlayers>
+    <VideoUrl />
+    <AndroidBoxFrontThumbPath />
+    <AndroidBoxFrontFullPath />
+    <AndroidClearLogoThumbPath />
+    <AndroidClearLogoFullPath />
+    <AndroidBackgroundPath />
+    <AndroidBackgroundThumbPath />
+    <AndroidGameTitleScreenshotThumbPath />
+    <AndroidGameplayScreenshotThumbPath />
+    <AndroidGameTitleScreenshotPath />
+    <AndroidGameplayScreenshotPath />
+    <AndroidVideoPath />
+    <HasCloudSynced>false</HasCloudSynced>
+  </Game>
+  <AlternateName>
+    <GameID>6debfe05-6413-4af8-8d52-902b524b5f55</GameID>
+    <Name>Castlevania: Rondo of Blood</Name>
+    <Region />
+  </AlternateName>
+  <AlternateName>
+    <GameID>6debfe05-6413-4af8-8d52-902b524b5f55</GameID>
+    <Name>Akumajou Dracula X: Chi no Rondo</Name>
+    <Region />
+  </AlternateName>
+  <AlternateName>
+    <GameID>ea2ee868-e1d9-4fe6-a931-9fd37f13fe3f</GameID>
+    <Name>Exile: Toki no Hasama e</Name>
+    <Region>Japan</Region>
+  </AlternateName>
+  <AlternateName>
+    <GameID>ea2ee868-e1d9-4fe6-a931-9fd37f13fe3f</GameID>
+    <Name>Exile: Toki no Hazama</Name>
+    <Region>Japan</Region>
+  </AlternateName>
+  <AlternateName>
+    <GameID>b5ac49b2-23ce-47ca-bdc9-820a0d085522</GameID>
+    <Name>Pretty Soldier Sailor Moon</Name>
+    <Region>United States</Region>
+  </AlternateName>
+  <AlternateName>
+    <GameID>68b9fa52-574d-4277-89e8-59d65bdf25eb</GameID>
+    <Name>Bazar de Gozarre no Game de Gozarre</Name>
+    <Region>Japan</Region>
+  </AlternateName>
+  <AlternateName>
+    <GameID>68b9fa52-574d-4277-89e8-59d65bdf25eb</GameID>
+    <Name>Bazaru de Gozaru no Game Degozaru</Name>
+    <Region />
+  </AlternateName>
+  <AlternateName>
+    <GameID>1cb15ace-91d5-42a7-a49b-c4cbb6a58bb6</GameID>
+    <Name>Madou Monogatari I</Name>
+    <Region>Japan</Region>
+  </AlternateName>
+  <AlternateName>
+    <GameID>1cb15ace-91d5-42a7-a49b-c4cbb6a58bb6</GameID>
+    <Name>Madou Monogatari I: Honoo no Sotsuenji</Name>
+    <Region />
+  </AlternateName>
+  <AlternateName>
+    <GameID>fa356cce-b7f8-4041-bf80-1d4f23635b0f</GameID>
+    <Name>Exile II: Janen no Jishou</Name>
+    <Region>Japan</Region>
+  </AlternateName>
+  <AlternateName>
+    <GameID>1ac2aace-55ed-46d8-b970-9eae447f85b0</GameID>
+    <Name>Galaxy Fraulein Yuna II: Eternal Princess</Name>
+    <Region>Japan</Region>
+  </AlternateName>
+  <AlternateName>
+    <GameID>1ac2aace-55ed-46d8-b970-9eae447f85b0</GameID>
+    <Name>Galaxy Fräulein Yuna II: Eternal Princess</Name>
+    <Region />
+  </AlternateName>
+  <AlternateName>
+    <GameID>b69d7590-38f0-4703-914b-8f7f5c84d970</GameID>
+    <Name>Cosmic Fantasy 2: Bouken Shounen Ban</Name>
+    <Region />
+  </AlternateName>
+  <AlternateName>
+    <GameID>0b9dd554-c4fe-4e22-a1b3-b4213d9d5594</GameID>
+    <Name>Ginga Ojousama Densetsu Yuna</Name>
+    <Region>Japan</Region>
+  </AlternateName>
+  <AlternateName>
+    <GameID>0b9dd554-c4fe-4e22-a1b3-b4213d9d5594</GameID>
+    <Name>Galaxy Fräulein Yuna</Name>
+    <Region />
+  </AlternateName>
+</LaunchBox>

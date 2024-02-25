@@ -1,0 +1,109 @@
+<?xml version="1.0" standalone="yes"?>
+<LaunchBox>
+  <Game>
+    <GogAppId />
+    <OriginAppId />
+    <OriginInstallPath />
+    <VideoPath />
+    <ThemeVideoPath />
+    <ApplicationPath>R:\ROMS-Arcade-PC-Modern\Uniana PC-Based\Frenzy Express.zip</ApplicationPath>
+    <CommandLine />
+    <Completed>false</Completed>
+    <ConfigurationCommandLine />
+    <ConfigurationPath />
+    <DateAdded>2023-05-31T01:51:25.1066102+08:00</DateAdded>
+    <DateModified>2023-12-26T14:34:07.1866051+08:00</DateModified>
+    <Developer />
+    <DosBoxConfigurationPath />
+    <Emulator>4c63a604-8f53-4666-9260-9f67e5936dde</Emulator>
+    <Favorite>false</Favorite>
+    <ID>b8491344-979b-405f-9f95-7f4e8f3a9161</ID>
+    <LastPlayedDate>2023-06-01T00:14:20.3423826+08:00</LastPlayedDate>
+    <ManualPath />
+    <MusicPath />
+    <Notes>Frenzy Express is a fast-paced simulation game that builds on the worldwide fad "Scooters." The machine's biggest feature is the level of interaction the player gets.
+
+The machine contains a actual scooter which the player uses to travel around the stages. The handlebar enables the player to steer and the brake is locate at the back of the scooter. Acceleration is achieved by a wheel with grips, which is located on both sides of the scooter. The player push off the wheel much like he/she would push off the ground if you were riding a real scooter.
+
+Gameplay is similar to Crazy Taxi, except instead of picking up and dropping off passengers, the player is a courier and must pick up and drop off packages. The way you reach the drop off point is entirely up to the player, but there is a time limit and each second that ticks by means less money at the drop off point.
+
+To make the game more fun, there are many ramps and other objects suitable for jumping and performing aerial acrobatics which earns the player bonus points.</Notes>
+    <Platform>Uniana PC-Based</Platform>
+    <Publisher>Uniana</Publisher>
+    <Rating>Not Rated</Rating>
+    <ReleaseDate>2001-01-01T00:00:00+08:00</ReleaseDate>
+    <RootFolder />
+    <ScummVMAspectCorrection>false</ScummVMAspectCorrection>
+    <ScummVMFullscreen>false</ScummVMFullscreen>
+    <ScummVMGameDataFolderPath />
+    <ScummVMGameType />
+    <SortTitle />
+    <Source />
+    <StarRatingFloat>0</StarRatingFloat>
+    <StarRating>0</StarRating>
+    <CommunityStarRating>5</CommunityStarRating>
+    <CommunityStarRatingTotalVotes>1</CommunityStarRatingTotalVotes>
+    <Status>Imported ROM</Status>
+    <DatabaseID>211852</DatabaseID>
+    <WikipediaURL />
+    <Title>Frenzy Express</Title>
+    <UseDosBox>false</UseDosBox>
+    <UseScummVM>false</UseScummVM>
+    <Version />
+    <Series />
+    <PlayMode>Single Player</PlayMode>
+    <Region />
+    <PlayCount>3</PlayCount>
+    <PlayTime>49</PlayTime>
+    <Portable>false</Portable>
+    <Hide>false</Hide>
+    <Broken>false</Broken>
+    <CloneOf />
+    <Genre>Racing</Genre>
+    <MissingVideo>false</MissingVideo>
+    <MissingBoxFrontImage>false</MissingBoxFrontImage>
+    <MissingScreenshotImage>false</MissingScreenshotImage>
+    <MissingMarqueeImage>true</MissingMarqueeImage>
+    <MissingClearLogoImage>false</MissingClearLogoImage>
+    <MissingBackgroundImage>true</MissingBackgroundImage>
+    <MissingBox3dImage>false</MissingBox3dImage>
+    <MissingCartImage>true</MissingCartImage>
+    <MissingCart3dImage>true</MissingCart3dImage>
+    <MissingManual>true</MissingManual>
+    <MissingBannerImage>false</MissingBannerImage>
+    <MissingMusic>true</MissingMusic>
+    <UseStartupScreen>false</UseStartupScreen>
+    <HideAllNonExclusiveFullscreenWindows>false</HideAllNonExclusiveFullscreenWindows>
+    <StartupLoadDelay>0</StartupLoadDelay>
+    <HideMouseCursorInGame>false</HideMouseCursorInGame>
+    <DisableShutdownScreen>false</DisableShutdownScreen>
+    <AggressiveWindowHiding>false</AggressiveWindowHiding>
+    <OverrideDefaultStartupScreenSettings>false</OverrideDefaultStartupScreenSettings>
+    <UsePauseScreen>false</UsePauseScreen>
+    <PauseAutoHotkeyScript />
+    <ResumeAutoHotkeyScript />
+    <OverrideDefaultPauseScreenSettings>false</OverrideDefaultPauseScreenSettings>
+    <SuspendProcessOnPause>false</SuspendProcessOnPause>
+    <ForcefulPauseScreenActivation>false</ForcefulPauseScreenActivation>
+    <LoadStateAutoHotkeyScript />
+    <SaveStateAutoHotkeyScript />
+    <ResetAutoHotkeyScript />
+    <SwapDiscsAutoHotkeyScript />
+    <CustomDosBoxVersionPath />
+    <ReleaseType>Released</ReleaseType>
+    <MaxPlayers>1</MaxPlayers>
+    <VideoUrl />
+    <AndroidBoxFrontThumbPath />
+    <AndroidBoxFrontFullPath />
+    <AndroidClearLogoThumbPath />
+    <AndroidClearLogoFullPath />
+    <AndroidBackgroundPath />
+    <AndroidBackgroundThumbPath />
+    <AndroidGameTitleScreenshotThumbPath />
+    <AndroidGameplayScreenshotThumbPath />
+    <AndroidGameTitleScreenshotPath />
+    <AndroidGameplayScreenshotPath />
+    <AndroidVideoPath />
+    <HasCloudSynced>true</HasCloudSynced>
+  </Game>
+</LaunchBox>

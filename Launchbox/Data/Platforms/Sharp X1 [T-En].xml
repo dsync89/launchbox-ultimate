@@ -1,0 +1,104 @@
+<?xml version="1.0" standalone="yes"?>
+<LaunchBox>
+  <Game>
+    <GogAppId />
+    <OriginAppId />
+    <OriginInstallPath />
+    <VideoPath />
+    <ThemeVideoPath />
+    <ApplicationPath>S:\roms-translated-1g1r\archive-org-sharp-x1\Brain Breaker (Japan) [T-En by Leina v1.0].ahk</ApplicationPath>
+    <CommandLine />
+    <Completed>false</Completed>
+    <ConfigurationCommandLine />
+    <ConfigurationPath />
+    <DateAdded>2023-12-25T19:56:11.9985776+08:00</DateAdded>
+    <DateModified>2024-02-21T17:55:34.904168+08:00</DateModified>
+    <Developer>Hiroshi ishikawa</Developer>
+    <DosBoxConfigurationPath />
+    <Emulator>4d74d44f-848f-4abd-8846-66c3920bb937</Emulator>
+    <Favorite>false</Favorite>
+    <ID>7689e8b1-8160-440e-b211-7ff841619ca2</ID>
+    <ManualPath />
+    <MusicPath />
+    <Notes>The protagonist of the game was sent on the spaceship Zeppelin to a supposedly deserted planet. However, upon entering its atmosphere his pod was shot by laser fire. Soon the hero discovers that the planet is populated by robots and controlled by the air defense computer. The protagonist has to explore the hostile world and survive.
+
+Brain Breaker is a side-view game that incorporates elements of action and adventure-style gameplay. Much of the gameplay is dedicated to exploring environments, gathering clues and items that must be used on specific occasions in a puzzle-solving-like fashion. Hostile creatures appear sometimes and must be dealt with by using the few available weapons. It is also possible to communicate with some of the characters encountered in the game.</Notes>
+    <Platform>Sharp X1 [T-En]</Platform>
+    <Publisher>Enix</Publisher>
+    <Rating>Not Rated</Rating>
+    <ReleaseDate>1985-01-01T00:00:00+08:00</ReleaseDate>
+    <RootFolder />
+    <ScummVMAspectCorrection>false</ScummVMAspectCorrection>
+    <ScummVMFullscreen>false</ScummVMFullscreen>
+    <ScummVMGameDataFolderPath />
+    <ScummVMGameType />
+    <SortTitle />
+    <Source />
+    <StarRatingFloat>0</StarRatingFloat>
+    <StarRating>0</StarRating>
+    <CommunityStarRating>3.5833333</CommunityStarRating>
+    <CommunityStarRatingTotalVotes>6</CommunityStarRatingTotalVotes>
+    <Status>Imported ROM</Status>
+    <DatabaseID>125163</DatabaseID>
+    <WikipediaURL>https://en.wikipedia.org/wiki/Brain_Breaker</WikipediaURL>
+    <Title>Brain Breaker</Title>
+    <UseDosBox>false</UseDosBox>
+    <UseScummVM>false</UseScummVM>
+    <Version>(Japan) [T-En by Leina v1.0]</Version>
+    <Series />
+    <PlayMode>Single Player</PlayMode>
+    <Region>Japan</Region>
+    <PlayCount>0</PlayCount>
+    <PlayTime>0</PlayTime>
+    <Portable>false</Portable>
+    <Hide>false</Hide>
+    <Broken>false</Broken>
+    <CloneOf />
+    <Genre>Adventure; Platform</Genre>
+    <MissingVideo>true</MissingVideo>
+    <MissingBoxFrontImage>false</MissingBoxFrontImage>
+    <MissingScreenshotImage>false</MissingScreenshotImage>
+    <MissingMarqueeImage>true</MissingMarqueeImage>
+    <MissingClearLogoImage>false</MissingClearLogoImage>
+    <MissingBackgroundImage>true</MissingBackgroundImage>
+    <MissingBox3dImage>false</MissingBox3dImage>
+    <MissingCartImage>false</MissingCartImage>
+    <MissingCart3dImage>false</MissingCart3dImage>
+    <MissingManual>true</MissingManual>
+    <MissingBannerImage>false</MissingBannerImage>
+    <MissingMusic>true</MissingMusic>
+    <UseStartupScreen>false</UseStartupScreen>
+    <HideAllNonExclusiveFullscreenWindows>false</HideAllNonExclusiveFullscreenWindows>
+    <StartupLoadDelay>0</StartupLoadDelay>
+    <HideMouseCursorInGame>false</HideMouseCursorInGame>
+    <DisableShutdownScreen>false</DisableShutdownScreen>
+    <AggressiveWindowHiding>false</AggressiveWindowHiding>
+    <OverrideDefaultStartupScreenSettings>false</OverrideDefaultStartupScreenSettings>
+    <UsePauseScreen>false</UsePauseScreen>
+    <PauseAutoHotkeyScript />
+    <ResumeAutoHotkeyScript />
+    <OverrideDefaultPauseScreenSettings>false</OverrideDefaultPauseScreenSettings>
+    <SuspendProcessOnPause>false</SuspendProcessOnPause>
+    <ForcefulPauseScreenActivation>false</ForcefulPauseScreenActivation>
+    <LoadStateAutoHotkeyScript />
+    <SaveStateAutoHotkeyScript />
+    <ResetAutoHotkeyScript />
+    <SwapDiscsAutoHotkeyScript />
+    <CustomDosBoxVersionPath />
+    <ReleaseType>Released</ReleaseType>
+    <MaxPlayers>1</MaxPlayers>
+    <VideoUrl>https://www.youtube.com/watch?v=UYkeL2WQCrg&amp;index=10&amp;list=PLW9QTI1l3SI97WYaO5eSgXU1ym1al9qBr</VideoUrl>
+    <AndroidBoxFrontThumbPath />
+    <AndroidBoxFrontFullPath />
+    <AndroidClearLogoThumbPath />
+    <AndroidClearLogoFullPath />
+    <AndroidBackgroundPath />
+    <AndroidBackgroundThumbPath />
+    <AndroidGameTitleScreenshotThumbPath />
+    <AndroidGameplayScreenshotThumbPath />
+    <AndroidGameTitleScreenshotPath />
+    <AndroidGameplayScreenshotPath />
+    <AndroidVideoPath />
+    <HasCloudSynced>false</HasCloudSynced>
+  </Game>
+</LaunchBox>

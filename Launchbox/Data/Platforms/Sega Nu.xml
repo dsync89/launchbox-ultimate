@@ -1,0 +1,315 @@
+<?xml version="1.0" standalone="yes"?>
+<LaunchBox>
+  <Game>
+    <GogAppId />
+    <OriginAppId />
+    <OriginInstallPath />
+    <VideoPath />
+    <ThemeVideoPath />
+    <ApplicationPath>R:\ROMS-Arcade-PC-Modern\Sega Nu\Mario and Sonic at the Rio 2016 Olympic Games.zip</ApplicationPath>
+    <CommandLine>--profile=SegaOlympic2016.xml</CommandLine>
+    <Completed>false</Completed>
+    <ConfigurationCommandLine />
+    <ConfigurationPath />
+    <DateAdded>2023-05-23T03:09:04.1361564+08:00</DateAdded>
+    <DateModified>2023-12-26T14:34:07.1883111+08:00</DateModified>
+    <Developer>Sega</Developer>
+    <DosBoxConfigurationPath />
+    <Emulator>3849e234-3947-420e-8a32-0d67047bcd88</Emulator>
+    <Favorite>false</Favorite>
+    <ID>4e43c73a-eaa0-4676-a9c4-e25aeee143c5</ID>
+    <LastPlayedDate>2023-07-21T21:00:26.6105541+08:00</LastPlayedDate>
+    <ManualPath />
+    <MusicPath />
+    <Notes>Mario and Sonic's coming together for the first time in arcades sees players compete in nine events, including 100m, Hammer Throw and Archery. The game will take you to the Olympic Stadium where you can choose from a legendary cast of characters including Luigi, Knuckles, Peach, and Tails. Help them run, throw and jump their way to victory!</Notes>
+    <Platform>Sega Nu</Platform>
+    <Publisher>Nintendo</Publisher>
+    <Rating />
+    <ReleaseDate>2016-11-01T15:00:00+08:00</ReleaseDate>
+    <RootFolder />
+    <ScummVMAspectCorrection>true</ScummVMAspectCorrection>
+    <ScummVMFullscreen>true</ScummVMFullscreen>
+    <ScummVMGameDataFolderPath />
+    <ScummVMGameType />
+    <SortTitle />
+    <Source />
+    <StarRatingFloat>0</StarRatingFloat>
+    <StarRating>0</StarRating>
+    <CommunityStarRating>4.3333335</CommunityStarRating>
+    <CommunityStarRatingTotalVotes>3</CommunityStarRatingTotalVotes>
+    <Status>Imported ROM</Status>
+    <DatabaseID>177807</DatabaseID>
+    <WikipediaURL />
+    <Title>Mario &amp; Sonic at the Rio 2016 Olympic Games Arcade Edition</Title>
+    <UseDosBox>false</UseDosBox>
+    <UseScummVM>false</UseScummVM>
+    <Version />
+    <Series />
+    <PlayMode>Multiplayer</PlayMode>
+    <Region />
+    <PlayCount>3</PlayCount>
+    <PlayTime>22</PlayTime>
+    <Portable>false</Portable>
+    <Hide>false</Hide>
+    <Broken>false</Broken>
+    <CloneOf />
+    <Genre>Sports</Genre>
+    <MissingVideo>false</MissingVideo>
+    <MissingBoxFrontImage>false</MissingBoxFrontImage>
+    <MissingScreenshotImage>false</MissingScreenshotImage>
+    <MissingMarqueeImage>true</MissingMarqueeImage>
+    <MissingClearLogoImage>false</MissingClearLogoImage>
+    <MissingBackgroundImage>false</MissingBackgroundImage>
+    <MissingBox3dImage>false</MissingBox3dImage>
+    <MissingCartImage>true</MissingCartImage>
+    <MissingCart3dImage>true</MissingCart3dImage>
+    <MissingManual>true</MissingManual>
+    <MissingBannerImage>false</MissingBannerImage>
+    <MissingMusic>true</MissingMusic>
+    <UseStartupScreen>false</UseStartupScreen>
+    <HideAllNonExclusiveFullscreenWindows>false</HideAllNonExclusiveFullscreenWindows>
+    <StartupLoadDelay>0</StartupLoadDelay>
+    <HideMouseCursorInGame>false</HideMouseCursorInGame>
+    <DisableShutdownScreen>false</DisableShutdownScreen>
+    <AggressiveWindowHiding>false</AggressiveWindowHiding>
+    <OverrideDefaultStartupScreenSettings>false</OverrideDefaultStartupScreenSettings>
+    <UsePauseScreen>false</UsePauseScreen>
+    <PauseAutoHotkeyScript />
+    <ResumeAutoHotkeyScript />
+    <OverrideDefaultPauseScreenSettings>false</OverrideDefaultPauseScreenSettings>
+    <SuspendProcessOnPause>false</SuspendProcessOnPause>
+    <ForcefulPauseScreenActivation>false</ForcefulPauseScreenActivation>
+    <LoadStateAutoHotkeyScript />
+    <SaveStateAutoHotkeyScript />
+    <ResetAutoHotkeyScript />
+    <SwapDiscsAutoHotkeyScript />
+    <CustomDosBoxVersionPath />
+    <ReleaseType>Released</ReleaseType>
+    <MaxPlayers>0</MaxPlayers>
+    <VideoUrl />
+    <AndroidBoxFrontThumbPath />
+    <AndroidBoxFrontFullPath />
+    <AndroidClearLogoThumbPath />
+    <AndroidClearLogoFullPath />
+    <AndroidBackgroundPath />
+    <AndroidBackgroundThumbPath />
+    <AndroidGameTitleScreenshotThumbPath />
+    <AndroidGameplayScreenshotThumbPath />
+    <AndroidGameTitleScreenshotPath />
+    <AndroidGameplayScreenshotPath />
+    <AndroidVideoPath />
+    <HasCloudSynced>true</HasCloudSynced>
+  </Game>
+  <Game>
+    <GogAppId />
+    <OriginAppId />
+    <OriginInstallPath />
+    <VideoPath />
+    <ThemeVideoPath />
+    <ApplicationPath>R:\ROMS-Arcade-PC-Modern\Sega Nu\Hatsune Miku - Project DIVA Arcade Future Tone.zip</ApplicationPath>
+    <CommandLine />
+    <Completed>false</Completed>
+    <ConfigurationCommandLine />
+    <ConfigurationPath />
+    <DateAdded>2023-05-30T22:36:20.2945737+08:00</DateAdded>
+    <DateModified>2024-01-19T20:52:13.7899341+08:00</DateModified>
+    <Developer>Sega</Developer>
+    <DosBoxConfigurationPath />
+    <Emulator>4c63a604-8f53-4666-9260-9f67e5936dde</Emulator>
+    <Favorite>false</Favorite>
+    <ID>958d2a97-cee2-4eea-b6b7-581eaf28fdb6</ID>
+    <LastPlayedDate>2023-07-22T15:18:38.6979993+08:00</LastPlayedDate>
+    <ManualPath />
+    <MusicPath />
+    <Notes>Hatsune Miku: Project DIVA Arcade Future Tone is the sequel to the original arcade version of Project Diva.
+
+Like its predecessor the gameplay is mostly the same as the original portable titles in the series. Notable changes from the first game include upgraded graphics and physics, a Touch Slider panel for the arrow shaped notes, new songs, and running on the more powerful Sega Nu arcade board.</Notes>
+    <Platform>Sega Nu</Platform>
+    <Publisher>Sega</Publisher>
+    <Rating>Not Rated</Rating>
+    <ReleaseDate>2013-11-21T16:00:00+08:00</ReleaseDate>
+    <RootFolder />
+    <ScummVMAspectCorrection>false</ScummVMAspectCorrection>
+    <ScummVMFullscreen>false</ScummVMFullscreen>
+    <ScummVMGameDataFolderPath />
+    <ScummVMGameType />
+    <SortTitle />
+    <Source />
+    <StarRatingFloat>0</StarRatingFloat>
+    <StarRating>0</StarRating>
+    <CommunityStarRating>4.8636365</CommunityStarRating>
+    <CommunityStarRatingTotalVotes>11</CommunityStarRatingTotalVotes>
+    <Status>Imported ROM</Status>
+    <DatabaseID>132006</DatabaseID>
+    <WikipediaURL>https://en.wikipedia.org/wiki/Hatsune_Miku:_Project_DIVA_Arcade</WikipediaURL>
+    <Title>Hatsune Miku: Project DIVA Arcade Future Tone</Title>
+    <UseDosBox>false</UseDosBox>
+    <UseScummVM>false</UseScummVM>
+    <Version>Hatsune Miku - Project DIVA Arcade Future Tone</Version>
+    <Series />
+    <PlayMode>Single Player</PlayMode>
+    <Region />
+    <PlayCount>7</PlayCount>
+    <PlayTime>1004</PlayTime>
+    <Portable>false</Portable>
+    <Hide>false</Hide>
+    <Broken>false</Broken>
+    <CloneOf />
+    <Genre>Music</Genre>
+    <MissingVideo>false</MissingVideo>
+    <MissingBoxFrontImage>false</MissingBoxFrontImage>
+    <MissingScreenshotImage>false</MissingScreenshotImage>
+    <MissingMarqueeImage>true</MissingMarqueeImage>
+    <MissingClearLogoImage>false</MissingClearLogoImage>
+    <MissingBackgroundImage>false</MissingBackgroundImage>
+    <MissingBox3dImage>false</MissingBox3dImage>
+    <MissingCartImage>true</MissingCartImage>
+    <MissingCart3dImage>true</MissingCart3dImage>
+    <MissingManual>true</MissingManual>
+    <MissingBannerImage>false</MissingBannerImage>
+    <MissingMusic>true</MissingMusic>
+    <UseStartupScreen>false</UseStartupScreen>
+    <HideAllNonExclusiveFullscreenWindows>false</HideAllNonExclusiveFullscreenWindows>
+    <StartupLoadDelay>0</StartupLoadDelay>
+    <HideMouseCursorInGame>false</HideMouseCursorInGame>
+    <DisableShutdownScreen>false</DisableShutdownScreen>
+    <AggressiveWindowHiding>false</AggressiveWindowHiding>
+    <OverrideDefaultStartupScreenSettings>false</OverrideDefaultStartupScreenSettings>
+    <UsePauseScreen>false</UsePauseScreen>
+    <PauseAutoHotkeyScript />
+    <ResumeAutoHotkeyScript />
+    <OverrideDefaultPauseScreenSettings>false</OverrideDefaultPauseScreenSettings>
+    <SuspendProcessOnPause>false</SuspendProcessOnPause>
+    <ForcefulPauseScreenActivation>false</ForcefulPauseScreenActivation>
+    <LoadStateAutoHotkeyScript />
+    <SaveStateAutoHotkeyScript />
+    <ResetAutoHotkeyScript />
+    <SwapDiscsAutoHotkeyScript />
+    <CustomDosBoxVersionPath />
+    <ReleaseType>Released</ReleaseType>
+    <MaxPlayers>1</MaxPlayers>
+    <VideoUrl>https://www.youtube.com/watch?v=0Ppi9kP3Isk</VideoUrl>
+    <AndroidBoxFrontThumbPath />
+    <AndroidBoxFrontFullPath />
+    <AndroidClearLogoThumbPath />
+    <AndroidClearLogoFullPath />
+    <AndroidBackgroundPath />
+    <AndroidBackgroundThumbPath />
+    <AndroidGameTitleScreenshotThumbPath />
+    <AndroidGameplayScreenshotThumbPath />
+    <AndroidGameTitleScreenshotPath />
+    <AndroidGameplayScreenshotPath />
+    <AndroidVideoPath />
+    <HasCloudSynced>true</HasCloudSynced>
+  </Game>
+  <Game>
+    <GogAppId />
+    <OriginAppId />
+    <OriginInstallPath />
+    <VideoPath />
+    <ThemeVideoPath />
+    <ApplicationPath>R:\ROMS-Arcade-PC-Modern\Sega Nu\Luigi's Mansion Arcade.zip</ApplicationPath>
+    <CommandLine />
+    <Completed>false</Completed>
+    <ConfigurationCommandLine />
+    <ConfigurationPath />
+    <DateAdded>2023-05-23T03:09:04.1358216+08:00</DateAdded>
+    <DateModified>2023-12-26T14:34:07.1871098+08:00</DateModified>
+    <Developer>Capcom</Developer>
+    <DosBoxConfigurationPath />
+    <Emulator>4c63a604-8f53-4666-9260-9f67e5936dde</Emulator>
+    <Favorite>false</Favorite>
+    <ID>ee8e29df-da57-47ff-ab0f-1f0be09d16e4</ID>
+    <LastPlayedDate>2023-11-12T17:14:22.4366565+08:00</LastPlayedDate>
+    <ManualPath />
+    <MusicPath />
+    <Notes>Luigi's Mansion Arcade (named Luigi Mansion Arcade in Japanese) is an arcade game based off of Luigi's Mansion: Dark Moon for the Nintendo 3DS. Developed by Capcom and published by Sega under the license from Nintendo, it is the fifth game to feature Luigi as the main character, and it is also one of the few Nintendo-based arcade games released in the current generation. It is an on-rails light gun game with a vacuum controller and support for two players.</Notes>
+    <Platform>Sega Nu</Platform>
+    <Publisher>Sega</Publisher>
+    <Rating>Not Rated</Rating>
+    <ReleaseDate>2015-06-18T15:00:00+08:00</ReleaseDate>
+    <RootFolder />
+    <ScummVMAspectCorrection>true</ScummVMAspectCorrection>
+    <ScummVMFullscreen>true</ScummVMFullscreen>
+    <ScummVMGameDataFolderPath />
+    <ScummVMGameType />
+    <SortTitle />
+    <Source />
+    <StarRatingFloat>0</StarRatingFloat>
+    <StarRating>0</StarRating>
+    <CommunityStarRating>4.209677</CommunityStarRating>
+    <CommunityStarRatingTotalVotes>31</CommunityStarRatingTotalVotes>
+    <Status>Imported ROM</Status>
+    <DatabaseID>175220</DatabaseID>
+    <WikipediaURL>https://en.wikipedia.org/wiki/Luigi%27s_Mansion:_Dark_Moon#Luigi's_Mansion_Arcade</WikipediaURL>
+    <Title>Luigi's Mansion Arcade</Title>
+    <UseDosBox>false</UseDosBox>
+    <UseScummVM>false</UseScummVM>
+    <Version />
+    <Series />
+    <PlayMode>Cooperative; Multiplayer</PlayMode>
+    <Region />
+    <PlayCount>5</PlayCount>
+    <PlayTime>2394</PlayTime>
+    <Portable>false</Portable>
+    <Hide>false</Hide>
+    <Broken>false</Broken>
+    <CloneOf />
+    <Genre>Shooter</Genre>
+    <MissingVideo>false</MissingVideo>
+    <MissingBoxFrontImage>false</MissingBoxFrontImage>
+    <MissingScreenshotImage>false</MissingScreenshotImage>
+    <MissingMarqueeImage>true</MissingMarqueeImage>
+    <MissingClearLogoImage>false</MissingClearLogoImage>
+    <MissingBackgroundImage>false</MissingBackgroundImage>
+    <MissingBox3dImage>false</MissingBox3dImage>
+    <MissingCartImage>true</MissingCartImage>
+    <MissingCart3dImage>true</MissingCart3dImage>
+    <MissingManual>true</MissingManual>
+    <MissingBannerImage>false</MissingBannerImage>
+    <MissingMusic>true</MissingMusic>
+    <UseStartupScreen>false</UseStartupScreen>
+    <HideAllNonExclusiveFullscreenWindows>false</HideAllNonExclusiveFullscreenWindows>
+    <StartupLoadDelay>0</StartupLoadDelay>
+    <HideMouseCursorInGame>false</HideMouseCursorInGame>
+    <DisableShutdownScreen>false</DisableShutdownScreen>
+    <AggressiveWindowHiding>false</AggressiveWindowHiding>
+    <OverrideDefaultStartupScreenSettings>false</OverrideDefaultStartupScreenSettings>
+    <UsePauseScreen>false</UsePauseScreen>
+    <PauseAutoHotkeyScript />
+    <ResumeAutoHotkeyScript />
+    <OverrideDefaultPauseScreenSettings>false</OverrideDefaultPauseScreenSettings>
+    <SuspendProcessOnPause>false</SuspendProcessOnPause>
+    <ForcefulPauseScreenActivation>false</ForcefulPauseScreenActivation>
+    <LoadStateAutoHotkeyScript />
+    <SaveStateAutoHotkeyScript />
+    <ResetAutoHotkeyScript />
+    <SwapDiscsAutoHotkeyScript />
+    <CustomDosBoxVersionPath />
+    <ReleaseType>Released</ReleaseType>
+    <MaxPlayers>2</MaxPlayers>
+    <VideoUrl>https://youtu.be/RGIKEmJNUP4</VideoUrl>
+    <AndroidBoxFrontThumbPath />
+    <AndroidBoxFrontFullPath />
+    <AndroidClearLogoThumbPath />
+    <AndroidClearLogoFullPath />
+    <AndroidBackgroundPath />
+    <AndroidBackgroundThumbPath />
+    <AndroidGameTitleScreenshotThumbPath />
+    <AndroidGameplayScreenshotThumbPath />
+    <AndroidGameTitleScreenshotPath />
+    <AndroidGameplayScreenshotPath />
+    <AndroidVideoPath />
+    <HasCloudSynced>true</HasCloudSynced>
+  </Game>
+  <AlternateName>
+    <GameID>4e43c73a-eaa0-4676-a9c4-e25aeee143c5</GameID>
+    <Name>Mario y Sonic en los Juegos Olimpicos Rio 2016 Arcade Edition</Name>
+    <Region>Spain</Region>
+  </AlternateName>
+  <AlternateName>
+    <GameID>ee8e29df-da57-47ff-ab0f-1f0be09d16e4</GameID>
+    <Name>Luigi Mansion Arcade</Name>
+    <Region>Japan</Region>
+  </AlternateName>
+</LaunchBox>

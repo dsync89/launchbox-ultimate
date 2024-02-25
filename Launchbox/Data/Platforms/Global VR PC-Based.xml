@@ -1,0 +1,443 @@
+<?xml version="1.0" standalone="yes"?>
+<LaunchBox>
+  <Game>
+    <GogAppId />
+    <OriginAppId />
+    <OriginInstallPath />
+    <VideoPath />
+    <ThemeVideoPath />
+    <ApplicationPath>R:\ROMS-Arcade-PC-Modern\Global VR PC-Based\Aliens Extermination.zip</ApplicationPath>
+    <CommandLine />
+    <Completed>false</Completed>
+    <ConfigurationCommandLine />
+    <ConfigurationPath />
+    <DateAdded>2023-05-31T00:53:00.7063288+08:00</DateAdded>
+    <DateModified>2023-12-26T14:34:07.1858344+08:00</DateModified>
+    <Developer>Play Mechanix</Developer>
+    <DosBoxConfigurationPath />
+    <Emulator>4c63a604-8f53-4666-9260-9f67e5936dde</Emulator>
+    <Favorite>false</Favorite>
+    <ID>b13b210e-ca73-4c69-9a71-d95f75d3c468</ID>
+    <LastPlayedDate>2023-11-12T16:10:07.1158721+08:00</LastPlayedDate>
+    <ManualPath />
+    <MusicPath />
+    <Notes>It’s been years since the Colonial Marines left planet LV-426 and the Alien population behind.  It’s time to go back to finish off the Alien monsters… and more! 
+
+The world seems familiar, but the scenario is not.  Since the Marine’s last visit, the “Wheland Yutan Corporation”, reprogrammed an army of synthetic humans to stop anything from getting in the way from the Company’s development of their deadly Bio Weapons.   It’s not as simple as just killing Mother Alien any more.</Notes>
+    <Platform>Global VR PC-Based</Platform>
+    <Publisher>Global VR</Publisher>
+    <Rating>Not Rated</Rating>
+    <ReleaseDate>2006-06-28T15:00:00+08:00</ReleaseDate>
+    <RootFolder />
+    <ScummVMAspectCorrection>true</ScummVMAspectCorrection>
+    <ScummVMFullscreen>true</ScummVMFullscreen>
+    <ScummVMGameDataFolderPath />
+    <ScummVMGameType />
+    <SortTitle />
+    <Source />
+    <StarRatingFloat>0</StarRatingFloat>
+    <StarRating>0</StarRating>
+    <CommunityStarRating>4.415254</CommunityStarRating>
+    <CommunityStarRatingTotalVotes>59</CommunityStarRatingTotalVotes>
+    <Status>Imported ROM</Status>
+    <DatabaseID>151091</DatabaseID>
+    <WikipediaURL />
+    <Title>Aliens: Extermination</Title>
+    <UseDosBox>false</UseDosBox>
+    <UseScummVM>false</UseScummVM>
+    <Version />
+    <Series />
+    <PlayMode>Cooperative; Multiplayer</PlayMode>
+    <Region />
+    <PlayCount>7</PlayCount>
+    <PlayTime>365</PlayTime>
+    <Portable>false</Portable>
+    <Hide>false</Hide>
+    <Broken>false</Broken>
+    <CloneOf />
+    <Genre>Shooter</Genre>
+    <MissingVideo>false</MissingVideo>
+    <MissingBoxFrontImage>false</MissingBoxFrontImage>
+    <MissingScreenshotImage>false</MissingScreenshotImage>
+    <MissingMarqueeImage>true</MissingMarqueeImage>
+    <MissingClearLogoImage>false</MissingClearLogoImage>
+    <MissingBackgroundImage>true</MissingBackgroundImage>
+    <MissingBox3dImage>false</MissingBox3dImage>
+    <MissingCartImage>true</MissingCartImage>
+    <MissingCart3dImage>true</MissingCart3dImage>
+    <MissingManual>true</MissingManual>
+    <MissingBannerImage>false</MissingBannerImage>
+    <MissingMusic>true</MissingMusic>
+    <UseStartupScreen>false</UseStartupScreen>
+    <HideAllNonExclusiveFullscreenWindows>false</HideAllNonExclusiveFullscreenWindows>
+    <StartupLoadDelay>0</StartupLoadDelay>
+    <HideMouseCursorInGame>false</HideMouseCursorInGame>
+    <DisableShutdownScreen>false</DisableShutdownScreen>
+    <AggressiveWindowHiding>false</AggressiveWindowHiding>
+    <OverrideDefaultStartupScreenSettings>false</OverrideDefaultStartupScreenSettings>
+    <UsePauseScreen>false</UsePauseScreen>
+    <PauseAutoHotkeyScript />
+    <ResumeAutoHotkeyScript />
+    <OverrideDefaultPauseScreenSettings>false</OverrideDefaultPauseScreenSettings>
+    <SuspendProcessOnPause>false</SuspendProcessOnPause>
+    <ForcefulPauseScreenActivation>false</ForcefulPauseScreenActivation>
+    <LoadStateAutoHotkeyScript />
+    <SaveStateAutoHotkeyScript />
+    <ResetAutoHotkeyScript />
+    <SwapDiscsAutoHotkeyScript />
+    <CustomDosBoxVersionPath />
+    <ReleaseType>Released</ReleaseType>
+    <MaxPlayers>2</MaxPlayers>
+    <VideoUrl>https://www.youtube.com/watch?v=DFRpJBdZH50</VideoUrl>
+    <AndroidBoxFrontThumbPath />
+    <AndroidBoxFrontFullPath />
+    <AndroidClearLogoThumbPath />
+    <AndroidClearLogoFullPath />
+    <AndroidBackgroundPath />
+    <AndroidBackgroundThumbPath />
+    <AndroidGameTitleScreenshotThumbPath />
+    <AndroidGameplayScreenshotThumbPath />
+    <AndroidGameTitleScreenshotPath />
+    <AndroidGameplayScreenshotPath />
+    <AndroidVideoPath />
+    <HasCloudSynced>true</HasCloudSynced>
+  </Game>
+  <Game>
+    <GogAppId />
+    <OriginAppId />
+    <OriginInstallPath />
+    <VideoPath />
+    <ThemeVideoPath />
+    <ApplicationPath>R:\ROMS-Arcade-PC-Modern\Global VR PC-Based\Farcry Paradise Lost.zip</ApplicationPath>
+    <CommandLine />
+    <Completed>false</Completed>
+    <ConfigurationCommandLine />
+    <ConfigurationPath />
+    <DateAdded>2023-05-31T00:53:00.7063791+08:00</DateAdded>
+    <DateModified>2023-12-26T14:34:07.1861607+08:00</DateModified>
+    <Developer>Global VR</Developer>
+    <DosBoxConfigurationPath />
+    <Emulator>4c63a604-8f53-4666-9260-9f67e5936dde</Emulator>
+    <Favorite>false</Favorite>
+    <ID>72f5747a-c48d-45fb-9761-d68490185e40</ID>
+    <LastPlayedDate>2023-11-12T16:56:15.2701333+08:00</LastPlayedDate>
+    <ManualPath />
+    <MusicPath />
+    <Notes>Paradise Lost is a two-player arcade cabinet light gun rail-shooter game released in 2007, developed by Gloval VR and published by Ubisoft. It is based on Far Cry Instincts and uses models, textures, and assets from that game. The player(s) take the role of Jack Carver and an unidentified partner, who fight using a pair of swivel-mounted machine guns, which also have a limited number of rockets and grenades. From the beginning of the game the player(s) can select one of four levels, in which they will navigate through the environment along a fixed path while battling mercenaries, mutant Trigens, and small dinosaur-like lizards.</Notes>
+    <Platform>Global VR PC-Based</Platform>
+    <Publisher>Ubisoft</Publisher>
+    <Rating />
+    <ReleaseDate>2007-01-01T00:00:00+08:00</ReleaseDate>
+    <RootFolder />
+    <ScummVMAspectCorrection>true</ScummVMAspectCorrection>
+    <ScummVMFullscreen>true</ScummVMFullscreen>
+    <ScummVMGameDataFolderPath />
+    <ScummVMGameType />
+    <SortTitle />
+    <Source />
+    <StarRatingFloat>0</StarRatingFloat>
+    <StarRating>0</StarRating>
+    <CommunityStarRating>3.625</CommunityStarRating>
+    <CommunityStarRatingTotalVotes>29</CommunityStarRatingTotalVotes>
+    <Status>Imported ROM</Status>
+    <DatabaseID>134773</DatabaseID>
+    <WikipediaURL />
+    <Title>Far Cry: Paradise Lost</Title>
+    <UseDosBox>false</UseDosBox>
+    <UseScummVM>false</UseScummVM>
+    <Version />
+    <Series />
+    <PlayMode>Cooperative; Multiplayer</PlayMode>
+    <Region />
+    <PlayCount>5</PlayCount>
+    <PlayTime>397</PlayTime>
+    <Portable>false</Portable>
+    <Hide>false</Hide>
+    <Broken>false</Broken>
+    <CloneOf />
+    <Genre>Shooter</Genre>
+    <MissingVideo>false</MissingVideo>
+    <MissingBoxFrontImage>false</MissingBoxFrontImage>
+    <MissingScreenshotImage>false</MissingScreenshotImage>
+    <MissingMarqueeImage>false</MissingMarqueeImage>
+    <MissingClearLogoImage>false</MissingClearLogoImage>
+    <MissingBackgroundImage>true</MissingBackgroundImage>
+    <MissingBox3dImage>false</MissingBox3dImage>
+    <MissingCartImage>true</MissingCartImage>
+    <MissingCart3dImage>true</MissingCart3dImage>
+    <MissingManual>true</MissingManual>
+    <MissingBannerImage>false</MissingBannerImage>
+    <MissingMusic>true</MissingMusic>
+    <UseStartupScreen>false</UseStartupScreen>
+    <HideAllNonExclusiveFullscreenWindows>false</HideAllNonExclusiveFullscreenWindows>
+    <StartupLoadDelay>0</StartupLoadDelay>
+    <HideMouseCursorInGame>false</HideMouseCursorInGame>
+    <DisableShutdownScreen>false</DisableShutdownScreen>
+    <AggressiveWindowHiding>false</AggressiveWindowHiding>
+    <OverrideDefaultStartupScreenSettings>false</OverrideDefaultStartupScreenSettings>
+    <UsePauseScreen>false</UsePauseScreen>
+    <PauseAutoHotkeyScript />
+    <ResumeAutoHotkeyScript />
+    <OverrideDefaultPauseScreenSettings>false</OverrideDefaultPauseScreenSettings>
+    <SuspendProcessOnPause>false</SuspendProcessOnPause>
+    <ForcefulPauseScreenActivation>false</ForcefulPauseScreenActivation>
+    <LoadStateAutoHotkeyScript />
+    <SaveStateAutoHotkeyScript />
+    <ResetAutoHotkeyScript />
+    <SwapDiscsAutoHotkeyScript />
+    <CustomDosBoxVersionPath />
+    <ReleaseType>Released</ReleaseType>
+    <MaxPlayers>2</MaxPlayers>
+    <VideoUrl />
+    <AndroidBoxFrontThumbPath />
+    <AndroidBoxFrontFullPath />
+    <AndroidClearLogoThumbPath />
+    <AndroidClearLogoFullPath />
+    <AndroidBackgroundPath />
+    <AndroidBackgroundThumbPath />
+    <AndroidGameTitleScreenshotThumbPath />
+    <AndroidGameplayScreenshotThumbPath />
+    <AndroidGameTitleScreenshotPath />
+    <AndroidGameplayScreenshotPath />
+    <AndroidVideoPath />
+    <HasCloudSynced>true</HasCloudSynced>
+  </Game>
+  <Game>
+    <GogAppId />
+    <OriginAppId />
+    <OriginInstallPath />
+    <VideoPath />
+    <ThemeVideoPath />
+    <ApplicationPath>R:\ROMS-Arcade-PC-Modern\Global VR PC-Based\Blazing Angels.zip</ApplicationPath>
+    <CommandLine />
+    <Completed>false</Completed>
+    <ConfigurationCommandLine />
+    <ConfigurationPath />
+    <DateAdded>2023-05-31T00:53:00.7063608+08:00</DateAdded>
+    <DateModified>2023-12-26T14:23:59.1663597+08:00</DateModified>
+    <Developer>Ubisoft Entertainment</Developer>
+    <DosBoxConfigurationPath />
+    <Emulator>4c63a604-8f53-4666-9260-9f67e5936dde</Emulator>
+    <Favorite>false</Favorite>
+    <ID>48e2f627-1c75-49f0-aa68-0bf8c31cb138</ID>
+    <ManualPath />
+    <MusicPath />
+    <Notes>Blazing Angels is an arcade flying game where players pilot a WWII fighter plane into combat missions from famous air battles. The coin-op version is derived from the popular UbiSoft game of the same name, and has been developed by Global VR.
+
+The combat missions are all based on real air battles which took place during WWII, including the Battle of Britain where players fly over London defending Parliament from an attack by a Luftwaffe. Some of the other battles in the game are set over the North African desert and in the South Pacific.
+
+The cabinet is designed to resemble the cockpit of a WWII fighter plane, with players sitting in the cockpit where they can maneuver their planes through 360 degrees turns.</Notes>
+    <Platform>Global VR PC-Based</Platform>
+    <Publisher>Global VR</Publisher>
+    <Rating />
+    <ReleaseDate>2006-03-23T16:00:00+08:00</ReleaseDate>
+    <RootFolder />
+    <ScummVMAspectCorrection>true</ScummVMAspectCorrection>
+    <ScummVMFullscreen>true</ScummVMFullscreen>
+    <ScummVMGameDataFolderPath />
+    <ScummVMGameType />
+    <SortTitle />
+    <Source />
+    <StarRatingFloat>0</StarRatingFloat>
+    <StarRating>0</StarRating>
+    <CommunityStarRating>4.0833335</CommunityStarRating>
+    <CommunityStarRatingTotalVotes>6</CommunityStarRatingTotalVotes>
+    <Status>Imported ROM</Status>
+    <DatabaseID>199567</DatabaseID>
+    <WikipediaURL>https://en.wikipedia.org/wiki/Blazing_Angels:_Squadrons_of_WWII</WikipediaURL>
+    <Title>Blazing Angels: Squadrons of WWII</Title>
+    <UseDosBox>false</UseDosBox>
+    <UseScummVM>false</UseScummVM>
+    <Version />
+    <Series />
+    <PlayMode>Cooperative; Multiplayer</PlayMode>
+    <Region />
+    <PlayCount>0</PlayCount>
+    <PlayTime>0</PlayTime>
+    <Portable>false</Portable>
+    <Hide>false</Hide>
+    <Broken>false</Broken>
+    <CloneOf />
+    <Genre>Flight Simulator</Genre>
+    <MissingVideo>false</MissingVideo>
+    <MissingBoxFrontImage>false</MissingBoxFrontImage>
+    <MissingScreenshotImage>false</MissingScreenshotImage>
+    <MissingMarqueeImage>true</MissingMarqueeImage>
+    <MissingClearLogoImage>false</MissingClearLogoImage>
+    <MissingBackgroundImage>false</MissingBackgroundImage>
+    <MissingBox3dImage>false</MissingBox3dImage>
+    <MissingCartImage>true</MissingCartImage>
+    <MissingCart3dImage>true</MissingCart3dImage>
+    <MissingManual>true</MissingManual>
+    <MissingBannerImage>false</MissingBannerImage>
+    <MissingMusic>true</MissingMusic>
+    <UseStartupScreen>false</UseStartupScreen>
+    <HideAllNonExclusiveFullscreenWindows>false</HideAllNonExclusiveFullscreenWindows>
+    <StartupLoadDelay>0</StartupLoadDelay>
+    <HideMouseCursorInGame>false</HideMouseCursorInGame>
+    <DisableShutdownScreen>false</DisableShutdownScreen>
+    <AggressiveWindowHiding>false</AggressiveWindowHiding>
+    <OverrideDefaultStartupScreenSettings>false</OverrideDefaultStartupScreenSettings>
+    <UsePauseScreen>false</UsePauseScreen>
+    <PauseAutoHotkeyScript />
+    <ResumeAutoHotkeyScript />
+    <OverrideDefaultPauseScreenSettings>false</OverrideDefaultPauseScreenSettings>
+    <SuspendProcessOnPause>false</SuspendProcessOnPause>
+    <ForcefulPauseScreenActivation>false</ForcefulPauseScreenActivation>
+    <LoadStateAutoHotkeyScript />
+    <SaveStateAutoHotkeyScript />
+    <ResetAutoHotkeyScript />
+    <SwapDiscsAutoHotkeyScript />
+    <CustomDosBoxVersionPath />
+    <ReleaseType>Released</ReleaseType>
+    <MaxPlayers>16</MaxPlayers>
+    <VideoUrl>https://www.youtube.com/watch?v=t01tCS8oWIg</VideoUrl>
+    <AndroidBoxFrontThumbPath />
+    <AndroidBoxFrontFullPath />
+    <AndroidClearLogoThumbPath />
+    <AndroidClearLogoFullPath />
+    <AndroidBackgroundPath />
+    <AndroidBackgroundThumbPath />
+    <AndroidGameTitleScreenshotThumbPath />
+    <AndroidGameplayScreenshotThumbPath />
+    <AndroidGameTitleScreenshotPath />
+    <AndroidGameplayScreenshotPath />
+    <AndroidVideoPath />
+    <HasCloudSynced>false</HasCloudSynced>
+  </Game>
+  <Game>
+    <GogAppId />
+    <OriginAppId />
+    <OriginInstallPath />
+    <VideoPath />
+    <ThemeVideoPath />
+    <ApplicationPath>R:\ROMS-Arcade-PC-Modern\Global VR PC-Based\Fright Fear Land.zip</ApplicationPath>
+    <CommandLine />
+    <Completed>false</Completed>
+    <ConfigurationCommandLine />
+    <ConfigurationPath />
+    <DateAdded>2023-07-30T19:43:25.1315368+08:00</DateAdded>
+    <DateModified>2023-12-26T14:34:07.1871433+08:00</DateModified>
+    <Developer>Gamewax</Developer>
+    <DosBoxConfigurationPath />
+    <Emulator>4c63a604-8f53-4666-9260-9f67e5936dde</Emulator>
+    <Favorite>false</Favorite>
+    <ID>df2b29cf-d2b9-4742-b6da-0f44ebb85804</ID>
+    <LastPlayedDate>2023-11-12T17:05:35.0798775+08:00</LastPlayedDate>
+    <ManualPath />
+    <MusicPath />
+    <Notes>Fear has gripped the city.  Over 100 people have gone missing… presumed taken by a group of lunatic carnival characters.  Two special agents follow leads to the entrance of a dilapidated amusement park.  They now know what they must do… enter Frightfearland to find and free the captives… and close the gates forever!</Notes>
+    <Platform>Global VR PC-Based</Platform>
+    <Publisher>Global VR</Publisher>
+    <Rating />
+    <ReleaseDate>2011-01-01T00:00:00+08:00</ReleaseDate>
+    <RootFolder />
+    <ScummVMAspectCorrection>false</ScummVMAspectCorrection>
+    <ScummVMFullscreen>false</ScummVMFullscreen>
+    <ScummVMGameDataFolderPath />
+    <ScummVMGameType />
+    <SortTitle />
+    <Source />
+    <StarRatingFloat>0</StarRatingFloat>
+    <StarRating>0</StarRating>
+    <CommunityStarRating>3.9333334</CommunityStarRating>
+    <CommunityStarRatingTotalVotes>15</CommunityStarRatingTotalVotes>
+    <Status>Imported ROM</Status>
+    <DatabaseID>156900</DatabaseID>
+    <WikipediaURL />
+    <Title>Fright Fear Land</Title>
+    <UseDosBox>false</UseDosBox>
+    <UseScummVM>false</UseScummVM>
+    <Version />
+    <Series />
+    <PlayMode>Cooperative; Multiplayer</PlayMode>
+    <Region />
+    <PlayCount>2</PlayCount>
+    <PlayTime>17</PlayTime>
+    <Portable>false</Portable>
+    <Hide>false</Hide>
+    <Broken>false</Broken>
+    <CloneOf />
+    <Genre>Action; Shooter</Genre>
+    <MissingVideo>false</MissingVideo>
+    <MissingBoxFrontImage>false</MissingBoxFrontImage>
+    <MissingScreenshotImage>false</MissingScreenshotImage>
+    <MissingMarqueeImage>false</MissingMarqueeImage>
+    <MissingClearLogoImage>false</MissingClearLogoImage>
+    <MissingBackgroundImage>true</MissingBackgroundImage>
+    <MissingBox3dImage>false</MissingBox3dImage>
+    <MissingCartImage>true</MissingCartImage>
+    <MissingCart3dImage>true</MissingCart3dImage>
+    <MissingManual>true</MissingManual>
+    <MissingBannerImage>false</MissingBannerImage>
+    <MissingMusic>true</MissingMusic>
+    <UseStartupScreen>false</UseStartupScreen>
+    <HideAllNonExclusiveFullscreenWindows>false</HideAllNonExclusiveFullscreenWindows>
+    <StartupLoadDelay>0</StartupLoadDelay>
+    <HideMouseCursorInGame>false</HideMouseCursorInGame>
+    <DisableShutdownScreen>false</DisableShutdownScreen>
+    <AggressiveWindowHiding>false</AggressiveWindowHiding>
+    <OverrideDefaultStartupScreenSettings>false</OverrideDefaultStartupScreenSettings>
+    <UsePauseScreen>false</UsePauseScreen>
+    <PauseAutoHotkeyScript />
+    <ResumeAutoHotkeyScript />
+    <OverrideDefaultPauseScreenSettings>false</OverrideDefaultPauseScreenSettings>
+    <SuspendProcessOnPause>false</SuspendProcessOnPause>
+    <ForcefulPauseScreenActivation>false</ForcefulPauseScreenActivation>
+    <LoadStateAutoHotkeyScript />
+    <SaveStateAutoHotkeyScript />
+    <ResetAutoHotkeyScript />
+    <SwapDiscsAutoHotkeyScript />
+    <CustomDosBoxVersionPath />
+    <ReleaseType>Released</ReleaseType>
+    <MaxPlayers>2</MaxPlayers>
+    <VideoUrl>https://www.youtube.com/watch?v=K0Fy2r0Bfiw</VideoUrl>
+    <AndroidBoxFrontThumbPath />
+    <AndroidBoxFrontFullPath />
+    <AndroidClearLogoThumbPath />
+    <AndroidClearLogoFullPath />
+    <AndroidBackgroundPath />
+    <AndroidBackgroundThumbPath />
+    <AndroidGameTitleScreenshotThumbPath />
+    <AndroidGameplayScreenshotThumbPath />
+    <AndroidGameTitleScreenshotPath />
+    <AndroidGameplayScreenshotPath />
+    <AndroidVideoPath />
+    <HasCloudSynced>true</HasCloudSynced>
+  </Game>
+  <AlternateName>
+    <GameID>48e2f627-1c75-49f0-aa68-0bf8c31cb138</GameID>
+    <Name>Blazing Angels: Squadrons of WWII</Name>
+    <Region />
+  </AlternateName>
+  <AlternateName>
+    <GameID>df2b29cf-d2b9-4742-b6da-0f44ebb85804</GameID>
+    <Name>Haunted Museum II</Name>
+    <Region>Japan</Region>
+  </AlternateName>
+  <AlternateName>
+    <GameID>df2b29cf-d2b9-4742-b6da-0f44ebb85804</GameID>
+    <Name>FrightFearLand</Name>
+    <Region />
+  </AlternateName>
+  <AlternateName>
+    <GameID>df2b29cf-d2b9-4742-b6da-0f44ebb85804</GameID>
+    <Name>Haunted Museum II: Youkoso Gen'ei Yuuenchi he</Name>
+    <Region>Japan</Region>
+  </AlternateName>
+  <AlternateName>
+    <GameID>df2b29cf-d2b9-4742-b6da-0f44ebb85804</GameID>
+    <Name>Frightmareland</Name>
+    <Region />
+  </AlternateName>
+  <AlternateName>
+    <GameID>df2b29cf-d2b9-4742-b6da-0f44ebb85804</GameID>
+    <Name>ホーンテッド ミュージアム II ようこそ幻影遊園地へ</Name>
+    <Region>Japan</Region>
+  </AlternateName>
+  <AlternateName>
+    <GameID>df2b29cf-d2b9-4742-b6da-0f44ebb85804</GameID>
+    <Name>Shh...! Welcome to Frightfearland</Name>
+    <Region />
+  </AlternateName>
+</LaunchBox>

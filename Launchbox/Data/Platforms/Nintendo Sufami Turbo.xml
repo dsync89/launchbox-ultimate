@@ -1,0 +1,1482 @@
+<?xml version="1.0" standalone="yes"?>
+<LaunchBox>
+  <Game>
+    <GogAppId />
+    <OriginAppId />
+    <OriginInstallPath />
+    <VideoPath />
+    <ThemeVideoPath />
+    <ApplicationPath>R:\ROMS-1G1R\erista-nointro-nintendo-sufami-turbo\SD Ultra Battle - Seven Densetsu (Japan).zip</ApplicationPath>
+    <CommandLine />
+    <Completed>false</Completed>
+    <ConfigurationCommandLine />
+    <ConfigurationPath />
+    <DateAdded>2023-06-10T00:23:20.6171244+08:00</DateAdded>
+    <DateModified>2024-01-29T02:05:21.4855069+08:00</DateModified>
+    <Developer>Tom Create</Developer>
+    <DosBoxConfigurationPath />
+    <Emulator>c055fd74-0975-40ad-8f82-bc63ed1adb73</Emulator>
+    <Favorite>false</Favorite>
+    <ID>0a3d309b-a486-4a70-84b9-eaa5e8f82de0</ID>
+    <LastPlayedDate>2023-09-05T00:18:09.4449835+08:00</LastPlayedDate>
+    <ManualPath />
+    <MusicPath />
+    <Notes>SD Ultra Battle: Seven Densetsu ("SD Ultra Battle: Seven Legend") is a fighter game for the Super Famicom that features super deformed characters from the Ultra Seven series, itself a follow-up to the original Ultraman tokusatsu show.
+
+Along with series protagonist Ultraseven, the game also features major kaiju villains Eleking and King Joe as playable characters. 
+
+The game was a companion product to SD Ultra Battle: Ultraman Densetsu, and was released the same day. Both carts employ Bandai's officially licensed Nintendo peripheral the Sufami Turbo to link together to share game data, allowing characters from one game to appear and fight characters in the other. Because Seven Densetsu was released in the miniature Sufami Turbo cartridge format, it cannot be played without that peripheral.</Notes>
+    <Platform>Nintendo Sufami Turbo</Platform>
+    <Publisher>Bandai</Publisher>
+    <Rating>Not Rated</Rating>
+    <ReleaseDate>1996-06-28T15:00:00+08:00</ReleaseDate>
+    <RootFolder />
+    <ScummVMAspectCorrection>false</ScummVMAspectCorrection>
+    <ScummVMFullscreen>false</ScummVMFullscreen>
+    <ScummVMGameDataFolderPath />
+    <ScummVMGameType />
+    <SortTitle />
+    <Source />
+    <StarRatingFloat>0</StarRatingFloat>
+    <StarRating>0</StarRating>
+    <CommunityStarRating>3.75</CommunityStarRating>
+    <CommunityStarRatingTotalVotes>6</CommunityStarRatingTotalVotes>
+    <Status>Imported ROM</Status>
+    <DatabaseID>126636</DatabaseID>
+    <WikipediaURL />
+    <Title>SD Ultra Battle: Seven Densetsu</Title>
+    <UseDosBox>false</UseDosBox>
+    <UseScummVM>false</UseScummVM>
+    <Version>(Japan)</Version>
+    <Series />
+    <PlayMode>Single Player</PlayMode>
+    <Region>Japan</Region>
+    <PlayCount>1</PlayCount>
+    <PlayTime>0</PlayTime>
+    <Portable>false</Portable>
+    <Hide>false</Hide>
+    <Broken>false</Broken>
+    <CloneOf />
+    <Genre>Fighting</Genre>
+    <MissingVideo>true</MissingVideo>
+    <MissingBoxFrontImage>false</MissingBoxFrontImage>
+    <MissingScreenshotImage>false</MissingScreenshotImage>
+    <MissingMarqueeImage>true</MissingMarqueeImage>
+    <MissingClearLogoImage>false</MissingClearLogoImage>
+    <MissingBackgroundImage>false</MissingBackgroundImage>
+    <MissingBox3dImage>false</MissingBox3dImage>
+    <MissingCartImage>false</MissingCartImage>
+    <MissingCart3dImage>false</MissingCart3dImage>
+    <MissingManual>true</MissingManual>
+    <MissingBannerImage>false</MissingBannerImage>
+    <MissingMusic>true</MissingMusic>
+    <UseStartupScreen>false</UseStartupScreen>
+    <HideAllNonExclusiveFullscreenWindows>false</HideAllNonExclusiveFullscreenWindows>
+    <StartupLoadDelay>0</StartupLoadDelay>
+    <HideMouseCursorInGame>false</HideMouseCursorInGame>
+    <DisableShutdownScreen>false</DisableShutdownScreen>
+    <AggressiveWindowHiding>false</AggressiveWindowHiding>
+    <OverrideDefaultStartupScreenSettings>false</OverrideDefaultStartupScreenSettings>
+    <UsePauseScreen>false</UsePauseScreen>
+    <PauseAutoHotkeyScript />
+    <ResumeAutoHotkeyScript />
+    <OverrideDefaultPauseScreenSettings>false</OverrideDefaultPauseScreenSettings>
+    <SuspendProcessOnPause>false</SuspendProcessOnPause>
+    <ForcefulPauseScreenActivation>false</ForcefulPauseScreenActivation>
+    <LoadStateAutoHotkeyScript />
+    <SaveStateAutoHotkeyScript />
+    <ResetAutoHotkeyScript />
+    <SwapDiscsAutoHotkeyScript />
+    <CustomDosBoxVersionPath />
+    <ReleaseType>Released</ReleaseType>
+    <MaxPlayers>1</MaxPlayers>
+    <VideoUrl />
+    <AndroidBoxFrontThumbPath />
+    <AndroidBoxFrontFullPath />
+    <AndroidClearLogoThumbPath />
+    <AndroidClearLogoFullPath />
+    <AndroidBackgroundPath />
+    <AndroidBackgroundThumbPath />
+    <AndroidGameTitleScreenshotThumbPath />
+    <AndroidGameplayScreenshotThumbPath />
+    <AndroidGameTitleScreenshotPath />
+    <AndroidGameplayScreenshotPath />
+    <AndroidVideoPath />
+    <HasCloudSynced>true</HasCloudSynced>
+  </Game>
+  <Game>
+    <GogAppId />
+    <OriginAppId />
+    <OriginInstallPath />
+    <VideoPath />
+    <ThemeVideoPath />
+    <ApplicationPath>R:\ROMS-1G1R\erista-nointro-nintendo-sufami-turbo\SD Gundam Generation - Babylonia Kenkoku Senki (Japan).zip</ApplicationPath>
+    <CommandLine />
+    <Completed>false</Completed>
+    <ConfigurationCommandLine />
+    <ConfigurationPath />
+    <DateAdded>2023-06-10T00:23:20.6199439+08:00</DateAdded>
+    <DateModified>2024-01-29T02:02:49.3636213+08:00</DateModified>
+    <Developer>Unknown</Developer>
+    <DosBoxConfigurationPath />
+    <Emulator>c055fd74-0975-40ad-8f82-bc63ed1adb73</Emulator>
+    <Favorite>false</Favorite>
+    <ID>c0a804fa-c6a8-48f9-a7ed-07d4b95ab983</ID>
+    <ManualPath />
+    <MusicPath />
+    <Notes>SD Gundam Generation: Babylonia Kenkoku Senki ("SD Gundam Generation: Record of Babylonia Founding War") is a turn-based strategy game for the Super Famicom. It is based on the Second Neo-Zeon War and the Cosmo Babylonia war of Mobile Suit Gundam F91.
+
+It is the fourth of six SD Gundam Generation games released for the Sufami Turbo peripheral, which uses smaller carts that are able to communicate with each other when placed in the Sufami Turbo device.</Notes>
+    <Platform>Nintendo Sufami Turbo</Platform>
+    <Publisher>Bandai</Publisher>
+    <Rating>Not Rated</Rating>
+    <ReleaseDate>1996-08-23T15:00:00+08:00</ReleaseDate>
+    <RootFolder />
+    <ScummVMAspectCorrection>false</ScummVMAspectCorrection>
+    <ScummVMFullscreen>false</ScummVMFullscreen>
+    <ScummVMGameDataFolderPath />
+    <ScummVMGameType />
+    <SortTitle />
+    <Source />
+    <StarRatingFloat>0</StarRatingFloat>
+    <StarRating>0</StarRating>
+    <CommunityStarRating>4.1666665</CommunityStarRating>
+    <CommunityStarRatingTotalVotes>6</CommunityStarRatingTotalVotes>
+    <Status>Imported ROM</Status>
+    <DatabaseID>126632</DatabaseID>
+    <WikipediaURL />
+    <Title>SD Gundam Generation: Babylonia Kenkoku Senki</Title>
+    <UseDosBox>false</UseDosBox>
+    <UseScummVM>false</UseScummVM>
+    <Version>(Japan)</Version>
+    <Series />
+    <PlayMode>Single Player</PlayMode>
+    <Region>Japan</Region>
+    <PlayCount>0</PlayCount>
+    <PlayTime>0</PlayTime>
+    <Portable>false</Portable>
+    <Hide>false</Hide>
+    <Broken>false</Broken>
+    <CloneOf />
+    <Genre>Strategy</Genre>
+    <MissingVideo>true</MissingVideo>
+    <MissingBoxFrontImage>false</MissingBoxFrontImage>
+    <MissingScreenshotImage>false</MissingScreenshotImage>
+    <MissingMarqueeImage>true</MissingMarqueeImage>
+    <MissingClearLogoImage>false</MissingClearLogoImage>
+    <MissingBackgroundImage>true</MissingBackgroundImage>
+    <MissingBox3dImage>false</MissingBox3dImage>
+    <MissingCartImage>false</MissingCartImage>
+    <MissingCart3dImage>false</MissingCart3dImage>
+    <MissingManual>true</MissingManual>
+    <MissingBannerImage>false</MissingBannerImage>
+    <MissingMusic>true</MissingMusic>
+    <UseStartupScreen>false</UseStartupScreen>
+    <HideAllNonExclusiveFullscreenWindows>false</HideAllNonExclusiveFullscreenWindows>
+    <StartupLoadDelay>0</StartupLoadDelay>
+    <HideMouseCursorInGame>false</HideMouseCursorInGame>
+    <DisableShutdownScreen>false</DisableShutdownScreen>
+    <AggressiveWindowHiding>false</AggressiveWindowHiding>
+    <OverrideDefaultStartupScreenSettings>false</OverrideDefaultStartupScreenSettings>
+    <UsePauseScreen>false</UsePauseScreen>
+    <PauseAutoHotkeyScript />
+    <ResumeAutoHotkeyScript />
+    <OverrideDefaultPauseScreenSettings>false</OverrideDefaultPauseScreenSettings>
+    <SuspendProcessOnPause>false</SuspendProcessOnPause>
+    <ForcefulPauseScreenActivation>false</ForcefulPauseScreenActivation>
+    <LoadStateAutoHotkeyScript />
+    <SaveStateAutoHotkeyScript />
+    <ResetAutoHotkeyScript />
+    <SwapDiscsAutoHotkeyScript />
+    <CustomDosBoxVersionPath />
+    <ReleaseType>Released</ReleaseType>
+    <MaxPlayers>1</MaxPlayers>
+    <VideoUrl />
+    <AndroidBoxFrontThumbPath />
+    <AndroidBoxFrontFullPath />
+    <AndroidClearLogoThumbPath />
+    <AndroidClearLogoFullPath />
+    <AndroidBackgroundPath />
+    <AndroidBackgroundThumbPath />
+    <AndroidGameTitleScreenshotThumbPath />
+    <AndroidGameplayScreenshotThumbPath />
+    <AndroidGameTitleScreenshotPath />
+    <AndroidGameplayScreenshotPath />
+    <AndroidVideoPath />
+    <HasCloudSynced>false</HasCloudSynced>
+  </Game>
+  <Game>
+    <GogAppId />
+    <OriginAppId />
+    <OriginInstallPath />
+    <VideoPath />
+    <ThemeVideoPath />
+    <ApplicationPath>R:\ROMS-1G1R\erista-nointro-nintendo-sufami-turbo\SD Gundam Generation - Gryps Senki (Japan).zip</ApplicationPath>
+    <CommandLine />
+    <Completed>false</Completed>
+    <ConfigurationCommandLine />
+    <ConfigurationPath />
+    <DateAdded>2023-06-10T00:23:20.6191287+08:00</DateAdded>
+    <DateModified>2024-01-29T02:05:21.4861308+08:00</DateModified>
+    <Developer>Unknown</Developer>
+    <DosBoxConfigurationPath />
+    <Emulator>c055fd74-0975-40ad-8f82-bc63ed1adb73</Emulator>
+    <Favorite>false</Favorite>
+    <ID>3ed44fbb-ad91-4ae4-8552-ba8910cf39fa</ID>
+    <LastPlayedDate>2023-07-16T02:58:54.8261325+08:00</LastPlayedDate>
+    <ManualPath />
+    <MusicPath />
+    <Notes>SD Gundam Generation: Gryps Senki ("SD Gundam Generation: Record of Gryps War") is a turn-based strategy game for the Super Famicom. It is based on the Gryps Conflict arc of Mobile Suit Zeta Gundam.
+
+It is the second of six SD Gundam Generation games released for the Sufami Turbo peripheral, which uses smaller carts that are able to communicate with each other when placed in the Sufami Turbo device.</Notes>
+    <Platform>Nintendo Sufami Turbo</Platform>
+    <Publisher>Bandai</Publisher>
+    <Rating>Not Rated</Rating>
+    <ReleaseDate>1996-07-26T15:00:00+08:00</ReleaseDate>
+    <RootFolder />
+    <ScummVMAspectCorrection>false</ScummVMAspectCorrection>
+    <ScummVMFullscreen>false</ScummVMFullscreen>
+    <ScummVMGameDataFolderPath />
+    <ScummVMGameType />
+    <SortTitle />
+    <Source />
+    <StarRatingFloat>0</StarRatingFloat>
+    <StarRating>0</StarRating>
+    <CommunityStarRating>3.2</CommunityStarRating>
+    <CommunityStarRatingTotalVotes>5</CommunityStarRatingTotalVotes>
+    <Status>Imported ROM</Status>
+    <DatabaseID>126629</DatabaseID>
+    <WikipediaURL />
+    <Title>SD Gundam Generation: Gryps Senki</Title>
+    <UseDosBox>false</UseDosBox>
+    <UseScummVM>false</UseScummVM>
+    <Version>(Japan)</Version>
+    <Series />
+    <PlayMode>Single Player</PlayMode>
+    <Region>Japan</Region>
+    <PlayCount>1</PlayCount>
+    <PlayTime>10</PlayTime>
+    <Portable>false</Portable>
+    <Hide>false</Hide>
+    <Broken>false</Broken>
+    <CloneOf />
+    <Genre>Strategy</Genre>
+    <MissingVideo>true</MissingVideo>
+    <MissingBoxFrontImage>false</MissingBoxFrontImage>
+    <MissingScreenshotImage>false</MissingScreenshotImage>
+    <MissingMarqueeImage>true</MissingMarqueeImage>
+    <MissingClearLogoImage>false</MissingClearLogoImage>
+    <MissingBackgroundImage>false</MissingBackgroundImage>
+    <MissingBox3dImage>false</MissingBox3dImage>
+    <MissingCartImage>false</MissingCartImage>
+    <MissingCart3dImage>false</MissingCart3dImage>
+    <MissingManual>true</MissingManual>
+    <MissingBannerImage>false</MissingBannerImage>
+    <MissingMusic>true</MissingMusic>
+    <UseStartupScreen>false</UseStartupScreen>
+    <HideAllNonExclusiveFullscreenWindows>false</HideAllNonExclusiveFullscreenWindows>
+    <StartupLoadDelay>0</StartupLoadDelay>
+    <HideMouseCursorInGame>false</HideMouseCursorInGame>
+    <DisableShutdownScreen>false</DisableShutdownScreen>
+    <AggressiveWindowHiding>false</AggressiveWindowHiding>
+    <OverrideDefaultStartupScreenSettings>false</OverrideDefaultStartupScreenSettings>
+    <UsePauseScreen>false</UsePauseScreen>
+    <PauseAutoHotkeyScript />
+    <ResumeAutoHotkeyScript />
+    <OverrideDefaultPauseScreenSettings>false</OverrideDefaultPauseScreenSettings>
+    <SuspendProcessOnPause>false</SuspendProcessOnPause>
+    <ForcefulPauseScreenActivation>false</ForcefulPauseScreenActivation>
+    <LoadStateAutoHotkeyScript />
+    <SaveStateAutoHotkeyScript />
+    <ResetAutoHotkeyScript />
+    <SwapDiscsAutoHotkeyScript />
+    <CustomDosBoxVersionPath />
+    <ReleaseType>Released</ReleaseType>
+    <MaxPlayers>1</MaxPlayers>
+    <VideoUrl />
+    <AndroidBoxFrontThumbPath />
+    <AndroidBoxFrontFullPath />
+    <AndroidClearLogoThumbPath />
+    <AndroidClearLogoFullPath />
+    <AndroidBackgroundPath />
+    <AndroidBackgroundThumbPath />
+    <AndroidGameTitleScreenshotThumbPath />
+    <AndroidGameplayScreenshotThumbPath />
+    <AndroidGameTitleScreenshotPath />
+    <AndroidGameplayScreenshotPath />
+    <AndroidVideoPath />
+    <HasCloudSynced>true</HasCloudSynced>
+  </Game>
+  <Game>
+    <GogAppId />
+    <OriginAppId />
+    <OriginInstallPath />
+    <VideoPath />
+    <ThemeVideoPath />
+    <ApplicationPath>R:\ROMS-1G1R\erista-nointro-nintendo-sufami-turbo\SD Gundam Generation - Ichinen Sensouki (Japan).zip</ApplicationPath>
+    <CommandLine />
+    <Completed>false</Completed>
+    <ConfigurationCommandLine />
+    <ConfigurationPath />
+    <DateAdded>2023-06-10T00:23:20.6186914+08:00</DateAdded>
+    <DateModified>2024-02-21T14:40:49.2043409+08:00</DateModified>
+    <Developer>Bandai</Developer>
+    <DosBoxConfigurationPath />
+    <Emulator>c055fd74-0975-40ad-8f82-bc63ed1adb73</Emulator>
+    <Favorite>false</Favorite>
+    <ID>36913957-1c97-44a1-bfc3-10de4b2d3f59</ID>
+    <ManualPath />
+    <MusicPath />
+    <Notes>SD Gundam Generation: Ichinen Sensouki ("SD Gundam Generation: One Year War") is a turn-based strategy game for the Super Famicom. It is based on the One Year War arc of the original Mobile Suit Gundam series, also known as Mobile Suit Gundam 0079.
+
+It is the first of six SD Gundam Generation games released for the Sufami Turbo peripheral, which uses smaller carts that are able to communicate with each other when placed in the Sufami Turbo device.</Notes>
+    <Platform>Nintendo Sufami Turbo</Platform>
+    <Publisher>Bandai</Publisher>
+    <Rating>Not Rated</Rating>
+    <ReleaseDate>1996-07-26T15:00:00+08:00</ReleaseDate>
+    <RootFolder />
+    <ScummVMAspectCorrection>false</ScummVMAspectCorrection>
+    <ScummVMFullscreen>false</ScummVMFullscreen>
+    <ScummVMGameDataFolderPath />
+    <ScummVMGameType />
+    <SortTitle />
+    <Source />
+    <StarRatingFloat>0</StarRatingFloat>
+    <StarRating>0</StarRating>
+    <CommunityStarRating>3.75</CommunityStarRating>
+    <CommunityStarRatingTotalVotes>6</CommunityStarRatingTotalVotes>
+    <Status>Imported ROM</Status>
+    <DatabaseID>126628</DatabaseID>
+    <WikipediaURL />
+    <Title>SD Gundam Generation: Ichinen Sensouki</Title>
+    <UseDosBox>false</UseDosBox>
+    <UseScummVM>false</UseScummVM>
+    <Version>(Japan)</Version>
+    <Series />
+    <PlayMode>Multiplayer</PlayMode>
+    <Region>Japan</Region>
+    <PlayCount>0</PlayCount>
+    <PlayTime>0</PlayTime>
+    <Portable>false</Portable>
+    <Hide>false</Hide>
+    <Broken>false</Broken>
+    <CloneOf />
+    <Genre>Strategy</Genre>
+    <MissingVideo>true</MissingVideo>
+    <MissingBoxFrontImage>false</MissingBoxFrontImage>
+    <MissingScreenshotImage>false</MissingScreenshotImage>
+    <MissingMarqueeImage>true</MissingMarqueeImage>
+    <MissingClearLogoImage>false</MissingClearLogoImage>
+    <MissingBackgroundImage>false</MissingBackgroundImage>
+    <MissingBox3dImage>false</MissingBox3dImage>
+    <MissingCartImage>false</MissingCartImage>
+    <MissingCart3dImage>false</MissingCart3dImage>
+    <MissingManual>true</MissingManual>
+    <MissingBannerImage>false</MissingBannerImage>
+    <MissingMusic>true</MissingMusic>
+    <UseStartupScreen>false</UseStartupScreen>
+    <HideAllNonExclusiveFullscreenWindows>false</HideAllNonExclusiveFullscreenWindows>
+    <StartupLoadDelay>0</StartupLoadDelay>
+    <HideMouseCursorInGame>false</HideMouseCursorInGame>
+    <DisableShutdownScreen>false</DisableShutdownScreen>
+    <AggressiveWindowHiding>false</AggressiveWindowHiding>
+    <OverrideDefaultStartupScreenSettings>false</OverrideDefaultStartupScreenSettings>
+    <UsePauseScreen>false</UsePauseScreen>
+    <PauseAutoHotkeyScript />
+    <ResumeAutoHotkeyScript />
+    <OverrideDefaultPauseScreenSettings>false</OverrideDefaultPauseScreenSettings>
+    <SuspendProcessOnPause>false</SuspendProcessOnPause>
+    <ForcefulPauseScreenActivation>false</ForcefulPauseScreenActivation>
+    <LoadStateAutoHotkeyScript />
+    <SaveStateAutoHotkeyScript />
+    <ResetAutoHotkeyScript />
+    <SwapDiscsAutoHotkeyScript />
+    <CustomDosBoxVersionPath />
+    <ReleaseType>Released</ReleaseType>
+    <MaxPlayers>2</MaxPlayers>
+    <VideoUrl />
+    <AndroidBoxFrontThumbPath />
+    <AndroidBoxFrontFullPath />
+    <AndroidClearLogoThumbPath />
+    <AndroidClearLogoFullPath />
+    <AndroidBackgroundPath />
+    <AndroidBackgroundThumbPath />
+    <AndroidGameTitleScreenshotThumbPath />
+    <AndroidGameplayScreenshotThumbPath />
+    <AndroidGameTitleScreenshotPath />
+    <AndroidGameplayScreenshotPath />
+    <AndroidVideoPath />
+    <HasCloudSynced>false</HasCloudSynced>
+  </Game>
+  <Game>
+    <GogAppId />
+    <OriginAppId />
+    <OriginInstallPath />
+    <VideoPath />
+    <ThemeVideoPath />
+    <ApplicationPath>R:\ROMS-1G1R\erista-nointro-nintendo-sufami-turbo\Poi Poi Ninja World (Japan).zip</ApplicationPath>
+    <CommandLine />
+    <Completed>false</Completed>
+    <ConfigurationCommandLine />
+    <ConfigurationPath />
+    <DateAdded>2023-06-10T00:23:20.6210317+08:00</DateAdded>
+    <DateModified>2024-01-29T02:05:21.4858571+08:00</DateModified>
+    <Developer>Tom Create</Developer>
+    <DosBoxConfigurationPath />
+    <Emulator>c055fd74-0975-40ad-8f82-bc63ed1adb73</Emulator>
+    <Favorite>false</Favorite>
+    <ID>235f12d1-7c01-41d5-9e38-bbca83790416</ID>
+    <LastPlayedDate>2023-06-10T00:23:33.831903+08:00</LastPlayedDate>
+    <ManualPath />
+    <MusicPath />
+    <Notes>Poi Poi Ninja World is a Bomberman-like multiplayer game in which players try to do in their opponents by tossing bombs, rocks, and other objects.
+
+Poi Poi Ninja World could be linked with other Poi Poi Ninja World carts inserted into the second slot of the Sufami Turbo, allowing the exchange of various save data.</Notes>
+    <Platform>Nintendo Sufami Turbo</Platform>
+    <Publisher>Bandai</Publisher>
+    <Rating>Not Rated</Rating>
+    <ReleaseDate>1996-06-28T15:00:00+08:00</ReleaseDate>
+    <RootFolder />
+    <ScummVMAspectCorrection>false</ScummVMAspectCorrection>
+    <ScummVMFullscreen>false</ScummVMFullscreen>
+    <ScummVMGameDataFolderPath />
+    <ScummVMGameType />
+    <SortTitle />
+    <Source />
+    <StarRatingFloat>0</StarRatingFloat>
+    <StarRating>0</StarRating>
+    <CommunityStarRating>3.25</CommunityStarRating>
+    <CommunityStarRatingTotalVotes>8</CommunityStarRatingTotalVotes>
+    <Status>Imported ROM</Status>
+    <DatabaseID>126627</DatabaseID>
+    <WikipediaURL />
+    <Title>Poi Poi Ninja World</Title>
+    <UseDosBox>false</UseDosBox>
+    <UseScummVM>false</UseScummVM>
+    <Version>(Japan)</Version>
+    <Series />
+    <PlayMode>Multiplayer</PlayMode>
+    <Region>Japan</Region>
+    <PlayCount>1</PlayCount>
+    <PlayTime>32</PlayTime>
+    <Portable>false</Portable>
+    <Hide>false</Hide>
+    <Broken>false</Broken>
+    <CloneOf />
+    <Genre>Action</Genre>
+    <MissingVideo>true</MissingVideo>
+    <MissingBoxFrontImage>false</MissingBoxFrontImage>
+    <MissingScreenshotImage>false</MissingScreenshotImage>
+    <MissingMarqueeImage>true</MissingMarqueeImage>
+    <MissingClearLogoImage>false</MissingClearLogoImage>
+    <MissingBackgroundImage>false</MissingBackgroundImage>
+    <MissingBox3dImage>false</MissingBox3dImage>
+    <MissingCartImage>false</MissingCartImage>
+    <MissingCart3dImage>false</MissingCart3dImage>
+    <MissingManual>true</MissingManual>
+    <MissingBannerImage>false</MissingBannerImage>
+    <MissingMusic>true</MissingMusic>
+    <UseStartupScreen>false</UseStartupScreen>
+    <HideAllNonExclusiveFullscreenWindows>false</HideAllNonExclusiveFullscreenWindows>
+    <StartupLoadDelay>0</StartupLoadDelay>
+    <HideMouseCursorInGame>false</HideMouseCursorInGame>
+    <DisableShutdownScreen>false</DisableShutdownScreen>
+    <AggressiveWindowHiding>false</AggressiveWindowHiding>
+    <OverrideDefaultStartupScreenSettings>false</OverrideDefaultStartupScreenSettings>
+    <UsePauseScreen>false</UsePauseScreen>
+    <PauseAutoHotkeyScript />
+    <ResumeAutoHotkeyScript />
+    <OverrideDefaultPauseScreenSettings>false</OverrideDefaultPauseScreenSettings>
+    <SuspendProcessOnPause>false</SuspendProcessOnPause>
+    <ForcefulPauseScreenActivation>false</ForcefulPauseScreenActivation>
+    <LoadStateAutoHotkeyScript />
+    <SaveStateAutoHotkeyScript />
+    <ResetAutoHotkeyScript />
+    <SwapDiscsAutoHotkeyScript />
+    <CustomDosBoxVersionPath />
+    <ReleaseType>Released</ReleaseType>
+    <MaxPlayers>4</MaxPlayers>
+    <VideoUrl />
+    <AndroidBoxFrontThumbPath />
+    <AndroidBoxFrontFullPath />
+    <AndroidClearLogoThumbPath />
+    <AndroidClearLogoFullPath />
+    <AndroidBackgroundPath />
+    <AndroidBackgroundThumbPath />
+    <AndroidGameTitleScreenshotThumbPath />
+    <AndroidGameplayScreenshotThumbPath />
+    <AndroidGameTitleScreenshotPath />
+    <AndroidGameplayScreenshotPath />
+    <AndroidVideoPath />
+    <HasCloudSynced>true</HasCloudSynced>
+  </Game>
+  <Game>
+    <GogAppId />
+    <OriginAppId />
+    <OriginInstallPath />
+    <VideoPath />
+    <ThemeVideoPath />
+    <ApplicationPath>R:\ROMS-1G1R\erista-nointro-nintendo-sufami-turbo\Crayon Shin-chan - Nagagutsu Dobon!! (Japan).zip</ApplicationPath>
+    <CommandLine />
+    <Completed>false</Completed>
+    <ConfigurationCommandLine />
+    <ConfigurationPath />
+    <DateAdded>2023-06-10T00:23:20.6289198+08:00</DateAdded>
+    <DateModified>2024-01-29T02:05:21.4852935+08:00</DateModified>
+    <Developer>AIM</Developer>
+    <DosBoxConfigurationPath />
+    <Emulator>c055fd74-0975-40ad-8f82-bc63ed1adb73</Emulator>
+    <Favorite>false</Favorite>
+    <ID>e8ce07ca-5fa7-4ab0-9b1d-4cd75bf3592d</ID>
+    <LastPlayedDate>2023-09-04T02:34:19.476508+08:00</LastPlayedDate>
+    <ManualPath />
+    <MusicPath />
+    <Notes>Crayon Shin-Chan: Nagagutsu Dobon!! ("Crayon Shin-Chan: Galoshes Splash!!") is a multiplayer action game for the Super Famicom. It is based on the anime Crayon Shin-Chan.
+
+The goal of the game is to splash in puddles and drench the opponent(s). The puddles have a few rules depending on their size, and taking advantage of their layout is key to tricking opponents into getting splashed. There are also power-ups and power-downs the players can collect.
+
+The game was the thirteenth and final game in Bandai's range of Sufami Turbo games, which were published on specially created carts that Bandai manufactured for less cost than Nintendo's official carts. It therefore requires a special plug-in peripheral to play.</Notes>
+    <Platform>Nintendo Sufami Turbo</Platform>
+    <Publisher>Bandai</Publisher>
+    <Rating>Not Rated</Rating>
+    <ReleaseDate>1996-09-27T15:00:00+08:00</ReleaseDate>
+    <RootFolder />
+    <ScummVMAspectCorrection>false</ScummVMAspectCorrection>
+    <ScummVMFullscreen>false</ScummVMFullscreen>
+    <ScummVMGameDataFolderPath />
+    <ScummVMGameType />
+    <SortTitle />
+    <Source />
+    <StarRatingFloat>0</StarRatingFloat>
+    <StarRating>0</StarRating>
+    <CommunityStarRating>4.2777777</CommunityStarRating>
+    <CommunityStarRatingTotalVotes>9</CommunityStarRatingTotalVotes>
+    <Status>Imported ROM</Status>
+    <DatabaseID>126624</DatabaseID>
+    <WikipediaURL />
+    <Title>Crayon Shin Chan: Nagagutsu Dobon!!</Title>
+    <UseDosBox>false</UseDosBox>
+    <UseScummVM>false</UseScummVM>
+    <Version>(Japan)</Version>
+    <Series />
+    <PlayMode>Multiplayer</PlayMode>
+    <Region>Japan</Region>
+    <PlayCount>1</PlayCount>
+    <PlayTime>0</PlayTime>
+    <Portable>false</Portable>
+    <Hide>false</Hide>
+    <Broken>false</Broken>
+    <CloneOf />
+    <Genre>Action</Genre>
+    <MissingVideo>true</MissingVideo>
+    <MissingBoxFrontImage>false</MissingBoxFrontImage>
+    <MissingScreenshotImage>false</MissingScreenshotImage>
+    <MissingMarqueeImage>true</MissingMarqueeImage>
+    <MissingClearLogoImage>false</MissingClearLogoImage>
+    <MissingBackgroundImage>false</MissingBackgroundImage>
+    <MissingBox3dImage>false</MissingBox3dImage>
+    <MissingCartImage>false</MissingCartImage>
+    <MissingCart3dImage>false</MissingCart3dImage>
+    <MissingManual>true</MissingManual>
+    <MissingBannerImage>false</MissingBannerImage>
+    <MissingMusic>true</MissingMusic>
+    <UseStartupScreen>false</UseStartupScreen>
+    <HideAllNonExclusiveFullscreenWindows>false</HideAllNonExclusiveFullscreenWindows>
+    <StartupLoadDelay>0</StartupLoadDelay>
+    <HideMouseCursorInGame>false</HideMouseCursorInGame>
+    <DisableShutdownScreen>false</DisableShutdownScreen>
+    <AggressiveWindowHiding>false</AggressiveWindowHiding>
+    <OverrideDefaultStartupScreenSettings>false</OverrideDefaultStartupScreenSettings>
+    <UsePauseScreen>false</UsePauseScreen>
+    <PauseAutoHotkeyScript />
+    <ResumeAutoHotkeyScript />
+    <OverrideDefaultPauseScreenSettings>false</OverrideDefaultPauseScreenSettings>
+    <SuspendProcessOnPause>false</SuspendProcessOnPause>
+    <ForcefulPauseScreenActivation>false</ForcefulPauseScreenActivation>
+    <LoadStateAutoHotkeyScript />
+    <SaveStateAutoHotkeyScript />
+    <ResetAutoHotkeyScript />
+    <SwapDiscsAutoHotkeyScript />
+    <CustomDosBoxVersionPath />
+    <ReleaseType>Released</ReleaseType>
+    <MaxPlayers>2</MaxPlayers>
+    <VideoUrl />
+    <AndroidBoxFrontThumbPath />
+    <AndroidBoxFrontFullPath />
+    <AndroidClearLogoThumbPath />
+    <AndroidClearLogoFullPath />
+    <AndroidBackgroundPath />
+    <AndroidBackgroundThumbPath />
+    <AndroidGameTitleScreenshotThumbPath />
+    <AndroidGameplayScreenshotThumbPath />
+    <AndroidGameTitleScreenshotPath />
+    <AndroidGameplayScreenshotPath />
+    <AndroidVideoPath />
+    <HasCloudSynced>true</HasCloudSynced>
+  </Game>
+  <Game>
+    <GogAppId />
+    <OriginAppId />
+    <OriginInstallPath />
+    <VideoPath />
+    <ThemeVideoPath />
+    <ApplicationPath>R:\ROMS-1G1R\erista-nointro-nintendo-sufami-turbo\Gekisou Sentai Carranger - Zenkai! Racer Senshi (Japan).zip</ApplicationPath>
+    <CommandLine />
+    <Completed>false</Completed>
+    <ConfigurationCommandLine />
+    <ConfigurationPath />
+    <DateAdded>2023-06-10T00:23:20.6223012+08:00</DateAdded>
+    <DateModified>2024-01-28T23:08:43.694671+08:00</DateModified>
+    <Developer>Natsume</Developer>
+    <DosBoxConfigurationPath />
+    <Emulator>c055fd74-0975-40ad-8f82-bc63ed1adb73</Emulator>
+    <Favorite>false</Favorite>
+    <ID>9c4a82c8-dbae-4ea1-bab8-1fdcbbaa529e</ID>
+    <ManualPath />
+    <MusicPath />
+    <Notes>Gekisou Sentai Carranger: Zenkai! Racer Senshi ("Sprint Squad Carranger: Full Throttle! Racer Soldiers") is a side-scrolling action game featuring the Carranger, a squad of costumed warriors who are supported by special car constellations and fight to protect the Earth from a reckless alien biker gang. The original Japanese show is played as a parody of Super Sentai, but its action footage is used in the otherwise serious Turbo Power Rangers series.
+
+In the game, the player moves across levels fighting minor foes before coming up against one of the show's many named foes as a boss encounter. Throughout the level the player can hit signs for bonus power-ups and collect "parts" from destroying vehicles and hitting other notable objects in the environment.
+
+Gekisou Sentai Carranger was the ninth game to come from Bandai's range of Sufami Turbo-exclusive titles: licensed games built on special smaller carts which required a plug-in peripheral to play on a Super Famicom. These smaller carts were more cost-effective for Bandai to produce, and could also communicate with other Sufami Turbo carts in a few rare cases.</Notes>
+    <Platform>Nintendo Sufami Turbo</Platform>
+    <Publisher>Bandai</Publisher>
+    <Rating>Not Rated</Rating>
+    <ReleaseDate>1996-08-23T15:00:00+08:00</ReleaseDate>
+    <RootFolder />
+    <ScummVMAspectCorrection>false</ScummVMAspectCorrection>
+    <ScummVMFullscreen>false</ScummVMFullscreen>
+    <ScummVMGameDataFolderPath />
+    <ScummVMGameType />
+    <SortTitle />
+    <Source />
+    <StarRatingFloat>0</StarRatingFloat>
+    <StarRating>0</StarRating>
+    <CommunityStarRating>3.9</CommunityStarRating>
+    <CommunityStarRatingTotalVotes>15</CommunityStarRatingTotalVotes>
+    <Status>Imported ROM</Status>
+    <DatabaseID>123295</DatabaseID>
+    <WikipediaURL />
+    <Title>Gekisou Sentai Carranger: Zenkai! Racer Senshi</Title>
+    <UseDosBox>false</UseDosBox>
+    <UseScummVM>false</UseScummVM>
+    <Version>(Japan)</Version>
+    <Series />
+    <PlayMode>Single Player</PlayMode>
+    <Region>Japan</Region>
+    <PlayCount>0</PlayCount>
+    <PlayTime>0</PlayTime>
+    <Portable>false</Portable>
+    <Hide>false</Hide>
+    <Broken>false</Broken>
+    <CloneOf />
+    <Genre>Beat 'em Up</Genre>
+    <MissingVideo>true</MissingVideo>
+    <MissingBoxFrontImage>false</MissingBoxFrontImage>
+    <MissingScreenshotImage>false</MissingScreenshotImage>
+    <MissingMarqueeImage>true</MissingMarqueeImage>
+    <MissingClearLogoImage>false</MissingClearLogoImage>
+    <MissingBackgroundImage>false</MissingBackgroundImage>
+    <MissingBox3dImage>false</MissingBox3dImage>
+    <MissingCartImage>false</MissingCartImage>
+    <MissingCart3dImage>false</MissingCart3dImage>
+    <MissingManual>true</MissingManual>
+    <MissingBannerImage>false</MissingBannerImage>
+    <MissingMusic>true</MissingMusic>
+    <UseStartupScreen>false</UseStartupScreen>
+    <HideAllNonExclusiveFullscreenWindows>false</HideAllNonExclusiveFullscreenWindows>
+    <StartupLoadDelay>0</StartupLoadDelay>
+    <HideMouseCursorInGame>false</HideMouseCursorInGame>
+    <DisableShutdownScreen>false</DisableShutdownScreen>
+    <AggressiveWindowHiding>false</AggressiveWindowHiding>
+    <OverrideDefaultStartupScreenSettings>false</OverrideDefaultStartupScreenSettings>
+    <UsePauseScreen>false</UsePauseScreen>
+    <PauseAutoHotkeyScript />
+    <ResumeAutoHotkeyScript />
+    <OverrideDefaultPauseScreenSettings>false</OverrideDefaultPauseScreenSettings>
+    <SuspendProcessOnPause>false</SuspendProcessOnPause>
+    <ForcefulPauseScreenActivation>false</ForcefulPauseScreenActivation>
+    <LoadStateAutoHotkeyScript />
+    <SaveStateAutoHotkeyScript />
+    <ResetAutoHotkeyScript />
+    <SwapDiscsAutoHotkeyScript />
+    <CustomDosBoxVersionPath />
+    <ReleaseType>Released</ReleaseType>
+    <MaxPlayers>1</MaxPlayers>
+    <VideoUrl />
+    <AndroidBoxFrontThumbPath />
+    <AndroidBoxFrontFullPath />
+    <AndroidClearLogoThumbPath />
+    <AndroidClearLogoFullPath />
+    <AndroidBackgroundPath />
+    <AndroidBackgroundThumbPath />
+    <AndroidGameTitleScreenshotThumbPath />
+    <AndroidGameplayScreenshotThumbPath />
+    <AndroidGameTitleScreenshotPath />
+    <AndroidGameplayScreenshotPath />
+    <AndroidVideoPath />
+    <HasCloudSynced>false</HasCloudSynced>
+  </Game>
+  <Game>
+    <GogAppId />
+    <OriginAppId />
+    <OriginInstallPath />
+    <VideoPath />
+    <ThemeVideoPath />
+    <ApplicationPath>R:\ROMS-1G1R\erista-nointro-nintendo-sufami-turbo\SD Gundam Generation - Axis Senki (Japan).zip</ApplicationPath>
+    <CommandLine />
+    <Completed>false</Completed>
+    <ConfigurationCommandLine />
+    <ConfigurationPath />
+    <DateAdded>2023-06-10T00:23:20.6203016+08:00</DateAdded>
+    <DateModified>2024-02-21T14:40:50.1048389+08:00</DateModified>
+    <Developer>Unknown</Developer>
+    <DosBoxConfigurationPath />
+    <Emulator>c055fd74-0975-40ad-8f82-bc63ed1adb73</Emulator>
+    <Favorite>false</Favorite>
+    <ID>1d4f1332-8348-4a4e-acf5-d3f1b69abeed</ID>
+    <ManualPath />
+    <MusicPath />
+    <Notes>SD Gundam Generation: Axis Senki ("SD Gundam Generation: Record of Axis War") is a turn-based strategy game for the Super Famicom. It is based on the First Neo-Zeon War of Mobile Suit Gundam ZZ.
+
+It is the third of six SD Gundam Generation games released for the Sufami Turbo peripheral, which uses smaller carts that are able to communicate with each other when placed in the Sufami Turbo device.</Notes>
+    <Platform>Nintendo Sufami Turbo</Platform>
+    <Publisher>Bandai</Publisher>
+    <Rating>Not Rated</Rating>
+    <ReleaseDate>1996-08-23T15:00:00+08:00</ReleaseDate>
+    <RootFolder />
+    <ScummVMAspectCorrection>false</ScummVMAspectCorrection>
+    <ScummVMFullscreen>false</ScummVMFullscreen>
+    <ScummVMGameDataFolderPath />
+    <ScummVMGameType />
+    <SortTitle />
+    <Source />
+    <StarRatingFloat>0</StarRatingFloat>
+    <StarRating>0</StarRating>
+    <CommunityStarRating>4.5</CommunityStarRating>
+    <CommunityStarRatingTotalVotes>5</CommunityStarRatingTotalVotes>
+    <Status>Imported ROM</Status>
+    <DatabaseID>126630</DatabaseID>
+    <WikipediaURL />
+    <Title>SD Gundam Generation: Axis Senki</Title>
+    <UseDosBox>false</UseDosBox>
+    <UseScummVM>false</UseScummVM>
+    <Version>(Japan)</Version>
+    <Series />
+    <PlayMode>Single Player</PlayMode>
+    <Region>Japan</Region>
+    <PlayCount>0</PlayCount>
+    <PlayTime>0</PlayTime>
+    <Portable>false</Portable>
+    <Hide>false</Hide>
+    <Broken>false</Broken>
+    <CloneOf />
+    <Genre>Strategy</Genre>
+    <MissingVideo>true</MissingVideo>
+    <MissingBoxFrontImage>false</MissingBoxFrontImage>
+    <MissingScreenshotImage>false</MissingScreenshotImage>
+    <MissingMarqueeImage>true</MissingMarqueeImage>
+    <MissingClearLogoImage>false</MissingClearLogoImage>
+    <MissingBackgroundImage>false</MissingBackgroundImage>
+    <MissingBox3dImage>false</MissingBox3dImage>
+    <MissingCartImage>false</MissingCartImage>
+    <MissingCart3dImage>false</MissingCart3dImage>
+    <MissingManual>true</MissingManual>
+    <MissingBannerImage>false</MissingBannerImage>
+    <MissingMusic>true</MissingMusic>
+    <UseStartupScreen>false</UseStartupScreen>
+    <HideAllNonExclusiveFullscreenWindows>false</HideAllNonExclusiveFullscreenWindows>
+    <StartupLoadDelay>0</StartupLoadDelay>
+    <HideMouseCursorInGame>false</HideMouseCursorInGame>
+    <DisableShutdownScreen>false</DisableShutdownScreen>
+    <AggressiveWindowHiding>false</AggressiveWindowHiding>
+    <OverrideDefaultStartupScreenSettings>false</OverrideDefaultStartupScreenSettings>
+    <UsePauseScreen>false</UsePauseScreen>
+    <PauseAutoHotkeyScript />
+    <ResumeAutoHotkeyScript />
+    <OverrideDefaultPauseScreenSettings>false</OverrideDefaultPauseScreenSettings>
+    <SuspendProcessOnPause>false</SuspendProcessOnPause>
+    <ForcefulPauseScreenActivation>false</ForcefulPauseScreenActivation>
+    <LoadStateAutoHotkeyScript />
+    <SaveStateAutoHotkeyScript />
+    <ResetAutoHotkeyScript />
+    <SwapDiscsAutoHotkeyScript />
+    <CustomDosBoxVersionPath />
+    <ReleaseType>Released</ReleaseType>
+    <MaxPlayers>1</MaxPlayers>
+    <VideoUrl />
+    <AndroidBoxFrontThumbPath />
+    <AndroidBoxFrontFullPath />
+    <AndroidClearLogoThumbPath />
+    <AndroidClearLogoFullPath />
+    <AndroidBackgroundPath />
+    <AndroidBackgroundThumbPath />
+    <AndroidGameTitleScreenshotThumbPath />
+    <AndroidGameplayScreenshotThumbPath />
+    <AndroidGameTitleScreenshotPath />
+    <AndroidGameplayScreenshotPath />
+    <AndroidVideoPath />
+    <HasCloudSynced>false</HasCloudSynced>
+  </Game>
+  <Game>
+    <GogAppId />
+    <OriginAppId />
+    <OriginInstallPath />
+    <VideoPath />
+    <ThemeVideoPath />
+    <ApplicationPath>R:\ROMS-1G1R\erista-nointro-nintendo-sufami-turbo\SD Ultra Battle - Ultraman Densetsu (Japan).zip</ApplicationPath>
+    <CommandLine />
+    <Completed>false</Completed>
+    <ConfigurationCommandLine />
+    <ConfigurationPath />
+    <DateAdded>2023-06-10T00:23:20.6175549+08:00</DateAdded>
+    <DateModified>2024-01-29T02:04:39.2048241+08:00</DateModified>
+    <Developer>Tom Create</Developer>
+    <DosBoxConfigurationPath />
+    <Emulator>c055fd74-0975-40ad-8f82-bc63ed1adb73</Emulator>
+    <Favorite>false</Favorite>
+    <ID>e34dae89-e412-40ce-a050-724899f710dc</ID>
+    <ManualPath />
+    <MusicPath />
+    <Notes>SD Ultra Battle: Ultraman Densetsu ("SD Ultra Battle: Ultraman Legend") is a fighter game for the Super Famicom that features super deformed characters from the Ultraman series. Along with series protagonist Ultraman, the game also features two of his most memorable opponents Alien Baltan and the Red King.
+
+The game was a companion product to SD Ultra Battle: Seven Densetsu, and was released the same day. Both carts employ Bandai's officially licensed Nintendo peripheral the Sufami Turbo to link together to share game data, allowing characters from one game to appear and fight characters in the other. Because Ultraman Densetsu was released in the miniature Sufami Turbo cartridge format, it cannot be played without that peripheral. One version of Ultraman Densetsu included the Sufami Turbo peripheral as a pack-in bundle.</Notes>
+    <Platform>Nintendo Sufami Turbo</Platform>
+    <Publisher>Bandai</Publisher>
+    <Rating>Not Rated</Rating>
+    <ReleaseDate>1996-06-28T15:00:00+08:00</ReleaseDate>
+    <RootFolder />
+    <ScummVMAspectCorrection>false</ScummVMAspectCorrection>
+    <ScummVMFullscreen>false</ScummVMFullscreen>
+    <ScummVMGameDataFolderPath />
+    <ScummVMGameType />
+    <SortTitle />
+    <Source />
+    <StarRatingFloat>0</StarRatingFloat>
+    <StarRating>0</StarRating>
+    <CommunityStarRating>3.1666667</CommunityStarRating>
+    <CommunityStarRatingTotalVotes>6</CommunityStarRatingTotalVotes>
+    <Status>Imported ROM</Status>
+    <DatabaseID>126638</DatabaseID>
+    <WikipediaURL />
+    <Title>SD Ultra Battle: Ultraman Densetsu</Title>
+    <UseDosBox>false</UseDosBox>
+    <UseScummVM>false</UseScummVM>
+    <Version>(Japan)</Version>
+    <Series />
+    <PlayMode>Multiplayer</PlayMode>
+    <Region>Japan</Region>
+    <PlayCount>0</PlayCount>
+    <PlayTime>0</PlayTime>
+    <Portable>false</Portable>
+    <Hide>false</Hide>
+    <Broken>false</Broken>
+    <CloneOf />
+    <Genre>Fighting</Genre>
+    <MissingVideo>true</MissingVideo>
+    <MissingBoxFrontImage>false</MissingBoxFrontImage>
+    <MissingScreenshotImage>false</MissingScreenshotImage>
+    <MissingMarqueeImage>true</MissingMarqueeImage>
+    <MissingClearLogoImage>false</MissingClearLogoImage>
+    <MissingBackgroundImage>true</MissingBackgroundImage>
+    <MissingBox3dImage>false</MissingBox3dImage>
+    <MissingCartImage>false</MissingCartImage>
+    <MissingCart3dImage>false</MissingCart3dImage>
+    <MissingManual>true</MissingManual>
+    <MissingBannerImage>false</MissingBannerImage>
+    <MissingMusic>true</MissingMusic>
+    <UseStartupScreen>false</UseStartupScreen>
+    <HideAllNonExclusiveFullscreenWindows>false</HideAllNonExclusiveFullscreenWindows>
+    <StartupLoadDelay>0</StartupLoadDelay>
+    <HideMouseCursorInGame>false</HideMouseCursorInGame>
+    <DisableShutdownScreen>false</DisableShutdownScreen>
+    <AggressiveWindowHiding>false</AggressiveWindowHiding>
+    <OverrideDefaultStartupScreenSettings>false</OverrideDefaultStartupScreenSettings>
+    <UsePauseScreen>false</UsePauseScreen>
+    <PauseAutoHotkeyScript />
+    <ResumeAutoHotkeyScript />
+    <OverrideDefaultPauseScreenSettings>false</OverrideDefaultPauseScreenSettings>
+    <SuspendProcessOnPause>false</SuspendProcessOnPause>
+    <ForcefulPauseScreenActivation>false</ForcefulPauseScreenActivation>
+    <LoadStateAutoHotkeyScript />
+    <SaveStateAutoHotkeyScript />
+    <ResetAutoHotkeyScript />
+    <SwapDiscsAutoHotkeyScript />
+    <CustomDosBoxVersionPath />
+    <ReleaseType>Released</ReleaseType>
+    <MaxPlayers>2</MaxPlayers>
+    <VideoUrl />
+    <AndroidBoxFrontThumbPath />
+    <AndroidBoxFrontFullPath />
+    <AndroidClearLogoThumbPath />
+    <AndroidClearLogoFullPath />
+    <AndroidBackgroundPath />
+    <AndroidBackgroundThumbPath />
+    <AndroidGameTitleScreenshotThumbPath />
+    <AndroidGameplayScreenshotThumbPath />
+    <AndroidGameTitleScreenshotPath />
+    <AndroidGameplayScreenshotPath />
+    <AndroidVideoPath />
+    <HasCloudSynced>false</HasCloudSynced>
+  </Game>
+  <Game>
+    <GogAppId />
+    <OriginAppId />
+    <OriginInstallPath />
+    <VideoPath />
+    <ThemeVideoPath />
+    <ApplicationPath>R:\ROMS-1G1R\erista-nointro-nintendo-sufami-turbo\Gegege no Kitarou - Youkai Donjara (Japan).zip</ApplicationPath>
+    <CommandLine />
+    <Completed>false</Completed>
+    <ConfigurationCommandLine />
+    <ConfigurationPath />
+    <DateAdded>2023-06-10T00:23:20.6275787+08:00</DateAdded>
+    <DateModified>2024-01-29T01:56:40.9157484+08:00</DateModified>
+    <Developer>Tom Create</Developer>
+    <DosBoxConfigurationPath />
+    <Emulator>c055fd74-0975-40ad-8f82-bc63ed1adb73</Emulator>
+    <Favorite>false</Favorite>
+    <ID>de9cb5e0-566a-45ef-b086-b49a02ac1655</ID>
+    <ManualPath />
+    <MusicPath />
+    <Notes>Gegege no Kitarou: Youkai Donjaara is a combination puzzle/board game for the Super Famicom based on the spooky kids' anime Gegege no Kitarou.
+
+It focuses on the titular game of donjaara, a simplified version of mahjong for children, but also features a number of other mini-games involving tiles such as a memory matching game and one where four players attempt to take the most territory on a grid.
+
+Youkai Donjaara was part of a series of games Bandai published for their Sufami Turbo peripheral in 1996. This device could play special smaller carts that were cheaper for Bandai to produce, and as such the game cannot be played without the peripheral. It launched with two versions: one that included the peripheral as a pack-in, and one that did not.</Notes>
+    <Platform>Nintendo Sufami Turbo</Platform>
+    <Publisher>Bandai</Publisher>
+    <Rating>Not Rated</Rating>
+    <ReleaseDate>1996-07-19T15:00:00+08:00</ReleaseDate>
+    <RootFolder />
+    <ScummVMAspectCorrection>false</ScummVMAspectCorrection>
+    <ScummVMFullscreen>false</ScummVMFullscreen>
+    <ScummVMGameDataFolderPath />
+    <ScummVMGameType />
+    <SortTitle />
+    <Source />
+    <StarRatingFloat>0</StarRatingFloat>
+    <StarRating>0</StarRating>
+    <CommunityStarRating>4</CommunityStarRating>
+    <CommunityStarRatingTotalVotes>3</CommunityStarRatingTotalVotes>
+    <Status>Imported ROM</Status>
+    <DatabaseID>123294</DatabaseID>
+    <WikipediaURL />
+    <Title>Gegege no Kitarou: Youkai Donjara</Title>
+    <UseDosBox>false</UseDosBox>
+    <UseScummVM>false</UseScummVM>
+    <Version>(Japan)</Version>
+    <Series />
+    <PlayMode>Multiplayer</PlayMode>
+    <Region>Japan</Region>
+    <PlayCount>0</PlayCount>
+    <PlayTime>0</PlayTime>
+    <Portable>false</Portable>
+    <Hide>false</Hide>
+    <Broken>false</Broken>
+    <CloneOf />
+    <Genre>Puzzle; Board Game</Genre>
+    <MissingVideo>true</MissingVideo>
+    <MissingBoxFrontImage>false</MissingBoxFrontImage>
+    <MissingScreenshotImage>false</MissingScreenshotImage>
+    <MissingMarqueeImage>true</MissingMarqueeImage>
+    <MissingClearLogoImage>false</MissingClearLogoImage>
+    <MissingBackgroundImage>false</MissingBackgroundImage>
+    <MissingBox3dImage>false</MissingBox3dImage>
+    <MissingCartImage>false</MissingCartImage>
+    <MissingCart3dImage>false</MissingCart3dImage>
+    <MissingManual>true</MissingManual>
+    <MissingBannerImage>false</MissingBannerImage>
+    <MissingMusic>true</MissingMusic>
+    <UseStartupScreen>false</UseStartupScreen>
+    <HideAllNonExclusiveFullscreenWindows>false</HideAllNonExclusiveFullscreenWindows>
+    <StartupLoadDelay>0</StartupLoadDelay>
+    <HideMouseCursorInGame>false</HideMouseCursorInGame>
+    <DisableShutdownScreen>false</DisableShutdownScreen>
+    <AggressiveWindowHiding>false</AggressiveWindowHiding>
+    <OverrideDefaultStartupScreenSettings>false</OverrideDefaultStartupScreenSettings>
+    <UsePauseScreen>false</UsePauseScreen>
+    <PauseAutoHotkeyScript />
+    <ResumeAutoHotkeyScript />
+    <OverrideDefaultPauseScreenSettings>false</OverrideDefaultPauseScreenSettings>
+    <SuspendProcessOnPause>false</SuspendProcessOnPause>
+    <ForcefulPauseScreenActivation>false</ForcefulPauseScreenActivation>
+    <LoadStateAutoHotkeyScript />
+    <SaveStateAutoHotkeyScript />
+    <ResetAutoHotkeyScript />
+    <SwapDiscsAutoHotkeyScript />
+    <CustomDosBoxVersionPath />
+    <ReleaseType>Released</ReleaseType>
+    <MaxPlayers>4</MaxPlayers>
+    <VideoUrl />
+    <AndroidBoxFrontThumbPath />
+    <AndroidBoxFrontFullPath />
+    <AndroidClearLogoThumbPath />
+    <AndroidClearLogoFullPath />
+    <AndroidBackgroundPath />
+    <AndroidBackgroundThumbPath />
+    <AndroidGameTitleScreenshotThumbPath />
+    <AndroidGameplayScreenshotThumbPath />
+    <AndroidGameTitleScreenshotPath />
+    <AndroidGameplayScreenshotPath />
+    <AndroidVideoPath />
+    <HasCloudSynced>false</HasCloudSynced>
+  </Game>
+  <Game>
+    <GogAppId />
+    <OriginAppId />
+    <OriginInstallPath />
+    <VideoPath />
+    <ThemeVideoPath />
+    <ApplicationPath>R:\ROMS-1G1R\erista-nointro-nintendo-sufami-turbo\SD Gundam Generation - Colony Kakutouki (Japan).zip</ApplicationPath>
+    <CommandLine />
+    <Completed>false</Completed>
+    <ConfigurationCommandLine />
+    <ConfigurationPath />
+    <DateAdded>2023-06-10T00:23:20.6196347+08:00</DateAdded>
+    <DateModified>2024-01-28T23:08:48.0605744+08:00</DateModified>
+    <Developer>Unknown</Developer>
+    <DosBoxConfigurationPath />
+    <Emulator>c055fd74-0975-40ad-8f82-bc63ed1adb73</Emulator>
+    <Favorite>false</Favorite>
+    <ID>1244431f-2059-468c-a56d-d4717a0e2272</ID>
+    <ManualPath />
+    <MusicPath />
+    <Notes>SD Gundam Generation: Colony Kakutouki ("SD Gundam Generation: Colony Fighting Record") is a licensed strategy game for the Super Famicom. It draws its conflicts and characters from the Mobile Fighter G Gundam series.
+
+It is the final game of six SD Gundam Generation games released for the Sufami Turbo peripheral, which uses smaller carts that are able to communicate with each other when placed in the Sufami Turbo device.</Notes>
+    <Platform>Nintendo Sufami Turbo</Platform>
+    <Publisher>Bandai</Publisher>
+    <Rating>Not Rated</Rating>
+    <ReleaseDate>1996-09-27T15:00:00+08:00</ReleaseDate>
+    <RootFolder />
+    <ScummVMAspectCorrection>false</ScummVMAspectCorrection>
+    <ScummVMFullscreen>false</ScummVMFullscreen>
+    <ScummVMGameDataFolderPath />
+    <ScummVMGameType />
+    <SortTitle />
+    <Source />
+    <StarRatingFloat>0</StarRatingFloat>
+    <StarRating>0</StarRating>
+    <CommunityStarRating>3.2</CommunityStarRating>
+    <CommunityStarRatingTotalVotes>5</CommunityStarRatingTotalVotes>
+    <Status>Imported ROM</Status>
+    <DatabaseID>126634</DatabaseID>
+    <WikipediaURL />
+    <Title>SD Gundam Generation: Colony Kakutouki</Title>
+    <UseDosBox>false</UseDosBox>
+    <UseScummVM>false</UseScummVM>
+    <Version>(Japan)</Version>
+    <Series />
+    <PlayMode>Single Player</PlayMode>
+    <Region>Japan</Region>
+    <PlayCount>0</PlayCount>
+    <PlayTime>0</PlayTime>
+    <Portable>false</Portable>
+    <Hide>false</Hide>
+    <Broken>false</Broken>
+    <CloneOf />
+    <Genre>Strategy</Genre>
+    <MissingVideo>true</MissingVideo>
+    <MissingBoxFrontImage>false</MissingBoxFrontImage>
+    <MissingScreenshotImage>false</MissingScreenshotImage>
+    <MissingMarqueeImage>true</MissingMarqueeImage>
+    <MissingClearLogoImage>false</MissingClearLogoImage>
+    <MissingBackgroundImage>false</MissingBackgroundImage>
+    <MissingBox3dImage>false</MissingBox3dImage>
+    <MissingCartImage>false</MissingCartImage>
+    <MissingCart3dImage>false</MissingCart3dImage>
+    <MissingManual>true</MissingManual>
+    <MissingBannerImage>false</MissingBannerImage>
+    <MissingMusic>true</MissingMusic>
+    <UseStartupScreen>false</UseStartupScreen>
+    <HideAllNonExclusiveFullscreenWindows>false</HideAllNonExclusiveFullscreenWindows>
+    <StartupLoadDelay>0</StartupLoadDelay>
+    <HideMouseCursorInGame>false</HideMouseCursorInGame>
+    <DisableShutdownScreen>false</DisableShutdownScreen>
+    <AggressiveWindowHiding>false</AggressiveWindowHiding>
+    <OverrideDefaultStartupScreenSettings>false</OverrideDefaultStartupScreenSettings>
+    <UsePauseScreen>false</UsePauseScreen>
+    <PauseAutoHotkeyScript />
+    <ResumeAutoHotkeyScript />
+    <OverrideDefaultPauseScreenSettings>false</OverrideDefaultPauseScreenSettings>
+    <SuspendProcessOnPause>false</SuspendProcessOnPause>
+    <ForcefulPauseScreenActivation>false</ForcefulPauseScreenActivation>
+    <LoadStateAutoHotkeyScript />
+    <SaveStateAutoHotkeyScript />
+    <ResetAutoHotkeyScript />
+    <SwapDiscsAutoHotkeyScript />
+    <CustomDosBoxVersionPath />
+    <ReleaseType>Released</ReleaseType>
+    <MaxPlayers>1</MaxPlayers>
+    <VideoUrl />
+    <AndroidBoxFrontThumbPath />
+    <AndroidBoxFrontFullPath />
+    <AndroidClearLogoThumbPath />
+    <AndroidClearLogoFullPath />
+    <AndroidBackgroundPath />
+    <AndroidBackgroundThumbPath />
+    <AndroidGameTitleScreenshotThumbPath />
+    <AndroidGameplayScreenshotThumbPath />
+    <AndroidGameTitleScreenshotPath />
+    <AndroidGameplayScreenshotPath />
+    <AndroidVideoPath />
+    <HasCloudSynced>false</HasCloudSynced>
+  </Game>
+  <Game>
+    <GogAppId />
+    <OriginAppId />
+    <OriginInstallPath />
+    <VideoPath />
+    <ThemeVideoPath />
+    <ApplicationPath>R:\ROMS-1G1R\erista-nointro-nintendo-sufami-turbo\Bishoujo Senshi Sailor Moon Sailor Stars - Fuwafuwa Panic 2 (Japan).zip</ApplicationPath>
+    <CommandLine />
+    <Completed>false</Completed>
+    <ConfigurationCommandLine />
+    <ConfigurationPath />
+    <DateAdded>2023-06-10T00:23:20.6303116+08:00</DateAdded>
+    <DateModified>2024-01-29T02:04:24.0871414+08:00</DateModified>
+    <Developer>Bandai</Developer>
+    <DosBoxConfigurationPath />
+    <Emulator>c055fd74-0975-40ad-8f82-bc63ed1adb73</Emulator>
+    <Favorite>false</Favorite>
+    <ID>9b7b11c5-2ecf-4ab3-a3df-faefddf4a84d</ID>
+    <ManualPath />
+    <MusicPath />
+    <Notes>Bishoujo Senshi Sailor Moon Sailor Stars: Fuwa Fuwa Panic 2 ("Pretty Soldier Sailor Moon Sailor Stars: Floating Panic 2") is a Sailor Moon licensed game and the sequel to Bandai's 1995 game Bishoujo Senshi Sailor Moon Super S: Fuwa Fuwa Panic. It is based on the fifth season of Sailor Moon, Sailor Stars, and features the Sailor Senshi as they appeared in that series.
+
+The game was part of Bandai's Sufami Turbo range, published between June and September of 1996. These games were published on special smaller carts that Bandai produced at lower costs than the standard Super Famicom carts and required a peripheral to play. Two versions of Fuwa Fuwa Panic 2 were produced: one that came with the Sufami Turbo peripheral as a pack-in, and one that did not.
+
+The game features similar gameplay to its predecessor, with players inflating and popping balloons with their magical projectiles. Popping balloons that are adjacent to other balloons of the same color is the key to earning magic power to cast spells, which can rescue the player or cause trouble for their opponent. Along with the spells, the player can occasionally acquire one-use power-ups that expand the coverage of their projectiles.
+
+In addition to the versus mode, the game also has a puzzle mode where the goal is to finish each arrangement of balloons with a limited number of shots.</Notes>
+    <Platform>Nintendo Sufami Turbo</Platform>
+    <Publisher>Bandai</Publisher>
+    <Rating>Not Rated</Rating>
+    <ReleaseDate>1996-09-27T15:00:00+08:00</ReleaseDate>
+    <RootFolder />
+    <ScummVMAspectCorrection>false</ScummVMAspectCorrection>
+    <ScummVMFullscreen>false</ScummVMFullscreen>
+    <ScummVMGameDataFolderPath />
+    <ScummVMGameType />
+    <SortTitle />
+    <Source />
+    <StarRatingFloat>0</StarRatingFloat>
+    <StarRating>0</StarRating>
+    <CommunityStarRating>3.1944444</CommunityStarRating>
+    <CommunityStarRatingTotalVotes>18</CommunityStarRatingTotalVotes>
+    <Status>Imported ROM</Status>
+    <DatabaseID>94114</DatabaseID>
+    <WikipediaURL />
+    <Title>Bishoujo Senshi Sailor Moon Sailor Stars: Fuwafuwa Panic 2</Title>
+    <UseDosBox>false</UseDosBox>
+    <UseScummVM>false</UseScummVM>
+    <Version>(Japan)</Version>
+    <Series />
+    <PlayMode>Multiplayer</PlayMode>
+    <Region>Japan</Region>
+    <PlayCount>0</PlayCount>
+    <PlayTime>0</PlayTime>
+    <Portable>false</Portable>
+    <Hide>false</Hide>
+    <Broken>false</Broken>
+    <CloneOf />
+    <Genre>Puzzle</Genre>
+    <MissingVideo>true</MissingVideo>
+    <MissingBoxFrontImage>false</MissingBoxFrontImage>
+    <MissingScreenshotImage>false</MissingScreenshotImage>
+    <MissingMarqueeImage>true</MissingMarqueeImage>
+    <MissingClearLogoImage>false</MissingClearLogoImage>
+    <MissingBackgroundImage>false</MissingBackgroundImage>
+    <MissingBox3dImage>false</MissingBox3dImage>
+    <MissingCartImage>false</MissingCartImage>
+    <MissingCart3dImage>false</MissingCart3dImage>
+    <MissingManual>true</MissingManual>
+    <MissingBannerImage>false</MissingBannerImage>
+    <MissingMusic>true</MissingMusic>
+    <UseStartupScreen>false</UseStartupScreen>
+    <HideAllNonExclusiveFullscreenWindows>false</HideAllNonExclusiveFullscreenWindows>
+    <StartupLoadDelay>0</StartupLoadDelay>
+    <HideMouseCursorInGame>false</HideMouseCursorInGame>
+    <DisableShutdownScreen>false</DisableShutdownScreen>
+    <AggressiveWindowHiding>false</AggressiveWindowHiding>
+    <OverrideDefaultStartupScreenSettings>false</OverrideDefaultStartupScreenSettings>
+    <UsePauseScreen>false</UsePauseScreen>
+    <PauseAutoHotkeyScript />
+    <ResumeAutoHotkeyScript />
+    <OverrideDefaultPauseScreenSettings>false</OverrideDefaultPauseScreenSettings>
+    <SuspendProcessOnPause>false</SuspendProcessOnPause>
+    <ForcefulPauseScreenActivation>false</ForcefulPauseScreenActivation>
+    <LoadStateAutoHotkeyScript />
+    <SaveStateAutoHotkeyScript />
+    <ResetAutoHotkeyScript />
+    <SwapDiscsAutoHotkeyScript />
+    <CustomDosBoxVersionPath />
+    <ReleaseType>Released</ReleaseType>
+    <MaxPlayers>2</MaxPlayers>
+    <VideoUrl />
+    <AndroidBoxFrontThumbPath />
+    <AndroidBoxFrontFullPath />
+    <AndroidClearLogoThumbPath />
+    <AndroidClearLogoFullPath />
+    <AndroidBackgroundPath />
+    <AndroidBackgroundThumbPath />
+    <AndroidGameTitleScreenshotThumbPath />
+    <AndroidGameplayScreenshotThumbPath />
+    <AndroidGameTitleScreenshotPath />
+    <AndroidGameplayScreenshotPath />
+    <AndroidVideoPath />
+    <HasCloudSynced>false</HasCloudSynced>
+  </Game>
+  <Game>
+    <GogAppId />
+    <OriginAppId />
+    <OriginInstallPath />
+    <VideoPath />
+    <ThemeVideoPath />
+    <ApplicationPath>R:\ROMS-1G1R\erista-nointro-nintendo-sufami-turbo\SD Gundam Generation - Zanscare Senki (Japan).zip</ApplicationPath>
+    <CommandLine />
+    <Completed>false</Completed>
+    <ConfigurationCommandLine />
+    <ConfigurationPath />
+    <DateAdded>2023-06-10T00:23:20.6173046+08:00</DateAdded>
+    <DateModified>2024-01-28T23:08:46.1913801+08:00</DateModified>
+    <Developer>Unknown</Developer>
+    <DosBoxConfigurationPath />
+    <Emulator>c055fd74-0975-40ad-8f82-bc63ed1adb73</Emulator>
+    <Favorite>false</Favorite>
+    <ID>2c83ca32-d189-4e02-995a-9d8aa4363418</ID>
+    <ManualPath />
+    <MusicPath />
+    <Notes>SD Gundam Generation: Zanscare Senki ("SD Gundam Generation: Record of Zanscare War")  is a turn-based strategy game for the Super Famicom. It draws its conflicts and characters from the Mobile Suit Victory Gundam series.
+
+It is the fifth of six SD Gundam Generation games released for the Sufami Turbo peripheral, which uses smaller carts that are able to communicate with each other when placed in the Sufami Turbo device.996.</Notes>
+    <Platform>Nintendo Sufami Turbo</Platform>
+    <Publisher>Bandai</Publisher>
+    <Rating>Not Rated</Rating>
+    <ReleaseDate>1996-09-27T15:00:00+08:00</ReleaseDate>
+    <RootFolder />
+    <ScummVMAspectCorrection>false</ScummVMAspectCorrection>
+    <ScummVMFullscreen>false</ScummVMFullscreen>
+    <ScummVMGameDataFolderPath />
+    <ScummVMGameType />
+    <SortTitle />
+    <Source />
+    <StarRatingFloat>0</StarRatingFloat>
+    <StarRating>0</StarRating>
+    <CommunityStarRating>3.6666667</CommunityStarRating>
+    <CommunityStarRatingTotalVotes>9</CommunityStarRatingTotalVotes>
+    <Status>Imported ROM</Status>
+    <DatabaseID>126633</DatabaseID>
+    <WikipediaURL />
+    <Title>SD Gundam Generation: Zanscare Senki</Title>
+    <UseDosBox>false</UseDosBox>
+    <UseScummVM>false</UseScummVM>
+    <Version>(Japan)</Version>
+    <Series />
+    <PlayMode>Single Player</PlayMode>
+    <Region>Japan</Region>
+    <PlayCount>0</PlayCount>
+    <PlayTime>0</PlayTime>
+    <Portable>false</Portable>
+    <Hide>false</Hide>
+    <Broken>false</Broken>
+    <CloneOf />
+    <Genre>Strategy</Genre>
+    <MissingVideo>true</MissingVideo>
+    <MissingBoxFrontImage>false</MissingBoxFrontImage>
+    <MissingScreenshotImage>false</MissingScreenshotImage>
+    <MissingMarqueeImage>true</MissingMarqueeImage>
+    <MissingClearLogoImage>false</MissingClearLogoImage>
+    <MissingBackgroundImage>false</MissingBackgroundImage>
+    <MissingBox3dImage>false</MissingBox3dImage>
+    <MissingCartImage>false</MissingCartImage>
+    <MissingCart3dImage>false</MissingCart3dImage>
+    <MissingManual>true</MissingManual>
+    <MissingBannerImage>false</MissingBannerImage>
+    <MissingMusic>true</MissingMusic>
+    <UseStartupScreen>false</UseStartupScreen>
+    <HideAllNonExclusiveFullscreenWindows>false</HideAllNonExclusiveFullscreenWindows>
+    <StartupLoadDelay>0</StartupLoadDelay>
+    <HideMouseCursorInGame>false</HideMouseCursorInGame>
+    <DisableShutdownScreen>false</DisableShutdownScreen>
+    <AggressiveWindowHiding>false</AggressiveWindowHiding>
+    <OverrideDefaultStartupScreenSettings>false</OverrideDefaultStartupScreenSettings>
+    <UsePauseScreen>false</UsePauseScreen>
+    <PauseAutoHotkeyScript />
+    <ResumeAutoHotkeyScript />
+    <OverrideDefaultPauseScreenSettings>false</OverrideDefaultPauseScreenSettings>
+    <SuspendProcessOnPause>false</SuspendProcessOnPause>
+    <ForcefulPauseScreenActivation>false</ForcefulPauseScreenActivation>
+    <LoadStateAutoHotkeyScript />
+    <SaveStateAutoHotkeyScript />
+    <ResetAutoHotkeyScript />
+    <SwapDiscsAutoHotkeyScript />
+    <CustomDosBoxVersionPath />
+    <ReleaseType>Released</ReleaseType>
+    <MaxPlayers>1</MaxPlayers>
+    <VideoUrl />
+    <AndroidBoxFrontThumbPath />
+    <AndroidBoxFrontFullPath />
+    <AndroidClearLogoThumbPath />
+    <AndroidClearLogoFullPath />
+    <AndroidBackgroundPath />
+    <AndroidBackgroundThumbPath />
+    <AndroidGameTitleScreenshotThumbPath />
+    <AndroidGameplayScreenshotThumbPath />
+    <AndroidGameTitleScreenshotPath />
+    <AndroidGameplayScreenshotPath />
+    <AndroidVideoPath />
+    <HasCloudSynced>false</HasCloudSynced>
+  </Game>
+  <AlternateName>
+    <GameID>c0a804fa-c6a8-48f9-a7ed-07d4b95ab983</GameID>
+    <Name>SD Gundam Generations: Babironia Kenkoku Senki</Name>
+    <Region />
+  </AlternateName>
+  <AlternateName>
+    <GameID>c0a804fa-c6a8-48f9-a7ed-07d4b95ab983</GameID>
+    <Name>SD Gundam: Generations Part 4</Name>
+    <Region />
+  </AlternateName>
+  <AlternateName>
+    <GameID>c0a804fa-c6a8-48f9-a7ed-07d4b95ab983</GameID>
+    <Name>SD Gundam Generations (D) Babironia Kenkoku Senki</Name>
+    <Region />
+  </AlternateName>
+  <AlternateName>
+    <GameID>c0a804fa-c6a8-48f9-a7ed-07d4b95ab983</GameID>
+    <Name>SD Gundam Generation: Babylonia Kenkoku Senki</Name>
+    <Region />
+  </AlternateName>
+  <AlternateName>
+    <GameID>3ed44fbb-ad91-4ae4-8552-ba8910cf39fa</GameID>
+    <Name>SD Gundam Generations (B) Guripus Senki</Name>
+    <Region />
+  </AlternateName>
+  <AlternateName>
+    <GameID>3ed44fbb-ad91-4ae4-8552-ba8910cf39fa</GameID>
+    <Name>SD Gundam Generations: Gryps Senki</Name>
+    <Region />
+  </AlternateName>
+  <AlternateName>
+    <GameID>3ed44fbb-ad91-4ae4-8552-ba8910cf39fa</GameID>
+    <Name>SD Gundam Generations B: Guripus Senki</Name>
+    <Region />
+  </AlternateName>
+  <AlternateName>
+    <GameID>3ed44fbb-ad91-4ae4-8552-ba8910cf39fa</GameID>
+    <Name>SD Gundam: Generations Part 2</Name>
+    <Region />
+  </AlternateName>
+  <AlternateName>
+    <GameID>36913957-1c97-44a1-bfc3-10de4b2d3f59</GameID>
+    <Name>SD Gundam Generations (A) 1 Nen Sensouki</Name>
+    <Region />
+  </AlternateName>
+  <AlternateName>
+    <GameID>36913957-1c97-44a1-bfc3-10de4b2d3f59</GameID>
+    <Name>SD Gundam Generation (A) Ichinen Sensouki</Name>
+    <Region />
+  </AlternateName>
+  <AlternateName>
+    <GameID>36913957-1c97-44a1-bfc3-10de4b2d3f59</GameID>
+    <Name>SD Gundam Generations A: Ichinen Sensouki</Name>
+    <Region />
+  </AlternateName>
+  <AlternateName>
+    <GameID>36913957-1c97-44a1-bfc3-10de4b2d3f59</GameID>
+    <Name>SD Gundam: Generations Part 1</Name>
+    <Region />
+  </AlternateName>
+  <AlternateName>
+    <GameID>e8ce07ca-5fa7-4ab0-9b1d-4cd75bf3592d</GameID>
+    <Name>Crayon Shin-Chan: Osagusu Dobon</Name>
+    <Region />
+  </AlternateName>
+  <AlternateName>
+    <GameID>9c4a82c8-dbae-4ea1-bab8-1fdcbbaa529e</GameID>
+    <Name>Power Rangers Turbo</Name>
+    <Region>North America</Region>
+  </AlternateName>
+  <AlternateName>
+    <GameID>9c4a82c8-dbae-4ea1-bab8-1fdcbbaa529e</GameID>
+    <Name>Gekisou Sentai Car Rangers</Name>
+    <Region />
+  </AlternateName>
+  <AlternateName>
+    <GameID>9c4a82c8-dbae-4ea1-bab8-1fdcbbaa529e</GameID>
+    <Name>Gekitou Sentai Car Rangers</Name>
+    <Region />
+  </AlternateName>
+  <AlternateName>
+    <GameID>1d4f1332-8348-4a4e-acf5-d3f1b69abeed</GameID>
+    <Name>SD Gundam Generation (C) Axiz Senki</Name>
+    <Region />
+  </AlternateName>
+  <AlternateName>
+    <GameID>1d4f1332-8348-4a4e-acf5-d3f1b69abeed</GameID>
+    <Name>SD Gundam Generations (C) Axis Senki</Name>
+    <Region />
+  </AlternateName>
+  <AlternateName>
+    <GameID>1d4f1332-8348-4a4e-acf5-d3f1b69abeed</GameID>
+    <Name>SD Gundam Generations: Axis Senki</Name>
+    <Region />
+  </AlternateName>
+  <AlternateName>
+    <GameID>1d4f1332-8348-4a4e-acf5-d3f1b69abeed</GameID>
+    <Name>SD Gundam: Generations Part 3</Name>
+    <Region />
+  </AlternateName>
+  <AlternateName>
+    <GameID>de9cb5e0-566a-45ef-b086-b49a02ac1655</GameID>
+    <Name>Ge Ge Ge No Kitaro Yokai Donjara</Name>
+    <Region />
+  </AlternateName>
+  <AlternateName>
+    <GameID>de9cb5e0-566a-45ef-b086-b49a02ac1655</GameID>
+    <Name>GeGeGe No Kitarou: Youkai Donjaara</Name>
+    <Region />
+  </AlternateName>
+  <AlternateName>
+    <GameID>1244431f-2059-468c-a56d-d4717a0e2272</GameID>
+    <Name>SD Gundam Generations (F) Colony Kakutouki</Name>
+    <Region />
+  </AlternateName>
+  <AlternateName>
+    <GameID>1244431f-2059-468c-a56d-d4717a0e2272</GameID>
+    <Name>SD Gundam Generations F: Colony Kaku Senki</Name>
+    <Region />
+  </AlternateName>
+  <AlternateName>
+    <GameID>1244431f-2059-468c-a56d-d4717a0e2272</GameID>
+    <Name>SD Gundam: Generations Part 6</Name>
+    <Region />
+  </AlternateName>
+  <AlternateName>
+    <GameID>9b7b11c5-2ecf-4ab3-a3df-faefddf4a84d</GameID>
+    <Name>Bisyoujyo Senshi Sailor Moon S - Fuwa Fuwa Panic 2</Name>
+    <Region />
+  </AlternateName>
+  <AlternateName>
+    <GameID>9b7b11c5-2ecf-4ab3-a3df-faefddf4a84d</GameID>
+    <Name>Bishoujo Senshi Sailor Moon Sailor Stars: Fuwa Fuwa Panic 2</Name>
+    <Region />
+  </AlternateName>
+  <AlternateName>
+    <GameID>2c83ca32-d189-4e02-995a-9d8aa4363418</GameID>
+    <Name>SD Gundam Generations (E) Zansukaaru Senki</Name>
+    <Region />
+  </AlternateName>
+  <AlternateName>
+    <GameID>2c83ca32-d189-4e02-995a-9d8aa4363418</GameID>
+    <Name>SD Gundam: Generations Part 5</Name>
+    <Region />
+  </AlternateName>
+  <AlternateName>
+    <GameID>2c83ca32-d189-4e02-995a-9d8aa4363418</GameID>
+    <Name>SD Gundam Generation E: Zansukaaru Senki</Name>
+    <Region />
+  </AlternateName>
+</LaunchBox>

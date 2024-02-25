@@ -1,0 +1,322 @@
+<?xml version="1.0" standalone="yes"?>
+<LaunchBox>
+  <Game>
+    <GogAppId />
+    <OriginAppId />
+    <OriginInstallPath />
+    <VideoPath />
+    <ThemeVideoPath />
+    <ApplicationPath>R:\ROMS-Arcade-PC-Modern\NESiCAxLive 2\SNK Heroines AC.zip</ApplicationPath>
+    <CommandLine />
+    <Completed>false</Completed>
+    <ConfigurationCommandLine />
+    <ConfigurationPath />
+    <DateAdded>2023-05-17T01:03:53.6601292+08:00</DateAdded>
+    <DateModified>2023-12-26T14:34:07.1858548+08:00</DateModified>
+    <Developer>SNK</Developer>
+    <DosBoxConfigurationPath />
+    <Emulator>4c63a604-8f53-4666-9260-9f67e5936dde</Emulator>
+    <Favorite>false</Favorite>
+    <ID>5c02b84a-30b1-44cb-9580-269c454f4924</ID>
+    <LastPlayedDate>2023-07-18T00:49:25.7357594+08:00</LastPlayedDate>
+    <ManualPath />
+    <MusicPath />
+    <Notes>SNK Heroines AC: Tag Team Frenzy is a fighting game developed for the arcades by SNK and released in September 2018. It is a spiritual successor to SNK Gals' Fighters and features a 2v2 tag-team gameplay system.
+
+As the game's title suggests, each player uses two characters to team up per fight but the players also choose an "Attacker" that serves as the playable character as well as a "Supporter" that assists the former. In contrast to other fighting games, it is impossible to defeat the enemy with a normal move, necessitating the use of a finishing move called the "Dream Finish". A move button can protect the character, while items are included for further gameplay features.
+
+The game offers a story with different dialogues occurring depending on the characters fighting. Each character has additional costumes; cosmetic items are available to the players if they wish to change their characters' visual appearances. There is an online mode alongside an Spectator Mode where players can see other people's fights.</Notes>
+    <Platform>NESiCAxLive 2</Platform>
+    <Publisher>SNK</Publisher>
+    <Rating />
+    <ReleaseDate>2018-09-06T15:00:00+08:00</ReleaseDate>
+    <RootFolder />
+    <ScummVMAspectCorrection>true</ScummVMAspectCorrection>
+    <ScummVMFullscreen>true</ScummVMFullscreen>
+    <ScummVMGameDataFolderPath />
+    <ScummVMGameType />
+    <SortTitle />
+    <Source />
+    <StarRatingFloat>0</StarRatingFloat>
+    <StarRating>0</StarRating>
+    <CommunityStarRating>4.3333335</CommunityStarRating>
+    <CommunityStarRatingTotalVotes>3</CommunityStarRatingTotalVotes>
+    <Status>Imported ROM</Status>
+    <DatabaseID>191511</DatabaseID>
+    <WikipediaURL>https://en.wikipedia.org/wiki/SNK_Heroines:_Tag_Team_Frenzy</WikipediaURL>
+    <Title>SNK Heroines AC: Tag Team Frenzy</Title>
+    <UseDosBox>false</UseDosBox>
+    <UseScummVM>false</UseScummVM>
+    <Version />
+    <Series />
+    <PlayMode>Multiplayer</PlayMode>
+    <Region />
+    <PlayCount>10</PlayCount>
+    <PlayTime>162</PlayTime>
+    <Portable>false</Portable>
+    <Hide>false</Hide>
+    <Broken>false</Broken>
+    <CloneOf />
+    <Genre>Fighting</Genre>
+    <MissingVideo>false</MissingVideo>
+    <MissingBoxFrontImage>false</MissingBoxFrontImage>
+    <MissingScreenshotImage>false</MissingScreenshotImage>
+    <MissingMarqueeImage>false</MissingMarqueeImage>
+    <MissingClearLogoImage>false</MissingClearLogoImage>
+    <MissingBackgroundImage>false</MissingBackgroundImage>
+    <MissingBox3dImage>false</MissingBox3dImage>
+    <MissingCartImage>true</MissingCartImage>
+    <MissingCart3dImage>true</MissingCart3dImage>
+    <MissingManual>true</MissingManual>
+    <MissingBannerImage>false</MissingBannerImage>
+    <MissingMusic>true</MissingMusic>
+    <UseStartupScreen>false</UseStartupScreen>
+    <HideAllNonExclusiveFullscreenWindows>false</HideAllNonExclusiveFullscreenWindows>
+    <StartupLoadDelay>0</StartupLoadDelay>
+    <HideMouseCursorInGame>false</HideMouseCursorInGame>
+    <DisableShutdownScreen>false</DisableShutdownScreen>
+    <AggressiveWindowHiding>false</AggressiveWindowHiding>
+    <OverrideDefaultStartupScreenSettings>false</OverrideDefaultStartupScreenSettings>
+    <UsePauseScreen>false</UsePauseScreen>
+    <PauseAutoHotkeyScript />
+    <ResumeAutoHotkeyScript />
+    <OverrideDefaultPauseScreenSettings>false</OverrideDefaultPauseScreenSettings>
+    <SuspendProcessOnPause>false</SuspendProcessOnPause>
+    <ForcefulPauseScreenActivation>false</ForcefulPauseScreenActivation>
+    <LoadStateAutoHotkeyScript />
+    <SaveStateAutoHotkeyScript />
+    <ResetAutoHotkeyScript />
+    <SwapDiscsAutoHotkeyScript />
+    <CustomDosBoxVersionPath />
+    <ReleaseType>Released</ReleaseType>
+    <MaxPlayers>2</MaxPlayers>
+    <VideoUrl />
+    <AndroidBoxFrontThumbPath />
+    <AndroidBoxFrontFullPath />
+    <AndroidClearLogoThumbPath />
+    <AndroidClearLogoFullPath />
+    <AndroidBackgroundPath />
+    <AndroidBackgroundThumbPath />
+    <AndroidGameTitleScreenshotThumbPath />
+    <AndroidGameplayScreenshotThumbPath />
+    <AndroidGameTitleScreenshotPath />
+    <AndroidGameplayScreenshotPath />
+    <AndroidVideoPath />
+    <HasCloudSynced>true</HasCloudSynced>
+  </Game>
+  <Game>
+    <GogAppId />
+    <OriginAppId />
+    <OriginInstallPath />
+    <VideoPath />
+    <ThemeVideoPath />
+    <ApplicationPath>R:\ROMS-Arcade-PC-Modern\NESiCAxLive 2\Ultra Street Fighter IV.zip</ApplicationPath>
+    <CommandLine />
+    <Completed>false</Completed>
+    <ConfigurationCommandLine />
+    <ConfigurationPath />
+    <DateAdded>2023-05-17T01:03:53.6627074+08:00</DateAdded>
+    <DateModified>2023-12-26T14:34:07.1873463+08:00</DateModified>
+    <Developer>Capcom</Developer>
+    <DosBoxConfigurationPath />
+    <Emulator>4c63a604-8f53-4666-9260-9f67e5936dde</Emulator>
+    <Favorite>false</Favorite>
+    <ID>ce73c7d2-ae5e-4428-b195-6df8503ec195</ID>
+    <LastPlayedDate>2023-07-18T00:26:21.8419743+08:00</LastPlayedDate>
+    <ManualPath />
+    <MusicPath />
+    <Notes>Street Fighter IV takes place several months after the events of Street Fighter II (thus is chronologically set between Street Fighter II and III). After M.Bison's survival from his encounter with Akuma, the S.I.N. corporation began another fighting tournament in order to draw out the most powerful fighters on Earth to complete the BLECE project. Each character has their own reasons for entering this tournament, but S.I.N.'s real desire is to lure Ryu to them in order to analyze the Satsui no Hadō, believed to be the last piece of data needed to complete BLECE.</Notes>
+    <Platform>NESiCAxLive 2</Platform>
+    <Publisher>Capcom</Publisher>
+    <Rating>Not Rated</Rating>
+    <ReleaseDate>2014-01-01T00:00:00+08:00</ReleaseDate>
+    <RootFolder />
+    <ScummVMAspectCorrection>true</ScummVMAspectCorrection>
+    <ScummVMFullscreen>true</ScummVMFullscreen>
+    <ScummVMGameDataFolderPath />
+    <ScummVMGameType />
+    <SortTitle />
+    <Source />
+    <StarRatingFloat>0</StarRatingFloat>
+    <StarRating>0</StarRating>
+    <CommunityStarRating>4.5972223</CommunityStarRating>
+    <CommunityStarRatingTotalVotes>37</CommunityStarRatingTotalVotes>
+    <Status>Imported ROM</Status>
+    <DatabaseID>127857</DatabaseID>
+    <WikipediaURL>https://en.wikipedia.org/wiki/Street_Fighter_IV</WikipediaURL>
+    <Title>Ultra Street Fighter IV</Title>
+    <UseDosBox>false</UseDosBox>
+    <UseScummVM>false</UseScummVM>
+    <Version />
+    <Series />
+    <PlayMode>Multiplayer</PlayMode>
+    <Region />
+    <PlayCount>2</PlayCount>
+    <PlayTime>47</PlayTime>
+    <Portable>false</Portable>
+    <Hide>false</Hide>
+    <Broken>false</Broken>
+    <CloneOf />
+    <Genre>Fighting</Genre>
+    <MissingVideo>false</MissingVideo>
+    <MissingBoxFrontImage>false</MissingBoxFrontImage>
+    <MissingScreenshotImage>false</MissingScreenshotImage>
+    <MissingMarqueeImage>true</MissingMarqueeImage>
+    <MissingClearLogoImage>false</MissingClearLogoImage>
+    <MissingBackgroundImage>true</MissingBackgroundImage>
+    <MissingBox3dImage>false</MissingBox3dImage>
+    <MissingCartImage>true</MissingCartImage>
+    <MissingCart3dImage>true</MissingCart3dImage>
+    <MissingManual>true</MissingManual>
+    <MissingBannerImage>false</MissingBannerImage>
+    <MissingMusic>true</MissingMusic>
+    <UseStartupScreen>false</UseStartupScreen>
+    <HideAllNonExclusiveFullscreenWindows>false</HideAllNonExclusiveFullscreenWindows>
+    <StartupLoadDelay>0</StartupLoadDelay>
+    <HideMouseCursorInGame>false</HideMouseCursorInGame>
+    <DisableShutdownScreen>false</DisableShutdownScreen>
+    <AggressiveWindowHiding>false</AggressiveWindowHiding>
+    <OverrideDefaultStartupScreenSettings>false</OverrideDefaultStartupScreenSettings>
+    <UsePauseScreen>false</UsePauseScreen>
+    <PauseAutoHotkeyScript />
+    <ResumeAutoHotkeyScript />
+    <OverrideDefaultPauseScreenSettings>false</OverrideDefaultPauseScreenSettings>
+    <SuspendProcessOnPause>false</SuspendProcessOnPause>
+    <ForcefulPauseScreenActivation>false</ForcefulPauseScreenActivation>
+    <LoadStateAutoHotkeyScript />
+    <SaveStateAutoHotkeyScript />
+    <ResetAutoHotkeyScript />
+    <SwapDiscsAutoHotkeyScript />
+    <CustomDosBoxVersionPath />
+    <ReleaseType>Released</ReleaseType>
+    <MaxPlayers>2</MaxPlayers>
+    <VideoUrl>https://youtu.be/y1u0whTkAfk</VideoUrl>
+    <AndroidBoxFrontThumbPath />
+    <AndroidBoxFrontFullPath />
+    <AndroidClearLogoThumbPath />
+    <AndroidClearLogoFullPath />
+    <AndroidBackgroundPath />
+    <AndroidBackgroundThumbPath />
+    <AndroidGameTitleScreenshotThumbPath />
+    <AndroidGameplayScreenshotThumbPath />
+    <AndroidGameTitleScreenshotPath />
+    <AndroidGameplayScreenshotPath />
+    <AndroidVideoPath />
+    <HasCloudSynced>true</HasCloudSynced>
+  </Game>
+  <Game>
+    <GogAppId />
+    <OriginAppId />
+    <OriginInstallPath />
+    <VideoPath />
+    <ThemeVideoPath />
+    <ApplicationPath>R:\ROMS-Arcade-PC-Modern\NESiCAxLive 2\The King of Fighters XIV Arcade Ver.zip</ApplicationPath>
+    <CommandLine />
+    <Completed>false</Completed>
+    <ConfigurationCommandLine />
+    <ConfigurationPath />
+    <DateAdded>2023-05-17T01:03:53.6627653+08:00</DateAdded>
+    <DateModified>2024-01-26T01:21:51.3280078+08:00</DateModified>
+    <Developer>SNK</Developer>
+    <DosBoxConfigurationPath />
+    <Emulator>4c63a604-8f53-4666-9260-9f67e5936dde</Emulator>
+    <Favorite>false</Favorite>
+    <ID>509b589c-835c-43f0-a9fb-f9629501b898</ID>
+    <LastPlayedDate>2023-07-18T00:57:54.2249397+08:00</LastPlayedDate>
+    <ManualPath />
+    <MusicPath />
+    <Notes>The world-famous King of Fighters series marks its return in a new chapter on PlayStation 4 with 'THE KING OF FIGHTERS XIV'. A total of 50 characters are ready to duke it out in KOF's traditional 3-on-3 team versus battle system. 'THE KING OF FIGHTERS XIV' offers a large variety of user friendly game modes, refined online features, as well as an epic storyline for the best KOF experience ever!</Notes>
+    <Platform>NESiCAxLive 2</Platform>
+    <Publisher>SNK</Publisher>
+    <Rating>T - Teen</Rating>
+    <ReleaseDate>2017-06-29T15:00:00+08:00</ReleaseDate>
+    <RootFolder />
+    <ScummVMAspectCorrection>true</ScummVMAspectCorrection>
+    <ScummVMFullscreen>true</ScummVMFullscreen>
+    <ScummVMGameDataFolderPath />
+    <ScummVMGameType />
+    <SortTitle />
+    <Source />
+    <StarRatingFloat>0</StarRatingFloat>
+    <StarRating>0</StarRating>
+    <CommunityStarRating>4.3125</CommunityStarRating>
+    <CommunityStarRatingTotalVotes>8</CommunityStarRatingTotalVotes>
+    <Status>Imported ROM</Status>
+    <DatabaseID>191474</DatabaseID>
+    <WikipediaURL>https://en.wikipedia.org/wiki/The_King_of_Fighters_XIV</WikipediaURL>
+    <Title>The King of Fighters XIV</Title>
+    <UseDosBox>false</UseDosBox>
+    <UseScummVM>false</UseScummVM>
+    <Version />
+    <Series />
+    <PlayMode>Multiplayer</PlayMode>
+    <Region />
+    <PlayCount>5</PlayCount>
+    <PlayTime>203</PlayTime>
+    <Portable>false</Portable>
+    <Hide>false</Hide>
+    <Broken>false</Broken>
+    <CloneOf />
+    <Genre>Fighting</Genre>
+    <MissingVideo>false</MissingVideo>
+    <MissingBoxFrontImage>false</MissingBoxFrontImage>
+    <MissingScreenshotImage>false</MissingScreenshotImage>
+    <MissingMarqueeImage>true</MissingMarqueeImage>
+    <MissingClearLogoImage>false</MissingClearLogoImage>
+    <MissingBackgroundImage>false</MissingBackgroundImage>
+    <MissingBox3dImage>false</MissingBox3dImage>
+    <MissingCartImage>true</MissingCartImage>
+    <MissingCart3dImage>true</MissingCart3dImage>
+    <MissingManual>true</MissingManual>
+    <MissingBannerImage>false</MissingBannerImage>
+    <MissingMusic>true</MissingMusic>
+    <UseStartupScreen>false</UseStartupScreen>
+    <HideAllNonExclusiveFullscreenWindows>false</HideAllNonExclusiveFullscreenWindows>
+    <StartupLoadDelay>0</StartupLoadDelay>
+    <HideMouseCursorInGame>false</HideMouseCursorInGame>
+    <DisableShutdownScreen>false</DisableShutdownScreen>
+    <AggressiveWindowHiding>false</AggressiveWindowHiding>
+    <OverrideDefaultStartupScreenSettings>false</OverrideDefaultStartupScreenSettings>
+    <UsePauseScreen>false</UsePauseScreen>
+    <PauseAutoHotkeyScript />
+    <ResumeAutoHotkeyScript />
+    <OverrideDefaultPauseScreenSettings>false</OverrideDefaultPauseScreenSettings>
+    <SuspendProcessOnPause>false</SuspendProcessOnPause>
+    <ForcefulPauseScreenActivation>false</ForcefulPauseScreenActivation>
+    <LoadStateAutoHotkeyScript />
+    <SaveStateAutoHotkeyScript />
+    <ResetAutoHotkeyScript />
+    <SwapDiscsAutoHotkeyScript />
+    <CustomDosBoxVersionPath />
+    <ReleaseType>Released</ReleaseType>
+    <MaxPlayers>2</MaxPlayers>
+    <VideoUrl />
+    <AndroidBoxFrontThumbPath />
+    <AndroidBoxFrontFullPath />
+    <AndroidClearLogoThumbPath />
+    <AndroidClearLogoFullPath />
+    <AndroidBackgroundPath />
+    <AndroidBackgroundThumbPath />
+    <AndroidGameTitleScreenshotThumbPath />
+    <AndroidGameplayScreenshotThumbPath />
+    <AndroidGameTitleScreenshotPath />
+    <AndroidGameplayScreenshotPath />
+    <AndroidVideoPath />
+    <HasCloudSynced>true</HasCloudSynced>
+  </Game>
+  <AlternateName>
+    <GameID>5c02b84a-30b1-44cb-9580-269c454f4924</GameID>
+    <Name>SNK Heroines: Tag Team Frenzy</Name>
+    <Region />
+  </AlternateName>
+  <AlternateName>
+    <GameID>ce73c7d2-ae5e-4428-b195-6df8503ec195</GameID>
+    <Name>Ultra Street Fighter 4</Name>
+    <Region>World</Region>
+  </AlternateName>
+  <AlternateName>
+    <GameID>509b589c-835c-43f0-a9fb-f9629501b898</GameID>
+    <Name>The King of Fighters XIV Arcade Ver.</Name>
+    <Region />
+  </AlternateName>
+</LaunchBox>

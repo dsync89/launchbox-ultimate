@@ -1,0 +1,3670 @@
+<?xml version="1.0" standalone="yes"?>
+<LaunchBox>
+  <Game>
+    <GogAppId />
+    <OriginAppId />
+    <OriginInstallPath />
+    <VideoPath />
+    <ThemeVideoPath />
+    <ApplicationPath>R:\ROMS-Arcade\Sega Naomi 2\vf4.zip</ApplicationPath>
+    <CommandLine />
+    <Completed>false</Completed>
+    <ConfigurationCommandLine />
+    <ConfigurationPath />
+    <DateAdded>2023-06-07T22:11:58.4914848+08:00</DateAdded>
+    <DateModified>2024-02-22T01:09:12.9704541+08:00</DateModified>
+    <Developer>Sega AM2</Developer>
+    <DosBoxConfigurationPath />
+    <Emulator>9c584e20-f670-433c-81e0-6b7f3c178958</Emulator>
+    <Favorite>false</Favorite>
+    <ID>2c7e36ba-3cb9-4ddc-aa36-d39f845186bc</ID>
+    <ManualPath />
+    <MusicPath />
+    <Notes>Virtua Fighter 4 is a fighting game by Sega. It is the fourth game in the Virtua Fighter series.
+
+The game was first released in arcades on the NAOMI 2 board in 2001. A console port of Virtua Fighter 4, as well as that of Virtua Fighter 4: Evolution under the budget-priced "Greatest Hits" label, appeared on the Sony PlayStation 2 in 2002 and 2003, respectively.
+
+In Japan, Virtua Fighter 4 is famous for spearheading and opening the market for internet functionality in arcades. VF.NET started in Japan in 2001, and since companies have created their own arcade networks, e-Amusement by Konami, NESiCAxLive by Taito and Square Enix, and ALL.Net by Sega.
+
+Plot:
+Virtua Fighter 4 and Virtua Fighter 4: Evolution have a two-part storyline. VF4 started out with thirteen fighters entering the tournament for their own personal reasons, while Judgement Six used them for gathering data for Dural. Evolution adds two more fighters to the mix, one of them works for Judgement Six who is ordered to kill everyone in the tournament.
+
+It was also revealed that for the Dural project, Judgement Six targeted Sarah Bryant as their next volunteer for a new Dural model. Akira fell short during the third tournament. In order to find out what the "real power" was within him, he enters the fourth tournament to find that answer. Pai discovers that her skill was close to her father's despite her loss in the third tournament. After hearing that Lau was looking for a successor and has a terminal illness, she enters the tournament to prove that she is a worthy successor to master her father's style. Lau suffered a terrible illness that cannot be cured after losing to Kage-Maru in the third tournament. He enters the tournament to find a worthy successor to Koen-Ken. Wolf still has reoccurring nightmares since the end of the second tournament. After losing in the third tournament, he ignored the dream but it kept coming back. He enters the fourth tournament to find out what that meant. Jeffry finally gained enough money to repair his boat, but there was only one problem: the Satan Shark mysteriously disappeared. He enters the tournament to invest in a sonar device for the shark.
+
+Kage-Maru won the third tournament and found a part from the new Dural model that would cure his mother. It result in his mother transforming into Dural once again and attacking him. Since Judgement Six saved her, Kage enters the tournament to kill Dural once and for all. Sarah regained her memories and lived a quiet life with her brother, until she had flashbacks of the time where she was brainwashed by Judgement Six and attempted to kill Jacky. She enters the tournament to defeat him and resolve the matter. Jacky turned his focus to racing after the end of the third tournament, where he formed his own racing team. However, Judgement Six killed one of his sponsors and they will continue unless Jacky enters the fourth tournament. He decides to enter the tournament to once again take down Judgement Six. Shun was unsuccessful on finding his missing student during the third tournament. It was revealed that his student was trying to escape from Judgement Six, but he was recaptured by the evil organization. He enters the fourth tournament to find more information about the missing student.
+
+Lion enters the fourth tournament in order to once again try to win the title. Aoi did not last long in the first round of the third tournament. She enters the fourth tournament to try her new skills in parrying and counterattacking. Lei-Fei entered the fourth tournament to become the successor to Lau's Koen-Ken style of martial arts. His true intention is to kill Lau after he learned his style under the clan's orders. Vanessa joins the fourth tournament to protect Sarah from Judgement Six, and to avenge the murder of her mentor, Lewis. Brad entered the fourth tournament after dominating the Muay Thai Kickboxing world. Goh infiltrated the fourth tournament under Judgement Six orders to kill everyone. The 4th tournament had come down to one final fight between Kage-Maru and Shun Di, but as Kage was about to deliver the final blow to Shun, the glowing, silver form of Dural interrupted the match. Kage is the winner, but he discovers that the Dural he fought is not his mother.
+
+Characters:
+Akira Yuki
+Pai Chan
+Lau Chan
+Wolf Hawkfield
+Jeffry McWild
+Kage-Maru
+Sarah Bryant
+Jacky Bryant
+Shun Di
+Lion Rafale
+Aoi Umenokoji
+Dural
+
+New characters:
+Lei-Fei
+Vanessa Lewis
+Brad Burns (Virtua Fighter 4: Evolution/Final Tuned only)
+Goh Hinogami (Virtua Fighter 4: Evolution/Final Tuned only)
+
+Customization:
+A unique feature in Evolution was the ability to play in a tournament quest mode, where the concept was that the player was competing by traveling to various arcades, as opposed to role-playing as the player's chosen fighter. This mode was very popular due to the ability to buy cosmetic items to customize a character, as well as the ability to name a character. Many players of fighting games have unique styles; with the combination of various items allowing for vastly differing appearances a new depth of uniqueness was added. In addition, Sega took the top tournament players from the arcade version, and captured their style of play for the AI of a player's opponents for this mode. For example, playing against one Wolf character would be very different from playing another, because the actual player that character's AI was programmed to mimic had a unique play style.
+
+Training mode:
+Virtua Fighter 4 introduced a comprehensive training mode. The mode consisted of an encyclopedia of fighting game terms, complete character command list walkthroughs, tips on all of the game's mechanics, recommended character combos, alternative options for failed combos, detailed command input timings, slow motion for frame counting and timing, and other useful training tips.
+
+VF4's training mode consists of three sections:
+Command Training - A complete run through each move, one-by-one. The command for the move is displayed and the player executes the command - moving to the next one. VF4 allows the option to skip the current command, view the move (computer controlled), enable advice.
+Free Training
+Trial Mode
+
+Changes from previous series releases:
+Virtua Fighter 4 became much more streamlined and user friendly than its predecessors, while expanding on old ideas and adding new techniques. The evasion system was revamped from Virtua Fighter 3, the evade button was removed, and evades were split into two types, successful and unsuccessful. When evades were not performed with the proper timing, they were unsuccessful leaving the fighter vulnerable. The evade + throw escape option select, which was an advanced technique discovered in Virtua Fighter 3, was expanded upon. Virtua Fighter 4 allowed the player to escape as many throws as they could, and lengthened the window for performing a successful throw escape during an [unsuccessful] evade. A new move type called a Sabaki was added; an attack that also doubles as a reversal versus one or more move types.
+
+The two new characters, Vanessa Lewis and Lei-Fei, had moves that employed these properties significantly more than the returning cast, and were quite experimental for Virtua Fighter characters. Vanessa Lewis is a black Vale Tudo/Muay Thai kickboxer with two completely separate moves sets that can be switched between on the fly, and Lei-Fei, a Shaolin monk, employs many stances that flow into one another.
+
+Taka-Arashi, one of the new characters added to Virtua Fighter 3, was omitted, apparently due to the developers not being able to make him work properly with the Virtua Fighter 4 system mechanics.
+
+The fighting arenas reverted to the old Virtua Fighter style of flat and square, as opposed to Virtua Fighter 3's wild and undulating stage designs. The reason behind this was to make the game less random, and more balanced and competitive in nature. Walls, however, were kept and expanded upon with a wall stagger / juggle system and several wall types including high + unbreakable, low + breakable, and low + unbreakable + open corners. Some stages’ walls can be broken by knocking down the opponent while the latter is behind the wall and at low health, with the next round permanently leaves the stage's without a fence that have been broken.</Notes>
+    <Platform>Sega Naomi 2</Platform>
+    <Publisher>Sega</Publisher>
+    <Rating>E10+ - Everyone 10+</Rating>
+    <ReleaseDate>2001-08-01T15:00:00+08:00</ReleaseDate>
+    <RootFolder />
+    <ScummVMAspectCorrection>false</ScummVMAspectCorrection>
+    <ScummVMFullscreen>false</ScummVMFullscreen>
+    <ScummVMGameDataFolderPath />
+    <ScummVMGameType />
+    <SortTitle />
+    <Source />
+    <StarRatingFloat>0</StarRatingFloat>
+    <StarRating>0</StarRating>
+    <CommunityStarRating>3.890244</CommunityStarRating>
+    <CommunityStarRatingTotalVotes>41</CommunityStarRatingTotalVotes>
+    <Status />
+    <DatabaseID>152524</DatabaseID>
+    <WikipediaURL>https://en.wikipedia.org/wiki/Virtua_Fighter_4</WikipediaURL>
+    <Title>Virtua Fighter 4 Version C</Title>
+    <UseDosBox>false</UseDosBox>
+    <UseScummVM>false</UseScummVM>
+    <Version />
+    <Series />
+    <PlayMode>Multiplayer</PlayMode>
+    <Region>World</Region>
+    <PlayCount>0</PlayCount>
+    <PlayTime>0</PlayTime>
+    <Portable>false</Portable>
+    <Hide>false</Hide>
+    <Broken>false</Broken>
+    <CloneOf />
+    <Genre>Fighting</Genre>
+    <MissingVideo>true</MissingVideo>
+    <MissingBoxFrontImage>false</MissingBoxFrontImage>
+    <MissingScreenshotImage>false</MissingScreenshotImage>
+    <MissingMarqueeImage>false</MissingMarqueeImage>
+    <MissingClearLogoImage>false</MissingClearLogoImage>
+    <MissingBackgroundImage>true</MissingBackgroundImage>
+    <MissingBox3dImage>false</MissingBox3dImage>
+    <MissingCartImage>false</MissingCartImage>
+    <MissingCart3dImage>false</MissingCart3dImage>
+    <MissingManual>true</MissingManual>
+    <MissingBannerImage>false</MissingBannerImage>
+    <MissingMusic>true</MissingMusic>
+    <UseStartupScreen>false</UseStartupScreen>
+    <HideAllNonExclusiveFullscreenWindows>false</HideAllNonExclusiveFullscreenWindows>
+    <StartupLoadDelay>0</StartupLoadDelay>
+    <HideMouseCursorInGame>false</HideMouseCursorInGame>
+    <DisableShutdownScreen>false</DisableShutdownScreen>
+    <AggressiveWindowHiding>false</AggressiveWindowHiding>
+    <OverrideDefaultStartupScreenSettings>false</OverrideDefaultStartupScreenSettings>
+    <UsePauseScreen>false</UsePauseScreen>
+    <PauseAutoHotkeyScript />
+    <ResumeAutoHotkeyScript />
+    <OverrideDefaultPauseScreenSettings>false</OverrideDefaultPauseScreenSettings>
+    <SuspendProcessOnPause>false</SuspendProcessOnPause>
+    <ForcefulPauseScreenActivation>false</ForcefulPauseScreenActivation>
+    <LoadStateAutoHotkeyScript />
+    <SaveStateAutoHotkeyScript />
+    <ResetAutoHotkeyScript />
+    <SwapDiscsAutoHotkeyScript />
+    <CustomDosBoxVersionPath />
+    <ReleaseType>Released</ReleaseType>
+    <MaxPlayers>2</MaxPlayers>
+    <VideoUrl>https://www.youtube.com/watch?v=BWFZaOuweyc</VideoUrl>
+    <AndroidBoxFrontThumbPath />
+    <AndroidBoxFrontFullPath />
+    <AndroidClearLogoThumbPath />
+    <AndroidClearLogoFullPath />
+    <AndroidBackgroundPath />
+    <AndroidBackgroundThumbPath />
+    <AndroidGameTitleScreenshotThumbPath />
+    <AndroidGameplayScreenshotThumbPath />
+    <AndroidGameTitleScreenshotPath />
+    <AndroidGameplayScreenshotPath />
+    <AndroidVideoPath />
+    <HasCloudSynced>false</HasCloudSynced>
+  </Game>
+  <Game>
+    <GogAppId />
+    <OriginAppId />
+    <OriginInstallPath />
+    <VideoPath />
+    <ThemeVideoPath />
+    <ApplicationPath>R:\ROMS-Arcade\Sega Naomi 2\clubkpzb.zip</ApplicationPath>
+    <CommandLine />
+    <Completed>false</Completed>
+    <ConfigurationCommandLine />
+    <ConfigurationPath />
+    <DateAdded>2023-06-07T22:11:58.5051709+08:00</DateAdded>
+    <DateModified>2024-02-26T01:13:41.7582965+08:00</DateModified>
+    <Developer>Sega</Developer>
+    <DosBoxConfigurationPath />
+    <Emulator>9c584e20-f670-433c-81e0-6b7f3c178958</Emulator>
+    <Favorite>false</Favorite>
+    <ID>5b9012c5-8c57-485f-89a5-6b905c6dbffd</ID>
+    <ManualPath />
+    <MusicPath />
+    <Notes>Club Kart Prize is the kart racing game released for Sega NAOMI 2 hardware in 2003 and a sequel (or spin-off) of sorts to Club Kart: European Session. As the name suggests, this version of Club Kart will award the player with prizes depending on how well he or she plays - you collect coins during the race and these will be awarded to you at the end.
+
+Club Kart Prize only seems to have seen a limited run, and at present has only been spotted in the United Kingdom (the player collects pennies and is paid in pounds sterling). It may have released in Japan under the name clubkart THE MEDAL.</Notes>
+    <Platform>Sega Naomi 2</Platform>
+    <Publisher>Sega</Publisher>
+    <Rating>Not Rated</Rating>
+    <ReleaseDate>2003-01-01T00:00:00+08:00</ReleaseDate>
+    <RootFolder />
+    <ScummVMAspectCorrection>false</ScummVMAspectCorrection>
+    <ScummVMFullscreen>false</ScummVMFullscreen>
+    <ScummVMGameDataFolderPath />
+    <ScummVMGameType />
+    <SortTitle />
+    <Source />
+    <StarRatingFloat>0</StarRatingFloat>
+    <StarRating>0</StarRating>
+    <CommunityStarRating>3.7307692</CommunityStarRating>
+    <CommunityStarRatingTotalVotes>26</CommunityStarRatingTotalVotes>
+    <Status />
+    <DatabaseID>36060</DatabaseID>
+    <WikipediaURL />
+    <Title>Club Kart Prize Version B</Title>
+    <UseDosBox>false</UseDosBox>
+    <UseScummVM>false</UseScummVM>
+    <Version />
+    <Series />
+    <PlayMode>Multiplayer</PlayMode>
+    <Region />
+    <PlayCount>0</PlayCount>
+    <PlayTime>0</PlayTime>
+    <Portable>false</Portable>
+    <Hide>false</Hide>
+    <Broken>false</Broken>
+    <CloneOf />
+    <Genre>Racing</Genre>
+    <MissingVideo>true</MissingVideo>
+    <MissingBoxFrontImage>false</MissingBoxFrontImage>
+    <MissingScreenshotImage>false</MissingScreenshotImage>
+    <MissingMarqueeImage>true</MissingMarqueeImage>
+    <MissingClearLogoImage>false</MissingClearLogoImage>
+    <MissingBackgroundImage>true</MissingBackgroundImage>
+    <MissingBox3dImage>false</MissingBox3dImage>
+    <MissingCartImage>true</MissingCartImage>
+    <MissingCart3dImage>true</MissingCart3dImage>
+    <MissingManual>true</MissingManual>
+    <MissingBannerImage>false</MissingBannerImage>
+    <MissingMusic>true</MissingMusic>
+    <UseStartupScreen>false</UseStartupScreen>
+    <HideAllNonExclusiveFullscreenWindows>false</HideAllNonExclusiveFullscreenWindows>
+    <StartupLoadDelay>0</StartupLoadDelay>
+    <HideMouseCursorInGame>false</HideMouseCursorInGame>
+    <DisableShutdownScreen>false</DisableShutdownScreen>
+    <AggressiveWindowHiding>false</AggressiveWindowHiding>
+    <OverrideDefaultStartupScreenSettings>false</OverrideDefaultStartupScreenSettings>
+    <UsePauseScreen>false</UsePauseScreen>
+    <PauseAutoHotkeyScript />
+    <ResumeAutoHotkeyScript />
+    <OverrideDefaultPauseScreenSettings>false</OverrideDefaultPauseScreenSettings>
+    <SuspendProcessOnPause>false</SuspendProcessOnPause>
+    <ForcefulPauseScreenActivation>false</ForcefulPauseScreenActivation>
+    <LoadStateAutoHotkeyScript />
+    <SaveStateAutoHotkeyScript />
+    <ResetAutoHotkeyScript />
+    <SwapDiscsAutoHotkeyScript />
+    <CustomDosBoxVersionPath />
+    <ReleaseType>Released</ReleaseType>
+    <MaxPlayers>2</MaxPlayers>
+    <VideoUrl>https://www.youtube.com/watch?v=9qr819AUqy0</VideoUrl>
+    <AndroidBoxFrontThumbPath />
+    <AndroidBoxFrontFullPath />
+    <AndroidClearLogoThumbPath />
+    <AndroidClearLogoFullPath />
+    <AndroidBackgroundPath />
+    <AndroidBackgroundThumbPath />
+    <AndroidGameTitleScreenshotThumbPath />
+    <AndroidGameplayScreenshotThumbPath />
+    <AndroidGameTitleScreenshotPath />
+    <AndroidGameplayScreenshotPath />
+    <AndroidVideoPath />
+    <HasCloudSynced>false</HasCloudSynced>
+  </Game>
+  <Game>
+    <GogAppId />
+    <OriginAppId />
+    <OriginInstallPath />
+    <VideoPath />
+    <ThemeVideoPath />
+    <ApplicationPath>R:\ROMS-Arcade\Sega Naomi 2\vf4cart.zip</ApplicationPath>
+    <CommandLine />
+    <Completed>false</Completed>
+    <ConfigurationCommandLine />
+    <ConfigurationPath />
+    <DateAdded>2023-06-07T22:11:58.478255+08:00</DateAdded>
+    <DateModified>2024-02-22T01:10:06.9324374+08:00</DateModified>
+    <Developer>Sega AM2</Developer>
+    <DosBoxConfigurationPath />
+    <Emulator>9c584e20-f670-433c-81e0-6b7f3c178958</Emulator>
+    <Favorite>false</Favorite>
+    <ID>7929cc3c-c2eb-4b4e-bcf4-b57e9f04ec91</ID>
+    <LastPlayedDate>2023-06-07T22:16:42.6657717+08:00</LastPlayedDate>
+    <ManualPath />
+    <MusicPath />
+    <Notes>Virtua Fighter 4 is a fighting game by Sega. It is the fourth game in the Virtua Fighter series.
+
+The game was first released in arcades on the NAOMI 2 board in 2001. A console port of Virtua Fighter 4, as well as that of Virtua Fighter 4: Evolution under the budget-priced "Greatest Hits" label, appeared on the Sony PlayStation 2 in 2002 and 2003, respectively.
+
+In Japan, Virtua Fighter 4 is famous for spearheading and opening the market for internet functionality in arcades. VF.NET started in Japan in 2001, and since companies have created their own arcade networks, e-Amusement by Konami, NESiCAxLive by Taito and Square Enix, and ALL.Net by Sega.
+
+Plot:
+Virtua Fighter 4 and Virtua Fighter 4: Evolution have a two-part storyline. VF4 started out with thirteen fighters entering the tournament for their own personal reasons, while Judgement Six used them for gathering data for Dural. Evolution adds two more fighters to the mix, one of them works for Judgement Six who is ordered to kill everyone in the tournament.
+
+It was also revealed that for the Dural project, Judgement Six targeted Sarah Bryant as their next volunteer for a new Dural model. Akira fell short during the third tournament. In order to find out what the "real power" was within him, he enters the fourth tournament to find that answer. Pai discovers that her skill was close to her father's despite her loss in the third tournament. After hearing that Lau was looking for a successor and has a terminal illness, she enters the tournament to prove that she is a worthy successor to master her father's style. Lau suffered a terrible illness that cannot be cured after losing to Kage-Maru in the third tournament. He enters the tournament to find a worthy successor to Koen-Ken. Wolf still has reoccurring nightmares since the end of the second tournament. After losing in the third tournament, he ignored the dream but it kept coming back. He enters the fourth tournament to find out what that meant. Jeffry finally gained enough money to repair his boat, but there was only one problem: the Satan Shark mysteriously disappeared. He enters the tournament to invest in a sonar device for the shark.
+
+Kage-Maru won the third tournament and found a part from the new Dural model that would cure his mother. It result in his mother transforming into Dural once again and attacking him. Since Judgement Six saved her, Kage enters the tournament to kill Dural once and for all. Sarah regained her memories and lived a quiet life with her brother, until she had flashbacks of the time where she was brainwashed by Judgement Six and attempted to kill Jacky. She enters the tournament to defeat him and resolve the matter. Jacky turned his focus to racing after the end of the third tournament, where he formed his own racing team. However, Judgement Six killed one of his sponsors and they will continue unless Jacky enters the fourth tournament. He decides to enter the tournament to once again take down Judgement Six. Shun was unsuccessful on finding his missing student during the third tournament. It was revealed that his student was trying to escape from Judgement Six, but he was recaptured by the evil organization. He enters the fourth tournament to find more information about the missing student.
+
+Lion enters the fourth tournament in order to once again try to win the title. Aoi did not last long in the first round of the third tournament. She enters the fourth tournament to try her new skills in parrying and counterattacking. Lei-Fei entered the fourth tournament to become the successor to Lau's Koen-Ken style of martial arts. His true intention is to kill Lau after he learned his style under the clan's orders. Vanessa joins the fourth tournament to protect Sarah from Judgement Six, and to avenge the murder of her mentor, Lewis. Brad entered the fourth tournament after dominating the Muay Thai Kickboxing world. Goh infiltrated the fourth tournament under Judgement Six orders to kill everyone. The 4th tournament had come down to one final fight between Kage-Maru and Shun Di, but as Kage was about to deliver the final blow to Shun, the glowing, silver form of Dural interrupted the match. Kage is the winner, but he discovers that the Dural he fought is not his mother.
+
+Characters:
+Akira Yuki
+Pai Chan
+Lau Chan
+Wolf Hawkfield
+Jeffry McWild
+Kage-Maru
+Sarah Bryant
+Jacky Bryant
+Shun Di
+Lion Rafale
+Aoi Umenokoji
+Dural
+
+New characters:
+Lei-Fei
+Vanessa Lewis
+Brad Burns (Virtua Fighter 4: Evolution/Final Tuned only)
+Goh Hinogami (Virtua Fighter 4: Evolution/Final Tuned only)
+
+Customization:
+A unique feature in Evolution was the ability to play in a tournament quest mode, where the concept was that the player was competing by traveling to various arcades, as opposed to role-playing as the player's chosen fighter. This mode was very popular due to the ability to buy cosmetic items to customize a character, as well as the ability to name a character. Many players of fighting games have unique styles; with the combination of various items allowing for vastly differing appearances a new depth of uniqueness was added. In addition, Sega took the top tournament players from the arcade version, and captured their style of play for the AI of a player's opponents for this mode. For example, playing against one Wolf character would be very different from playing another, because the actual player that character's AI was programmed to mimic had a unique play style.
+
+Training mode:
+Virtua Fighter 4 introduced a comprehensive training mode. The mode consisted of an encyclopedia of fighting game terms, complete character command list walkthroughs, tips on all of the game's mechanics, recommended character combos, alternative options for failed combos, detailed command input timings, slow motion for frame counting and timing, and other useful training tips.
+
+VF4's training mode consists of three sections:
+Command Training - A complete run through each move, one-by-one. The command for the move is displayed and the player executes the command - moving to the next one. VF4 allows the option to skip the current command, view the move (computer controlled), enable advice.
+Free Training
+Trial Mode
+
+Changes from previous series releases:
+Virtua Fighter 4 became much more streamlined and user friendly than its predecessors, while expanding on old ideas and adding new techniques. The evasion system was revamped from Virtua Fighter 3, the evade button was removed, and evades were split into two types, successful and unsuccessful. When evades were not performed with the proper timing, they were unsuccessful leaving the fighter vulnerable. The evade + throw escape option select, which was an advanced technique discovered in Virtua Fighter 3, was expanded upon. Virtua Fighter 4 allowed the player to escape as many throws as they could, and lengthened the window for performing a successful throw escape during an [unsuccessful] evade. A new move type called a Sabaki was added; an attack that also doubles as a reversal versus one or more move types.
+
+The two new characters, Vanessa Lewis and Lei-Fei, had moves that employed these properties significantly more than the returning cast, and were quite experimental for Virtua Fighter characters. Vanessa Lewis is a black Vale Tudo/Muay Thai kickboxer with two completely separate moves sets that can be switched between on the fly, and Lei-Fei, a Shaolin monk, employs many stances that flow into one another.
+
+Taka-Arashi, one of the new characters added to Virtua Fighter 3, was omitted, apparently due to the developers not being able to make him work properly with the Virtua Fighter 4 system mechanics.
+
+The fighting arenas reverted to the old Virtua Fighter style of flat and square, as opposed to Virtua Fighter 3's wild and undulating stage designs. The reason behind this was to make the game less random, and more balanced and competitive in nature. Walls, however, were kept and expanded upon with a wall stagger / juggle system and several wall types including high + unbreakable, low + breakable, and low + unbreakable + open corners. Some stages’ walls can be broken by knocking down the opponent while the latter is behind the wall and at low health, with the next round permanently leaves the stage's without a fence that have been broken.</Notes>
+    <Platform>Sega Naomi 2</Platform>
+    <Publisher>Sega</Publisher>
+    <Rating>E10+ - Everyone 10+</Rating>
+    <ReleaseDate>2001-08-01T15:00:00+08:00</ReleaseDate>
+    <RootFolder />
+    <ScummVMAspectCorrection>false</ScummVMAspectCorrection>
+    <ScummVMFullscreen>false</ScummVMFullscreen>
+    <ScummVMGameDataFolderPath />
+    <ScummVMGameType />
+    <SortTitle />
+    <Source />
+    <StarRatingFloat>0</StarRatingFloat>
+    <StarRating>0</StarRating>
+    <CommunityStarRating>3.890244</CommunityStarRating>
+    <CommunityStarRatingTotalVotes>41</CommunityStarRatingTotalVotes>
+    <Status />
+    <DatabaseID>152524</DatabaseID>
+    <WikipediaURL>https://en.wikipedia.org/wiki/Virtua_Fighter_4</WikipediaURL>
+    <Title>Virtua Fighter 4</Title>
+    <UseDosBox>false</UseDosBox>
+    <UseScummVM>false</UseScummVM>
+    <Version />
+    <Series />
+    <PlayMode>Multiplayer</PlayMode>
+    <Region />
+    <PlayCount>1</PlayCount>
+    <PlayTime>2</PlayTime>
+    <Portable>false</Portable>
+    <Hide>false</Hide>
+    <Broken>false</Broken>
+    <CloneOf />
+    <Genre>Fighting</Genre>
+    <MissingVideo>true</MissingVideo>
+    <MissingBoxFrontImage>false</MissingBoxFrontImage>
+    <MissingScreenshotImage>false</MissingScreenshotImage>
+    <MissingMarqueeImage>false</MissingMarqueeImage>
+    <MissingClearLogoImage>false</MissingClearLogoImage>
+    <MissingBackgroundImage>true</MissingBackgroundImage>
+    <MissingBox3dImage>false</MissingBox3dImage>
+    <MissingCartImage>false</MissingCartImage>
+    <MissingCart3dImage>false</MissingCart3dImage>
+    <MissingManual>true</MissingManual>
+    <MissingBannerImage>false</MissingBannerImage>
+    <MissingMusic>true</MissingMusic>
+    <UseStartupScreen>false</UseStartupScreen>
+    <HideAllNonExclusiveFullscreenWindows>false</HideAllNonExclusiveFullscreenWindows>
+    <StartupLoadDelay>0</StartupLoadDelay>
+    <HideMouseCursorInGame>false</HideMouseCursorInGame>
+    <DisableShutdownScreen>false</DisableShutdownScreen>
+    <AggressiveWindowHiding>false</AggressiveWindowHiding>
+    <OverrideDefaultStartupScreenSettings>false</OverrideDefaultStartupScreenSettings>
+    <UsePauseScreen>false</UsePauseScreen>
+    <PauseAutoHotkeyScript />
+    <ResumeAutoHotkeyScript />
+    <OverrideDefaultPauseScreenSettings>false</OverrideDefaultPauseScreenSettings>
+    <SuspendProcessOnPause>false</SuspendProcessOnPause>
+    <ForcefulPauseScreenActivation>false</ForcefulPauseScreenActivation>
+    <LoadStateAutoHotkeyScript />
+    <SaveStateAutoHotkeyScript />
+    <ResetAutoHotkeyScript />
+    <SwapDiscsAutoHotkeyScript />
+    <CustomDosBoxVersionPath />
+    <ReleaseType>Released</ReleaseType>
+    <MaxPlayers>2</MaxPlayers>
+    <VideoUrl>https://www.youtube.com/watch?v=BWFZaOuweyc</VideoUrl>
+    <AndroidBoxFrontThumbPath />
+    <AndroidBoxFrontFullPath />
+    <AndroidClearLogoThumbPath />
+    <AndroidClearLogoFullPath />
+    <AndroidBackgroundPath />
+    <AndroidBackgroundThumbPath />
+    <AndroidGameTitleScreenshotThumbPath />
+    <AndroidGameplayScreenshotThumbPath />
+    <AndroidGameTitleScreenshotPath />
+    <AndroidGameplayScreenshotPath />
+    <AndroidVideoPath />
+    <HasCloudSynced>true</HasCloudSynced>
+  </Game>
+  <Game>
+    <GogAppId />
+    <OriginAppId />
+    <OriginInstallPath />
+    <VideoPath />
+    <ThemeVideoPath />
+    <ApplicationPath>R:\ROMS-Arcade\Sega Naomi 2\kingrt66.zip</ApplicationPath>
+    <CommandLine />
+    <Completed>false</Completed>
+    <ConfigurationCommandLine />
+    <ConfigurationPath />
+    <DateAdded>2023-06-07T22:11:58.5072774+08:00</DateAdded>
+    <DateModified>2024-02-22T01:09:12.9656966+08:00</DateModified>
+    <Developer>Sega</Developer>
+    <DosBoxConfigurationPath />
+    <Emulator>9c584e20-f670-433c-81e0-6b7f3c178958</Emulator>
+    <Favorite>false</Favorite>
+    <ID>e0b2e649-da7c-4708-9fa9-c7680da71c0d</ID>
+    <ManualPath />
+    <MusicPath />
+    <Notes>The King of Route 66 is an arcade style 18-Wheeler driving game. The game takes place on the famous Route 66, a highway that runs through America from Illinois to California.
+
+This game features a story mode in which the Evil Tornado Corporation has taken over all the trucking jobs along Route 66. You play a hero trucker who challenges Tornado drivers all along the route and puts them in their place by getting your cargo to the destination first. This game mode, called the King of Route 66, plays mostly like a sequel to 18 Wheeler. The next game mode is called the Queen of Route 66. In this mode have to you race around open areas and collect gems before time runs out.
+
+There are other game modes as well. The Route 66 Challenge has you performing various stunts with your truck. The Rival Chase is a straightforward race similar to King mode. Vs. Battle is a two player mode.</Notes>
+    <Platform>Sega Naomi 2</Platform>
+    <Publisher>Sega</Publisher>
+    <Rating>Not Rated</Rating>
+    <ReleaseDate>2002-02-01T16:00:00+08:00</ReleaseDate>
+    <RootFolder />
+    <ScummVMAspectCorrection>false</ScummVMAspectCorrection>
+    <ScummVMFullscreen>false</ScummVMFullscreen>
+    <ScummVMGameDataFolderPath />
+    <ScummVMGameType />
+    <SortTitle />
+    <Source />
+    <StarRatingFloat>0</StarRatingFloat>
+    <StarRating>0</StarRating>
+    <CommunityStarRating>3.564516</CommunityStarRating>
+    <CommunityStarRatingTotalVotes>31</CommunityStarRatingTotalVotes>
+    <Status />
+    <DatabaseID>152543</DatabaseID>
+    <WikipediaURL>https://en.wikipedia.org/wiki/The_King_of_Route_66</WikipediaURL>
+    <Title>King of Route 66, The</Title>
+    <UseDosBox>false</UseDosBox>
+    <UseScummVM>false</UseScummVM>
+    <Version />
+    <Series />
+    <PlayMode>Single Player</PlayMode>
+    <Region />
+    <PlayCount>0</PlayCount>
+    <PlayTime>0</PlayTime>
+    <Portable>false</Portable>
+    <Hide>false</Hide>
+    <Broken>false</Broken>
+    <CloneOf />
+    <Genre>Racing</Genre>
+    <MissingVideo>false</MissingVideo>
+    <MissingBoxFrontImage>false</MissingBoxFrontImage>
+    <MissingScreenshotImage>false</MissingScreenshotImage>
+    <MissingMarqueeImage>false</MissingMarqueeImage>
+    <MissingClearLogoImage>false</MissingClearLogoImage>
+    <MissingBackgroundImage>true</MissingBackgroundImage>
+    <MissingBox3dImage>false</MissingBox3dImage>
+    <MissingCartImage>false</MissingCartImage>
+    <MissingCart3dImage>false</MissingCart3dImage>
+    <MissingManual>true</MissingManual>
+    <MissingBannerImage>false</MissingBannerImage>
+    <MissingMusic>true</MissingMusic>
+    <UseStartupScreen>false</UseStartupScreen>
+    <HideAllNonExclusiveFullscreenWindows>false</HideAllNonExclusiveFullscreenWindows>
+    <StartupLoadDelay>0</StartupLoadDelay>
+    <HideMouseCursorInGame>false</HideMouseCursorInGame>
+    <DisableShutdownScreen>false</DisableShutdownScreen>
+    <AggressiveWindowHiding>false</AggressiveWindowHiding>
+    <OverrideDefaultStartupScreenSettings>false</OverrideDefaultStartupScreenSettings>
+    <UsePauseScreen>false</UsePauseScreen>
+    <PauseAutoHotkeyScript />
+    <ResumeAutoHotkeyScript />
+    <OverrideDefaultPauseScreenSettings>false</OverrideDefaultPauseScreenSettings>
+    <SuspendProcessOnPause>false</SuspendProcessOnPause>
+    <ForcefulPauseScreenActivation>false</ForcefulPauseScreenActivation>
+    <LoadStateAutoHotkeyScript />
+    <SaveStateAutoHotkeyScript />
+    <ResetAutoHotkeyScript />
+    <SwapDiscsAutoHotkeyScript />
+    <CustomDosBoxVersionPath />
+    <ReleaseType>Released</ReleaseType>
+    <MaxPlayers>1</MaxPlayers>
+    <VideoUrl>https://www.youtube.com/watch?v=GRCTsxSY4sg</VideoUrl>
+    <AndroidBoxFrontThumbPath />
+    <AndroidBoxFrontFullPath />
+    <AndroidClearLogoThumbPath />
+    <AndroidClearLogoFullPath />
+    <AndroidBackgroundPath />
+    <AndroidBackgroundThumbPath />
+    <AndroidGameTitleScreenshotThumbPath />
+    <AndroidGameplayScreenshotThumbPath />
+    <AndroidGameTitleScreenshotPath />
+    <AndroidGameplayScreenshotPath />
+    <AndroidVideoPath />
+    <HasCloudSynced>false</HasCloudSynced>
+  </Game>
+  <Game>
+    <GogAppId />
+    <OriginAppId />
+    <OriginInstallPath />
+    <VideoPath />
+    <ThemeVideoPath />
+    <ApplicationPath>R:\ROMS-Arcade\Sega Naomi 2\wldrider.zip</ApplicationPath>
+    <CommandLine />
+    <Completed>false</Completed>
+    <ConfigurationCommandLine />
+    <ConfigurationPath />
+    <DateAdded>2023-06-07T22:11:58.5228295+08:00</DateAdded>
+    <DateModified>2024-02-22T01:09:12.9707165+08:00</DateModified>
+    <Developer>WOW Entertainment</Developer>
+    <DosBoxConfigurationPath />
+    <Emulator>9c584e20-f670-433c-81e0-6b7f3c178958</Emulator>
+    <Favorite>false</Favorite>
+    <ID>65aea5f5-0af1-40be-8d5d-0e565fc625d5</ID>
+    <ManualPath />
+    <MusicPath />
+    <Notes>A motorcycle chase game. The player assumes the role of a biker gang member who is trying to escape from the police and avoid capture. Runs on the Sega "NAOMI 2" hardware. Even if titlescreen says 2000, Wild Riders was released in March 2001 in Japan. It was presented at the February 2001 AOU (Arcade Operators Union) in Japan.</Notes>
+    <Platform>Sega Naomi 2</Platform>
+    <Publisher>Sega</Publisher>
+    <Rating>Not Rated</Rating>
+    <ReleaseDate>2001-06-08T15:00:00+08:00</ReleaseDate>
+    <RootFolder />
+    <ScummVMAspectCorrection>false</ScummVMAspectCorrection>
+    <ScummVMFullscreen>false</ScummVMFullscreen>
+    <ScummVMGameDataFolderPath />
+    <ScummVMGameType />
+    <SortTitle />
+    <Source />
+    <StarRatingFloat>0</StarRatingFloat>
+    <StarRating>0</StarRating>
+    <CommunityStarRating>3.296875</CommunityStarRating>
+    <CommunityStarRatingTotalVotes>32</CommunityStarRatingTotalVotes>
+    <Status />
+    <DatabaseID>152548</DatabaseID>
+    <WikipediaURL />
+    <Title>Wild Riders</Title>
+    <UseDosBox>false</UseDosBox>
+    <UseScummVM>false</UseScummVM>
+    <Version />
+    <Series />
+    <PlayMode>Single Player</PlayMode>
+    <Region />
+    <PlayCount>0</PlayCount>
+    <PlayTime>0</PlayTime>
+    <Portable>false</Portable>
+    <Hide>false</Hide>
+    <Broken>false</Broken>
+    <CloneOf />
+    <Genre>Racing</Genre>
+    <MissingVideo>false</MissingVideo>
+    <MissingBoxFrontImage>false</MissingBoxFrontImage>
+    <MissingScreenshotImage>false</MissingScreenshotImage>
+    <MissingMarqueeImage>false</MissingMarqueeImage>
+    <MissingClearLogoImage>false</MissingClearLogoImage>
+    <MissingBackgroundImage>true</MissingBackgroundImage>
+    <MissingBox3dImage>false</MissingBox3dImage>
+    <MissingCartImage>false</MissingCartImage>
+    <MissingCart3dImage>false</MissingCart3dImage>
+    <MissingManual>true</MissingManual>
+    <MissingBannerImage>false</MissingBannerImage>
+    <MissingMusic>true</MissingMusic>
+    <UseStartupScreen>false</UseStartupScreen>
+    <HideAllNonExclusiveFullscreenWindows>false</HideAllNonExclusiveFullscreenWindows>
+    <StartupLoadDelay>0</StartupLoadDelay>
+    <HideMouseCursorInGame>false</HideMouseCursorInGame>
+    <DisableShutdownScreen>false</DisableShutdownScreen>
+    <AggressiveWindowHiding>false</AggressiveWindowHiding>
+    <OverrideDefaultStartupScreenSettings>false</OverrideDefaultStartupScreenSettings>
+    <UsePauseScreen>false</UsePauseScreen>
+    <PauseAutoHotkeyScript />
+    <ResumeAutoHotkeyScript />
+    <OverrideDefaultPauseScreenSettings>false</OverrideDefaultPauseScreenSettings>
+    <SuspendProcessOnPause>false</SuspendProcessOnPause>
+    <ForcefulPauseScreenActivation>false</ForcefulPauseScreenActivation>
+    <LoadStateAutoHotkeyScript />
+    <SaveStateAutoHotkeyScript />
+    <ResetAutoHotkeyScript />
+    <SwapDiscsAutoHotkeyScript />
+    <CustomDosBoxVersionPath />
+    <ReleaseType>Released</ReleaseType>
+    <MaxPlayers>1</MaxPlayers>
+    <VideoUrl>https://www.youtube.com/watch?v=lFWTHTN6ngg</VideoUrl>
+    <AndroidBoxFrontThumbPath />
+    <AndroidBoxFrontFullPath />
+    <AndroidClearLogoThumbPath />
+    <AndroidClearLogoFullPath />
+    <AndroidBackgroundPath />
+    <AndroidBackgroundThumbPath />
+    <AndroidGameTitleScreenshotThumbPath />
+    <AndroidGameplayScreenshotThumbPath />
+    <AndroidGameTitleScreenshotPath />
+    <AndroidGameplayScreenshotPath />
+    <AndroidVideoPath />
+    <HasCloudSynced>false</HasCloudSynced>
+  </Game>
+  <Game>
+    <GogAppId />
+    <OriginAppId />
+    <OriginInstallPath />
+    <VideoPath />
+    <ThemeVideoPath />
+    <ApplicationPath>R:\ROMS-Arcade\Sega Naomi 2\clubkcyc.zip</ApplicationPath>
+    <CommandLine />
+    <Completed>false</Completed>
+    <ConfigurationCommandLine />
+    <ConfigurationPath />
+    <DateAdded>2023-06-07T22:11:58.45079+08:00</DateAdded>
+    <DateModified>2024-02-22T01:09:12.963108+08:00</DateModified>
+    <Developer>Sega Mechatronics</Developer>
+    <DosBoxConfigurationPath />
+    <Emulator>9c584e20-f670-433c-81e0-6b7f3c178958</Emulator>
+    <Favorite>false</Favorite>
+    <ID>2c114fec-a8fb-4c2e-baa0-0bf9db3fe065</ID>
+    <ManualPath />
+    <MusicPath />
+    <Notes>The Cycraft is Sega Amusements Europe Ltd's new multiplayer racing simulator and is small, compact, light and easily installed, without having to knock down walls or use heavy craning equipment.
+
+It fits into most arcades in much the same way as a normal video game. It runs on a single-phase power supply and negates the huge cost of having to install 3-phase power. It is a linkable machine with up to 8 players available. The guarantee of high quality SEGA software for future upgrades is a key point for many operators.
+
+Designed by Simuline, the Cycraft comes with either Sega's Club Kart or Initial D3 racing software and incorporates an incredibly dynamic and realistic motion system that creates great excitement.
+
+The simulator features a 29 inch flat screen VGA monitor and 4 speaker surround sound to create a fully immersive experience. It can be linked with up to 8 cabinets to allow for players to compete against each other.
+
+The Cycraft also ships with a number of safety features including a emergency stop buttons, a safety fence and foot sensors that instruct the machine to stop motion if a player exits during game play.</Notes>
+    <Platform>Sega Naomi 2</Platform>
+    <Publisher>Sega</Publisher>
+    <Rating>Not Rated</Rating>
+    <ReleaseDate>2003-01-01T00:00:00+08:00</ReleaseDate>
+    <RootFolder />
+    <ScummVMAspectCorrection>false</ScummVMAspectCorrection>
+    <ScummVMFullscreen>false</ScummVMFullscreen>
+    <ScummVMGameDataFolderPath />
+    <ScummVMGameType />
+    <SortTitle />
+    <Source />
+    <StarRatingFloat>0</StarRatingFloat>
+    <StarRating>0</StarRating>
+    <CommunityStarRating>3.25</CommunityStarRating>
+    <CommunityStarRatingTotalVotes>14</CommunityStarRatingTotalVotes>
+    <Status />
+    <DatabaseID>293053</DatabaseID>
+    <WikipediaURL />
+    <Title>Club Kart for Cycraft</Title>
+    <UseDosBox>false</UseDosBox>
+    <UseScummVM>false</UseScummVM>
+    <Version />
+    <Series />
+    <PlayMode>Multiplayer</PlayMode>
+    <Region />
+    <PlayCount>0</PlayCount>
+    <PlayTime>0</PlayTime>
+    <Portable>false</Portable>
+    <Hide>false</Hide>
+    <Broken>false</Broken>
+    <CloneOf />
+    <Genre>Racing</Genre>
+    <MissingVideo>true</MissingVideo>
+    <MissingBoxFrontImage>false</MissingBoxFrontImage>
+    <MissingScreenshotImage>false</MissingScreenshotImage>
+    <MissingMarqueeImage>true</MissingMarqueeImage>
+    <MissingClearLogoImage>true</MissingClearLogoImage>
+    <MissingBackgroundImage>true</MissingBackgroundImage>
+    <MissingBox3dImage>false</MissingBox3dImage>
+    <MissingCartImage>true</MissingCartImage>
+    <MissingCart3dImage>true</MissingCart3dImage>
+    <MissingManual>true</MissingManual>
+    <MissingBannerImage>false</MissingBannerImage>
+    <MissingMusic>true</MissingMusic>
+    <UseStartupScreen>false</UseStartupScreen>
+    <HideAllNonExclusiveFullscreenWindows>false</HideAllNonExclusiveFullscreenWindows>
+    <StartupLoadDelay>0</StartupLoadDelay>
+    <HideMouseCursorInGame>false</HideMouseCursorInGame>
+    <DisableShutdownScreen>false</DisableShutdownScreen>
+    <AggressiveWindowHiding>false</AggressiveWindowHiding>
+    <OverrideDefaultStartupScreenSettings>false</OverrideDefaultStartupScreenSettings>
+    <UsePauseScreen>false</UsePauseScreen>
+    <PauseAutoHotkeyScript />
+    <ResumeAutoHotkeyScript />
+    <OverrideDefaultPauseScreenSettings>false</OverrideDefaultPauseScreenSettings>
+    <SuspendProcessOnPause>false</SuspendProcessOnPause>
+    <ForcefulPauseScreenActivation>false</ForcefulPauseScreenActivation>
+    <LoadStateAutoHotkeyScript />
+    <SaveStateAutoHotkeyScript />
+    <ResetAutoHotkeyScript />
+    <SwapDiscsAutoHotkeyScript />
+    <CustomDosBoxVersionPath />
+    <ReleaseType>Released</ReleaseType>
+    <MaxPlayers>8</MaxPlayers>
+    <VideoUrl />
+    <AndroidBoxFrontThumbPath />
+    <AndroidBoxFrontFullPath />
+    <AndroidClearLogoThumbPath />
+    <AndroidClearLogoFullPath />
+    <AndroidBackgroundPath />
+    <AndroidBackgroundThumbPath />
+    <AndroidGameTitleScreenshotThumbPath />
+    <AndroidGameplayScreenshotThumbPath />
+    <AndroidGameTitleScreenshotPath />
+    <AndroidGameplayScreenshotPath />
+    <AndroidVideoPath />
+    <HasCloudSynced>false</HasCloudSynced>
+  </Game>
+  <Game>
+    <GogAppId />
+    <OriginAppId />
+    <OriginInstallPath />
+    <VideoPath />
+    <ThemeVideoPath />
+    <ApplicationPath>R:\ROMS-Arcade\Sega Naomi 2\beachspi.zip</ApplicationPath>
+    <CommandLine />
+    <Completed>false</Completed>
+    <ConfigurationCommandLine />
+    <ConfigurationPath />
+    <DateAdded>2023-06-07T22:11:58.4477593+08:00</DateAdded>
+    <DateModified>2024-02-22T01:09:12.9623806+08:00</DateModified>
+    <Developer>Sega AM2</Developer>
+    <DosBoxConfigurationPath />
+    <Emulator>9c584e20-f670-433c-81e0-6b7f3c178958</Emulator>
+    <Favorite>false</Favorite>
+    <ID>12f630e2-ea04-475b-8b2b-8e4a9d57c483</ID>
+    <ManualPath />
+    <MusicPath />
+    <Notes>Based on the sport of beach volleyball, the game revolves around two-on-two matches where a volleyball is hit back and forth over a net until one side allows the ball to touch the ground. Similar to Sega's Virtua sports games, most of the gameplay in Beach Spikers is based around the concept of "charging" the strength of moves, judged by how long the button is held prior to release at the point of which the move is executed. There is a button for setting (passing) and a button for rallying (sending the ball over the net) which, combined with how long the button is held to determine strength, is the basis for the way the entire game is played.
+
+There are two modes to choose from: Arcade Mode and World Tour mode. Arcade mode is a basic progression through a series of AI opponents, and in the multiplayer portion of Arcade Mode, it is head-to-head matches for up to four human players. In World Tour mode, the player take a user-created team through a tournament, earning points as you go that allow you to increase the stats of your players and also unlock special teams and players, including one based on the character Ulala from Sega's Space Channel 5 series.</Notes>
+    <Platform>Sega Naomi 2</Platform>
+    <Publisher>Sega</Publisher>
+    <Rating>Not Rated</Rating>
+    <ReleaseDate>2001-01-01T00:00:00+08:00</ReleaseDate>
+    <RootFolder />
+    <ScummVMAspectCorrection>false</ScummVMAspectCorrection>
+    <ScummVMFullscreen>false</ScummVMFullscreen>
+    <ScummVMGameDataFolderPath />
+    <ScummVMGameType />
+    <SortTitle />
+    <Source />
+    <StarRatingFloat>0</StarRatingFloat>
+    <StarRating>0</StarRating>
+    <CommunityStarRating>3.7594936</CommunityStarRating>
+    <CommunityStarRatingTotalVotes>79</CommunityStarRatingTotalVotes>
+    <Status />
+    <DatabaseID>125590</DatabaseID>
+    <WikipediaURL>https://en.wikipedia.org/wiki/Beach_Spikers</WikipediaURL>
+    <Title>Beach Spikers</Title>
+    <UseDosBox>false</UseDosBox>
+    <UseScummVM>false</UseScummVM>
+    <Version />
+    <Series />
+    <PlayMode>Multiplayer</PlayMode>
+    <Region />
+    <PlayCount>0</PlayCount>
+    <PlayTime>0</PlayTime>
+    <Portable>false</Portable>
+    <Hide>false</Hide>
+    <Broken>false</Broken>
+    <CloneOf />
+    <Genre>Sports</Genre>
+    <MissingVideo>true</MissingVideo>
+    <MissingBoxFrontImage>false</MissingBoxFrontImage>
+    <MissingScreenshotImage>false</MissingScreenshotImage>
+    <MissingMarqueeImage>false</MissingMarqueeImage>
+    <MissingClearLogoImage>false</MissingClearLogoImage>
+    <MissingBackgroundImage>true</MissingBackgroundImage>
+    <MissingBox3dImage>false</MissingBox3dImage>
+    <MissingCartImage>false</MissingCartImage>
+    <MissingCart3dImage>true</MissingCart3dImage>
+    <MissingManual>true</MissingManual>
+    <MissingBannerImage>false</MissingBannerImage>
+    <MissingMusic>true</MissingMusic>
+    <UseStartupScreen>false</UseStartupScreen>
+    <HideAllNonExclusiveFullscreenWindows>false</HideAllNonExclusiveFullscreenWindows>
+    <StartupLoadDelay>0</StartupLoadDelay>
+    <HideMouseCursorInGame>false</HideMouseCursorInGame>
+    <DisableShutdownScreen>false</DisableShutdownScreen>
+    <AggressiveWindowHiding>false</AggressiveWindowHiding>
+    <OverrideDefaultStartupScreenSettings>false</OverrideDefaultStartupScreenSettings>
+    <UsePauseScreen>false</UsePauseScreen>
+    <PauseAutoHotkeyScript />
+    <ResumeAutoHotkeyScript />
+    <OverrideDefaultPauseScreenSettings>false</OverrideDefaultPauseScreenSettings>
+    <SuspendProcessOnPause>false</SuspendProcessOnPause>
+    <ForcefulPauseScreenActivation>false</ForcefulPauseScreenActivation>
+    <LoadStateAutoHotkeyScript />
+    <SaveStateAutoHotkeyScript />
+    <ResetAutoHotkeyScript />
+    <SwapDiscsAutoHotkeyScript />
+    <CustomDosBoxVersionPath />
+    <ReleaseType>Released</ReleaseType>
+    <MaxPlayers>4</MaxPlayers>
+    <VideoUrl>https://www.youtube.com/watch?v=8ShzvRawPbI</VideoUrl>
+    <AndroidBoxFrontThumbPath />
+    <AndroidBoxFrontFullPath />
+    <AndroidClearLogoThumbPath />
+    <AndroidClearLogoFullPath />
+    <AndroidBackgroundPath />
+    <AndroidBackgroundThumbPath />
+    <AndroidGameTitleScreenshotThumbPath />
+    <AndroidGameplayScreenshotThumbPath />
+    <AndroidGameTitleScreenshotPath />
+    <AndroidGameplayScreenshotPath />
+    <AndroidVideoPath />
+    <HasCloudSynced>false</HasCloudSynced>
+  </Game>
+  <Game>
+    <GogAppId />
+    <OriginAppId />
+    <OriginInstallPath />
+    <VideoPath />
+    <ThemeVideoPath />
+    <ApplicationPath>R:\ROMS-Arcade\Sega Naomi 2\clubk2k3.zip</ApplicationPath>
+    <CommandLine />
+    <Completed>false</Completed>
+    <ConfigurationCommandLine />
+    <ConfigurationPath />
+    <DateAdded>2023-06-07T22:11:58.4997562+08:00</DateAdded>
+    <DateModified>2024-02-22T01:10:06.932472+08:00</DateModified>
+    <Developer>Sega</Developer>
+    <DosBoxConfigurationPath />
+    <Emulator>9c584e20-f670-433c-81e0-6b7f3c178958</Emulator>
+    <Favorite>false</Favorite>
+    <ID>77acbe81-1453-4e5e-920f-d3e7f8364288</ID>
+    <LastPlayedDate>2023-06-07T22:40:53.8547181+08:00</LastPlayedDate>
+    <ManualPath />
+    <MusicPath />
+    <Notes>Club Kart: European Session is a Go-Kart racing game by Sega. Some machines are outfitted with the IC Card system to store your kart data, which can be modified and improved with more play. Up to 4 machines can be linked for competitive racing.
+
+Information
+Club Kart: European Session is notable for featuring brands from within the world of karting, (i.e. Birel chassis, IAME engines, IBEA carbs, etc.) The US cabinet version has a three-degree-of-freedom limited range motion platform that the player sits on, and also feature force-feedback steering. 4 different classes can be selected, via the IC Card or the IC Card Simulated Replacement. Club Kart was released in 2000.
+
+Club Kart: European Session runs on a Sega NAOMI 2 system. It uses fiber optic linking. Control hardware includes a steering wheel with force feedback and 2 analog foot-pedals.</Notes>
+    <Platform>Sega Naomi 2</Platform>
+    <Publisher>Sega</Publisher>
+    <Rating>Not Rated</Rating>
+    <ReleaseDate>2001-01-21T16:00:00+08:00</ReleaseDate>
+    <RootFolder />
+    <ScummVMAspectCorrection>true</ScummVMAspectCorrection>
+    <ScummVMFullscreen>true</ScummVMFullscreen>
+    <ScummVMGameDataFolderPath />
+    <ScummVMGameType />
+    <SortTitle />
+    <Source />
+    <StarRatingFloat>0</StarRatingFloat>
+    <StarRating>0</StarRating>
+    <CommunityStarRating>3.362745</CommunityStarRating>
+    <CommunityStarRatingTotalVotes>51</CommunityStarRatingTotalVotes>
+    <Status />
+    <DatabaseID>152542</DatabaseID>
+    <WikipediaURL />
+    <Title>Club Kart - European Session</Title>
+    <UseDosBox>false</UseDosBox>
+    <UseScummVM>false</UseScummVM>
+    <Version>(2003, Rev A)</Version>
+    <Series />
+    <PlayMode>Single Player</PlayMode>
+    <Region>North America</Region>
+    <PlayCount>2</PlayCount>
+    <PlayTime>19</PlayTime>
+    <Portable>false</Portable>
+    <Hide>false</Hide>
+    <Broken>false</Broken>
+    <CloneOf />
+    <Genre>Racing</Genre>
+    <MissingVideo>true</MissingVideo>
+    <MissingBoxFrontImage>false</MissingBoxFrontImage>
+    <MissingScreenshotImage>false</MissingScreenshotImage>
+    <MissingMarqueeImage>false</MissingMarqueeImage>
+    <MissingClearLogoImage>false</MissingClearLogoImage>
+    <MissingBackgroundImage>false</MissingBackgroundImage>
+    <MissingBox3dImage>false</MissingBox3dImage>
+    <MissingCartImage>false</MissingCartImage>
+    <MissingCart3dImage>false</MissingCart3dImage>
+    <MissingManual>true</MissingManual>
+    <MissingBannerImage>false</MissingBannerImage>
+    <MissingMusic>true</MissingMusic>
+    <UseStartupScreen>false</UseStartupScreen>
+    <HideAllNonExclusiveFullscreenWindows>false</HideAllNonExclusiveFullscreenWindows>
+    <StartupLoadDelay>0</StartupLoadDelay>
+    <HideMouseCursorInGame>false</HideMouseCursorInGame>
+    <DisableShutdownScreen>false</DisableShutdownScreen>
+    <AggressiveWindowHiding>false</AggressiveWindowHiding>
+    <OverrideDefaultStartupScreenSettings>false</OverrideDefaultStartupScreenSettings>
+    <UsePauseScreen>false</UsePauseScreen>
+    <PauseAutoHotkeyScript />
+    <ResumeAutoHotkeyScript />
+    <OverrideDefaultPauseScreenSettings>false</OverrideDefaultPauseScreenSettings>
+    <SuspendProcessOnPause>false</SuspendProcessOnPause>
+    <ForcefulPauseScreenActivation>false</ForcefulPauseScreenActivation>
+    <LoadStateAutoHotkeyScript />
+    <SaveStateAutoHotkeyScript />
+    <ResetAutoHotkeyScript />
+    <SwapDiscsAutoHotkeyScript />
+    <CustomDosBoxVersionPath />
+    <ReleaseType>Released</ReleaseType>
+    <MaxPlayers>1</MaxPlayers>
+    <VideoUrl>https://www.youtube.com/watch?v=4IzD0sJcRCE</VideoUrl>
+    <AndroidBoxFrontThumbPath />
+    <AndroidBoxFrontFullPath />
+    <AndroidClearLogoThumbPath />
+    <AndroidClearLogoFullPath />
+    <AndroidBackgroundPath />
+    <AndroidBackgroundThumbPath />
+    <AndroidGameTitleScreenshotThumbPath />
+    <AndroidGameplayScreenshotThumbPath />
+    <AndroidGameTitleScreenshotPath />
+    <AndroidGameplayScreenshotPath />
+    <AndroidVideoPath />
+    <HasCloudSynced>false</HasCloudSynced>
+  </Game>
+  <Game>
+    <GogAppId />
+    <OriginAppId />
+    <OriginInstallPath />
+    <VideoPath />
+    <ThemeVideoPath />
+    <ApplicationPath>R:\ROMS-Arcade\Sega Naomi 2\vstrik3.zip</ApplicationPath>
+    <CommandLine />
+    <Completed>false</Completed>
+    <ConfigurationCommandLine />
+    <ConfigurationPath />
+    <DateAdded>2023-06-07T22:11:58.5212366+08:00</DateAdded>
+    <DateModified>2024-02-22T01:09:12.9704821+08:00</DateModified>
+    <Developer>Amusement Vision</Developer>
+    <DosBoxConfigurationPath />
+    <Emulator>9c584e20-f670-433c-81e0-6b7f3c178958</Emulator>
+    <Favorite>false</Favorite>
+    <ID>e41c621c-e0d5-4354-b725-36ea733050ba</ID>
+    <ManualPath />
+    <MusicPath />
+    <Notes>The Virtua Striker soccer series returns for a 3rd installment and is now powered by the Naomi 2 GD ROM hardware . This installment provides even more realism than ever, thanks to a graphics upgrade and improvements in players' controls.
+
+Virtua Striker 3 is based on the 2002 World Cup. The same 32 countries making up the field for WC02 are in the game, including the 1998 champion France and the team that will host the WC02 Japan and Korea. Players now have improved ball maneuverability increasing character movements an astonishing 10 times, allowing them to side step, back flip and step over the ball, as well as perform sharper turns and tackle more accurately. But beware! VS3 sees introduction of official World Cup rules including Yellow Cards, Red Cards, and off-sides. So violent tackles are met with either a yellow or red card, which can lead to a player being sent off.
+
+Team tactics and strategy get a reworks as well with one-on-one, team interaction, and player positioning being the major improvements resulting in action that almost looks real. The speed of the game has also been increased to allow faster game play with less stoppage to improve the flow of the game.</Notes>
+    <Platform>Sega Naomi 2</Platform>
+    <Publisher>Sega</Publisher>
+    <Rating>Not Rated</Rating>
+    <ReleaseDate>2004-01-01T00:00:00+08:00</ReleaseDate>
+    <RootFolder />
+    <ScummVMAspectCorrection>true</ScummVMAspectCorrection>
+    <ScummVMFullscreen>true</ScummVMFullscreen>
+    <ScummVMGameDataFolderPath />
+    <ScummVMGameType />
+    <SortTitle />
+    <Source />
+    <StarRatingFloat>0</StarRatingFloat>
+    <StarRating>0</StarRating>
+    <CommunityStarRating>3.837838</CommunityStarRating>
+    <CommunityStarRatingTotalVotes>37</CommunityStarRatingTotalVotes>
+    <Status />
+    <DatabaseID>152547</DatabaseID>
+    <WikipediaURL>https://en.wikipedia.org/wiki/Virtua_Striker</WikipediaURL>
+    <Title>Virtua Striker 3</Title>
+    <UseDosBox>false</UseDosBox>
+    <UseScummVM>false</UseScummVM>
+    <Version>(GDS-0006)</Version>
+    <Series />
+    <PlayMode>Multiplayer</PlayMode>
+    <Region>North America</Region>
+    <PlayCount>0</PlayCount>
+    <PlayTime>0</PlayTime>
+    <Portable>false</Portable>
+    <Hide>false</Hide>
+    <Broken>false</Broken>
+    <CloneOf />
+    <Genre>Sports</Genre>
+    <MissingVideo>true</MissingVideo>
+    <MissingBoxFrontImage>false</MissingBoxFrontImage>
+    <MissingScreenshotImage>false</MissingScreenshotImage>
+    <MissingMarqueeImage>false</MissingMarqueeImage>
+    <MissingClearLogoImage>false</MissingClearLogoImage>
+    <MissingBackgroundImage>true</MissingBackgroundImage>
+    <MissingBox3dImage>false</MissingBox3dImage>
+    <MissingCartImage>false</MissingCartImage>
+    <MissingCart3dImage>false</MissingCart3dImage>
+    <MissingManual>true</MissingManual>
+    <MissingBannerImage>false</MissingBannerImage>
+    <MissingMusic>true</MissingMusic>
+    <UseStartupScreen>false</UseStartupScreen>
+    <HideAllNonExclusiveFullscreenWindows>false</HideAllNonExclusiveFullscreenWindows>
+    <StartupLoadDelay>0</StartupLoadDelay>
+    <HideMouseCursorInGame>false</HideMouseCursorInGame>
+    <DisableShutdownScreen>false</DisableShutdownScreen>
+    <AggressiveWindowHiding>false</AggressiveWindowHiding>
+    <OverrideDefaultStartupScreenSettings>false</OverrideDefaultStartupScreenSettings>
+    <UsePauseScreen>false</UsePauseScreen>
+    <PauseAutoHotkeyScript />
+    <ResumeAutoHotkeyScript />
+    <OverrideDefaultPauseScreenSettings>false</OverrideDefaultPauseScreenSettings>
+    <SuspendProcessOnPause>false</SuspendProcessOnPause>
+    <ForcefulPauseScreenActivation>false</ForcefulPauseScreenActivation>
+    <LoadStateAutoHotkeyScript />
+    <SaveStateAutoHotkeyScript />
+    <ResetAutoHotkeyScript />
+    <SwapDiscsAutoHotkeyScript />
+    <CustomDosBoxVersionPath />
+    <ReleaseType>Released</ReleaseType>
+    <MaxPlayers>2</MaxPlayers>
+    <VideoUrl>https://www.youtube.com/watch?v=02gh8UPWOIk</VideoUrl>
+    <AndroidBoxFrontThumbPath />
+    <AndroidBoxFrontFullPath />
+    <AndroidClearLogoThumbPath />
+    <AndroidClearLogoFullPath />
+    <AndroidBackgroundPath />
+    <AndroidBackgroundThumbPath />
+    <AndroidGameTitleScreenshotThumbPath />
+    <AndroidGameplayScreenshotThumbPath />
+    <AndroidGameTitleScreenshotPath />
+    <AndroidGameplayScreenshotPath />
+    <AndroidVideoPath />
+    <HasCloudSynced>false</HasCloudSynced>
+  </Game>
+  <Game>
+    <GogAppId />
+    <OriginAppId />
+    <OriginInstallPath />
+    <VideoPath />
+    <ThemeVideoPath />
+    <ApplicationPath>R:\ROMS-Arcade\Sega Naomi 2\initdv3e.zip</ApplicationPath>
+    <CommandLine />
+    <Completed>false</Completed>
+    <ConfigurationCommandLine />
+    <ConfigurationPath />
+    <DateAdded>2023-06-07T22:11:58.4719414+08:00</DateAdded>
+    <DateModified>2024-02-22T01:10:06.9325508+08:00</DateModified>
+    <Developer>Sega Rosso</Developer>
+    <DosBoxConfigurationPath />
+    <Emulator>9c584e20-f670-433c-81e0-6b7f3c178958</Emulator>
+    <Favorite>false</Favorite>
+    <ID>5404e859-201d-475e-b71f-d6083f08809b</ID>
+    <LastPlayedDate>2023-06-07T22:41:15.9400216+08:00</LastPlayedDate>
+    <ManualPath />
+    <MusicPath />
+    <Notes>Initial D Arcade Stage Ver. 3 is an arcade car racing sequel to Initial D: Arcade Stage Ver. 2. A special version of this game was released for the Cycraft motion arcade cabinet titled Initial D: Version 3 Cycraft. The game is based on the anime and manga series Initial D. In the United States, the game series is simply known as Initial D.
+
+Several new courses in version 3 include: Akina Snow (only night), Shomaru, and Tsuchisaka. Also, new opponents in the version 3 game include Tohru Suetsugu, Atsuro Kawai, Miki, and the Tsucisaka Lan Evo team. Version 3 new cars include the Mitsubishi Lancer Evolution V, Lancer Evolution VI T.M. Edition, Mazda RX-8, and the Nissan Skyline 25GT-T. The game features original Eurobeat songs from artists including Matt Land, Powerful T., Ace Warrior, and Marco Polo.</Notes>
+    <Platform>Sega Naomi 2</Platform>
+    <Publisher>Sega</Publisher>
+    <Rating>Not Rated</Rating>
+    <ReleaseDate>2004-01-01T16:00:00+08:00</ReleaseDate>
+    <RootFolder />
+    <ScummVMAspectCorrection>true</ScummVMAspectCorrection>
+    <ScummVMFullscreen>true</ScummVMFullscreen>
+    <ScummVMGameDataFolderPath />
+    <ScummVMGameType />
+    <SortTitle />
+    <Source />
+    <StarRatingFloat>0</StarRatingFloat>
+    <StarRating>0</StarRating>
+    <CommunityStarRating>3.3333333</CommunityStarRating>
+    <CommunityStarRatingTotalVotes>27</CommunityStarRatingTotalVotes>
+    <Status />
+    <DatabaseID>152553</DatabaseID>
+    <WikipediaURL>https://en.wikipedia.org/wiki/Initial_D_Arcade_Stage</WikipediaURL>
+    <Title>Initial D Arcade Stage Ver. 3</Title>
+    <UseDosBox>false</UseDosBox>
+    <UseScummVM>false</UseScummVM>
+    <Version>(Export) (GDS-0033)</Version>
+    <Series />
+    <PlayMode>Multiplayer</PlayMode>
+    <Region>North America</Region>
+    <PlayCount>1</PlayCount>
+    <PlayTime>45</PlayTime>
+    <Portable>false</Portable>
+    <Hide>false</Hide>
+    <Broken>false</Broken>
+    <CloneOf />
+    <Genre>Racing</Genre>
+    <MissingVideo>false</MissingVideo>
+    <MissingBoxFrontImage>false</MissingBoxFrontImage>
+    <MissingScreenshotImage>false</MissingScreenshotImage>
+    <MissingMarqueeImage>true</MissingMarqueeImage>
+    <MissingClearLogoImage>false</MissingClearLogoImage>
+    <MissingBackgroundImage>true</MissingBackgroundImage>
+    <MissingBox3dImage>false</MissingBox3dImage>
+    <MissingCartImage>false</MissingCartImage>
+    <MissingCart3dImage>true</MissingCart3dImage>
+    <MissingManual>true</MissingManual>
+    <MissingBannerImage>false</MissingBannerImage>
+    <MissingMusic>true</MissingMusic>
+    <UseStartupScreen>false</UseStartupScreen>
+    <HideAllNonExclusiveFullscreenWindows>false</HideAllNonExclusiveFullscreenWindows>
+    <StartupLoadDelay>0</StartupLoadDelay>
+    <HideMouseCursorInGame>false</HideMouseCursorInGame>
+    <DisableShutdownScreen>false</DisableShutdownScreen>
+    <AggressiveWindowHiding>false</AggressiveWindowHiding>
+    <OverrideDefaultStartupScreenSettings>false</OverrideDefaultStartupScreenSettings>
+    <UsePauseScreen>false</UsePauseScreen>
+    <PauseAutoHotkeyScript />
+    <ResumeAutoHotkeyScript />
+    <OverrideDefaultPauseScreenSettings>false</OverrideDefaultPauseScreenSettings>
+    <SuspendProcessOnPause>false</SuspendProcessOnPause>
+    <ForcefulPauseScreenActivation>false</ForcefulPauseScreenActivation>
+    <LoadStateAutoHotkeyScript />
+    <SaveStateAutoHotkeyScript />
+    <ResetAutoHotkeyScript />
+    <SwapDiscsAutoHotkeyScript />
+    <CustomDosBoxVersionPath />
+    <ReleaseType>Released</ReleaseType>
+    <MaxPlayers>2</MaxPlayers>
+    <VideoUrl>https://www.youtube.com/watch?v=arV9IMgiGes</VideoUrl>
+    <AndroidBoxFrontThumbPath />
+    <AndroidBoxFrontFullPath />
+    <AndroidClearLogoThumbPath />
+    <AndroidClearLogoFullPath />
+    <AndroidBackgroundPath />
+    <AndroidBackgroundThumbPath />
+    <AndroidGameTitleScreenshotThumbPath />
+    <AndroidGameplayScreenshotThumbPath />
+    <AndroidGameTitleScreenshotPath />
+    <AndroidGameplayScreenshotPath />
+    <AndroidVideoPath />
+    <HasCloudSynced>false</HasCloudSynced>
+  </Game>
+  <Game>
+    <GogAppId />
+    <OriginAppId />
+    <OriginInstallPath />
+    <VideoPath />
+    <ThemeVideoPath />
+    <ApplicationPath>R:\ROMS-Arcade\Sega Naomi 2\initdexp.zip</ApplicationPath>
+    <CommandLine />
+    <Completed>false</Completed>
+    <ConfigurationCommandLine />
+    <ConfigurationPath />
+    <DateAdded>2023-06-07T22:18:37.3625606+08:00</DateAdded>
+    <DateModified>2024-02-22T01:09:12.9653627+08:00</DateModified>
+    <Developer>Sega Rosso</Developer>
+    <DosBoxConfigurationPath />
+    <Emulator>9c584e20-f670-433c-81e0-6b7f3c178958</Emulator>
+    <Favorite>false</Favorite>
+    <ID>b8fa37d0-8976-4d4d-b6ea-643230787375</ID>
+    <ManualPath />
+    <MusicPath />
+    <Notes>Initial D Arcade Stage (イニシャルD アーケード ステージ) (commonly referred to as IDAS, followed by a version number) is a racing game series developed by Sega, based on the anime and manga Initial D. In the U.S. and Europe, the games, which keep their version names in later entries, are otherwise known as simply "Initial D" without the "Arcade Stage" subtitle.</Notes>
+    <Platform>Sega Naomi 2</Platform>
+    <Publisher>Sega</Publisher>
+    <Rating>Not Rated</Rating>
+    <ReleaseDate>2002-01-01T00:00:00+08:00</ReleaseDate>
+    <RootFolder />
+    <ScummVMAspectCorrection>true</ScummVMAspectCorrection>
+    <ScummVMFullscreen>true</ScummVMFullscreen>
+    <ScummVMGameDataFolderPath />
+    <ScummVMGameType />
+    <SortTitle />
+    <Source />
+    <StarRatingFloat>0</StarRatingFloat>
+    <StarRating>0</StarRating>
+    <CommunityStarRating>4.0735292</CommunityStarRating>
+    <CommunityStarRatingTotalVotes>34</CommunityStarRatingTotalVotes>
+    <Status>Imported ROM</Status>
+    <DatabaseID>152551</DatabaseID>
+    <WikipediaURL>https://en.wikipedia.org/wiki/Initial_D_Arcade_Stage</WikipediaURL>
+    <Title>Initial D Arcade Stage</Title>
+    <UseDosBox>false</UseDosBox>
+    <UseScummVM>false</UseScummVM>
+    <Version />
+    <Series />
+    <PlayMode>Single Player</PlayMode>
+    <Region />
+    <PlayCount>0</PlayCount>
+    <PlayTime>0</PlayTime>
+    <Portable>false</Portable>
+    <Hide>false</Hide>
+    <Broken>false</Broken>
+    <CloneOf />
+    <Genre>Racing</Genre>
+    <MissingVideo>false</MissingVideo>
+    <MissingBoxFrontImage>false</MissingBoxFrontImage>
+    <MissingScreenshotImage>false</MissingScreenshotImage>
+    <MissingMarqueeImage>false</MissingMarqueeImage>
+    <MissingClearLogoImage>false</MissingClearLogoImage>
+    <MissingBackgroundImage>false</MissingBackgroundImage>
+    <MissingBox3dImage>false</MissingBox3dImage>
+    <MissingCartImage>false</MissingCartImage>
+    <MissingCart3dImage>true</MissingCart3dImage>
+    <MissingManual>true</MissingManual>
+    <MissingBannerImage>false</MissingBannerImage>
+    <MissingMusic>true</MissingMusic>
+    <UseStartupScreen>false</UseStartupScreen>
+    <HideAllNonExclusiveFullscreenWindows>false</HideAllNonExclusiveFullscreenWindows>
+    <StartupLoadDelay>0</StartupLoadDelay>
+    <HideMouseCursorInGame>false</HideMouseCursorInGame>
+    <DisableShutdownScreen>false</DisableShutdownScreen>
+    <AggressiveWindowHiding>false</AggressiveWindowHiding>
+    <OverrideDefaultStartupScreenSettings>false</OverrideDefaultStartupScreenSettings>
+    <UsePauseScreen>false</UsePauseScreen>
+    <PauseAutoHotkeyScript />
+    <ResumeAutoHotkeyScript />
+    <OverrideDefaultPauseScreenSettings>false</OverrideDefaultPauseScreenSettings>
+    <SuspendProcessOnPause>false</SuspendProcessOnPause>
+    <ForcefulPauseScreenActivation>false</ForcefulPauseScreenActivation>
+    <LoadStateAutoHotkeyScript />
+    <SaveStateAutoHotkeyScript />
+    <ResetAutoHotkeyScript />
+    <SwapDiscsAutoHotkeyScript />
+    <CustomDosBoxVersionPath />
+    <ReleaseType>Released</ReleaseType>
+    <MaxPlayers>1</MaxPlayers>
+    <VideoUrl />
+    <AndroidBoxFrontThumbPath />
+    <AndroidBoxFrontFullPath />
+    <AndroidClearLogoThumbPath />
+    <AndroidClearLogoFullPath />
+    <AndroidBackgroundPath />
+    <AndroidBackgroundThumbPath />
+    <AndroidGameTitleScreenshotThumbPath />
+    <AndroidGameplayScreenshotThumbPath />
+    <AndroidGameTitleScreenshotPath />
+    <AndroidGameplayScreenshotPath />
+    <AndroidVideoPath />
+    <HasCloudSynced>false</HasCloudSynced>
+  </Game>
+  <Game>
+    <GogAppId />
+    <OriginAppId />
+    <OriginInstallPath />
+    <VideoPath />
+    <ThemeVideoPath />
+    <ApplicationPath>R:\ROMS-Arcade\Sega Naomi 2\soulsurf.zip</ApplicationPath>
+    <CommandLine />
+    <Completed>false</Completed>
+    <ConfigurationCommandLine />
+    <ConfigurationPath />
+    <DateAdded>2023-06-07T22:11:58.5099097+08:00</DateAdded>
+    <DateModified>2024-02-22T01:09:12.9688605+08:00</DateModified>
+    <Developer>Sega Rosso</Developer>
+    <DosBoxConfigurationPath />
+    <Emulator>9c584e20-f670-433c-81e0-6b7f3c178958</Emulator>
+    <Favorite>false</Favorite>
+    <ID>7510ea72-9626-4c13-86c3-18a89abc3d81</ID>
+    <ManualPath />
+    <MusicPath />
+    <Notes>Soul Surfer was produced by Sega in 2002.
+
+An interactive surfing game where the player uses a real surfboard to have his or her character ride large on-screen waves.</Notes>
+    <Platform>Sega Naomi 2</Platform>
+    <Publisher>Sega</Publisher>
+    <Rating>Not Rated</Rating>
+    <ReleaseDate>2002-07-01T15:00:00+08:00</ReleaseDate>
+    <RootFolder />
+    <ScummVMAspectCorrection>false</ScummVMAspectCorrection>
+    <ScummVMFullscreen>false</ScummVMFullscreen>
+    <ScummVMGameDataFolderPath />
+    <ScummVMGameType />
+    <SortTitle />
+    <Source />
+    <StarRatingFloat>0</StarRatingFloat>
+    <StarRating>0</StarRating>
+    <CommunityStarRating>3.3214285</CommunityStarRating>
+    <CommunityStarRatingTotalVotes>28</CommunityStarRatingTotalVotes>
+    <Status />
+    <DatabaseID>152544</DatabaseID>
+    <WikipediaURL />
+    <Title>Soul Surfer</Title>
+    <UseDosBox>false</UseDosBox>
+    <UseScummVM>false</UseScummVM>
+    <Version />
+    <Series />
+    <PlayMode>Single Player</PlayMode>
+    <Region />
+    <PlayCount>0</PlayCount>
+    <PlayTime>0</PlayTime>
+    <Portable>false</Portable>
+    <Hide>false</Hide>
+    <Broken>false</Broken>
+    <CloneOf />
+    <Genre>Sports</Genre>
+    <MissingVideo>false</MissingVideo>
+    <MissingBoxFrontImage>false</MissingBoxFrontImage>
+    <MissingScreenshotImage>false</MissingScreenshotImage>
+    <MissingMarqueeImage>false</MissingMarqueeImage>
+    <MissingClearLogoImage>false</MissingClearLogoImage>
+    <MissingBackgroundImage>true</MissingBackgroundImage>
+    <MissingBox3dImage>false</MissingBox3dImage>
+    <MissingCartImage>false</MissingCartImage>
+    <MissingCart3dImage>false</MissingCart3dImage>
+    <MissingManual>true</MissingManual>
+    <MissingBannerImage>false</MissingBannerImage>
+    <MissingMusic>true</MissingMusic>
+    <UseStartupScreen>false</UseStartupScreen>
+    <HideAllNonExclusiveFullscreenWindows>false</HideAllNonExclusiveFullscreenWindows>
+    <StartupLoadDelay>0</StartupLoadDelay>
+    <HideMouseCursorInGame>false</HideMouseCursorInGame>
+    <DisableShutdownScreen>false</DisableShutdownScreen>
+    <AggressiveWindowHiding>false</AggressiveWindowHiding>
+    <OverrideDefaultStartupScreenSettings>false</OverrideDefaultStartupScreenSettings>
+    <UsePauseScreen>false</UsePauseScreen>
+    <PauseAutoHotkeyScript />
+    <ResumeAutoHotkeyScript />
+    <OverrideDefaultPauseScreenSettings>false</OverrideDefaultPauseScreenSettings>
+    <SuspendProcessOnPause>false</SuspendProcessOnPause>
+    <ForcefulPauseScreenActivation>false</ForcefulPauseScreenActivation>
+    <LoadStateAutoHotkeyScript />
+    <SaveStateAutoHotkeyScript />
+    <ResetAutoHotkeyScript />
+    <SwapDiscsAutoHotkeyScript />
+    <CustomDosBoxVersionPath />
+    <ReleaseType>Released</ReleaseType>
+    <MaxPlayers>1</MaxPlayers>
+    <VideoUrl>https://www.youtube.com/watch?v=BTRdWKxpIJA</VideoUrl>
+    <AndroidBoxFrontThumbPath />
+    <AndroidBoxFrontFullPath />
+    <AndroidClearLogoThumbPath />
+    <AndroidClearLogoFullPath />
+    <AndroidBackgroundPath />
+    <AndroidBackgroundThumbPath />
+    <AndroidGameTitleScreenshotThumbPath />
+    <AndroidGameplayScreenshotThumbPath />
+    <AndroidGameTitleScreenshotPath />
+    <AndroidGameplayScreenshotPath />
+    <AndroidVideoPath />
+    <HasCloudSynced>false</HasCloudSynced>
+  </Game>
+  <Game>
+    <GogAppId />
+    <OriginAppId />
+    <OriginInstallPath />
+    <VideoPath />
+    <ThemeVideoPath />
+    <ApplicationPath>R:\ROMS-Arcade\Sega Naomi 2\initdv2j.zip</ApplicationPath>
+    <CommandLine />
+    <Completed>false</Completed>
+    <ConfigurationCommandLine />
+    <ConfigurationPath />
+    <DateAdded>2023-06-07T22:11:58.4653682+08:00</DateAdded>
+    <DateModified>2024-02-22T01:09:12.9653654+08:00</DateModified>
+    <Developer>Sega Rosso</Developer>
+    <DosBoxConfigurationPath />
+    <Emulator>9c584e20-f670-433c-81e0-6b7f3c178958</Emulator>
+    <Favorite>false</Favorite>
+    <ID>eb0ab37b-59f7-4e0d-be62-66788e44ab6a</ID>
+    <ManualPath />
+    <MusicPath />
+    <Notes>In Initial D Arcade Stage, is an arcade racing game series developed by Sega, based on the anime and manga series Initial D. In the United States, the game series is simply known as Initial D. Players race against different opponents through various mountain passes featured in the manga. Vehicles that are featured in the game are mostly Japanese cars, such as the Nissan Skyline GT-R, Mazda RX-7, Mitsubishi Lancer Evolution, Honda Civic, as well as the Toyota AE86. Using the optional magnetic card system, players can save a customized car as well as their progress for future sessions; otherwise, their game progress is deleted. Players can continue growth with their cards on another Initial D cabinet of the same version. However, the card must be renewed every 50 plays. 
+
+Version 2.0 adds two new courses such as Akagi, Takahashi brothers/Akagi Red Suns' home course, and Irohazaka, Emperor's home course. Released in Japan at end of 2002 and in the US in 2003.</Notes>
+    <Platform>Sega Naomi 2</Platform>
+    <Publisher>Sega</Publisher>
+    <Rating>Not Rated</Rating>
+    <ReleaseDate>2002-12-01T16:00:00+08:00</ReleaseDate>
+    <RootFolder />
+    <ScummVMAspectCorrection>false</ScummVMAspectCorrection>
+    <ScummVMFullscreen>false</ScummVMFullscreen>
+    <ScummVMGameDataFolderPath />
+    <ScummVMGameType />
+    <SortTitle />
+    <Source />
+    <StarRatingFloat>0</StarRatingFloat>
+    <StarRating>0</StarRating>
+    <CommunityStarRating>3.3023255</CommunityStarRating>
+    <CommunityStarRatingTotalVotes>43</CommunityStarRatingTotalVotes>
+    <Status />
+    <DatabaseID>152584</DatabaseID>
+    <WikipediaURL>https://en.wikipedia.org/wiki/Initial_D_Arcade_Stage#Version_2</WikipediaURL>
+    <Title>Initial D Arcade Stage Ver. 2</Title>
+    <UseDosBox>false</UseDosBox>
+    <UseScummVM>false</UseScummVM>
+    <Version />
+    <Series />
+    <PlayMode>Multiplayer</PlayMode>
+    <Region />
+    <PlayCount>0</PlayCount>
+    <PlayTime>0</PlayTime>
+    <Portable>false</Portable>
+    <Hide>false</Hide>
+    <Broken>false</Broken>
+    <CloneOf />
+    <Genre>Racing</Genre>
+    <MissingVideo>true</MissingVideo>
+    <MissingBoxFrontImage>false</MissingBoxFrontImage>
+    <MissingScreenshotImage>false</MissingScreenshotImage>
+    <MissingMarqueeImage>false</MissingMarqueeImage>
+    <MissingClearLogoImage>false</MissingClearLogoImage>
+    <MissingBackgroundImage>true</MissingBackgroundImage>
+    <MissingBox3dImage>false</MissingBox3dImage>
+    <MissingCartImage>false</MissingCartImage>
+    <MissingCart3dImage>true</MissingCart3dImage>
+    <MissingManual>true</MissingManual>
+    <MissingBannerImage>false</MissingBannerImage>
+    <MissingMusic>true</MissingMusic>
+    <UseStartupScreen>false</UseStartupScreen>
+    <HideAllNonExclusiveFullscreenWindows>false</HideAllNonExclusiveFullscreenWindows>
+    <StartupLoadDelay>0</StartupLoadDelay>
+    <HideMouseCursorInGame>false</HideMouseCursorInGame>
+    <DisableShutdownScreen>false</DisableShutdownScreen>
+    <AggressiveWindowHiding>false</AggressiveWindowHiding>
+    <OverrideDefaultStartupScreenSettings>false</OverrideDefaultStartupScreenSettings>
+    <UsePauseScreen>false</UsePauseScreen>
+    <PauseAutoHotkeyScript />
+    <ResumeAutoHotkeyScript />
+    <OverrideDefaultPauseScreenSettings>false</OverrideDefaultPauseScreenSettings>
+    <SuspendProcessOnPause>false</SuspendProcessOnPause>
+    <ForcefulPauseScreenActivation>false</ForcefulPauseScreenActivation>
+    <LoadStateAutoHotkeyScript />
+    <SaveStateAutoHotkeyScript />
+    <ResetAutoHotkeyScript />
+    <SwapDiscsAutoHotkeyScript />
+    <CustomDosBoxVersionPath />
+    <ReleaseType>Released</ReleaseType>
+    <MaxPlayers>2</MaxPlayers>
+    <VideoUrl />
+    <AndroidBoxFrontThumbPath />
+    <AndroidBoxFrontFullPath />
+    <AndroidClearLogoThumbPath />
+    <AndroidClearLogoFullPath />
+    <AndroidBackgroundPath />
+    <AndroidBackgroundThumbPath />
+    <AndroidGameTitleScreenshotThumbPath />
+    <AndroidGameplayScreenshotThumbPath />
+    <AndroidGameTitleScreenshotPath />
+    <AndroidGameplayScreenshotPath />
+    <AndroidVideoPath />
+    <HasCloudSynced>false</HasCloudSynced>
+  </Game>
+  <Game>
+    <GogAppId />
+    <OriginAppId />
+    <OriginInstallPath />
+    <VideoPath />
+    <ThemeVideoPath />
+    <ApplicationPath>R:\ROMS-Arcade\Sega Naomi 2\vf4tuned.zip</ApplicationPath>
+    <CommandLine />
+    <Completed>false</Completed>
+    <ConfigurationCommandLine />
+    <ConfigurationPath />
+    <DateAdded>2023-06-07T22:11:58.4884344+08:00</DateAdded>
+    <DateModified>2024-02-22T01:10:06.9325517+08:00</DateModified>
+    <Developer>Sega AM2</Developer>
+    <DosBoxConfigurationPath />
+    <Emulator>9c584e20-f670-433c-81e0-6b7f3c178958</Emulator>
+    <Favorite>false</Favorite>
+    <ID>1d8b3960-f989-432a-a747-080504402f2c</ID>
+    <LastPlayedDate>2023-06-07T23:38:59.8818533+08:00</LastPlayedDate>
+    <ManualPath />
+    <MusicPath />
+    <Notes>Virtua Fighter 4: Final Tuned, released July 2004, is the final update of Virtua Fighter 4. This version of the game was released only into Japanese arcades, and it made some gameplay fixes and added new stages. Also, new customization items were added.
+
+Characters:
+Akira Yuki
+Pai Chan
+Lau Chan
+Wolf Hawkfield
+Jeffry McWild
+Kage-Maru
+Sarah Bryant
+Jacky Bryant
+Dural
+Shun Di
+Lion Rafale
+Aoi Umenokoji
+Lei-Fei
+Vanessa Lewis
+Brad Burns
+Goh Hinogami</Notes>
+    <Platform>Sega Naomi 2</Platform>
+    <Publisher>Sega</Publisher>
+    <Rating>Not Rated</Rating>
+    <ReleaseDate>2004-07-01T15:00:00+08:00</ReleaseDate>
+    <RootFolder />
+    <ScummVMAspectCorrection>false</ScummVMAspectCorrection>
+    <ScummVMFullscreen>false</ScummVMFullscreen>
+    <ScummVMGameDataFolderPath />
+    <ScummVMGameType />
+    <SortTitle />
+    <Source />
+    <StarRatingFloat>0</StarRatingFloat>
+    <StarRating>0</StarRating>
+    <CommunityStarRating>4</CommunityStarRating>
+    <CommunityStarRatingTotalVotes>36</CommunityStarRatingTotalVotes>
+    <Status />
+    <DatabaseID>152546</DatabaseID>
+    <WikipediaURL>https://en.wikipedia.org/wiki/Virtua_Fighter_4#Virtua_Fighter_4:_Final_Tuned</WikipediaURL>
+    <Title>Virtua Fighter 4 Final Tuned</Title>
+    <UseDosBox>false</UseDosBox>
+    <UseScummVM>false</UseScummVM>
+    <Version />
+    <Series />
+    <PlayMode>Multiplayer</PlayMode>
+    <Region />
+    <PlayCount>1</PlayCount>
+    <PlayTime>79</PlayTime>
+    <Portable>false</Portable>
+    <Hide>false</Hide>
+    <Broken>false</Broken>
+    <CloneOf />
+    <Genre>Fighting</Genre>
+    <MissingVideo>true</MissingVideo>
+    <MissingBoxFrontImage>false</MissingBoxFrontImage>
+    <MissingScreenshotImage>false</MissingScreenshotImage>
+    <MissingMarqueeImage>true</MissingMarqueeImage>
+    <MissingClearLogoImage>false</MissingClearLogoImage>
+    <MissingBackgroundImage>true</MissingBackgroundImage>
+    <MissingBox3dImage>false</MissingBox3dImage>
+    <MissingCartImage>false</MissingCartImage>
+    <MissingCart3dImage>false</MissingCart3dImage>
+    <MissingManual>true</MissingManual>
+    <MissingBannerImage>false</MissingBannerImage>
+    <MissingMusic>true</MissingMusic>
+    <UseStartupScreen>false</UseStartupScreen>
+    <HideAllNonExclusiveFullscreenWindows>false</HideAllNonExclusiveFullscreenWindows>
+    <StartupLoadDelay>0</StartupLoadDelay>
+    <HideMouseCursorInGame>false</HideMouseCursorInGame>
+    <DisableShutdownScreen>false</DisableShutdownScreen>
+    <AggressiveWindowHiding>false</AggressiveWindowHiding>
+    <OverrideDefaultStartupScreenSettings>false</OverrideDefaultStartupScreenSettings>
+    <UsePauseScreen>false</UsePauseScreen>
+    <PauseAutoHotkeyScript />
+    <ResumeAutoHotkeyScript />
+    <OverrideDefaultPauseScreenSettings>false</OverrideDefaultPauseScreenSettings>
+    <SuspendProcessOnPause>false</SuspendProcessOnPause>
+    <ForcefulPauseScreenActivation>false</ForcefulPauseScreenActivation>
+    <LoadStateAutoHotkeyScript />
+    <SaveStateAutoHotkeyScript />
+    <ResetAutoHotkeyScript />
+    <SwapDiscsAutoHotkeyScript />
+    <CustomDosBoxVersionPath />
+    <ReleaseType>Released</ReleaseType>
+    <MaxPlayers>2</MaxPlayers>
+    <VideoUrl>http://www.youtube.com/watch?v=p9r1YqS4H7c</VideoUrl>
+    <AndroidBoxFrontThumbPath />
+    <AndroidBoxFrontFullPath />
+    <AndroidClearLogoThumbPath />
+    <AndroidClearLogoFullPath />
+    <AndroidBackgroundPath />
+    <AndroidBackgroundThumbPath />
+    <AndroidGameTitleScreenshotThumbPath />
+    <AndroidGameplayScreenshotThumbPath />
+    <AndroidGameTitleScreenshotPath />
+    <AndroidGameplayScreenshotPath />
+    <AndroidVideoPath />
+    <HasCloudSynced>true</HasCloudSynced>
+  </Game>
+  <Game>
+    <GogAppId />
+    <OriginAppId />
+    <OriginInstallPath />
+    <VideoPath />
+    <ThemeVideoPath />
+    <ApplicationPath>R:\ROMS-Arcade\Sega Naomi 2\inidv3cy.zip</ApplicationPath>
+    <CommandLine />
+    <Completed>false</Completed>
+    <ConfigurationCommandLine />
+    <ConfigurationPath />
+    <DateAdded>2023-06-07T22:11:58.4697012+08:00</DateAdded>
+    <DateModified>2024-02-22T01:09:12.9653715+08:00</DateModified>
+    <Developer>Sega Rosso</Developer>
+    <DosBoxConfigurationPath />
+    <Emulator>9c584e20-f670-433c-81e0-6b7f3c178958</Emulator>
+    <Favorite>false</Favorite>
+    <ID>c25c938d-970e-4fd4-8d11-a9d3778e3116</ID>
+    <ManualPath />
+    <MusicPath />
+    <Notes>Initial D Arcade Stage Ver. 3, known as Initial D Arcade Stage Ver. 3 (頭文字 D ARCADE STAGE Ver.3) in Japan, is an arcade sequel to Initial D: Arcade Stage Ver. 2. 
+
+A special version of this game was released for the Cycraft arcade cabinet titled Initial D: Version 3 Cycraft. The Cycraft is a special arcade cabinet developed by Simuline and Sega and released in 2003. The cabinet is a motion simulator which offers a greater degree of movement than a standard sit-down cabinet. These cabinets can be linked together for competitive multiplayer gameplay.</Notes>
+    <Platform>Sega Naomi 2</Platform>
+    <Publisher>Sega</Publisher>
+    <Rating>Not Rated</Rating>
+    <ReleaseDate>2006-01-01T00:00:00+08:00</ReleaseDate>
+    <RootFolder />
+    <ScummVMAspectCorrection>false</ScummVMAspectCorrection>
+    <ScummVMFullscreen>false</ScummVMFullscreen>
+    <ScummVMGameDataFolderPath />
+    <ScummVMGameType />
+    <SortTitle />
+    <Source />
+    <StarRatingFloat>0</StarRatingFloat>
+    <StarRating>0</StarRating>
+    <CommunityStarRating>3.2666667</CommunityStarRating>
+    <CommunityStarRatingTotalVotes>30</CommunityStarRatingTotalVotes>
+    <Status />
+    <DatabaseID>187246</DatabaseID>
+    <WikipediaURL>https://en.wikipedia.org/wiki/Initial_D_Arcade_Stage</WikipediaURL>
+    <Title>Initial D Arcade Stage Ver. 3 - Cycraft Edition</Title>
+    <UseDosBox>false</UseDosBox>
+    <UseScummVM>false</UseScummVM>
+    <Version />
+    <Series />
+    <PlayMode>Multiplayer</PlayMode>
+    <Region />
+    <PlayCount>0</PlayCount>
+    <PlayTime>0</PlayTime>
+    <Portable>false</Portable>
+    <Hide>false</Hide>
+    <Broken>false</Broken>
+    <CloneOf />
+    <Genre>Racing</Genre>
+    <MissingVideo>true</MissingVideo>
+    <MissingBoxFrontImage>false</MissingBoxFrontImage>
+    <MissingScreenshotImage>false</MissingScreenshotImage>
+    <MissingMarqueeImage>true</MissingMarqueeImage>
+    <MissingClearLogoImage>false</MissingClearLogoImage>
+    <MissingBackgroundImage>true</MissingBackgroundImage>
+    <MissingBox3dImage>false</MissingBox3dImage>
+    <MissingCartImage>true</MissingCartImage>
+    <MissingCart3dImage>true</MissingCart3dImage>
+    <MissingManual>true</MissingManual>
+    <MissingBannerImage>false</MissingBannerImage>
+    <MissingMusic>true</MissingMusic>
+    <UseStartupScreen>false</UseStartupScreen>
+    <HideAllNonExclusiveFullscreenWindows>false</HideAllNonExclusiveFullscreenWindows>
+    <StartupLoadDelay>0</StartupLoadDelay>
+    <HideMouseCursorInGame>false</HideMouseCursorInGame>
+    <DisableShutdownScreen>false</DisableShutdownScreen>
+    <AggressiveWindowHiding>false</AggressiveWindowHiding>
+    <OverrideDefaultStartupScreenSettings>false</OverrideDefaultStartupScreenSettings>
+    <UsePauseScreen>false</UsePauseScreen>
+    <PauseAutoHotkeyScript />
+    <ResumeAutoHotkeyScript />
+    <OverrideDefaultPauseScreenSettings>false</OverrideDefaultPauseScreenSettings>
+    <SuspendProcessOnPause>false</SuspendProcessOnPause>
+    <ForcefulPauseScreenActivation>false</ForcefulPauseScreenActivation>
+    <LoadStateAutoHotkeyScript />
+    <SaveStateAutoHotkeyScript />
+    <ResetAutoHotkeyScript />
+    <SwapDiscsAutoHotkeyScript />
+    <CustomDosBoxVersionPath />
+    <ReleaseType>Released</ReleaseType>
+    <MaxPlayers>2</MaxPlayers>
+    <VideoUrl>https://youtu.be/wmYmJQGj4Ro</VideoUrl>
+    <AndroidBoxFrontThumbPath />
+    <AndroidBoxFrontFullPath />
+    <AndroidClearLogoThumbPath />
+    <AndroidClearLogoFullPath />
+    <AndroidBackgroundPath />
+    <AndroidBackgroundThumbPath />
+    <AndroidGameTitleScreenshotThumbPath />
+    <AndroidGameplayScreenshotThumbPath />
+    <AndroidGameTitleScreenshotPath />
+    <AndroidGameplayScreenshotPath />
+    <AndroidVideoPath />
+    <HasCloudSynced>false</HasCloudSynced>
+  </Game>
+  <Game>
+    <GogAppId />
+    <OriginAppId />
+    <OriginInstallPath />
+    <VideoPath />
+    <ThemeVideoPath />
+    <ApplicationPath>R:\ROMS-Arcade\Sega Naomi 2\vf4evo.zip</ApplicationPath>
+    <CommandLine />
+    <Completed>false</Completed>
+    <ConfigurationCommandLine />
+    <ConfigurationPath />
+    <DateAdded>2023-06-07T22:11:58.5170803+08:00</DateAdded>
+    <DateModified>2024-02-22T01:09:12.9704494+08:00</DateModified>
+    <Developer>Sega AM2</Developer>
+    <DosBoxConfigurationPath />
+    <Emulator>9c584e20-f670-433c-81e0-6b7f3c178958</Emulator>
+    <Favorite>false</Favorite>
+    <ID>794067c1-1677-4d2b-9dd4-a9a08e86916e</ID>
+    <ManualPath />
+    <MusicPath />
+    <Notes>Virtua Fighter 4: Evolution was an updated version of Virtua Fighter 4. The game introduced two new characters and adjusted every other character as well. The two new characters were the Judoka-assassin Goh Hinogami and the Muay Thai boxer Brad Burns. With the addition of Brad Burns, Vanessa Lewis's alternate Muay Thai style from Virtua Fighter 4 was removed and replaced with a Vale Tudo "Offensive" style; making her a solely Vale Tudo brawler. In the US, the PlayStation 2 version was only released as part of the Greatest Hits budget range.
+
+All of the stages were adjusted. For example, Lei-Fei's stage in Virtua Fighter 4 previously took place during sunset, in Evolution it takes place during the morning.
+
+Features:
+Improved graphics: better anti-aliasing.
+New item store in Quest Mode.
+Currency system in Quest Mode.
+Opponent tracking log in Quest Mode: kept track of which opponents were fought in Quest Mode.
+Increased number of character items.
+Improved ranking system.
+Special gameplay modes (i.e. Hyper Fighter, See-Saw, Wrestler's, etc.).
+Emblem collecting: placed special incentive to defeat certain opponents or to avoid being defeated by certain opponents.
+New ring type; Semi-open/semi-walled.
+In Quest Mode, one of the tournaments is called the Sonic Cup. Its logo shows Sonic surrounded by rings.
+In the US, Virtua Fighter 4: Evolution for PlayStation 2 also included Virtua Fighter 10th Anniversary as a bonus.</Notes>
+    <Platform>Sega Naomi 2</Platform>
+    <Publisher>Sega</Publisher>
+    <Rating>Not Rated</Rating>
+    <ReleaseDate>2002-08-07T15:00:00+08:00</ReleaseDate>
+    <RootFolder />
+    <ScummVMAspectCorrection>true</ScummVMAspectCorrection>
+    <ScummVMFullscreen>true</ScummVMFullscreen>
+    <ScummVMGameDataFolderPath />
+    <ScummVMGameType />
+    <SortTitle />
+    <Source />
+    <StarRatingFloat>0</StarRatingFloat>
+    <StarRating>0</StarRating>
+    <CommunityStarRating>3.875</CommunityStarRating>
+    <CommunityStarRatingTotalVotes>28</CommunityStarRatingTotalVotes>
+    <Status />
+    <DatabaseID>152545</DatabaseID>
+    <WikipediaURL>https://en.wikipedia.org/wiki/Virtua_Fighter_4</WikipediaURL>
+    <Title>Virtua Fighter 4 Evolution</Title>
+    <UseDosBox>false</UseDosBox>
+    <UseScummVM>false</UseScummVM>
+    <Version>(Version B) (Japan) (GDS-0024C)</Version>
+    <Series />
+    <PlayMode>Multiplayer</PlayMode>
+    <Region>Japan</Region>
+    <PlayCount>0</PlayCount>
+    <PlayTime>0</PlayTime>
+    <Portable>false</Portable>
+    <Hide>false</Hide>
+    <Broken>false</Broken>
+    <CloneOf />
+    <Genre>Fighting</Genre>
+    <MissingVideo>false</MissingVideo>
+    <MissingBoxFrontImage>false</MissingBoxFrontImage>
+    <MissingScreenshotImage>false</MissingScreenshotImage>
+    <MissingMarqueeImage>false</MissingMarqueeImage>
+    <MissingClearLogoImage>false</MissingClearLogoImage>
+    <MissingBackgroundImage>true</MissingBackgroundImage>
+    <MissingBox3dImage>false</MissingBox3dImage>
+    <MissingCartImage>false</MissingCartImage>
+    <MissingCart3dImage>false</MissingCart3dImage>
+    <MissingManual>true</MissingManual>
+    <MissingBannerImage>false</MissingBannerImage>
+    <MissingMusic>true</MissingMusic>
+    <UseStartupScreen>false</UseStartupScreen>
+    <HideAllNonExclusiveFullscreenWindows>false</HideAllNonExclusiveFullscreenWindows>
+    <StartupLoadDelay>0</StartupLoadDelay>
+    <HideMouseCursorInGame>false</HideMouseCursorInGame>
+    <DisableShutdownScreen>false</DisableShutdownScreen>
+    <AggressiveWindowHiding>false</AggressiveWindowHiding>
+    <OverrideDefaultStartupScreenSettings>false</OverrideDefaultStartupScreenSettings>
+    <UsePauseScreen>false</UsePauseScreen>
+    <PauseAutoHotkeyScript />
+    <ResumeAutoHotkeyScript />
+    <OverrideDefaultPauseScreenSettings>false</OverrideDefaultPauseScreenSettings>
+    <SuspendProcessOnPause>false</SuspendProcessOnPause>
+    <ForcefulPauseScreenActivation>false</ForcefulPauseScreenActivation>
+    <LoadStateAutoHotkeyScript />
+    <SaveStateAutoHotkeyScript />
+    <ResetAutoHotkeyScript />
+    <SwapDiscsAutoHotkeyScript />
+    <CustomDosBoxVersionPath />
+    <ReleaseType>Released</ReleaseType>
+    <MaxPlayers>2</MaxPlayers>
+    <VideoUrl>https://www.youtube.com/watch?v=sxpHFzKU_3k</VideoUrl>
+    <AndroidBoxFrontThumbPath />
+    <AndroidBoxFrontFullPath />
+    <AndroidClearLogoThumbPath />
+    <AndroidClearLogoFullPath />
+    <AndroidBackgroundPath />
+    <AndroidBackgroundThumbPath />
+    <AndroidGameTitleScreenshotThumbPath />
+    <AndroidGameplayScreenshotThumbPath />
+    <AndroidGameTitleScreenshotPath />
+    <AndroidGameplayScreenshotPath />
+    <AndroidVideoPath />
+    <HasCloudSynced>false</HasCloudSynced>
+  </Game>
+  <Game>
+    <GogAppId />
+    <OriginAppId />
+    <OriginInstallPath />
+    <VideoPath />
+    <ThemeVideoPath />
+    <ApplicationPath>R:\ROMS-Arcade\Sega Naomi 2\clubkprz.zip</ApplicationPath>
+    <CommandLine />
+    <Completed>false</Completed>
+    <ConfigurationCommandLine />
+    <ConfigurationPath />
+    <DateAdded>2023-06-07T22:11:58.5037227+08:00</DateAdded>
+    <DateModified>2024-02-22T01:09:12.9631105+08:00</DateModified>
+    <Developer>Sega</Developer>
+    <DosBoxConfigurationPath />
+    <Emulator>9c584e20-f670-433c-81e0-6b7f3c178958</Emulator>
+    <Favorite>false</Favorite>
+    <ID>a5f18f48-b73d-4434-b64b-83780ddea345</ID>
+    <ManualPath />
+    <MusicPath />
+    <Notes>Club Kart Prize is the kart racing game released for Sega NAOMI 2 hardware in 2003 and a sequel (or spin-off) of sorts to Club Kart: European Session. As the name suggests, this version of Club Kart will award the player with prizes depending on how well he or she plays - you collect coins during the race and these will be awarded to you at the end.
+
+Club Kart Prize only seems to have seen a limited run, and at present has only been spotted in the United Kingdom (the player collects pennies and is paid in pounds sterling). It may have released in Japan under the name clubkart THE MEDAL.</Notes>
+    <Platform>Sega Naomi 2</Platform>
+    <Publisher>Sega</Publisher>
+    <Rating>Not Rated</Rating>
+    <ReleaseDate>2003-01-01T00:00:00+08:00</ReleaseDate>
+    <RootFolder />
+    <ScummVMAspectCorrection>false</ScummVMAspectCorrection>
+    <ScummVMFullscreen>false</ScummVMFullscreen>
+    <ScummVMGameDataFolderPath />
+    <ScummVMGameType />
+    <SortTitle />
+    <Source />
+    <StarRatingFloat>0</StarRatingFloat>
+    <StarRating>0</StarRating>
+    <CommunityStarRating>3.7307692</CommunityStarRating>
+    <CommunityStarRatingTotalVotes>26</CommunityStarRatingTotalVotes>
+    <Status />
+    <DatabaseID>36060</DatabaseID>
+    <WikipediaURL />
+    <Title>Club Kart Prize</Title>
+    <UseDosBox>false</UseDosBox>
+    <UseScummVM>false</UseScummVM>
+    <Version />
+    <Series />
+    <PlayMode>Multiplayer</PlayMode>
+    <Region />
+    <PlayCount>0</PlayCount>
+    <PlayTime>0</PlayTime>
+    <Portable>false</Portable>
+    <Hide>false</Hide>
+    <Broken>false</Broken>
+    <CloneOf />
+    <Genre>Racing</Genre>
+    <MissingVideo>true</MissingVideo>
+    <MissingBoxFrontImage>true</MissingBoxFrontImage>
+    <MissingScreenshotImage>false</MissingScreenshotImage>
+    <MissingMarqueeImage>true</MissingMarqueeImage>
+    <MissingClearLogoImage>false</MissingClearLogoImage>
+    <MissingBackgroundImage>true</MissingBackgroundImage>
+    <MissingBox3dImage>false</MissingBox3dImage>
+    <MissingCartImage>true</MissingCartImage>
+    <MissingCart3dImage>true</MissingCart3dImage>
+    <MissingManual>true</MissingManual>
+    <MissingBannerImage>false</MissingBannerImage>
+    <MissingMusic>true</MissingMusic>
+    <UseStartupScreen>false</UseStartupScreen>
+    <HideAllNonExclusiveFullscreenWindows>false</HideAllNonExclusiveFullscreenWindows>
+    <StartupLoadDelay>0</StartupLoadDelay>
+    <HideMouseCursorInGame>false</HideMouseCursorInGame>
+    <DisableShutdownScreen>false</DisableShutdownScreen>
+    <AggressiveWindowHiding>false</AggressiveWindowHiding>
+    <OverrideDefaultStartupScreenSettings>false</OverrideDefaultStartupScreenSettings>
+    <UsePauseScreen>false</UsePauseScreen>
+    <PauseAutoHotkeyScript />
+    <ResumeAutoHotkeyScript />
+    <OverrideDefaultPauseScreenSettings>false</OverrideDefaultPauseScreenSettings>
+    <SuspendProcessOnPause>false</SuspendProcessOnPause>
+    <ForcefulPauseScreenActivation>false</ForcefulPauseScreenActivation>
+    <LoadStateAutoHotkeyScript />
+    <SaveStateAutoHotkeyScript />
+    <ResetAutoHotkeyScript />
+    <SwapDiscsAutoHotkeyScript />
+    <CustomDosBoxVersionPath />
+    <ReleaseType>Released</ReleaseType>
+    <MaxPlayers>2</MaxPlayers>
+    <VideoUrl>https://www.youtube.com/watch?v=9qr819AUqy0</VideoUrl>
+    <AndroidBoxFrontThumbPath />
+    <AndroidBoxFrontFullPath />
+    <AndroidClearLogoThumbPath />
+    <AndroidClearLogoFullPath />
+    <AndroidBackgroundPath />
+    <AndroidBackgroundThumbPath />
+    <AndroidGameTitleScreenshotThumbPath />
+    <AndroidGameplayScreenshotThumbPath />
+    <AndroidGameTitleScreenshotPath />
+    <AndroidGameplayScreenshotPath />
+    <AndroidVideoPath />
+    <HasCloudSynced>false</HasCloudSynced>
+  </Game>
+  <AdditionalApplication>
+    <GogAppId />
+    <OriginAppId />
+    <OriginInstallPath />
+    <Id>16dc82ee-9d07-4727-8d55-3ab4d4d547e3</Id>
+    <PlayCount>0</PlayCount>
+    <PlayTime>0</PlayTime>
+    <GameID>2c7e36ba-3cb9-4ddc-aa36-d39f845186bc</GameID>
+    <ApplicationPath>C:\Programs\LaunchBox\Add-On\CPWizard-master\bin\Release\CPWizard.exe</ApplicationPath>
+    <AutoRunAfter>false</AutoRunAfter>
+    <AutoRunBefore>true</AutoRunBefore>
+    <CommandLine>-emu mame -minimized -show -game</CommandLine>
+    <Name>-emu mame -minimized -show -game</Name>
+    <UseDosBox>false</UseDosBox>
+    <UseEmulator>false</UseEmulator>
+    <WaitForExit>true</WaitForExit>
+    <Developer />
+    <Publisher />
+    <Region />
+    <Version />
+    <Status />
+    <EmulatorId />
+    <SideA>false</SideA>
+    <SideB>false</SideB>
+    <Priority>0</Priority>
+    <HasCloudSynced>false</HasCloudSynced>
+  </AdditionalApplication>
+  <AdditionalApplication>
+    <GogAppId />
+    <OriginAppId />
+    <OriginInstallPath />
+    <Id>f06c4eec-f793-44d5-a963-ba727e17177b</Id>
+    <PlayCount>0</PlayCount>
+    <PlayTime>0</PlayTime>
+    <GameID>2c7e36ba-3cb9-4ddc-aa36-d39f845186bc</GameID>
+    <ApplicationPath>C:\Programs\LaunchBox\Add-On\CPWizard-master\bin\Release\CPWizard.exe</ApplicationPath>
+    <AutoRunAfter>false</AutoRunAfter>
+    <AutoRunBefore>true</AutoRunBefore>
+    <CommandLine>-emu mame -minimized -show -game</CommandLine>
+    <Name>CPWizard</Name>
+    <UseDosBox>false</UseDosBox>
+    <UseEmulator>false</UseEmulator>
+    <WaitForExit>true</WaitForExit>
+    <Developer />
+    <Publisher />
+    <Region />
+    <Version />
+    <Status />
+    <EmulatorId />
+    <SideA>false</SideA>
+    <SideB>false</SideB>
+    <Priority>0</Priority>
+    <HasCloudSynced>false</HasCloudSynced>
+  </AdditionalApplication>
+  <AdditionalApplication>
+    <GogAppId />
+    <OriginAppId />
+    <OriginInstallPath />
+    <Id>74047cdb-3245-44f9-b805-c2cc91bd828b</Id>
+    <PlayCount>0</PlayCount>
+    <PlayTime>0</PlayTime>
+    <GameID>2c7e36ba-3cb9-4ddc-aa36-d39f845186bc</GameID>
+    <ApplicationPath>C:\Programs\LaunchBox\Add-On\CPWizard-master\bin\Release\CPWizard.exe</ApplicationPath>
+    <AutoRunAfter>false</AutoRunAfter>
+    <AutoRunBefore>true</AutoRunBefore>
+    <CommandLine>-emu mame -minimized -show -game</CommandLine>
+    <Name>CPWizard</Name>
+    <UseDosBox>false</UseDosBox>
+    <UseEmulator>false</UseEmulator>
+    <WaitForExit>false</WaitForExit>
+    <Developer />
+    <Publisher />
+    <Region />
+    <Version />
+    <Status />
+    <EmulatorId />
+    <SideA>false</SideA>
+    <SideB>false</SideB>
+    <Priority>0</Priority>
+    <HasCloudSynced>false</HasCloudSynced>
+  </AdditionalApplication>
+  <AdditionalApplication>
+    <GogAppId />
+    <OriginAppId />
+    <OriginInstallPath />
+    <Id>911141fb-4e5e-489c-aa77-6f0c5025bfdb</Id>
+    <PlayCount>0</PlayCount>
+    <PlayTime>0</PlayTime>
+    <GameID>5b9012c5-8c57-485f-89a5-6b905c6dbffd</GameID>
+    <ApplicationPath>C:\Programs\LaunchBox\Add-On\CPWizard-master\bin\Release\CPWizard.exe</ApplicationPath>
+    <AutoRunAfter>false</AutoRunAfter>
+    <AutoRunBefore>true</AutoRunBefore>
+    <CommandLine>-emu mame -minimized -show -game</CommandLine>
+    <Name>-emu mame -minimized -show -game</Name>
+    <UseDosBox>false</UseDosBox>
+    <UseEmulator>false</UseEmulator>
+    <WaitForExit>true</WaitForExit>
+    <Developer />
+    <Publisher />
+    <Region />
+    <Version />
+    <Status />
+    <EmulatorId />
+    <SideA>false</SideA>
+    <SideB>false</SideB>
+    <Priority>0</Priority>
+    <HasCloudSynced>false</HasCloudSynced>
+  </AdditionalApplication>
+  <AdditionalApplication>
+    <GogAppId />
+    <OriginAppId />
+    <OriginInstallPath />
+    <Id>4cbd057c-d8b7-42de-bfab-e2bec7f545f9</Id>
+    <PlayCount>0</PlayCount>
+    <PlayTime>0</PlayTime>
+    <GameID>5b9012c5-8c57-485f-89a5-6b905c6dbffd</GameID>
+    <ApplicationPath>C:\Programs\LaunchBox\Add-On\CPWizard-master\bin\Release\CPWizard.exe</ApplicationPath>
+    <AutoRunAfter>false</AutoRunAfter>
+    <AutoRunBefore>true</AutoRunBefore>
+    <CommandLine>-emu mame -minimized -show -game</CommandLine>
+    <Name>CPWizard</Name>
+    <UseDosBox>false</UseDosBox>
+    <UseEmulator>false</UseEmulator>
+    <WaitForExit>true</WaitForExit>
+    <Developer />
+    <Publisher />
+    <Region />
+    <Version />
+    <Status />
+    <EmulatorId />
+    <SideA>false</SideA>
+    <SideB>false</SideB>
+    <Priority>0</Priority>
+    <HasCloudSynced>false</HasCloudSynced>
+  </AdditionalApplication>
+  <AdditionalApplication>
+    <GogAppId />
+    <OriginAppId />
+    <OriginInstallPath />
+    <Id>7498b0f1-b34b-4e3d-af01-da04a283b909</Id>
+    <PlayCount>0</PlayCount>
+    <PlayTime>0</PlayTime>
+    <GameID>5b9012c5-8c57-485f-89a5-6b905c6dbffd</GameID>
+    <ApplicationPath>C:\Programs\LaunchBox\Add-On\CPWizard-master\bin\Release\CPWizard.exe</ApplicationPath>
+    <AutoRunAfter>false</AutoRunAfter>
+    <AutoRunBefore>true</AutoRunBefore>
+    <CommandLine>-emu mame -minimized -show -game</CommandLine>
+    <Name>CPWizard</Name>
+    <UseDosBox>false</UseDosBox>
+    <UseEmulator>false</UseEmulator>
+    <WaitForExit>false</WaitForExit>
+    <Developer />
+    <Publisher />
+    <Region />
+    <Version />
+    <Status />
+    <EmulatorId />
+    <SideA>false</SideA>
+    <SideB>false</SideB>
+    <Priority>0</Priority>
+    <HasCloudSynced>false</HasCloudSynced>
+  </AdditionalApplication>
+  <AdditionalApplication>
+    <GogAppId />
+    <OriginAppId />
+    <OriginInstallPath />
+    <Id>55acc51c-b2f3-4036-858f-75e1a9e669e2</Id>
+    <PlayCount>0</PlayCount>
+    <PlayTime>0</PlayTime>
+    <GameID>7929cc3c-c2eb-4b4e-bcf4-b57e9f04ec91</GameID>
+    <ApplicationPath>C:\Programs\LaunchBox\Add-On\CPWizard-master\bin\Release\CPWizard.exe</ApplicationPath>
+    <AutoRunAfter>false</AutoRunAfter>
+    <AutoRunBefore>true</AutoRunBefore>
+    <CommandLine>-emu mame -minimized -show -game</CommandLine>
+    <Name>-emu mame -minimized -show -game</Name>
+    <UseDosBox>false</UseDosBox>
+    <UseEmulator>false</UseEmulator>
+    <WaitForExit>true</WaitForExit>
+    <Developer />
+    <Publisher />
+    <Region />
+    <Version />
+    <Status />
+    <EmulatorId />
+    <SideA>false</SideA>
+    <SideB>false</SideB>
+    <Priority>0</Priority>
+    <HasCloudSynced>false</HasCloudSynced>
+  </AdditionalApplication>
+  <AdditionalApplication>
+    <GogAppId />
+    <OriginAppId />
+    <OriginInstallPath />
+    <Id>0c09a5b7-de4d-40c0-828d-8fb56b4250d9</Id>
+    <PlayCount>0</PlayCount>
+    <PlayTime>0</PlayTime>
+    <GameID>7929cc3c-c2eb-4b4e-bcf4-b57e9f04ec91</GameID>
+    <ApplicationPath>C:\Programs\LaunchBox\Add-On\CPWizard-master\bin\Release\CPWizard.exe</ApplicationPath>
+    <AutoRunAfter>false</AutoRunAfter>
+    <AutoRunBefore>true</AutoRunBefore>
+    <CommandLine>-emu mame -minimized -show -game</CommandLine>
+    <Name>CPWizard</Name>
+    <UseDosBox>false</UseDosBox>
+    <UseEmulator>false</UseEmulator>
+    <WaitForExit>true</WaitForExit>
+    <Developer />
+    <Publisher />
+    <Region />
+    <Version />
+    <Status />
+    <EmulatorId />
+    <SideA>false</SideA>
+    <SideB>false</SideB>
+    <Priority>0</Priority>
+    <HasCloudSynced>false</HasCloudSynced>
+  </AdditionalApplication>
+  <AdditionalApplication>
+    <GogAppId />
+    <OriginAppId />
+    <OriginInstallPath />
+    <Id>deae0b59-d93c-45c9-912a-3327d3fb6805</Id>
+    <PlayCount>0</PlayCount>
+    <PlayTime>0</PlayTime>
+    <GameID>7929cc3c-c2eb-4b4e-bcf4-b57e9f04ec91</GameID>
+    <ApplicationPath>C:\Programs\LaunchBox\Add-On\CPWizard-master\bin\Release\CPWizard.exe</ApplicationPath>
+    <AutoRunAfter>false</AutoRunAfter>
+    <AutoRunBefore>true</AutoRunBefore>
+    <CommandLine>-emu mame -minimized -show -game</CommandLine>
+    <Name>CPWizard</Name>
+    <UseDosBox>false</UseDosBox>
+    <UseEmulator>false</UseEmulator>
+    <WaitForExit>false</WaitForExit>
+    <Developer />
+    <Publisher />
+    <Region />
+    <Version />
+    <Status />
+    <EmulatorId />
+    <SideA>false</SideA>
+    <SideB>false</SideB>
+    <Priority>0</Priority>
+    <HasCloudSynced>false</HasCloudSynced>
+  </AdditionalApplication>
+  <AdditionalApplication>
+    <GogAppId />
+    <OriginAppId />
+    <OriginInstallPath />
+    <Id>74af5dad-dc89-4d39-973f-f012aee0556e</Id>
+    <PlayCount>0</PlayCount>
+    <PlayTime>0</PlayTime>
+    <GameID>e0b2e649-da7c-4708-9fa9-c7680da71c0d</GameID>
+    <ApplicationPath>C:\Programs\LaunchBox\Add-On\CPWizard-master\bin\Release\CPWizard.exe</ApplicationPath>
+    <AutoRunAfter>false</AutoRunAfter>
+    <AutoRunBefore>true</AutoRunBefore>
+    <CommandLine>-emu mame -minimized -show -game</CommandLine>
+    <Name>-emu mame -minimized -show -game</Name>
+    <UseDosBox>false</UseDosBox>
+    <UseEmulator>false</UseEmulator>
+    <WaitForExit>true</WaitForExit>
+    <Developer />
+    <Publisher />
+    <Region />
+    <Version />
+    <Status />
+    <EmulatorId />
+    <SideA>false</SideA>
+    <SideB>false</SideB>
+    <Priority>0</Priority>
+    <HasCloudSynced>false</HasCloudSynced>
+  </AdditionalApplication>
+  <AdditionalApplication>
+    <GogAppId />
+    <OriginAppId />
+    <OriginInstallPath />
+    <Id>598f12de-2fb7-4ab0-98bd-730a26080ca3</Id>
+    <PlayCount>0</PlayCount>
+    <PlayTime>0</PlayTime>
+    <GameID>e0b2e649-da7c-4708-9fa9-c7680da71c0d</GameID>
+    <ApplicationPath>C:\Programs\LaunchBox\Add-On\CPWizard-master\bin\Release\CPWizard.exe</ApplicationPath>
+    <AutoRunAfter>false</AutoRunAfter>
+    <AutoRunBefore>true</AutoRunBefore>
+    <CommandLine>-emu mame -minimized -show -game</CommandLine>
+    <Name>CPWizard</Name>
+    <UseDosBox>false</UseDosBox>
+    <UseEmulator>false</UseEmulator>
+    <WaitForExit>true</WaitForExit>
+    <Developer />
+    <Publisher />
+    <Region />
+    <Version />
+    <Status />
+    <EmulatorId />
+    <SideA>false</SideA>
+    <SideB>false</SideB>
+    <Priority>0</Priority>
+    <HasCloudSynced>false</HasCloudSynced>
+  </AdditionalApplication>
+  <AdditionalApplication>
+    <GogAppId />
+    <OriginAppId />
+    <OriginInstallPath />
+    <Id>43ecfe6b-d0c0-4bde-baa1-5ffc1bc6501f</Id>
+    <PlayCount>0</PlayCount>
+    <PlayTime>0</PlayTime>
+    <GameID>e0b2e649-da7c-4708-9fa9-c7680da71c0d</GameID>
+    <ApplicationPath>C:\Programs\LaunchBox\Add-On\CPWizard-master\bin\Release\CPWizard.exe</ApplicationPath>
+    <AutoRunAfter>false</AutoRunAfter>
+    <AutoRunBefore>true</AutoRunBefore>
+    <CommandLine>-emu mame -minimized -show -game</CommandLine>
+    <Name>CPWizard</Name>
+    <UseDosBox>false</UseDosBox>
+    <UseEmulator>false</UseEmulator>
+    <WaitForExit>false</WaitForExit>
+    <Developer />
+    <Publisher />
+    <Region />
+    <Version />
+    <Status />
+    <EmulatorId />
+    <SideA>false</SideA>
+    <SideB>false</SideB>
+    <Priority>0</Priority>
+    <HasCloudSynced>false</HasCloudSynced>
+  </AdditionalApplication>
+  <AdditionalApplication>
+    <GogAppId />
+    <OriginAppId />
+    <OriginInstallPath />
+    <Id>22deb257-2c59-4f56-aafd-12e74ff1b9fa</Id>
+    <PlayCount>0</PlayCount>
+    <PlayTime>0</PlayTime>
+    <GameID>65aea5f5-0af1-40be-8d5d-0e565fc625d5</GameID>
+    <ApplicationPath>C:\Programs\LaunchBox\Add-On\CPWizard-master\bin\Release\CPWizard.exe</ApplicationPath>
+    <AutoRunAfter>false</AutoRunAfter>
+    <AutoRunBefore>true</AutoRunBefore>
+    <CommandLine>-emu mame -minimized -show -game</CommandLine>
+    <Name>-emu mame -minimized -show -game</Name>
+    <UseDosBox>false</UseDosBox>
+    <UseEmulator>false</UseEmulator>
+    <WaitForExit>true</WaitForExit>
+    <Developer />
+    <Publisher />
+    <Region />
+    <Version />
+    <Status />
+    <EmulatorId />
+    <SideA>false</SideA>
+    <SideB>false</SideB>
+    <Priority>0</Priority>
+    <HasCloudSynced>false</HasCloudSynced>
+  </AdditionalApplication>
+  <AdditionalApplication>
+    <GogAppId />
+    <OriginAppId />
+    <OriginInstallPath />
+    <Id>33dfcbf4-e4c5-4938-8a01-7033ab0d4df4</Id>
+    <PlayCount>0</PlayCount>
+    <PlayTime>0</PlayTime>
+    <GameID>65aea5f5-0af1-40be-8d5d-0e565fc625d5</GameID>
+    <ApplicationPath>C:\Programs\LaunchBox\Add-On\CPWizard-master\bin\Release\CPWizard.exe</ApplicationPath>
+    <AutoRunAfter>false</AutoRunAfter>
+    <AutoRunBefore>true</AutoRunBefore>
+    <CommandLine>-emu mame -minimized -show -game</CommandLine>
+    <Name>CPWizard</Name>
+    <UseDosBox>false</UseDosBox>
+    <UseEmulator>false</UseEmulator>
+    <WaitForExit>true</WaitForExit>
+    <Developer />
+    <Publisher />
+    <Region />
+    <Version />
+    <Status />
+    <EmulatorId />
+    <SideA>false</SideA>
+    <SideB>false</SideB>
+    <Priority>0</Priority>
+    <HasCloudSynced>false</HasCloudSynced>
+  </AdditionalApplication>
+  <AdditionalApplication>
+    <GogAppId />
+    <OriginAppId />
+    <OriginInstallPath />
+    <Id>9a043014-2a44-4303-80be-1a582ce2e1ae</Id>
+    <PlayCount>0</PlayCount>
+    <PlayTime>0</PlayTime>
+    <GameID>65aea5f5-0af1-40be-8d5d-0e565fc625d5</GameID>
+    <ApplicationPath>C:\Programs\LaunchBox\Add-On\CPWizard-master\bin\Release\CPWizard.exe</ApplicationPath>
+    <AutoRunAfter>false</AutoRunAfter>
+    <AutoRunBefore>true</AutoRunBefore>
+    <CommandLine>-emu mame -minimized -show -game</CommandLine>
+    <Name>CPWizard</Name>
+    <UseDosBox>false</UseDosBox>
+    <UseEmulator>false</UseEmulator>
+    <WaitForExit>false</WaitForExit>
+    <Developer />
+    <Publisher />
+    <Region />
+    <Version />
+    <Status />
+    <EmulatorId />
+    <SideA>false</SideA>
+    <SideB>false</SideB>
+    <Priority>0</Priority>
+    <HasCloudSynced>false</HasCloudSynced>
+  </AdditionalApplication>
+  <AdditionalApplication>
+    <GogAppId />
+    <OriginAppId />
+    <OriginInstallPath />
+    <Id>1b49b35c-18b1-4809-a8bc-10228cd04eb4</Id>
+    <PlayCount>0</PlayCount>
+    <PlayTime>0</PlayTime>
+    <GameID>2c114fec-a8fb-4c2e-baa0-0bf9db3fe065</GameID>
+    <ApplicationPath>C:\Programs\LaunchBox\Add-On\CPWizard-master\bin\Release\CPWizard.exe</ApplicationPath>
+    <AutoRunAfter>false</AutoRunAfter>
+    <AutoRunBefore>true</AutoRunBefore>
+    <CommandLine>-emu mame -minimized -show -game</CommandLine>
+    <Name>-emu mame -minimized -show -game</Name>
+    <UseDosBox>false</UseDosBox>
+    <UseEmulator>false</UseEmulator>
+    <WaitForExit>true</WaitForExit>
+    <Developer />
+    <Publisher />
+    <Region />
+    <Version />
+    <Status />
+    <EmulatorId />
+    <SideA>false</SideA>
+    <SideB>false</SideB>
+    <Priority>0</Priority>
+    <HasCloudSynced>false</HasCloudSynced>
+  </AdditionalApplication>
+  <AdditionalApplication>
+    <GogAppId />
+    <OriginAppId />
+    <OriginInstallPath />
+    <Id>87932e65-484f-467a-8302-d31f55037a32</Id>
+    <PlayCount>0</PlayCount>
+    <PlayTime>0</PlayTime>
+    <GameID>2c114fec-a8fb-4c2e-baa0-0bf9db3fe065</GameID>
+    <ApplicationPath>C:\Programs\LaunchBox\Add-On\CPWizard-master\bin\Release\CPWizard.exe</ApplicationPath>
+    <AutoRunAfter>false</AutoRunAfter>
+    <AutoRunBefore>true</AutoRunBefore>
+    <CommandLine>-emu mame -minimized -show -game</CommandLine>
+    <Name>CPWizard</Name>
+    <UseDosBox>false</UseDosBox>
+    <UseEmulator>false</UseEmulator>
+    <WaitForExit>true</WaitForExit>
+    <Developer />
+    <Publisher />
+    <Region />
+    <Version />
+    <Status />
+    <EmulatorId />
+    <SideA>false</SideA>
+    <SideB>false</SideB>
+    <Priority>0</Priority>
+    <HasCloudSynced>false</HasCloudSynced>
+  </AdditionalApplication>
+  <AdditionalApplication>
+    <GogAppId />
+    <OriginAppId />
+    <OriginInstallPath />
+    <Id>595d9d3c-d720-42d8-8f05-592d85c4fa9e</Id>
+    <PlayCount>0</PlayCount>
+    <PlayTime>0</PlayTime>
+    <GameID>2c114fec-a8fb-4c2e-baa0-0bf9db3fe065</GameID>
+    <ApplicationPath>C:\Programs\LaunchBox\Add-On\CPWizard-master\bin\Release\CPWizard.exe</ApplicationPath>
+    <AutoRunAfter>false</AutoRunAfter>
+    <AutoRunBefore>true</AutoRunBefore>
+    <CommandLine>-emu mame -minimized -show -game</CommandLine>
+    <Name>CPWizard</Name>
+    <UseDosBox>false</UseDosBox>
+    <UseEmulator>false</UseEmulator>
+    <WaitForExit>false</WaitForExit>
+    <Developer />
+    <Publisher />
+    <Region />
+    <Version />
+    <Status />
+    <EmulatorId />
+    <SideA>false</SideA>
+    <SideB>false</SideB>
+    <Priority>0</Priority>
+    <HasCloudSynced>false</HasCloudSynced>
+  </AdditionalApplication>
+  <AdditionalApplication>
+    <GogAppId />
+    <OriginAppId />
+    <OriginInstallPath />
+    <Id>520ddf0f-00e0-4e0b-9b07-4ac72dac210c</Id>
+    <PlayCount>0</PlayCount>
+    <PlayTime>0</PlayTime>
+    <GameID>12f630e2-ea04-475b-8b2b-8e4a9d57c483</GameID>
+    <ApplicationPath>C:\Programs\LaunchBox\Add-On\CPWizard-master\bin\Release\CPWizard.exe</ApplicationPath>
+    <AutoRunAfter>false</AutoRunAfter>
+    <AutoRunBefore>true</AutoRunBefore>
+    <CommandLine>-emu mame -minimized -show -game</CommandLine>
+    <Name>-emu mame -minimized -show -game</Name>
+    <UseDosBox>false</UseDosBox>
+    <UseEmulator>false</UseEmulator>
+    <WaitForExit>true</WaitForExit>
+    <Developer />
+    <Publisher />
+    <Region />
+    <Version />
+    <Status />
+    <EmulatorId />
+    <SideA>false</SideA>
+    <SideB>false</SideB>
+    <Priority>0</Priority>
+    <HasCloudSynced>false</HasCloudSynced>
+  </AdditionalApplication>
+  <AdditionalApplication>
+    <GogAppId />
+    <OriginAppId />
+    <OriginInstallPath />
+    <Id>2b9e11f1-9e2f-40a6-a9f2-89e924349b16</Id>
+    <PlayCount>0</PlayCount>
+    <PlayTime>0</PlayTime>
+    <GameID>12f630e2-ea04-475b-8b2b-8e4a9d57c483</GameID>
+    <ApplicationPath>C:\Programs\LaunchBox\Add-On\CPWizard-master\bin\Release\CPWizard.exe</ApplicationPath>
+    <AutoRunAfter>false</AutoRunAfter>
+    <AutoRunBefore>true</AutoRunBefore>
+    <CommandLine>-emu mame -minimized -show -game</CommandLine>
+    <Name>CPWizard</Name>
+    <UseDosBox>false</UseDosBox>
+    <UseEmulator>false</UseEmulator>
+    <WaitForExit>true</WaitForExit>
+    <Developer />
+    <Publisher />
+    <Region />
+    <Version />
+    <Status />
+    <EmulatorId />
+    <SideA>false</SideA>
+    <SideB>false</SideB>
+    <Priority>0</Priority>
+    <HasCloudSynced>false</HasCloudSynced>
+  </AdditionalApplication>
+  <AdditionalApplication>
+    <GogAppId />
+    <OriginAppId />
+    <OriginInstallPath />
+    <Id>2b1eca43-9f46-466e-938a-d8aca0cd9cbb</Id>
+    <PlayCount>0</PlayCount>
+    <PlayTime>0</PlayTime>
+    <GameID>12f630e2-ea04-475b-8b2b-8e4a9d57c483</GameID>
+    <ApplicationPath>C:\Programs\LaunchBox\Add-On\CPWizard-master\bin\Release\CPWizard.exe</ApplicationPath>
+    <AutoRunAfter>false</AutoRunAfter>
+    <AutoRunBefore>true</AutoRunBefore>
+    <CommandLine>-emu mame -minimized -show -game</CommandLine>
+    <Name>CPWizard</Name>
+    <UseDosBox>false</UseDosBox>
+    <UseEmulator>false</UseEmulator>
+    <WaitForExit>false</WaitForExit>
+    <Developer />
+    <Publisher />
+    <Region />
+    <Version />
+    <Status />
+    <EmulatorId />
+    <SideA>false</SideA>
+    <SideB>false</SideB>
+    <Priority>0</Priority>
+    <HasCloudSynced>false</HasCloudSynced>
+  </AdditionalApplication>
+  <AdditionalApplication>
+    <GogAppId />
+    <OriginAppId />
+    <OriginInstallPath />
+    <Id>284df37e-aa4a-4c9b-8717-4cce77bcf92a</Id>
+    <PlayCount>1</PlayCount>
+    <PlayTime>6</PlayTime>
+    <GameID>77acbe81-1453-4e5e-920f-d3e7f8364288</GameID>
+    <ApplicationPath>R:\ROMS-Arcade\Sega Naomi 2\clubkrt.zip</ApplicationPath>
+    <AutoRunAfter>false</AutoRunAfter>
+    <AutoRunBefore>false</AutoRunBefore>
+    <CommandLine />
+    <Name>Play (2001, Rev. D) Version...</Name>
+    <UseDosBox>false</UseDosBox>
+    <UseEmulator>true</UseEmulator>
+    <WaitForExit>false</WaitForExit>
+    <Developer />
+    <Publisher />
+    <Region />
+    <Version>clubkrt</Version>
+    <Status />
+    <LastPlayed>2023-06-07T22:13:37.4933949+08:00</LastPlayed>
+    <EmulatorId>9c584e20-f670-433c-81e0-6b7f3c178958</EmulatorId>
+    <SideA>false</SideA>
+    <SideB>false</SideB>
+    <Priority>1</Priority>
+    <HasCloudSynced>true</HasCloudSynced>
+  </AdditionalApplication>
+  <AdditionalApplication>
+    <GogAppId />
+    <OriginAppId />
+    <OriginInstallPath />
+    <Id>70377343-ffdd-447b-9344-9f6740a297f2</Id>
+    <PlayCount>2</PlayCount>
+    <PlayTime>14</PlayTime>
+    <GameID>77acbe81-1453-4e5e-920f-d3e7f8364288</GameID>
+    <ApplicationPath>R:\ROMS-Arcade\Sega Naomi 2\clubk2k3.zip</ApplicationPath>
+    <AutoRunAfter>false</AutoRunAfter>
+    <AutoRunBefore>false</AutoRunBefore>
+    <CommandLine />
+    <Name>Play (2003, Rev A) Version...</Name>
+    <UseDosBox>false</UseDosBox>
+    <UseEmulator>true</UseEmulator>
+    <WaitForExit>false</WaitForExit>
+    <Developer />
+    <Publisher />
+    <Region>North America</Region>
+    <Version>(2003, Rev A)</Version>
+    <Status />
+    <LastPlayed>2023-06-07T22:40:53.854666+08:00</LastPlayed>
+    <EmulatorId>9c584e20-f670-433c-81e0-6b7f3c178958</EmulatorId>
+    <SideA>false</SideA>
+    <SideB>false</SideB>
+    <Priority>1</Priority>
+    <HasCloudSynced>true</HasCloudSynced>
+  </AdditionalApplication>
+  <AdditionalApplication>
+    <GogAppId />
+    <OriginAppId />
+    <OriginInstallPath />
+    <Id>571d2f2a-dfcc-4bcb-91e6-adec93284a5c</Id>
+    <PlayCount>0</PlayCount>
+    <PlayTime>0</PlayTime>
+    <GameID>77acbe81-1453-4e5e-920f-d3e7f8364288</GameID>
+    <ApplicationPath>C:\Programs\LaunchBox\Add-On\CPWizard-master\bin\Release\CPWizard.exe</ApplicationPath>
+    <AutoRunAfter>false</AutoRunAfter>
+    <AutoRunBefore>true</AutoRunBefore>
+    <CommandLine>-emu mame -minimized -show -game</CommandLine>
+    <Name>-emu mame -minimized -show -game</Name>
+    <UseDosBox>false</UseDosBox>
+    <UseEmulator>false</UseEmulator>
+    <WaitForExit>true</WaitForExit>
+    <Developer />
+    <Publisher />
+    <Region />
+    <Version />
+    <Status />
+    <EmulatorId />
+    <SideA>false</SideA>
+    <SideB>false</SideB>
+    <Priority>0</Priority>
+    <HasCloudSynced>false</HasCloudSynced>
+  </AdditionalApplication>
+  <AdditionalApplication>
+    <GogAppId />
+    <OriginAppId />
+    <OriginInstallPath />
+    <Id>7b1c1b10-fab6-42ca-89ee-ea1e5d258922</Id>
+    <PlayCount>0</PlayCount>
+    <PlayTime>0</PlayTime>
+    <GameID>77acbe81-1453-4e5e-920f-d3e7f8364288</GameID>
+    <ApplicationPath>C:\Programs\LaunchBox\Add-On\CPWizard-master\bin\Release\CPWizard.exe</ApplicationPath>
+    <AutoRunAfter>false</AutoRunAfter>
+    <AutoRunBefore>true</AutoRunBefore>
+    <CommandLine>-emu mame -minimized -show -game</CommandLine>
+    <Name>CPWizard</Name>
+    <UseDosBox>false</UseDosBox>
+    <UseEmulator>false</UseEmulator>
+    <WaitForExit>true</WaitForExit>
+    <Developer />
+    <Publisher />
+    <Region />
+    <Version />
+    <Status />
+    <EmulatorId />
+    <SideA>false</SideA>
+    <SideB>false</SideB>
+    <Priority>0</Priority>
+    <HasCloudSynced>false</HasCloudSynced>
+  </AdditionalApplication>
+  <AdditionalApplication>
+    <GogAppId />
+    <OriginAppId />
+    <OriginInstallPath />
+    <Id>96a95f67-7e42-47a6-8ec0-f5511828380d</Id>
+    <PlayCount>0</PlayCount>
+    <PlayTime>0</PlayTime>
+    <GameID>77acbe81-1453-4e5e-920f-d3e7f8364288</GameID>
+    <ApplicationPath>C:\Programs\LaunchBox\Add-On\CPWizard-master\bin\Release\CPWizard.exe</ApplicationPath>
+    <AutoRunAfter>false</AutoRunAfter>
+    <AutoRunBefore>true</AutoRunBefore>
+    <CommandLine>-emu mame -minimized -show -game</CommandLine>
+    <Name>CPWizard</Name>
+    <UseDosBox>false</UseDosBox>
+    <UseEmulator>false</UseEmulator>
+    <WaitForExit>false</WaitForExit>
+    <Developer />
+    <Publisher />
+    <Region />
+    <Version />
+    <Status />
+    <EmulatorId />
+    <SideA>false</SideA>
+    <SideB>false</SideB>
+    <Priority>0</Priority>
+    <HasCloudSynced>false</HasCloudSynced>
+  </AdditionalApplication>
+  <AdditionalApplication>
+    <GogAppId />
+    <OriginAppId />
+    <OriginInstallPath />
+    <Id>64e049c1-20d0-4f4f-a9d7-4510a6d4e81f</Id>
+    <PlayCount>0</PlayCount>
+    <PlayTime>0</PlayTime>
+    <GameID>e41c621c-e0d5-4354-b725-36ea733050ba</GameID>
+    <ApplicationPath>R:\ROMS-Arcade\Sega Naomi 2\vstrik3c.zip</ApplicationPath>
+    <AutoRunAfter>false</AutoRunAfter>
+    <AutoRunBefore>false</AutoRunBefore>
+    <CommandLine />
+    <Name>Play vstrik3c Version...</Name>
+    <UseDosBox>false</UseDosBox>
+    <UseEmulator>true</UseEmulator>
+    <WaitForExit>false</WaitForExit>
+    <Developer />
+    <Publisher />
+    <Region />
+    <Version>vstrik3c</Version>
+    <Status />
+    <EmulatorId>9c584e20-f670-433c-81e0-6b7f3c178958</EmulatorId>
+    <SideA>false</SideA>
+    <SideB>false</SideB>
+    <Priority>1</Priority>
+    <HasCloudSynced>false</HasCloudSynced>
+  </AdditionalApplication>
+  <AdditionalApplication>
+    <GogAppId />
+    <OriginAppId />
+    <OriginInstallPath />
+    <Id>3a12285c-3f10-4cf6-9ab4-67ec1a28fb8d</Id>
+    <PlayCount>0</PlayCount>
+    <PlayTime>0</PlayTime>
+    <GameID>e41c621c-e0d5-4354-b725-36ea733050ba</GameID>
+    <ApplicationPath>R:\ROMS-Arcade\Sega Naomi 2\vstrik3.zip</ApplicationPath>
+    <AutoRunAfter>false</AutoRunAfter>
+    <AutoRunBefore>false</AutoRunBefore>
+    <CommandLine />
+    <Name>Play (GDS-0006) Version...</Name>
+    <UseDosBox>false</UseDosBox>
+    <UseEmulator>true</UseEmulator>
+    <WaitForExit>false</WaitForExit>
+    <Developer />
+    <Publisher />
+    <Region>North America</Region>
+    <Version>(GDS-0006)</Version>
+    <Status />
+    <EmulatorId>9c584e20-f670-433c-81e0-6b7f3c178958</EmulatorId>
+    <SideA>false</SideA>
+    <SideB>false</SideB>
+    <Priority>1</Priority>
+    <HasCloudSynced>false</HasCloudSynced>
+  </AdditionalApplication>
+  <AdditionalApplication>
+    <GogAppId />
+    <OriginAppId />
+    <OriginInstallPath />
+    <Id>2af25f1a-a9bb-4d75-8da1-0eddfade861b</Id>
+    <PlayCount>0</PlayCount>
+    <PlayTime>0</PlayTime>
+    <GameID>e41c621c-e0d5-4354-b725-36ea733050ba</GameID>
+    <ApplicationPath>C:\Programs\LaunchBox\Add-On\CPWizard-master\bin\Release\CPWizard.exe</ApplicationPath>
+    <AutoRunAfter>false</AutoRunAfter>
+    <AutoRunBefore>true</AutoRunBefore>
+    <CommandLine>-emu mame -minimized -show -game</CommandLine>
+    <Name>-emu mame -minimized -show -game</Name>
+    <UseDosBox>false</UseDosBox>
+    <UseEmulator>false</UseEmulator>
+    <WaitForExit>true</WaitForExit>
+    <Developer />
+    <Publisher />
+    <Region />
+    <Version />
+    <Status />
+    <EmulatorId />
+    <SideA>false</SideA>
+    <SideB>false</SideB>
+    <Priority>0</Priority>
+    <HasCloudSynced>false</HasCloudSynced>
+  </AdditionalApplication>
+  <AdditionalApplication>
+    <GogAppId />
+    <OriginAppId />
+    <OriginInstallPath />
+    <Id>56825ab3-986b-406c-b26d-fd423af6b799</Id>
+    <PlayCount>0</PlayCount>
+    <PlayTime>0</PlayTime>
+    <GameID>e41c621c-e0d5-4354-b725-36ea733050ba</GameID>
+    <ApplicationPath>C:\Programs\LaunchBox\Add-On\CPWizard-master\bin\Release\CPWizard.exe</ApplicationPath>
+    <AutoRunAfter>false</AutoRunAfter>
+    <AutoRunBefore>true</AutoRunBefore>
+    <CommandLine>-emu mame -minimized -show -game</CommandLine>
+    <Name>CPWizard</Name>
+    <UseDosBox>false</UseDosBox>
+    <UseEmulator>false</UseEmulator>
+    <WaitForExit>true</WaitForExit>
+    <Developer />
+    <Publisher />
+    <Region />
+    <Version />
+    <Status />
+    <EmulatorId />
+    <SideA>false</SideA>
+    <SideB>false</SideB>
+    <Priority>0</Priority>
+    <HasCloudSynced>false</HasCloudSynced>
+  </AdditionalApplication>
+  <AdditionalApplication>
+    <GogAppId />
+    <OriginAppId />
+    <OriginInstallPath />
+    <Id>a3c71331-411f-49da-977c-03549f59af68</Id>
+    <PlayCount>0</PlayCount>
+    <PlayTime>0</PlayTime>
+    <GameID>e41c621c-e0d5-4354-b725-36ea733050ba</GameID>
+    <ApplicationPath>C:\Programs\LaunchBox\Add-On\CPWizard-master\bin\Release\CPWizard.exe</ApplicationPath>
+    <AutoRunAfter>false</AutoRunAfter>
+    <AutoRunBefore>true</AutoRunBefore>
+    <CommandLine>-emu mame -minimized -show -game</CommandLine>
+    <Name>CPWizard</Name>
+    <UseDosBox>false</UseDosBox>
+    <UseEmulator>false</UseEmulator>
+    <WaitForExit>false</WaitForExit>
+    <Developer />
+    <Publisher />
+    <Region />
+    <Version />
+    <Status />
+    <EmulatorId />
+    <SideA>false</SideA>
+    <SideB>false</SideB>
+    <Priority>0</Priority>
+    <HasCloudSynced>false</HasCloudSynced>
+  </AdditionalApplication>
+  <AdditionalApplication>
+    <GogAppId />
+    <OriginAppId />
+    <OriginInstallPath />
+    <Id>61ed5706-c66f-44c1-a70b-8e7dcf933c02</Id>
+    <PlayCount>1</PlayCount>
+    <PlayTime>45</PlayTime>
+    <GameID>5404e859-201d-475e-b71f-d6083f08809b</GameID>
+    <ApplicationPath>R:\ROMS-Arcade\Sega Naomi 2\initdv3e.zip</ApplicationPath>
+    <AutoRunAfter>false</AutoRunAfter>
+    <AutoRunBefore>false</AutoRunBefore>
+    <CommandLine />
+    <Name>Play (Export) (GDS-0033) Version...</Name>
+    <UseDosBox>false</UseDosBox>
+    <UseEmulator>true</UseEmulator>
+    <WaitForExit>false</WaitForExit>
+    <Developer />
+    <Publisher />
+    <Region>North America</Region>
+    <Version>(Export) (GDS-0033)</Version>
+    <Status />
+    <LastPlayed>2023-06-07T22:41:15.9399744+08:00</LastPlayed>
+    <EmulatorId>9c584e20-f670-433c-81e0-6b7f3c178958</EmulatorId>
+    <SideA>false</SideA>
+    <SideB>false</SideB>
+    <Priority>1</Priority>
+    <HasCloudSynced>true</HasCloudSynced>
+  </AdditionalApplication>
+  <AdditionalApplication>
+    <GogAppId />
+    <OriginAppId />
+    <OriginInstallPath />
+    <Id>18d43d35-32bb-4ebf-b0a0-bd66785a4122</Id>
+    <PlayCount>0</PlayCount>
+    <PlayTime>0</PlayTime>
+    <GameID>5404e859-201d-475e-b71f-d6083f08809b</GameID>
+    <ApplicationPath>R:\ROMS-Arcade\Sega Naomi 2\initdv3j.zip</ApplicationPath>
+    <AutoRunAfter>false</AutoRunAfter>
+    <AutoRunBefore>false</AutoRunBefore>
+    <CommandLine />
+    <Name>Play (Japan, Rev C) (GDS-0032C) Version...</Name>
+    <UseDosBox>false</UseDosBox>
+    <UseEmulator>true</UseEmulator>
+    <WaitForExit>false</WaitForExit>
+    <Developer />
+    <Publisher />
+    <Region>Japan</Region>
+    <Version>(Japan, Rev C) (GDS-0032C)</Version>
+    <Status />
+    <EmulatorId>9c584e20-f670-433c-81e0-6b7f3c178958</EmulatorId>
+    <SideA>false</SideA>
+    <SideB>false</SideB>
+    <Priority>2</Priority>
+    <HasCloudSynced>false</HasCloudSynced>
+  </AdditionalApplication>
+  <AdditionalApplication>
+    <GogAppId />
+    <OriginAppId />
+    <OriginInstallPath />
+    <Id>c3a26f85-94ba-42d4-9ac6-1240ada71fcd</Id>
+    <PlayCount>0</PlayCount>
+    <PlayTime>0</PlayTime>
+    <GameID>5404e859-201d-475e-b71f-d6083f08809b</GameID>
+    <ApplicationPath>C:\Programs\LaunchBox\Add-On\CPWizard-master\bin\Release\CPWizard.exe</ApplicationPath>
+    <AutoRunAfter>false</AutoRunAfter>
+    <AutoRunBefore>true</AutoRunBefore>
+    <CommandLine>-emu mame -minimized -show -game</CommandLine>
+    <Name>-emu mame -minimized -show -game</Name>
+    <UseDosBox>false</UseDosBox>
+    <UseEmulator>false</UseEmulator>
+    <WaitForExit>true</WaitForExit>
+    <Developer />
+    <Publisher />
+    <Region />
+    <Version />
+    <Status />
+    <EmulatorId />
+    <SideA>false</SideA>
+    <SideB>false</SideB>
+    <Priority>0</Priority>
+    <HasCloudSynced>false</HasCloudSynced>
+  </AdditionalApplication>
+  <AdditionalApplication>
+    <GogAppId />
+    <OriginAppId />
+    <OriginInstallPath />
+    <Id>9c25e45a-34bd-40e2-8116-448f893862fe</Id>
+    <PlayCount>0</PlayCount>
+    <PlayTime>0</PlayTime>
+    <GameID>5404e859-201d-475e-b71f-d6083f08809b</GameID>
+    <ApplicationPath>C:\Programs\LaunchBox\Add-On\CPWizard-master\bin\Release\CPWizard.exe</ApplicationPath>
+    <AutoRunAfter>false</AutoRunAfter>
+    <AutoRunBefore>true</AutoRunBefore>
+    <CommandLine>-emu mame -minimized -show -game</CommandLine>
+    <Name>CPWizard</Name>
+    <UseDosBox>false</UseDosBox>
+    <UseEmulator>false</UseEmulator>
+    <WaitForExit>true</WaitForExit>
+    <Developer />
+    <Publisher />
+    <Region />
+    <Version />
+    <Status />
+    <EmulatorId />
+    <SideA>false</SideA>
+    <SideB>false</SideB>
+    <Priority>0</Priority>
+    <HasCloudSynced>false</HasCloudSynced>
+  </AdditionalApplication>
+  <AdditionalApplication>
+    <GogAppId />
+    <OriginAppId />
+    <OriginInstallPath />
+    <Id>c74443ed-c174-40f0-8421-4b5f7db8d5a5</Id>
+    <PlayCount>0</PlayCount>
+    <PlayTime>0</PlayTime>
+    <GameID>5404e859-201d-475e-b71f-d6083f08809b</GameID>
+    <ApplicationPath>C:\Programs\LaunchBox\Add-On\CPWizard-master\bin\Release\CPWizard.exe</ApplicationPath>
+    <AutoRunAfter>false</AutoRunAfter>
+    <AutoRunBefore>true</AutoRunBefore>
+    <CommandLine>-emu mame -minimized -show -game</CommandLine>
+    <Name>CPWizard</Name>
+    <UseDosBox>false</UseDosBox>
+    <UseEmulator>false</UseEmulator>
+    <WaitForExit>false</WaitForExit>
+    <Developer />
+    <Publisher />
+    <Region />
+    <Version />
+    <Status />
+    <EmulatorId />
+    <SideA>false</SideA>
+    <SideB>false</SideB>
+    <Priority>0</Priority>
+    <HasCloudSynced>false</HasCloudSynced>
+  </AdditionalApplication>
+  <AdditionalApplication>
+    <GogAppId />
+    <OriginAppId />
+    <OriginInstallPath />
+    <Id>c6048650-353e-442d-a7ed-804f3efdf195</Id>
+    <PlayCount>0</PlayCount>
+    <PlayTime>0</PlayTime>
+    <GameID>b8fa37d0-8976-4d4d-b6ea-643230787375</GameID>
+    <ApplicationPath>R:\ROMS-Arcade\Sega Naomi 2\initdexp.zip</ApplicationPath>
+    <AutoRunAfter>false</AutoRunAfter>
+    <AutoRunBefore>false</AutoRunBefore>
+    <CommandLine />
+    <Name>Play (Export, Rev A) (GDS-0025A) Version...</Name>
+    <UseDosBox>false</UseDosBox>
+    <UseEmulator>true</UseEmulator>
+    <WaitForExit>false</WaitForExit>
+    <ReleaseDate>2002-01-01T00:00:00+08:00</ReleaseDate>
+    <Developer>Sega Rosso</Developer>
+    <Publisher>Sega</Publisher>
+    <Region>North America</Region>
+    <Version>(Export, Rev A) (GDS-0025A)</Version>
+    <Status>Imported ROM</Status>
+    <EmulatorId>9c584e20-f670-433c-81e0-6b7f3c178958</EmulatorId>
+    <SideA>false</SideA>
+    <SideB>false</SideB>
+    <Priority>1</Priority>
+    <HasCloudSynced>false</HasCloudSynced>
+  </AdditionalApplication>
+  <AdditionalApplication>
+    <GogAppId />
+    <OriginAppId />
+    <OriginInstallPath />
+    <Id>65845f68-c32e-4cea-9b23-3bc9bf8f8312</Id>
+    <PlayCount>0</PlayCount>
+    <PlayTime>0</PlayTime>
+    <GameID>b8fa37d0-8976-4d4d-b6ea-643230787375</GameID>
+    <ApplicationPath>R:\ROMS-Arcade\Sega Naomi 2\initd.zip</ApplicationPath>
+    <AutoRunAfter>false</AutoRunAfter>
+    <AutoRunBefore>false</AutoRunBefore>
+    <CommandLine />
+    <Name>Play (Japan, Rev B) (GDS-0020B) Version...</Name>
+    <UseDosBox>false</UseDosBox>
+    <UseEmulator>true</UseEmulator>
+    <WaitForExit>false</WaitForExit>
+    <Developer />
+    <Publisher />
+    <Region>Japan</Region>
+    <Version>(Japan, Rev B) (GDS-0020B)</Version>
+    <Status />
+    <EmulatorId>9c584e20-f670-433c-81e0-6b7f3c178958</EmulatorId>
+    <SideA>false</SideA>
+    <SideB>false</SideB>
+    <Priority>2</Priority>
+    <HasCloudSynced>false</HasCloudSynced>
+  </AdditionalApplication>
+  <AdditionalApplication>
+    <GogAppId />
+    <OriginAppId />
+    <OriginInstallPath />
+    <Id>b5c2934e-9709-4053-a631-353f0ff3420f</Id>
+    <PlayCount>0</PlayCount>
+    <PlayTime>0</PlayTime>
+    <GameID>b8fa37d0-8976-4d4d-b6ea-643230787375</GameID>
+    <ApplicationPath>C:\Programs\LaunchBox\Add-On\CPWizard-master\bin\Release\CPWizard.exe</ApplicationPath>
+    <AutoRunAfter>false</AutoRunAfter>
+    <AutoRunBefore>true</AutoRunBefore>
+    <CommandLine>-emu mame -minimized -show -game</CommandLine>
+    <Name>-emu mame -minimized -show -game</Name>
+    <UseDosBox>false</UseDosBox>
+    <UseEmulator>false</UseEmulator>
+    <WaitForExit>true</WaitForExit>
+    <Developer />
+    <Publisher />
+    <Region />
+    <Version />
+    <Status />
+    <EmulatorId />
+    <SideA>false</SideA>
+    <SideB>false</SideB>
+    <Priority>0</Priority>
+    <HasCloudSynced>false</HasCloudSynced>
+  </AdditionalApplication>
+  <AdditionalApplication>
+    <GogAppId />
+    <OriginAppId />
+    <OriginInstallPath />
+    <Id>265e7e8e-64ab-4de7-b7b2-6b914414f6da</Id>
+    <PlayCount>0</PlayCount>
+    <PlayTime>0</PlayTime>
+    <GameID>b8fa37d0-8976-4d4d-b6ea-643230787375</GameID>
+    <ApplicationPath>C:\Programs\LaunchBox\Add-On\CPWizard-master\bin\Release\CPWizard.exe</ApplicationPath>
+    <AutoRunAfter>false</AutoRunAfter>
+    <AutoRunBefore>true</AutoRunBefore>
+    <CommandLine>-emu mame -minimized -show -game</CommandLine>
+    <Name>CPWizard</Name>
+    <UseDosBox>false</UseDosBox>
+    <UseEmulator>false</UseEmulator>
+    <WaitForExit>true</WaitForExit>
+    <Developer />
+    <Publisher />
+    <Region />
+    <Version />
+    <Status />
+    <EmulatorId />
+    <SideA>false</SideA>
+    <SideB>false</SideB>
+    <Priority>0</Priority>
+    <HasCloudSynced>false</HasCloudSynced>
+  </AdditionalApplication>
+  <AdditionalApplication>
+    <GogAppId />
+    <OriginAppId />
+    <OriginInstallPath />
+    <Id>8dd6f969-b1d9-4c72-8ca8-19ae14dbfaf2</Id>
+    <PlayCount>0</PlayCount>
+    <PlayTime>0</PlayTime>
+    <GameID>b8fa37d0-8976-4d4d-b6ea-643230787375</GameID>
+    <ApplicationPath>C:\Programs\LaunchBox\Add-On\CPWizard-master\bin\Release\CPWizard.exe</ApplicationPath>
+    <AutoRunAfter>false</AutoRunAfter>
+    <AutoRunBefore>true</AutoRunBefore>
+    <CommandLine>-emu mame -minimized -show -game</CommandLine>
+    <Name>CPWizard</Name>
+    <UseDosBox>false</UseDosBox>
+    <UseEmulator>false</UseEmulator>
+    <WaitForExit>false</WaitForExit>
+    <Developer />
+    <Publisher />
+    <Region />
+    <Version />
+    <Status />
+    <EmulatorId />
+    <SideA>false</SideA>
+    <SideB>false</SideB>
+    <Priority>0</Priority>
+    <HasCloudSynced>false</HasCloudSynced>
+  </AdditionalApplication>
+  <AdditionalApplication>
+    <GogAppId />
+    <OriginAppId />
+    <OriginInstallPath />
+    <Id>88765797-bbb7-470b-bc30-125f40d9b9b1</Id>
+    <PlayCount>0</PlayCount>
+    <PlayTime>0</PlayTime>
+    <GameID>7510ea72-9626-4c13-86c3-18a89abc3d81</GameID>
+    <ApplicationPath>C:\Programs\LaunchBox\Add-On\CPWizard-master\bin\Release\CPWizard.exe</ApplicationPath>
+    <AutoRunAfter>false</AutoRunAfter>
+    <AutoRunBefore>true</AutoRunBefore>
+    <CommandLine>-emu mame -minimized -show -game</CommandLine>
+    <Name>-emu mame -minimized -show -game</Name>
+    <UseDosBox>false</UseDosBox>
+    <UseEmulator>false</UseEmulator>
+    <WaitForExit>true</WaitForExit>
+    <Developer />
+    <Publisher />
+    <Region />
+    <Version />
+    <Status />
+    <EmulatorId />
+    <SideA>false</SideA>
+    <SideB>false</SideB>
+    <Priority>0</Priority>
+    <HasCloudSynced>false</HasCloudSynced>
+  </AdditionalApplication>
+  <AdditionalApplication>
+    <GogAppId />
+    <OriginAppId />
+    <OriginInstallPath />
+    <Id>c9f436b4-0ee2-4082-b864-f05413306335</Id>
+    <PlayCount>0</PlayCount>
+    <PlayTime>0</PlayTime>
+    <GameID>7510ea72-9626-4c13-86c3-18a89abc3d81</GameID>
+    <ApplicationPath>C:\Programs\LaunchBox\Add-On\CPWizard-master\bin\Release\CPWizard.exe</ApplicationPath>
+    <AutoRunAfter>false</AutoRunAfter>
+    <AutoRunBefore>true</AutoRunBefore>
+    <CommandLine>-emu mame -minimized -show -game</CommandLine>
+    <Name>CPWizard</Name>
+    <UseDosBox>false</UseDosBox>
+    <UseEmulator>false</UseEmulator>
+    <WaitForExit>true</WaitForExit>
+    <Developer />
+    <Publisher />
+    <Region />
+    <Version />
+    <Status />
+    <EmulatorId />
+    <SideA>false</SideA>
+    <SideB>false</SideB>
+    <Priority>0</Priority>
+    <HasCloudSynced>false</HasCloudSynced>
+  </AdditionalApplication>
+  <AdditionalApplication>
+    <GogAppId />
+    <OriginAppId />
+    <OriginInstallPath />
+    <Id>103157ed-32d7-4388-b6b1-8afd3c78d750</Id>
+    <PlayCount>0</PlayCount>
+    <PlayTime>0</PlayTime>
+    <GameID>7510ea72-9626-4c13-86c3-18a89abc3d81</GameID>
+    <ApplicationPath>C:\Programs\LaunchBox\Add-On\CPWizard-master\bin\Release\CPWizard.exe</ApplicationPath>
+    <AutoRunAfter>false</AutoRunAfter>
+    <AutoRunBefore>true</AutoRunBefore>
+    <CommandLine>-emu mame -minimized -show -game</CommandLine>
+    <Name>CPWizard</Name>
+    <UseDosBox>false</UseDosBox>
+    <UseEmulator>false</UseEmulator>
+    <WaitForExit>false</WaitForExit>
+    <Developer />
+    <Publisher />
+    <Region />
+    <Version />
+    <Status />
+    <EmulatorId />
+    <SideA>false</SideA>
+    <SideB>false</SideB>
+    <Priority>0</Priority>
+    <HasCloudSynced>false</HasCloudSynced>
+  </AdditionalApplication>
+  <AdditionalApplication>
+    <GogAppId />
+    <OriginAppId />
+    <OriginInstallPath />
+    <Id>d0f92673-18d8-4c28-8d52-d96eb8a81979</Id>
+    <PlayCount>0</PlayCount>
+    <PlayTime>0</PlayTime>
+    <GameID>eb0ab37b-59f7-4e0d-be62-66788e44ab6a</GameID>
+    <ApplicationPath>C:\Programs\LaunchBox\Add-On\CPWizard-master\bin\Release\CPWizard.exe</ApplicationPath>
+    <AutoRunAfter>false</AutoRunAfter>
+    <AutoRunBefore>true</AutoRunBefore>
+    <CommandLine>-emu mame -minimized -show -game</CommandLine>
+    <Name>-emu mame -minimized -show -game</Name>
+    <UseDosBox>false</UseDosBox>
+    <UseEmulator>false</UseEmulator>
+    <WaitForExit>true</WaitForExit>
+    <Developer />
+    <Publisher />
+    <Region />
+    <Version />
+    <Status />
+    <EmulatorId />
+    <SideA>false</SideA>
+    <SideB>false</SideB>
+    <Priority>0</Priority>
+    <HasCloudSynced>false</HasCloudSynced>
+  </AdditionalApplication>
+  <AdditionalApplication>
+    <GogAppId />
+    <OriginAppId />
+    <OriginInstallPath />
+    <Id>02e0b1f2-235e-4a49-b1a7-c5ecf34d45be</Id>
+    <PlayCount>0</PlayCount>
+    <PlayTime>0</PlayTime>
+    <GameID>eb0ab37b-59f7-4e0d-be62-66788e44ab6a</GameID>
+    <ApplicationPath>C:\Programs\LaunchBox\Add-On\CPWizard-master\bin\Release\CPWizard.exe</ApplicationPath>
+    <AutoRunAfter>false</AutoRunAfter>
+    <AutoRunBefore>true</AutoRunBefore>
+    <CommandLine>-emu mame -minimized -show -game</CommandLine>
+    <Name>CPWizard</Name>
+    <UseDosBox>false</UseDosBox>
+    <UseEmulator>false</UseEmulator>
+    <WaitForExit>true</WaitForExit>
+    <Developer />
+    <Publisher />
+    <Region />
+    <Version />
+    <Status />
+    <EmulatorId />
+    <SideA>false</SideA>
+    <SideB>false</SideB>
+    <Priority>0</Priority>
+    <HasCloudSynced>false</HasCloudSynced>
+  </AdditionalApplication>
+  <AdditionalApplication>
+    <GogAppId />
+    <OriginAppId />
+    <OriginInstallPath />
+    <Id>d7dc72d0-d813-443a-bfe2-068c88f56097</Id>
+    <PlayCount>0</PlayCount>
+    <PlayTime>0</PlayTime>
+    <GameID>eb0ab37b-59f7-4e0d-be62-66788e44ab6a</GameID>
+    <ApplicationPath>C:\Programs\LaunchBox\Add-On\CPWizard-master\bin\Release\CPWizard.exe</ApplicationPath>
+    <AutoRunAfter>false</AutoRunAfter>
+    <AutoRunBefore>true</AutoRunBefore>
+    <CommandLine>-emu mame -minimized -show -game</CommandLine>
+    <Name>CPWizard</Name>
+    <UseDosBox>false</UseDosBox>
+    <UseEmulator>false</UseEmulator>
+    <WaitForExit>false</WaitForExit>
+    <Developer />
+    <Publisher />
+    <Region />
+    <Version />
+    <Status />
+    <EmulatorId />
+    <SideA>false</SideA>
+    <SideB>false</SideB>
+    <Priority>0</Priority>
+    <HasCloudSynced>false</HasCloudSynced>
+  </AdditionalApplication>
+  <AdditionalApplication>
+    <GogAppId />
+    <OriginAppId />
+    <OriginInstallPath />
+    <Id>7d761988-72f1-48c9-a003-3aedc022ad4a</Id>
+    <PlayCount>0</PlayCount>
+    <PlayTime>0</PlayTime>
+    <GameID>1d8b3960-f989-432a-a747-080504402f2c</GameID>
+    <ApplicationPath>C:\Programs\LaunchBox\Add-On\CPWizard-master\bin\Release\CPWizard.exe</ApplicationPath>
+    <AutoRunAfter>false</AutoRunAfter>
+    <AutoRunBefore>true</AutoRunBefore>
+    <CommandLine>-emu mame -minimized -show -game</CommandLine>
+    <Name>-emu mame -minimized -show -game</Name>
+    <UseDosBox>false</UseDosBox>
+    <UseEmulator>false</UseEmulator>
+    <WaitForExit>true</WaitForExit>
+    <Developer />
+    <Publisher />
+    <Region />
+    <Version />
+    <Status />
+    <EmulatorId />
+    <SideA>false</SideA>
+    <SideB>false</SideB>
+    <Priority>0</Priority>
+    <HasCloudSynced>false</HasCloudSynced>
+  </AdditionalApplication>
+  <AdditionalApplication>
+    <GogAppId />
+    <OriginAppId />
+    <OriginInstallPath />
+    <Id>522edacc-8559-4d93-b92c-57ab4ac051f3</Id>
+    <PlayCount>0</PlayCount>
+    <PlayTime>0</PlayTime>
+    <GameID>1d8b3960-f989-432a-a747-080504402f2c</GameID>
+    <ApplicationPath>C:\Programs\LaunchBox\Add-On\CPWizard-master\bin\Release\CPWizard.exe</ApplicationPath>
+    <AutoRunAfter>false</AutoRunAfter>
+    <AutoRunBefore>true</AutoRunBefore>
+    <CommandLine>-emu mame -minimized -show -game</CommandLine>
+    <Name>CPWizard</Name>
+    <UseDosBox>false</UseDosBox>
+    <UseEmulator>false</UseEmulator>
+    <WaitForExit>true</WaitForExit>
+    <Developer />
+    <Publisher />
+    <Region />
+    <Version />
+    <Status />
+    <EmulatorId />
+    <SideA>false</SideA>
+    <SideB>false</SideB>
+    <Priority>0</Priority>
+    <HasCloudSynced>false</HasCloudSynced>
+  </AdditionalApplication>
+  <AdditionalApplication>
+    <GogAppId />
+    <OriginAppId />
+    <OriginInstallPath />
+    <Id>03108afa-4cdc-4b92-b230-23e4748a98f9</Id>
+    <PlayCount>0</PlayCount>
+    <PlayTime>0</PlayTime>
+    <GameID>1d8b3960-f989-432a-a747-080504402f2c</GameID>
+    <ApplicationPath>C:\Programs\LaunchBox\Add-On\CPWizard-master\bin\Release\CPWizard.exe</ApplicationPath>
+    <AutoRunAfter>false</AutoRunAfter>
+    <AutoRunBefore>true</AutoRunBefore>
+    <CommandLine>-emu mame -minimized -show -game</CommandLine>
+    <Name>CPWizard</Name>
+    <UseDosBox>false</UseDosBox>
+    <UseEmulator>false</UseEmulator>
+    <WaitForExit>false</WaitForExit>
+    <Developer />
+    <Publisher />
+    <Region />
+    <Version />
+    <Status />
+    <EmulatorId />
+    <SideA>false</SideA>
+    <SideB>false</SideB>
+    <Priority>0</Priority>
+    <HasCloudSynced>false</HasCloudSynced>
+  </AdditionalApplication>
+  <AdditionalApplication>
+    <GogAppId />
+    <OriginAppId />
+    <OriginInstallPath />
+    <Id>0c95a863-0c8a-4233-a05c-063efe7a03fe</Id>
+    <PlayCount>0</PlayCount>
+    <PlayTime>0</PlayTime>
+    <GameID>c25c938d-970e-4fd4-8d11-a9d3778e3116</GameID>
+    <ApplicationPath>C:\Programs\LaunchBox\Add-On\CPWizard-master\bin\Release\CPWizard.exe</ApplicationPath>
+    <AutoRunAfter>false</AutoRunAfter>
+    <AutoRunBefore>true</AutoRunBefore>
+    <CommandLine>-emu mame -minimized -show -game</CommandLine>
+    <Name>-emu mame -minimized -show -game</Name>
+    <UseDosBox>false</UseDosBox>
+    <UseEmulator>false</UseEmulator>
+    <WaitForExit>true</WaitForExit>
+    <Developer />
+    <Publisher />
+    <Region />
+    <Version />
+    <Status />
+    <EmulatorId />
+    <SideA>false</SideA>
+    <SideB>false</SideB>
+    <Priority>0</Priority>
+    <HasCloudSynced>false</HasCloudSynced>
+  </AdditionalApplication>
+  <AdditionalApplication>
+    <GogAppId />
+    <OriginAppId />
+    <OriginInstallPath />
+    <Id>9671d9e5-610b-4331-bafd-fd753df416be</Id>
+    <PlayCount>0</PlayCount>
+    <PlayTime>0</PlayTime>
+    <GameID>c25c938d-970e-4fd4-8d11-a9d3778e3116</GameID>
+    <ApplicationPath>C:\Programs\LaunchBox\Add-On\CPWizard-master\bin\Release\CPWizard.exe</ApplicationPath>
+    <AutoRunAfter>false</AutoRunAfter>
+    <AutoRunBefore>true</AutoRunBefore>
+    <CommandLine>-emu mame -minimized -show -game</CommandLine>
+    <Name>CPWizard</Name>
+    <UseDosBox>false</UseDosBox>
+    <UseEmulator>false</UseEmulator>
+    <WaitForExit>true</WaitForExit>
+    <Developer />
+    <Publisher />
+    <Region />
+    <Version />
+    <Status />
+    <EmulatorId />
+    <SideA>false</SideA>
+    <SideB>false</SideB>
+    <Priority>0</Priority>
+    <HasCloudSynced>false</HasCloudSynced>
+  </AdditionalApplication>
+  <AdditionalApplication>
+    <GogAppId />
+    <OriginAppId />
+    <OriginInstallPath />
+    <Id>d6bbcc6b-6713-478d-a6dd-46057097aa06</Id>
+    <PlayCount>0</PlayCount>
+    <PlayTime>0</PlayTime>
+    <GameID>c25c938d-970e-4fd4-8d11-a9d3778e3116</GameID>
+    <ApplicationPath>C:\Programs\LaunchBox\Add-On\CPWizard-master\bin\Release\CPWizard.exe</ApplicationPath>
+    <AutoRunAfter>false</AutoRunAfter>
+    <AutoRunBefore>true</AutoRunBefore>
+    <CommandLine>-emu mame -minimized -show -game</CommandLine>
+    <Name>CPWizard</Name>
+    <UseDosBox>false</UseDosBox>
+    <UseEmulator>false</UseEmulator>
+    <WaitForExit>false</WaitForExit>
+    <Developer />
+    <Publisher />
+    <Region />
+    <Version />
+    <Status />
+    <EmulatorId />
+    <SideA>false</SideA>
+    <SideB>false</SideB>
+    <Priority>0</Priority>
+    <HasCloudSynced>false</HasCloudSynced>
+  </AdditionalApplication>
+  <AdditionalApplication>
+    <GogAppId />
+    <OriginAppId />
+    <OriginInstallPath />
+    <Id>55069467-1ade-4bc2-ae39-788e6669f547</Id>
+    <PlayCount>0</PlayCount>
+    <PlayTime>0</PlayTime>
+    <GameID>794067c1-1677-4d2b-9dd4-a9a08e86916e</GameID>
+    <ApplicationPath>R:\ROMS-Arcade\Sega Naomi 2\vf4evoct.zip</ApplicationPath>
+    <AutoRunAfter>false</AutoRunAfter>
+    <AutoRunBefore>false</AutoRunBefore>
+    <CommandLine />
+    <Name>Play vf4evoct Version...</Name>
+    <UseDosBox>false</UseDosBox>
+    <UseEmulator>true</UseEmulator>
+    <WaitForExit>false</WaitForExit>
+    <Developer />
+    <Publisher />
+    <Region />
+    <Version>vf4evoct</Version>
+    <Status />
+    <EmulatorId>9c584e20-f670-433c-81e0-6b7f3c178958</EmulatorId>
+    <SideA>false</SideA>
+    <SideB>false</SideB>
+    <Priority>1</Priority>
+    <HasCloudSynced>false</HasCloudSynced>
+  </AdditionalApplication>
+  <AdditionalApplication>
+    <GogAppId />
+    <OriginAppId />
+    <OriginInstallPath />
+    <Id>2edd33d3-1191-4ec3-b6d4-d9de990384d9</Id>
+    <PlayCount>0</PlayCount>
+    <PlayTime>0</PlayTime>
+    <GameID>794067c1-1677-4d2b-9dd4-a9a08e86916e</GameID>
+    <ApplicationPath>R:\ROMS-Arcade\Sega Naomi 2\vf4evo.zip</ApplicationPath>
+    <AutoRunAfter>false</AutoRunAfter>
+    <AutoRunBefore>false</AutoRunBefore>
+    <CommandLine />
+    <Name>Play (Version B) (Japan) (GDS-0024C) Version...</Name>
+    <UseDosBox>false</UseDosBox>
+    <UseEmulator>true</UseEmulator>
+    <WaitForExit>false</WaitForExit>
+    <Developer />
+    <Publisher />
+    <Region>Japan</Region>
+    <Version>(Version B) (Japan) (GDS-0024C)</Version>
+    <Status />
+    <EmulatorId>9c584e20-f670-433c-81e0-6b7f3c178958</EmulatorId>
+    <SideA>false</SideA>
+    <SideB>false</SideB>
+    <Priority>1</Priority>
+    <HasCloudSynced>false</HasCloudSynced>
+  </AdditionalApplication>
+  <AdditionalApplication>
+    <GogAppId />
+    <OriginAppId />
+    <OriginInstallPath />
+    <Id>47a6f99c-c5b0-41de-9d48-6ae0bf04edae</Id>
+    <PlayCount>0</PlayCount>
+    <PlayTime>0</PlayTime>
+    <GameID>794067c1-1677-4d2b-9dd4-a9a08e86916e</GameID>
+    <ApplicationPath>C:\Programs\LaunchBox\Add-On\CPWizard-master\bin\Release\CPWizard.exe</ApplicationPath>
+    <AutoRunAfter>false</AutoRunAfter>
+    <AutoRunBefore>true</AutoRunBefore>
+    <CommandLine>-emu mame -minimized -show -game</CommandLine>
+    <Name>-emu mame -minimized -show -game</Name>
+    <UseDosBox>false</UseDosBox>
+    <UseEmulator>false</UseEmulator>
+    <WaitForExit>true</WaitForExit>
+    <Developer />
+    <Publisher />
+    <Region />
+    <Version />
+    <Status />
+    <EmulatorId />
+    <SideA>false</SideA>
+    <SideB>false</SideB>
+    <Priority>0</Priority>
+    <HasCloudSynced>false</HasCloudSynced>
+  </AdditionalApplication>
+  <AdditionalApplication>
+    <GogAppId />
+    <OriginAppId />
+    <OriginInstallPath />
+    <Id>f89b5df2-04d4-40d6-bbd1-9d4ac42faa35</Id>
+    <PlayCount>0</PlayCount>
+    <PlayTime>0</PlayTime>
+    <GameID>794067c1-1677-4d2b-9dd4-a9a08e86916e</GameID>
+    <ApplicationPath>C:\Programs\LaunchBox\Add-On\CPWizard-master\bin\Release\CPWizard.exe</ApplicationPath>
+    <AutoRunAfter>false</AutoRunAfter>
+    <AutoRunBefore>true</AutoRunBefore>
+    <CommandLine>-emu mame -minimized -show -game</CommandLine>
+    <Name>CPWizard</Name>
+    <UseDosBox>false</UseDosBox>
+    <UseEmulator>false</UseEmulator>
+    <WaitForExit>true</WaitForExit>
+    <Developer />
+    <Publisher />
+    <Region />
+    <Version />
+    <Status />
+    <EmulatorId />
+    <SideA>false</SideA>
+    <SideB>false</SideB>
+    <Priority>0</Priority>
+    <HasCloudSynced>false</HasCloudSynced>
+  </AdditionalApplication>
+  <AdditionalApplication>
+    <GogAppId />
+    <OriginAppId />
+    <OriginInstallPath />
+    <Id>47e0812e-533a-4ca5-b1ae-ddc8ef3c82db</Id>
+    <PlayCount>0</PlayCount>
+    <PlayTime>0</PlayTime>
+    <GameID>794067c1-1677-4d2b-9dd4-a9a08e86916e</GameID>
+    <ApplicationPath>C:\Programs\LaunchBox\Add-On\CPWizard-master\bin\Release\CPWizard.exe</ApplicationPath>
+    <AutoRunAfter>false</AutoRunAfter>
+    <AutoRunBefore>true</AutoRunBefore>
+    <CommandLine>-emu mame -minimized -show -game</CommandLine>
+    <Name>CPWizard</Name>
+    <UseDosBox>false</UseDosBox>
+    <UseEmulator>false</UseEmulator>
+    <WaitForExit>false</WaitForExit>
+    <Developer />
+    <Publisher />
+    <Region />
+    <Version />
+    <Status />
+    <EmulatorId />
+    <SideA>false</SideA>
+    <SideB>false</SideB>
+    <Priority>0</Priority>
+    <HasCloudSynced>false</HasCloudSynced>
+  </AdditionalApplication>
+  <AdditionalApplication>
+    <GogAppId />
+    <OriginAppId />
+    <OriginInstallPath />
+    <Id>56d4ec5d-0740-4b95-a9af-63a61441df05</Id>
+    <PlayCount>0</PlayCount>
+    <PlayTime>0</PlayTime>
+    <GameID>a5f18f48-b73d-4434-b64b-83780ddea345</GameID>
+    <ApplicationPath>C:\Programs\LaunchBox\Add-On\CPWizard-master\bin\Release\CPWizard.exe</ApplicationPath>
+    <AutoRunAfter>false</AutoRunAfter>
+    <AutoRunBefore>true</AutoRunBefore>
+    <CommandLine>-emu mame -minimized -show -game</CommandLine>
+    <Name>-emu mame -minimized -show -game</Name>
+    <UseDosBox>false</UseDosBox>
+    <UseEmulator>false</UseEmulator>
+    <WaitForExit>true</WaitForExit>
+    <Developer />
+    <Publisher />
+    <Region />
+    <Version />
+    <Status />
+    <EmulatorId />
+    <SideA>false</SideA>
+    <SideB>false</SideB>
+    <Priority>0</Priority>
+    <HasCloudSynced>false</HasCloudSynced>
+  </AdditionalApplication>
+  <AdditionalApplication>
+    <GogAppId />
+    <OriginAppId />
+    <OriginInstallPath />
+    <Id>2784657f-34e6-4201-8c62-0fe5793e0ae7</Id>
+    <PlayCount>0</PlayCount>
+    <PlayTime>0</PlayTime>
+    <GameID>a5f18f48-b73d-4434-b64b-83780ddea345</GameID>
+    <ApplicationPath>C:\Programs\LaunchBox\Add-On\CPWizard-master\bin\Release\CPWizard.exe</ApplicationPath>
+    <AutoRunAfter>false</AutoRunAfter>
+    <AutoRunBefore>true</AutoRunBefore>
+    <CommandLine>-emu mame -minimized -show -game</CommandLine>
+    <Name>CPWizard</Name>
+    <UseDosBox>false</UseDosBox>
+    <UseEmulator>false</UseEmulator>
+    <WaitForExit>true</WaitForExit>
+    <Developer />
+    <Publisher />
+    <Region />
+    <Version />
+    <Status />
+    <EmulatorId />
+    <SideA>false</SideA>
+    <SideB>false</SideB>
+    <Priority>0</Priority>
+    <HasCloudSynced>false</HasCloudSynced>
+  </AdditionalApplication>
+  <AdditionalApplication>
+    <GogAppId />
+    <OriginAppId />
+    <OriginInstallPath />
+    <Id>685d7c00-032b-45e2-a3dc-af1e36a47c1a</Id>
+    <PlayCount>0</PlayCount>
+    <PlayTime>0</PlayTime>
+    <GameID>a5f18f48-b73d-4434-b64b-83780ddea345</GameID>
+    <ApplicationPath>C:\Programs\LaunchBox\Add-On\CPWizard-master\bin\Release\CPWizard.exe</ApplicationPath>
+    <AutoRunAfter>false</AutoRunAfter>
+    <AutoRunBefore>true</AutoRunBefore>
+    <CommandLine>-emu mame -minimized -show -game</CommandLine>
+    <Name>CPWizard</Name>
+    <UseDosBox>false</UseDosBox>
+    <UseEmulator>false</UseEmulator>
+    <WaitForExit>false</WaitForExit>
+    <Developer />
+    <Publisher />
+    <Region />
+    <Version />
+    <Status />
+    <EmulatorId />
+    <SideA>false</SideA>
+    <SideB>false</SideB>
+    <Priority>0</Priority>
+    <HasCloudSynced>false</HasCloudSynced>
+  </AdditionalApplication>
+  <AlternateName>
+    <GameID>2c7e36ba-3cb9-4ddc-aa36-d39f845186bc</GameID>
+    <Name>Virtua Fighter 4 Version C</Name>
+    <Region>World</Region>
+  </AlternateName>
+  <AlternateName>
+    <GameID>5b9012c5-8c57-485f-89a5-6b905c6dbffd</GameID>
+    <Name>Club Kart Prize Version B</Name>
+    <Region />
+  </AlternateName>
+  <AlternateName>
+    <GameID>7929cc3c-c2eb-4b4e-bcf4-b57e9f04ec91</GameID>
+    <Name>Virtua Fighter 4 Version C</Name>
+    <Region>World</Region>
+  </AlternateName>
+  <AlternateName>
+    <GameID>12f630e2-ea04-475b-8b2b-8e4a9d57c483</GameID>
+    <Name>Beach Spikers: Virtua Beach Volleyball</Name>
+    <Region />
+  </AlternateName>
+  <AlternateName>
+    <GameID>5404e859-201d-475e-b71f-d6083f08809b</GameID>
+    <Name>Initial D Version 3</Name>
+    <Region />
+  </AlternateName>
+  <AlternateName>
+    <GameID>b8fa37d0-8976-4d4d-b6ea-643230787375</GameID>
+    <Name>IDAS</Name>
+    <Region />
+  </AlternateName>
+  <AlternateName>
+    <GameID>b8fa37d0-8976-4d4d-b6ea-643230787375</GameID>
+    <Name>Initial D</Name>
+    <Region>North America</Region>
+  </AlternateName>
+  <AlternateName>
+    <GameID>7510ea72-9626-4c13-86c3-18a89abc3d81</GameID>
+    <Name>Soul Surfer</Name>
+    <Region>World</Region>
+  </AlternateName>
+  <AlternateName>
+    <GameID>1d8b3960-f989-432a-a747-080504402f2c</GameID>
+    <Name>Virtua Fighter 4 Final Tuned</Name>
+    <Region>Japan</Region>
+  </AlternateName>
+  <AlternateName>
+    <GameID>1d8b3960-f989-432a-a747-080504402f2c</GameID>
+    <Name>Virtua Fighter 4: Final Tuned</Name>
+    <Region />
+  </AlternateName>
+  <AlternateName>
+    <GameID>c25c938d-970e-4fd4-8d11-a9d3778e3116</GameID>
+    <Name>Initial D Version 3 for Cycraft</Name>
+    <Region />
+  </AlternateName>
+  <AlternateName>
+    <GameID>c25c938d-970e-4fd4-8d11-a9d3778e3116</GameID>
+    <Name>Initial D Arcade Stage Ver. 3: Cycraft Edition</Name>
+    <Region />
+  </AlternateName>
+  <AlternateName>
+    <GameID>794067c1-1677-4d2b-9dd4-a9a08e86916e</GameID>
+    <Name>Virtua Fighter 4 Evolution</Name>
+    <Region />
+  </AlternateName>
+  <AlternateName>
+    <GameID>a5f18f48-b73d-4434-b64b-83780ddea345</GameID>
+    <Name>Club Kart Prize Version B</Name>
+    <Region />
+  </AlternateName>
+  <GameControllerSupport>
+    <ControllerId>e5feabc8-de49-414f-b43e-c07fa1bcabdf</ControllerId>
+    <GameId>2c7e36ba-3cb9-4ddc-aa36-d39f845186bc</GameId>
+    <SupportLevel>3</SupportLevel>
+  </GameControllerSupport>
+  <GameControllerSupport>
+    <ControllerId>e5feabc8-de49-414f-b43e-c07fa1bcabdf</ControllerId>
+    <GameId>5b9012c5-8c57-485f-89a5-6b905c6dbffd</GameId>
+    <SupportLevel>3</SupportLevel>
+  </GameControllerSupport>
+  <GameControllerSupport>
+    <ControllerId>e5feabc8-de49-414f-b43e-c07fa1bcabdf</ControllerId>
+    <GameId>7929cc3c-c2eb-4b4e-bcf4-b57e9f04ec91</GameId>
+    <SupportLevel>3</SupportLevel>
+  </GameControllerSupport>
+  <GameControllerSupport>
+    <ControllerId>e5feabc8-de49-414f-b43e-c07fa1bcabdf</ControllerId>
+    <GameId>e0b2e649-da7c-4708-9fa9-c7680da71c0d</GameId>
+    <SupportLevel>3</SupportLevel>
+  </GameControllerSupport>
+  <GameControllerSupport>
+    <ControllerId>e5feabc8-de49-414f-b43e-c07fa1bcabdf</ControllerId>
+    <GameId>65aea5f5-0af1-40be-8d5d-0e565fc625d5</GameId>
+    <SupportLevel>3</SupportLevel>
+  </GameControllerSupport>
+  <GameControllerSupport>
+    <ControllerId>e5feabc8-de49-414f-b43e-c07fa1bcabdf</ControllerId>
+    <GameId>2c114fec-a8fb-4c2e-baa0-0bf9db3fe065</GameId>
+    <SupportLevel>3</SupportLevel>
+  </GameControllerSupport>
+  <GameControllerSupport>
+    <ControllerId>e5feabc8-de49-414f-b43e-c07fa1bcabdf</ControllerId>
+    <GameId>12f630e2-ea04-475b-8b2b-8e4a9d57c483</GameId>
+    <SupportLevel>3</SupportLevel>
+  </GameControllerSupport>
+  <GameControllerSupport>
+    <ControllerId>e5feabc8-de49-414f-b43e-c07fa1bcabdf</ControllerId>
+    <GameId>77acbe81-1453-4e5e-920f-d3e7f8364288</GameId>
+    <SupportLevel>3</SupportLevel>
+  </GameControllerSupport>
+  <GameControllerSupport>
+    <ControllerId>e5feabc8-de49-414f-b43e-c07fa1bcabdf</ControllerId>
+    <GameId>e41c621c-e0d5-4354-b725-36ea733050ba</GameId>
+    <SupportLevel>3</SupportLevel>
+  </GameControllerSupport>
+  <GameControllerSupport>
+    <ControllerId>e5feabc8-de49-414f-b43e-c07fa1bcabdf</ControllerId>
+    <GameId>5404e859-201d-475e-b71f-d6083f08809b</GameId>
+    <SupportLevel>3</SupportLevel>
+  </GameControllerSupport>
+  <GameControllerSupport>
+    <ControllerId>e5feabc8-de49-414f-b43e-c07fa1bcabdf</ControllerId>
+    <GameId>b8fa37d0-8976-4d4d-b6ea-643230787375</GameId>
+    <SupportLevel>3</SupportLevel>
+  </GameControllerSupport>
+  <GameControllerSupport>
+    <ControllerId>e5feabc8-de49-414f-b43e-c07fa1bcabdf</ControllerId>
+    <GameId>7510ea72-9626-4c13-86c3-18a89abc3d81</GameId>
+    <SupportLevel>3</SupportLevel>
+  </GameControllerSupport>
+  <GameControllerSupport>
+    <ControllerId>e5feabc8-de49-414f-b43e-c07fa1bcabdf</ControllerId>
+    <GameId>eb0ab37b-59f7-4e0d-be62-66788e44ab6a</GameId>
+    <SupportLevel>3</SupportLevel>
+  </GameControllerSupport>
+  <GameControllerSupport>
+    <ControllerId>e5feabc8-de49-414f-b43e-c07fa1bcabdf</ControllerId>
+    <GameId>1d8b3960-f989-432a-a747-080504402f2c</GameId>
+    <SupportLevel>3</SupportLevel>
+  </GameControllerSupport>
+  <GameControllerSupport>
+    <ControllerId>e5feabc8-de49-414f-b43e-c07fa1bcabdf</ControllerId>
+    <GameId>c25c938d-970e-4fd4-8d11-a9d3778e3116</GameId>
+    <SupportLevel>3</SupportLevel>
+  </GameControllerSupport>
+  <GameControllerSupport>
+    <ControllerId>e5feabc8-de49-414f-b43e-c07fa1bcabdf</ControllerId>
+    <GameId>794067c1-1677-4d2b-9dd4-a9a08e86916e</GameId>
+    <SupportLevel>3</SupportLevel>
+  </GameControllerSupport>
+  <GameControllerSupport>
+    <ControllerId>e5feabc8-de49-414f-b43e-c07fa1bcabdf</ControllerId>
+    <GameId>a5f18f48-b73d-4434-b64b-83780ddea345</GameId>
+    <SupportLevel>3</SupportLevel>
+  </GameControllerSupport>
+</LaunchBox>

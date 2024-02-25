@@ -1,0 +1,150 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ThirdScreenPlugin>
+  <AppSettings>
+    <Version>4.0.0</Version>
+    <LoggingEnabled>false</LoggingEnabled>
+    <EnableInLaunchBox>true</EnableInLaunchBox>
+    <HandleResolutionChanges>medium</HandleResolutionChanges>
+    <ValidateDisplayNumbers>true</ValidateDisplayNumbers>
+    <Theme>Blue</Theme>
+  </AppSettings>
+  <ScreenSettings>
+    <Name>Main Marquees</Name>
+    <Enabled>true</Enabled>
+    <Display>spacedesk Graphics Adapter, Port UID256</Display>
+    <MarqueeScreenCompatibilityMode>None</MarqueeScreenCompatibilityMode>
+    <StartupStretch>true</StartupStretch>
+    <BlurFill>false</BlurFill>
+    <PlatformMediaPaths>
+      <MediaPath priority="0" stretch="false">PlatformMarqueeVideo</MediaPath>
+      <MediaPath priority="1" stretch="true">PlatformBannerImage</MediaPath>
+      <MediaPath priority="2" stretch="true">PlatformClearLogoImage</MediaPath>
+      <MediaPath priority="3" stretch="true">Clear Logo</MediaPath>
+      <MediaPath priority="4" stretch="false">PlatformVideo</MediaPath>
+    </PlatformMediaPaths>
+    <GameMediaPaths>
+      <MediaPath priority="0" stretch="true">Marquee</MediaPath>
+      <MediaPath priority="1" stretch="true">Arcade - Marquee</MediaPath>
+      <MediaPath priority="2" stretch="false">Clear Logo</MediaPath>
+      <MediaPath priority="3" stretch="false">Fanart - Background</MediaPath>
+    </GameMediaPaths>
+  </ScreenSettings>
+  <ScreenSettings>
+    <Name>Control Panel (Left)</Name>
+    <Enabled>true</Enabled>
+    <Display>Intel(R) UHD Graphics, Port UID49</Display>
+    <MarqueeScreenCompatibilityMode>None</MarqueeScreenCompatibilityMode>
+    <StartupStretch>true</StartupStretch>
+    <BlurFill>false</BlurFill>
+    <PlatformMediaPaths>
+      <MediaPath priority="0" stretch="true">PlatformBannerImage</MediaPath>
+      <MediaPath priority="1" stretch="false">PlatformVideo</MediaPath>
+      <MediaPath priority="2" stretch="false">PlatformMarqueeVideo</MediaPath>
+    </PlatformMediaPaths>
+    <GameMediaPaths>
+      <MediaPath priority="0" stretch="false">Arcade - Controls Information</MediaPath>
+      <MediaPath priority="1" stretch="false">Trailer</MediaPath>
+      <MediaPath priority="2" stretch="false">Box - Front and Back</MediaPath>
+      <MediaPath priority="3" stretch="false">Screenshot - Gameplay</MediaPath>
+      <MediaPath priority="4" stretch="false">Screenshot - Game Title</MediaPath>
+      <MediaPath priority="5" stretch="false">Advertisement Flyer - Front</MediaPath>
+      <MediaPath priority="6" stretch="false">Fanart - Background</MediaPath>
+      <MediaPath priority="7" stretch="false">Video Snap</MediaPath>
+    </GameMediaPaths>
+  </ScreenSettings>
+  <ScreenSettings>
+    <Name>Control Panel (Right)</Name>
+    <Enabled>true</Enabled>
+    <Display>Intel(R) UHD Graphics, Port UID20530</Display>
+    <MarqueeScreenCompatibilityMode>None</MarqueeScreenCompatibilityMode>
+    <StartupStretch>true</StartupStretch>
+    <BlurFill>false</BlurFill>
+    <PlatformMediaPaths>
+      <MediaPath priority="0" stretch="true">PlatformMarqueeVideo</MediaPath>
+      <MediaPath priority="1" stretch="true">PlatformBannerImage</MediaPath>
+      <MediaPath priority="2" stretch="false">PlatformClearLogoImage</MediaPath>
+      <MediaPath priority="3" stretch="false">Clear Logo</MediaPath>
+    </PlatformMediaPaths>
+    <GameMediaPaths>
+      <MediaPath priority="0" stretch="false">Video Snap</MediaPath>
+      <MediaPath priority="1" stretch="false">Theme Video</MediaPath>
+      <MediaPath priority="2" stretch="false">Screenshot - Gameplay</MediaPath>
+      <MediaPath priority="3" stretch="false">Arcade - Control Panel</MediaPath>
+      <MediaPath priority="4" stretch="false">Arcade - Controls Information</MediaPath>
+      <MediaPath priority="5" stretch="false">Advertisement Flyer - Back</MediaPath>
+      <MediaPath priority="6" stretch="false">Fanart - Background</MediaPath>
+      <MediaPath priority="7" stretch="false">Clear Logo</MediaPath>
+    </GameMediaPaths>
+  </ScreenSettings>
+  <ScreenSettings>
+    <Name>Topper</Name>
+    <Enabled>true</Enabled>
+    <Display>Trigger 6 External Graphics, Port UID257</Display>
+    <MarqueeScreenCompatibilityMode>None</MarqueeScreenCompatibilityMode>
+    <StartupStretch>false</StartupStretch>
+    <BlurFill>false</BlurFill>
+    <PlatformMediaPaths>
+      <MediaPath priority="0" stretch="false">PlatformDeviceImage</MediaPath>
+      <MediaPath priority="1" stretch="true">PlatformMarqueeVideo</MediaPath>
+      <MediaPath priority="2" stretch="true">PlatformBannerImage</MediaPath>
+      <MediaPath priority="3" stretch="false">PlatformClearLogoImage</MediaPath>
+    </PlatformMediaPaths>
+    <GameMediaPaths>
+      <MediaPath priority="0" stretch="true">Recording</MediaPath>
+      <MediaPath priority="1" stretch="true">Screenshot - High Scores</MediaPath>
+      <MediaPath priority="2" stretch="true">Video Snap</MediaPath>
+      <MediaPath priority="3" stretch="false">PlatformMarqueeVideo</MediaPath>
+      <MediaPath priority="4" stretch="false">Advertisement Flyer - Front</MediaPath>
+      <MediaPath priority="5" stretch="false">Advertisement Flyer - Back</MediaPath>
+      <MediaPath priority="6" stretch="true">PlatformBannerImage</MediaPath>
+      <MediaPath priority="7" stretch="false">PlatformClearLogoImage</MediaPath>
+      <MediaPath priority="8" stretch="true">Marquee</MediaPath>
+      <MediaPath priority="9" stretch="true">Arcade - Marquee</MediaPath>
+      <MediaPath priority="10" stretch="true">Banner</MediaPath>
+      <MediaPath priority="11" stretch="true">Steam Banner</MediaPath>
+      <MediaPath priority="12" stretch="false">Clear Logo</MediaPath>
+    </GameMediaPaths>
+  </ScreenSettings>
+  <ScreenSettings>
+    <Name>Arcooda Top</Name>
+    <Enabled>true</Enabled>
+    <Display>NVIDIA GeForce RTX 3070, Port UID4353</Display>
+    <MarqueeScreenCompatibilityMode>None</MarqueeScreenCompatibilityMode>
+    <StartupStretch>true</StartupStretch>
+    <BlurFill>false</BlurFill>
+    <PlatformMediaPaths>
+      <MediaPath priority="0" stretch="true">PlatformMarqueeVideo</MediaPath>
+      <MediaPath priority="1" stretch="true">PlatformVideo</MediaPath>
+      <MediaPath priority="2" stretch="false">PlatformBannerImage</MediaPath>
+      <MediaPath priority="3" stretch="false">PlatformClearLogoImage</MediaPath>
+    </PlatformMediaPaths>
+    <GameMediaPaths>
+      <MediaPath priority="0" stretch="true">Trailer</MediaPath>
+      <MediaPath priority="1" stretch="false">Clear Logo</MediaPath>
+    </GameMediaPaths>
+  </ScreenSettings>
+  <ScreenSettings>
+    <Name>Arcooda Bottom</Name>
+    <Enabled>true</Enabled>
+    <Display>Trigger 6 External Graphics, Port UID256</Display>
+    <MarqueeScreenCompatibilityMode>None</MarqueeScreenCompatibilityMode>
+    <StartupStretch>true</StartupStretch>
+    <BlurFill>false</BlurFill>
+    <PlatformMediaPaths>
+      <MediaPath priority="0" stretch="true">PlatformMarqueeVideo</MediaPath>
+      <MediaPath priority="1" stretch="true">PlatformBannerImage</MediaPath>
+      <MediaPath priority="2" stretch="false">PlatformClearLogoImage</MediaPath>
+      <MediaPath priority="3" stretch="false">Clear Logo</MediaPath>
+    </PlatformMediaPaths>
+    <GameMediaPaths>
+      <MediaPath priority="0" stretch="false">PlatformMarqueeVideo</MediaPath>
+      <MediaPath priority="1" stretch="false">PlatformBannerImage</MediaPath>
+      <MediaPath priority="2" stretch="false">PlatformClearLogoImage</MediaPath>
+      <MediaPath priority="3" stretch="true">Marquee</MediaPath>
+      <MediaPath priority="4" stretch="true">Arcade - Marquee</MediaPath>
+      <MediaPath priority="5" stretch="true">Banner</MediaPath>
+      <MediaPath priority="6" stretch="true">Steam Banner</MediaPath>
+      <MediaPath priority="7" stretch="false">Clear Logo</MediaPath>
+    </GameMediaPaths>
+  </ScreenSettings>
+</ThirdScreenPlugin>

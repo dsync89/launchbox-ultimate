@@ -1,0 +1,5671 @@
+<?xml version="1.0" standalone="yes"?>
+<LaunchBox>
+  <Parent>
+    <PlatformName />
+    <PlaylistId>f3649d25-5709-47d0-b2c1-d85b6277fa25</PlaylistId>
+    <PlatformCategoryName />
+    <ParentPlatformName />
+    <ParentPlaylistId />
+    <ParentPlatformCategoryName>Arcade</ParentPlatformCategoryName>
+  </Parent>
+  <Parent>
+    <PlatformName>Sega Model 3</PlatformName>
+    <PlaylistId />
+    <PlatformCategoryName />
+    <ParentPlatformName />
+    <ParentPlaylistId />
+    <ParentPlatformCategoryName>Arcade Classics (By System)</ParentPlatformCategoryName>
+  </Parent>
+  <Parent>
+    <PlatformName>Watara Supervision</PlatformName>
+    <PlaylistId />
+    <PlatformCategoryName />
+    <ParentPlatformName />
+    <ParentPlaylistId />
+    <ParentPlatformCategoryName>Handhelds</ParentPlatformCategoryName>
+  </Parent>
+  <Parent>
+    <PlatformName>Commodore 64 Demoscene</PlatformName>
+    <PlaylistId />
+    <PlatformCategoryName />
+    <ParentPlatformName />
+    <ParentPlaylistId />
+    <ParentPlatformCategoryName>C64 Dreams</ParentPlatformCategoryName>
+  </Parent>
+  <Parent>
+    <PlatformName>Sega Nu</PlatformName>
+    <PlaylistId />
+    <PlatformCategoryName />
+    <ParentPlatformName />
+    <ParentPlaylistId />
+    <ParentPlatformCategoryName>Arcade PC</ParentPlatformCategoryName>
+  </Parent>
+  <Parent>
+    <PlatformName>Nintendo Wii</PlatformName>
+    <PlaylistId />
+    <PlatformCategoryName />
+    <ParentPlatformName />
+    <ParentPlaylistId />
+    <ParentPlatformCategoryName>Consoles</ParentPlatformCategoryName>
+  </Parent>
+  <Parent>
+    <PlatformName />
+    <PlaylistId>2d25ceb1-40df-4a78-80fc-5856c9127800</PlaylistId>
+    <PlatformCategoryName />
+    <ParentPlatformName />
+    <ParentPlaylistId />
+    <ParentPlatformCategoryName />
+  </Parent>
+  <Parent>
+    <PlatformName />
+    <PlaylistId>5720eb7d-95b0-4663-9354-ccd52bbfb177</PlaylistId>
+    <PlatformCategoryName />
+    <ParentPlatformName />
+    <ParentPlaylistId />
+    <ParentPlatformCategoryName>Series Collection</ParentPlatformCategoryName>
+  </Parent>
+  <Parent>
+    <PlatformName>SNK Neo Geo CD</PlatformName>
+    <PlaylistId />
+    <PlatformCategoryName />
+    <ParentPlatformName />
+    <ParentPlaylistId />
+    <ParentPlatformCategoryName>Consoles</ParentPlatformCategoryName>
+  </Parent>
+  <Parent>
+    <PlatformName />
+    <PlaylistId>af599ad4-f460-495e-a626-4b29971dcb21</PlaylistId>
+    <PlatformCategoryName />
+    <ParentPlatformName />
+    <ParentPlaylistId />
+    <ParentPlatformCategoryName />
+  </Parent>
+  <Parent>
+    <PlatformName>Sony PSP [T-En]</PlatformName>
+    <ParentPlatformCategoryName>Translated En</ParentPlatformCategoryName>
+  </Parent>
+  <Parent>
+    <PlaylistId>52efbe08-0600-46bc-8c8d-d1c105f2f109</PlaylistId>
+    <ParentPlatformName>NEC PC-9801</ParentPlatformName>
+  </Parent>
+  <Parent>
+    <PlatformName />
+    <PlaylistId>655568a8-3a30-4522-bce9-43f8e49c7a05</PlaylistId>
+    <PlatformCategoryName />
+    <ParentPlatformName />
+    <ParentPlaylistId />
+    <ParentPlatformCategoryName />
+  </Parent>
+  <Parent>
+    <PlatformName>SNK Neo Geo Pocket Color [T-En]</PlatformName>
+    <ParentPlatformCategoryName>Translated En</ParentPlatformCategoryName>
+  </Parent>
+  <Parent>
+    <PlatformName>NESiCAxLive 2</PlatformName>
+    <PlaylistId />
+    <PlatformCategoryName />
+    <ParentPlatformName />
+    <ParentPlaylistId />
+    <ParentPlatformCategoryName>Arcade PC</ParentPlatformCategoryName>
+  </Parent>
+  <Parent>
+    <PlaylistId>f44de95b-aae7-4b1a-a7d4-c1d1e69d920d</PlaylistId>
+    <ParentPlatformName>NEC PC-9801</ParentPlatformName>
+  </Parent>
+  <Parent>
+    <PlatformName>Sega Dreamcast</PlatformName>
+    <PlaylistId />
+    <PlatformCategoryName />
+    <ParentPlatformName />
+    <ParentPlaylistId />
+    <ParentPlatformCategoryName>Consoles</ParentPlatformCategoryName>
+  </Parent>
+  <Parent>
+    <PlatformName />
+    <PlaylistId />
+    <PlatformCategoryName>Flashpoint Playlists</PlatformCategoryName>
+    <ParentPlatformName />
+    <ParentPlaylistId />
+    <ParentPlatformCategoryName>Flashpoint</ParentPlatformCategoryName>
+  </Parent>
+  <Parent>
+    <PlatformName>Visual Pinball [VPX] Original Tables [MODs, HACKs]</PlatformName>
+    <PlaylistId />
+    <PlatformCategoryName />
+    <ParentPlatformName />
+    <ParentPlaylistId />
+    <ParentPlatformCategoryName>Visual Pinball</ParentPlatformCategoryName>
+  </Parent>
+  <Parent>
+    <PlatformName />
+    <PlaylistId>1328a7fa-4e99-40ff-837e-3747a9e816d9</PlaylistId>
+    <PlatformCategoryName />
+    <ParentPlatformName />
+    <ParentPlaylistId />
+    <ParentPlatformCategoryName />
+  </Parent>
+  <Parent>
+    <PlaylistId>33b92d9f-5af7-47e4-9df1-99d95a2d2ce1</PlaylistId>
+    <ParentPlatformName>Nintendo DS</ParentPlatformName>
+  </Parent>
+  <Parent>
+    <PlatformName>Bandai WonderSwan [T-En]</PlatformName>
+    <ParentPlatformCategoryName>Translated En</ParentPlatformCategoryName>
+  </Parent>
+  <Parent>
+    <PlaylistId>46f0359e-a7c2-4c91-94ca-3f749b19beb6</PlaylistId>
+    <ParentPlatformName>Fujitsu FM Towns</ParentPlatformName>
+  </Parent>
+  <Parent>
+    <PlatformName />
+    <PlaylistId>67da5fe3-0454-41ce-a29b-1cdf1fbbb265</PlaylistId>
+    <PlatformCategoryName />
+    <ParentPlatformName />
+    <ParentPlaylistId />
+    <ParentPlatformCategoryName />
+  </Parent>
+  <Parent>
+    <PlaylistId>ca601ca9-3db7-4078-8290-5ffce8f89156</PlaylistId>
+    <ParentPlatformName>NEC PC-9801</ParentPlatformName>
+  </Parent>
+  <Parent>
+    <PlatformName />
+    <PlaylistId>1c18044a-fe5f-4f4c-b119-bf978336a3d7</PlaylistId>
+    <PlatformCategoryName />
+    <ParentPlatformName />
+    <ParentPlaylistId />
+    <ParentPlatformCategoryName>Pinball</ParentPlatformCategoryName>
+  </Parent>
+  <Parent>
+    <PlaylistId>8057b0d2-a7b5-4318-9612-343e640a8bfd</PlaylistId>
+    <ParentPlatformName>Fujitsu FM Towns</ParentPlatformName>
+  </Parent>
+  <Parent>
+    <PlatformName />
+    <PlaylistId>b8251f00-789d-421d-8781-3a2f1e155572</PlaylistId>
+    <PlatformCategoryName />
+    <ParentPlatformName />
+    <ParentPlaylistId />
+    <ParentPlatformCategoryName>Nintendo Super Nintendo Entertainment System Genres</ParentPlatformCategoryName>
+  </Parent>
+  <Parent>
+    <PlatformName>Sega SG-1000</PlatformName>
+    <PlaylistId />
+    <PlatformCategoryName />
+    <ParentPlatformName />
+    <ParentPlaylistId />
+    <ParentPlatformCategoryName>Consoles</ParentPlatformCategoryName>
+  </Parent>
+  <Parent>
+    <PlatformName>Interton VC 4000</PlatformName>
+    <PlaylistId />
+    <PlatformCategoryName />
+    <ParentPlatformName />
+    <ParentPlaylistId />
+    <ParentPlatformCategoryName>Consoles</ParentPlatformCategoryName>
+  </Parent>
+  <Parent>
+    <PlatformName />
+    <PlaylistId>161aaa27-3b9e-4616-b6bd-2f58eabedc3c</PlaylistId>
+    <PlatformCategoryName />
+    <ParentPlatformName />
+    <ParentPlaylistId />
+    <ParentPlatformCategoryName>Nintendo Super Nintendo Entertainment System Genres</ParentPlatformCategoryName>
+  </Parent>
+  <Parent>
+    <PlatformName />
+    <PlaylistId>29f142ef-933b-433a-a88d-475f27d3e937</PlaylistId>
+    <PlatformCategoryName />
+    <ParentPlatformName />
+    <ParentPlaylistId />
+    <ParentPlatformCategoryName />
+  </Parent>
+  <Parent>
+    <PlatformName>EXAMU Ex-Board</PlatformName>
+    <PlaylistId />
+    <PlatformCategoryName />
+    <ParentPlatformName />
+    <ParentPlaylistId />
+    <ParentPlatformCategoryName>Arcade PC</ParentPlatformCategoryName>
+  </Parent>
+  <Parent>
+    <PlatformName />
+    <PlaylistId>ed545222-ffaa-4ec9-af3c-e69063bd5a79</PlaylistId>
+    <PlatformCategoryName />
+    <ParentPlatformName />
+    <ParentPlaylistId />
+    <ParentPlatformCategoryName />
+  </Parent>
+  <Parent>
+    <PlatformName>Nintendo DS</PlatformName>
+    <PlaylistId />
+    <PlatformCategoryName />
+    <ParentPlatformName />
+    <ParentPlaylistId />
+    <ParentPlatformCategoryName>Handhelds</ParentPlatformCategoryName>
+  </Parent>
+  <Parent>
+    <PlatformName />
+    <PlaylistId>224bfe4e-07e9-411f-9f56-b20f1ad97402</PlaylistId>
+    <PlatformCategoryName />
+    <ParentPlatformName />
+    <ParentPlaylistId />
+    <ParentPlatformCategoryName>Series Collection</ParentPlatformCategoryName>
+  </Parent>
+  <Parent>
+    <PlatformName>NESiCAxLive</PlatformName>
+    <PlaylistId />
+    <PlatformCategoryName />
+    <ParentPlatformName />
+    <ParentPlaylistId />
+    <ParentPlatformCategoryName>Arcade PC</ParentPlatformCategoryName>
+  </Parent>
+  <Parent>
+    <PlaylistId>efc530c7-c33f-49b5-ac87-4adf3f774c06</PlaylistId>
+    <ParentPlatformName>NEC PC-8801</ParentPlatformName>
+  </Parent>
+  <Parent>
+    <PlatformName>Coastal Amusements</PlatformName>
+    <PlaylistId />
+    <PlatformCategoryName />
+    <ParentPlatformName />
+    <ParentPlaylistId />
+    <ParentPlatformCategoryName>Arcade PC</ParentPlatformCategoryName>
+  </Parent>
+  <Parent>
+    <PlatformName>Windows</PlatformName>
+    <PlaylistId />
+    <PlatformCategoryName />
+    <ParentPlatformName />
+    <ParentPlaylistId />
+    <ParentPlatformCategoryName>Computers</ParentPlatformCategoryName>
+  </Parent>
+  <Parent>
+    <PlatformName>Sony Playstation 2 [T-En]</PlatformName>
+    <PlaylistId />
+    <PlatformCategoryName />
+    <ParentPlatformName />
+    <ParentPlaylistId />
+    <ParentPlatformCategoryName>Translated En</ParentPlatformCategoryName>
+  </Parent>
+  <Parent>
+    <PlaylistId>e5a4ac3e-7b53-48fa-9bb3-ee24db3ff36c</PlaylistId>
+    <ParentPlatformName>Fujitsu FM Towns</ParentPlatformName>
+  </Parent>
+  <Parent>
+    <PlatformName />
+    <PlaylistId>a436d173-5901-4961-b068-96d7d7e76e3a</PlaylistId>
+    <PlatformCategoryName />
+    <ParentPlatformName />
+    <ParentPlaylistId />
+    <ParentPlatformCategoryName>Series Collection</ParentPlatformCategoryName>
+  </Parent>
+  <Parent>
+    <PlatformName />
+    <PlaylistId>63a1ac89-54b9-4b09-a277-2bee75f4ceca</PlaylistId>
+    <PlatformCategoryName />
+    <ParentPlatformName />
+    <ParentPlaylistId />
+    <ParentPlatformCategoryName />
+  </Parent>
+  <Parent>
+    <PlatformName>BitPlayer</PlatformName>
+    <PlaylistId />
+    <PlatformCategoryName />
+    <ParentPlatformName />
+    <ParentPlaylistId />
+    <ParentPlatformCategoryName>Flashpoint Platforms</ParentPlatformCategoryName>
+  </Parent>
+  <Parent>
+    <PlatformName />
+    <PlaylistId>b09044f7-b6bf-4dd2-bfcf-ef5bdce9fa74</PlaylistId>
+    <PlatformCategoryName />
+    <ParentPlatformName />
+    <ParentPlaylistId />
+    <ParentPlatformCategoryName />
+  </Parent>
+  <Parent>
+    <PlatformName />
+    <PlaylistId>f6c64e65-c8eb-4874-8961-f9689fe8e70a</PlaylistId>
+    <PlatformCategoryName />
+    <ParentPlatformName />
+    <ParentPlaylistId />
+    <ParentPlatformCategoryName>Arcade</ParentPlatformCategoryName>
+  </Parent>
+  <Parent>
+    <PlatformName>Shockwave</PlatformName>
+    <PlaylistId />
+    <PlatformCategoryName />
+    <ParentPlatformName />
+    <ParentPlaylistId />
+    <ParentPlatformCategoryName>Flashpoint Platforms</ParentPlatformCategoryName>
+  </Parent>
+  <Parent>
+    <PlatformName>Nintendo Game Boy Color [T-En]</PlatformName>
+    <ParentPlatformCategoryName>Translated En</ParentPlatformCategoryName>
+  </Parent>
+  <Parent>
+    <PlatformName />
+    <PlaylistId>03926cfa-452d-454d-a558-2b48aade2817</PlaylistId>
+    <PlatformCategoryName />
+    <ParentPlatformName />
+    <ParentPlaylistId />
+    <ParentPlatformCategoryName />
+  </Parent>
+  <Parent>
+    <PlatformName>American Laser Games</PlatformName>
+    <PlaylistId />
+    <PlatformCategoryName />
+    <ParentPlatformName />
+    <ParentPlaylistId />
+    <ParentPlatformCategoryName>Light Gun</ParentPlatformCategoryName>
+  </Parent>
+  <Parent>
+    <PlatformName />
+    <PlaylistId>055a8db5-c4a4-401a-8f36-7e644ccd2e79</PlaylistId>
+    <PlatformCategoryName />
+    <ParentPlatformName />
+    <ParentPlaylistId />
+    <ParentPlatformCategoryName />
+  </Parent>
+  <Parent>
+    <PlatformName />
+    <PlaylistId>3496fce8-e248-4879-b2f7-5abeea5a7ea0</PlaylistId>
+    <PlatformCategoryName />
+    <ParentPlatformName />
+    <ParentPlaylistId />
+    <ParentPlatformCategoryName />
+  </Parent>
+  <Parent>
+    <PlatformName />
+    <PlaylistId>cffbfb57-761d-4c07-82e7-d3a4426ccb28</PlaylistId>
+    <PlatformCategoryName />
+    <ParentPlatformName />
+    <ParentPlaylistId />
+    <ParentPlatformCategoryName>Series Collection</ParentPlatformCategoryName>
+  </Parent>
+  <Parent>
+    <PlatformName />
+    <PlaylistId>c74c6c52-dae6-4122-8979-cdd6de6651a5</PlaylistId>
+    <PlatformCategoryName />
+    <ParentPlatformName />
+    <ParentPlaylistId />
+    <ParentPlatformCategoryName />
+  </Parent>
+  <Parent>
+    <PlatformName>Microsoft MSX</PlatformName>
+    <PlaylistId />
+    <PlatformCategoryName />
+    <ParentPlatformName />
+    <ParentPlaylistId />
+    <ParentPlatformCategoryName>Computers</ParentPlatformCategoryName>
+  </Parent>
+  <Parent>
+    <PlaylistId>b76dfe6b-2ec4-4b0b-8f53-542caa8961a0</PlaylistId>
+    <ParentPlatformName>NEC PC-9801</ParentPlatformName>
+  </Parent>
+  <Parent>
+    <PlatformName />
+    <PlaylistId>2d90692e-69b2-4fd4-a9fc-9fcc1813b0ed</PlaylistId>
+    <PlatformCategoryName />
+    <ParentPlatformName>Nintendo Super Nintendo Entertainment System</ParentPlatformName>
+    <ParentPlaylistId />
+    <ParentPlatformCategoryName />
+  </Parent>
+  <Parent>
+    <PlatformName />
+    <PlaylistId>fab29c5d-85c9-4f22-93f7-94b32038cab2</PlaylistId>
+    <PlatformCategoryName />
+    <ParentPlatformName />
+    <ParentPlaylistId />
+    <ParentPlatformCategoryName>Series Collection</ParentPlatformCategoryName>
+  </Parent>
+  <Parent>
+    <PlatformName>Global VR PC-Based</PlatformName>
+    <PlaylistId />
+    <PlatformCategoryName />
+    <ParentPlatformName />
+    <ParentPlaylistId />
+    <ParentPlatformCategoryName>Arcade PC</ParentPlatformCategoryName>
+  </Parent>
+  <Parent>
+    <PlaylistId>497bcc40-1ef6-4a40-93a1-0ae2c9733f07</PlaylistId>
+    <ParentPlatformName>NEC PC-9801</ParentPlatformName>
+  </Parent>
+  <Parent>
+    <PlatformName />
+    <PlaylistId>9b36f549-6dbf-4d8a-9304-2d74baf61346</PlaylistId>
+    <PlatformCategoryName />
+    <ParentPlatformName />
+    <ParentPlaylistId />
+    <ParentPlatformCategoryName />
+  </Parent>
+  <Parent>
+    <PlatformName />
+    <PlaylistId>d661eb67-7c67-4312-9156-4b33d78553a0</PlaylistId>
+    <PlatformCategoryName />
+    <ParentPlatformName />
+    <ParentPlaylistId />
+    <ParentPlatformCategoryName>Series Collection</ParentPlatformCategoryName>
+  </Parent>
+  <Parent>
+    <PlatformName />
+    <PlaylistId>d2f9b276-7640-41da-bf45-48e48821244b</PlaylistId>
+    <PlatformCategoryName />
+    <ParentPlatformName />
+    <ParentPlaylistId />
+    <ParentPlatformCategoryName>Series Collection</ParentPlatformCategoryName>
+  </Parent>
+  <Parent>
+    <PlatformName />
+    <PlaylistId>75d5c77b-5874-4044-b48c-6c4e74b07cd0</PlaylistId>
+    <PlatformCategoryName />
+    <ParentPlatformName />
+    <ParentPlaylistId />
+    <ParentPlatformCategoryName>NEC SuperGrafx Genres</ParentPlatformCategoryName>
+  </Parent>
+  <Parent>
+    <PlatformName />
+    <PlaylistId>6b914680-d003-401f-8c20-459a4ceccf6d</PlaylistId>
+    <PlatformCategoryName />
+    <ParentPlatformName />
+    <ParentPlaylistId />
+    <ParentPlatformCategoryName>Nintendo Super Nintendo Entertainment System Genres</ParentPlatformCategoryName>
+  </Parent>
+  <Parent>
+    <PlatformName />
+    <PlaylistId>a746949d-d669-4600-8c86-86b321be89ef</PlaylistId>
+    <PlatformCategoryName />
+    <ParentPlatformName />
+    <ParentPlaylistId />
+    <ParentPlatformCategoryName />
+  </Parent>
+  <Parent>
+    <PlatformName />
+    <PlaylistId>2f3cc33b-83a0-424a-a915-ce5a59f37452</PlaylistId>
+    <PlatformCategoryName />
+    <ParentPlatformName />
+    <ParentPlaylistId />
+    <ParentPlatformCategoryName />
+  </Parent>
+  <Parent>
+    <PlaylistId>ddc9291a-0123-4575-9fe2-92754cdf1416</PlaylistId>
+    <ParentPlatformName>NEC PC-9801</ParentPlatformName>
+  </Parent>
+  <Parent>
+    <PlatformName />
+    <PlaylistId>ab6d7133-b549-4c86-b696-66fe12c60db3</PlaylistId>
+    <PlatformCategoryName />
+    <ParentPlatformName />
+    <ParentPlaylistId />
+    <ParentPlatformCategoryName />
+  </Parent>
+  <Parent>
+    <PlatformName>Casio PV-1000</PlatformName>
+    <PlaylistId />
+    <PlatformCategoryName />
+    <ParentPlatformName />
+    <ParentPlaylistId />
+    <ParentPlatformCategoryName>Consoles</ParentPlatformCategoryName>
+  </Parent>
+  <Parent>
+    <PlatformName />
+    <PlaylistId>a3039ff9-2fd3-4fe6-aa0c-fe81aae676ee</PlaylistId>
+    <PlatformCategoryName />
+    <ParentPlatformName />
+    <ParentPlaylistId />
+    <ParentPlatformCategoryName>Series Collection</ParentPlatformCategoryName>
+  </Parent>
+  <Parent>
+    <PlatformName />
+    <PlaylistId>58e87dfd-9285-4957-821c-4f390cb925b5</PlaylistId>
+    <PlatformCategoryName />
+    <ParentPlatformName />
+    <ParentPlaylistId />
+    <ParentPlatformCategoryName />
+  </Parent>
+  <Parent>
+    <PlatformName />
+    <PlaylistId>c03f978d-4bd1-4c65-9175-41012d556dcc</PlaylistId>
+    <PlatformCategoryName />
+    <ParentPlatformName />
+    <ParentPlaylistId />
+    <ParentPlatformCategoryName>Series Collection</ParentPlatformCategoryName>
+  </Parent>
+  <Parent>
+    <PlatformName />
+    <PlaylistId>0f2437ad-8ddd-40d5-93d5-f9b47cdf737d</PlaylistId>
+    <PlatformCategoryName />
+    <ParentPlatformName />
+    <ParentPlaylistId />
+    <ParentPlatformCategoryName>Genres</ParentPlatformCategoryName>
+  </Parent>
+  <Parent>
+    <PlaylistId>8376cb1c-bc72-4850-8ce8-d50de565fe76</PlaylistId>
+    <ParentPlatformName>NEC PC-8801</ParentPlatformName>
+  </Parent>
+  <Parent>
+    <PlaylistId>220bcfdb-ec56-47a8-8ac4-61a7fe2688c1</PlaylistId>
+    <ParentPlatformName>Fujitsu FM-7</ParentPlatformName>
+  </Parent>
+  <Parent>
+    <PlatformName />
+    <PlaylistId>626781c7-a912-436e-a9f2-7507d1f65806</PlaylistId>
+    <PlatformCategoryName />
+    <ParentPlatformName />
+    <ParentPlaylistId />
+    <ParentPlatformCategoryName>By Theme</ParentPlatformCategoryName>
+  </Parent>
+  <Parent>
+    <PlatformName />
+    <PlaylistId />
+    <PlatformCategoryName>Future Pinball</PlatformCategoryName>
+    <ParentPlatformName />
+    <ParentPlaylistId />
+    <ParentPlatformCategoryName>Pinball</ParentPlatformCategoryName>
+  </Parent>
+  <Parent>
+    <PlatformName />
+    <PlaylistId>cd618e90-8a38-4a53-9115-cd00e6286d2c</PlaylistId>
+    <PlatformCategoryName />
+    <ParentPlatformName />
+    <ParentPlaylistId />
+    <ParentPlatformCategoryName />
+  </Parent>
+  <Parent>
+    <PlatformName />
+    <PlaylistId>3552d20a-9cd6-46bd-9eeb-50666e4fce9f</PlaylistId>
+    <PlatformCategoryName />
+    <ParentPlatformName />
+    <ParentPlaylistId />
+    <ParentPlatformCategoryName />
+  </Parent>
+  <Parent>
+    <PlatformName />
+    <PlaylistId>0d8df871-3747-4688-a4fd-96e19f89b1ea</PlaylistId>
+    <PlatformCategoryName />
+    <ParentPlatformName />
+    <ParentPlaylistId />
+    <ParentPlatformCategoryName />
+  </Parent>
+  <Parent>
+    <PlaylistId>84d13cab-dbad-4567-9bdf-b8309721526d</PlaylistId>
+    <ParentPlatformName>Nintendo DS</ParentPlatformName>
+  </Parent>
+  <Parent>
+    <PlaylistId>62a990ec-3ac6-4416-a49e-e9898f07a019</PlaylistId>
+    <ParentPlatformName>Fujitsu FM-7</ParentPlatformName>
+  </Parent>
+  <Parent>
+    <PlatformName />
+    <PlaylistId>f618c369-318d-4fc0-8669-af16672feea1</PlaylistId>
+    <PlatformCategoryName />
+    <ParentPlatformName />
+    <ParentPlaylistId />
+    <ParentPlatformCategoryName />
+  </Parent>
+  <Parent>
+    <PlatformName>Visual Pinball [VPX] Original Tables</PlatformName>
+    <PlaylistId />
+    <PlatformCategoryName />
+    <ParentPlatformName />
+    <ParentPlaylistId />
+    <ParentPlatformCategoryName>Visual Pinball</ParentPlatformCategoryName>
+  </Parent>
+  <Parent>
+    <PlatformName>Casio Loopy</PlatformName>
+    <PlaylistId />
+    <PlatformCategoryName />
+    <ParentPlatformName />
+    <ParentPlaylistId />
+    <ParentPlatformCategoryName>Consoles</ParentPlatformCategoryName>
+  </Parent>
+  <Parent>
+    <PlatformName />
+    <PlaylistId>a73c650f-887a-431b-99bd-5dad40c45474</PlaylistId>
+    <PlatformCategoryName />
+    <ParentPlatformName />
+    <ParentPlaylistId />
+    <ParentPlatformCategoryName>Nintendo Super Nintendo Entertainment System Genres</ParentPlatformCategoryName>
+  </Parent>
+  <Parent>
+    <PlatformName>Coast To Coast Entertainment PC-Based</PlatformName>
+    <PlaylistId />
+    <PlatformCategoryName />
+    <ParentPlatformName />
+    <ParentPlaylistId />
+    <ParentPlatformCategoryName>Arcade PC</ParentPlatformCategoryName>
+  </Parent>
+  <Parent>
+    <PlatformName />
+    <PlaylistId>9241308c-72b4-4cf9-ab79-3f130993b8c2</PlaylistId>
+    <PlatformCategoryName />
+    <ParentPlatformName />
+    <ParentPlaylistId />
+    <ParentPlatformCategoryName>Series Collection</ParentPlatformCategoryName>
+  </Parent>
+  <Parent>
+    <PlatformName />
+    <PlaylistId />
+    <PlatformCategoryName>LaserDisc Arcade</PlatformCategoryName>
+    <ParentPlatformName />
+    <ParentPlaylistId />
+    <ParentPlatformCategoryName />
+  </Parent>
+  <Parent>
+    <PlatformName />
+    <PlaylistId>ef94a82c-0bab-49c1-9801-90803b1c6d3d</PlaylistId>
+    <PlatformCategoryName />
+    <ParentPlatformName />
+    <ParentPlaylistId />
+    <ParentPlatformCategoryName>Series Collection</ParentPlatformCategoryName>
+  </Parent>
+  <Parent>
+    <PlatformName />
+    <PlaylistId>c67f5823-1e0d-44de-ae78-fb10ab8beb8f</PlaylistId>
+    <PlatformCategoryName />
+    <ParentPlatformName />
+    <ParentPlaylistId />
+    <ParentPlatformCategoryName />
+  </Parent>
+  <Parent>
+    <PlatformName />
+    <PlaylistId>c4d2ab11-51d9-4539-84fc-9f80238ac270</PlaylistId>
+    <PlatformCategoryName />
+    <ParentPlatformName />
+    <ParentPlaylistId />
+    <ParentPlatformCategoryName />
+  </Parent>
+  <Parent>
+    <PlatformName />
+    <PlaylistId>89550b61-40db-4460-afcd-0f4f04671aa9</PlaylistId>
+    <PlatformCategoryName />
+    <ParentPlatformName />
+    <ParentPlaylistId />
+    <ParentPlatformCategoryName>Series Collection</ParentPlatformCategoryName>
+  </Parent>
+  <Parent>
+    <PlatformName />
+    <PlaylistId>8f405c2f-f4fa-4b2f-b3c2-54f396111379</PlaylistId>
+    <PlatformCategoryName />
+    <ParentPlatformName />
+    <ParentPlaylistId />
+    <ParentPlatformCategoryName />
+  </Parent>
+  <Parent>
+    <PlatformName />
+    <PlaylistId>9141421e-ff09-45c3-a52a-767f2c02496e</PlaylistId>
+    <PlatformCategoryName />
+    <ParentPlatformName />
+    <ParentPlaylistId />
+    <ParentPlatformCategoryName>Genres</ParentPlatformCategoryName>
+  </Parent>
+  <Parent>
+    <PlatformName />
+    <PlaylistId>f3b4848a-1d24-4b1c-96a7-475d4d9230dd</PlaylistId>
+    <PlatformCategoryName />
+    <ParentPlatformName />
+    <ParentPlaylistId />
+    <ParentPlatformCategoryName>Arcade</ParentPlatformCategoryName>
+  </Parent>
+  <Parent>
+    <PlatformName />
+    <PlaylistId>9126df60-5a6e-4b8f-8ac5-8be6dc8810af</PlaylistId>
+    <PlatformCategoryName />
+    <ParentPlatformName />
+    <ParentPlaylistId />
+    <ParentPlatformCategoryName>Nintendo Super Nintendo Entertainment System Genres</ParentPlatformCategoryName>
+  </Parent>
+  <Parent>
+    <PlatformName />
+    <PlaylistId>2126ac02-85a1-4f1a-9a7d-e5732e4a7ff6</PlaylistId>
+    <PlatformCategoryName />
+    <ParentPlatformName />
+    <ParentPlaylistId />
+    <ParentPlatformCategoryName />
+  </Parent>
+  <Parent>
+    <PlatformName />
+    <PlaylistId>ed57904d-21f2-4992-971a-4ac915d61c58</PlaylistId>
+    <PlatformCategoryName />
+    <ParentPlatformName />
+    <ParentPlaylistId />
+    <ParentPlatformCategoryName>Arcade PC (By Genre)</ParentPlatformCategoryName>
+  </Parent>
+  <Parent>
+    <PlatformName />
+    <PlaylistId>8cfbdb7a-7940-4245-a591-c9df896a1428</PlaylistId>
+    <PlatformCategoryName />
+    <ParentPlatformName />
+    <ParentPlaylistId />
+    <ParentPlatformCategoryName />
+  </Parent>
+  <Parent>
+    <PlatformName>Nintendo Virtual Boy [T-En]</PlatformName>
+    <PlaylistId />
+    <PlatformCategoryName />
+    <ParentPlatformName />
+    <ParentPlaylistId />
+    <ParentPlatformCategoryName>Translated En</ParentPlatformCategoryName>
+  </Parent>
+  <Parent>
+    <PlatformName>Sega Lindbergh Yellow</PlatformName>
+    <PlaylistId />
+    <PlatformCategoryName />
+    <ParentPlatformName />
+    <ParentPlaylistId />
+    <ParentPlatformCategoryName>Arcade PC</ParentPlatformCategoryName>
+  </Parent>
+  <Parent>
+    <PlatformName>Sega Dreamcast [T-En]</PlatformName>
+    <PlaylistId />
+    <PlatformCategoryName />
+    <ParentPlatformName />
+    <ParentPlaylistId />
+    <ParentPlatformCategoryName>Translated En</ParentPlatformCategoryName>
+  </Parent>
+  <Parent>
+    <PlatformName>VTech CreatiVision</PlatformName>
+    <PlaylistId />
+    <PlatformCategoryName />
+    <ParentPlatformName />
+    <ParentPlaylistId />
+    <ParentPlatformCategoryName>Consoles</ParentPlatformCategoryName>
+  </Parent>
+  <Parent>
+    <PlatformName>Taito Type X4</PlatformName>
+    <PlaylistId />
+    <PlatformCategoryName />
+    <ParentPlatformName />
+    <ParentPlaylistId />
+    <ParentPlatformCategoryName>Arcade PC</ParentPlatformCategoryName>
+  </Parent>
+  <Parent>
+    <PlatformName>Bandai WonderSwan</PlatformName>
+    <PlaylistId />
+    <PlatformCategoryName />
+    <ParentPlatformName />
+    <ParentPlaylistId />
+    <ParentPlatformCategoryName>Handhelds</ParentPlatformCategoryName>
+  </Parent>
+  <Parent>
+    <PlatformName>Nintendo Entertainment System</PlatformName>
+    <PlaylistId />
+    <PlatformCategoryName />
+    <ParentPlatformName />
+    <ParentPlaylistId />
+    <ParentPlatformCategoryName>Consoles</ParentPlatformCategoryName>
+  </Parent>
+  <Parent>
+    <PlaylistId>2e9a04f9-b0f2-4089-85b2-45704751db6e</PlaylistId>
+    <ParentPlatformName>Fujitsu FM Towns</ParentPlatformName>
+  </Parent>
+  <Parent>
+    <PlatformName>Sony Playstation 2</PlatformName>
+    <PlaylistId />
+    <PlatformCategoryName />
+    <ParentPlatformName />
+    <ParentPlaylistId />
+    <ParentPlatformCategoryName>Consoles</ParentPlatformCategoryName>
+  </Parent>
+  <Parent>
+    <PlatformName />
+    <PlaylistId>0ecc7d02-cf99-497c-8eeb-2705f2bf2da3</PlaylistId>
+    <PlatformCategoryName />
+    <ParentPlatformName />
+    <ParentPlaylistId />
+    <ParentPlatformCategoryName />
+  </Parent>
+  <Parent>
+    <PlatformName>Nintendo DS [T-En]</PlatformName>
+    <ParentPlatformCategoryName>Translated En</ParentPlatformCategoryName>
+  </Parent>
+  <Parent>
+    <PlatformName />
+    <PlaylistId>413b9565-2675-4c97-9e52-4cb61c6c75ad</PlaylistId>
+    <PlatformCategoryName />
+    <ParentPlatformName />
+    <ParentPlaylistId />
+    <ParentPlatformCategoryName>Series Collection</ParentPlatformCategoryName>
+  </Parent>
+  <Parent>
+    <PlaylistId>e24f13f7-9dbd-4a16-9b8f-7e012934610f</PlaylistId>
+    <ParentPlatformName>NEC PC-8801</ParentPlatformName>
+  </Parent>
+  <Parent>
+    <PlaylistId>ac272550-e610-4ea8-83b9-6a699e1c0280</PlaylistId>
+    <ParentPlatformName>Nintendo DS</ParentPlatformName>
+  </Parent>
+  <Parent>
+    <PlatformName>Funtech Super Acan</PlatformName>
+    <PlaylistId />
+    <PlatformCategoryName />
+    <ParentPlatformName />
+    <ParentPlaylistId />
+    <ParentPlatformCategoryName>Consoles</ParentPlatformCategoryName>
+  </Parent>
+  <Parent>
+    <PlatformName />
+    <PlaylistId>4480fe46-8328-4735-b3fd-175a0df164ef</PlaylistId>
+    <PlatformCategoryName />
+    <ParentPlatformName />
+    <ParentPlaylistId />
+    <ParentPlatformCategoryName />
+  </Parent>
+  <Parent>
+    <PlatformName />
+    <PlaylistId>93b6486d-5336-4064-94db-ff1b45c0c28d</PlaylistId>
+    <PlatformCategoryName />
+    <ParentPlatformName />
+    <ParentPlaylistId />
+    <ParentPlatformCategoryName />
+  </Parent>
+  <Parent>
+    <PlatformName />
+    <PlaylistId>5fdc5b10-6bcf-41db-b6a6-4565e1cabeec</PlaylistId>
+    <PlatformCategoryName />
+    <ParentPlatformName />
+    <ParentPlaylistId />
+    <ParentPlatformCategoryName />
+  </Parent>
+  <Parent>
+    <PlatformName />
+    <PlaylistId>c4d50d0d-e079-4d81-84ce-73e0c15926f6</PlaylistId>
+    <PlatformCategoryName />
+    <ParentPlatformName />
+    <ParentPlaylistId />
+    <ParentPlatformCategoryName />
+  </Parent>
+  <Parent>
+    <PlatformName>Taito Type X2</PlatformName>
+    <PlaylistId />
+    <PlatformCategoryName />
+    <ParentPlatformName />
+    <ParentPlaylistId />
+    <ParentPlatformCategoryName>Arcade PC</ParentPlatformCategoryName>
+  </Parent>
+  <Parent>
+    <PlatformName>HTML5</PlatformName>
+    <PlaylistId />
+    <PlatformCategoryName />
+    <ParentPlatformName />
+    <ParentPlaylistId />
+    <ParentPlatformCategoryName>Flashpoint Platforms</ParentPlatformCategoryName>
+  </Parent>
+  <Parent>
+    <PlatformName />
+    <PlaylistId>cf936583-fb0b-4a25-b45d-9836736595f7</PlaylistId>
+    <PlatformCategoryName />
+    <ParentPlatformName />
+    <ParentPlaylistId />
+    <ParentPlatformCategoryName>Arcade</ParentPlatformCategoryName>
+  </Parent>
+  <Parent>
+    <PlatformName />
+    <PlaylistId>b222d27b-c0be-483c-86c5-9f28a9fde94c</PlaylistId>
+    <PlatformCategoryName />
+    <ParentPlatformName />
+    <ParentPlaylistId />
+    <ParentPlatformCategoryName />
+  </Parent>
+  <Parent>
+    <PlatformName>3D Groove GX</PlatformName>
+    <PlaylistId />
+    <PlatformCategoryName />
+    <ParentPlatformName />
+    <ParentPlaylistId />
+    <ParentPlatformCategoryName>Flashpoint Platforms</ParentPlatformCategoryName>
+  </Parent>
+  <Parent>
+    <PlaylistId>975a1b1d-6b52-4cd8-a33c-27f01c153926</PlaylistId>
+    <ParentPlatformName>Fujitsu FM Towns</ParentPlatformName>
+  </Parent>
+  <Parent>
+    <PlatformName />
+    <PlaylistId>842453e7-877e-4aff-8667-a2a348494e84</PlaylistId>
+    <PlatformCategoryName />
+    <ParentPlatformName />
+    <ParentPlaylistId />
+    <ParentPlatformCategoryName />
+  </Parent>
+  <Parent>
+    <PlatformName>Sega SG-1000 [T-En]</PlatformName>
+    <PlaylistId />
+    <PlatformCategoryName />
+    <ParentPlatformName />
+    <ParentPlaylistId />
+    <ParentPlatformCategoryName>Translated En</ParentPlatformCategoryName>
+  </Parent>
+  <Parent>
+    <PlatformName>Taito Type X</PlatformName>
+    <PlaylistId />
+    <PlatformCategoryName />
+    <ParentPlatformName />
+    <ParentPlaylistId />
+    <ParentPlatformCategoryName>Arcade PC</ParentPlatformCategoryName>
+  </Parent>
+  <Parent>
+    <PlatformName />
+    <PlaylistId>13a2e08e-1145-4def-86e2-909d5704fedf</PlaylistId>
+    <PlatformCategoryName />
+    <ParentPlatformName />
+    <ParentPlaylistId />
+    <ParentPlatformCategoryName>Arcade</ParentPlatformCategoryName>
+  </Parent>
+  <Parent>
+    <PlatformName>Taito Type X+</PlatformName>
+    <PlaylistId />
+    <PlatformCategoryName />
+    <ParentPlatformName />
+    <ParentPlaylistId />
+    <ParentPlatformCategoryName>Arcade PC</ParentPlatformCategoryName>
+  </Parent>
+  <Parent>
+    <PlatformName />
+    <PlaylistId>919d9b97-1d88-4a05-8244-da209d9fdc75</PlaylistId>
+    <PlatformCategoryName />
+    <ParentPlatformName />
+    <ParentPlaylistId />
+    <ParentPlatformCategoryName>Arcade Classics (By Publisher)</ParentPlatformCategoryName>
+  </Parent>
+  <Parent>
+    <PlatformName />
+    <PlaylistId>6c9da174-ea73-4608-971a-31824a273397</PlaylistId>
+    <PlatformCategoryName />
+    <ParentPlatformName />
+    <ParentPlaylistId />
+    <ParentPlatformCategoryName />
+  </Parent>
+  <Parent>
+    <PlatformName />
+    <PlaylistId>4626af96-3cd2-4e14-b827-5e660956c595</PlaylistId>
+    <PlatformCategoryName />
+    <ParentPlatformName />
+    <ParentPlaylistId />
+    <ParentPlatformCategoryName />
+  </Parent>
+  <Parent>
+    <PlatformName />
+    <PlaylistId>594c8d0e-8332-42a7-b6b0-54c35856d109</PlaylistId>
+    <PlatformCategoryName />
+    <ParentPlatformName />
+    <ParentPlaylistId />
+    <ParentPlatformCategoryName />
+  </Parent>
+  <Parent>
+    <PlaylistId>41e25456-f761-4bba-a6d6-a2d1b1977913</PlaylistId>
+    <ParentPlatformName>Nintendo DS</ParentPlatformName>
+  </Parent>
+  <Parent>
+    <PlatformName />
+    <PlaylistId>c459a335-2de4-45e5-801c-031686ecf6fd</PlaylistId>
+    <PlatformCategoryName />
+    <ParentPlatformName />
+    <ParentPlaylistId />
+    <ParentPlatformCategoryName />
+  </Parent>
+  <Parent>
+    <PlatformName>Visual Pinball [VPX] Recreated Tables</PlatformName>
+    <PlaylistId />
+    <PlatformCategoryName />
+    <ParentPlatformName />
+    <ParentPlaylistId />
+    <ParentPlatformCategoryName>Visual Pinball</ParentPlatformCategoryName>
+  </Parent>
+  <Parent>
+    <PlatformName>SNK Neo Geo Pocket Color</PlatformName>
+    <PlaylistId />
+    <PlatformCategoryName />
+    <ParentPlatformName />
+    <ParentPlaylistId />
+    <ParentPlatformCategoryName>Handhelds</ParentPlatformCategoryName>
+  </Parent>
+  <Parent>
+    <PlatformName />
+    <PlaylistId>a997e890-a52d-4681-abac-e94d65e39e85</PlaylistId>
+    <PlatformCategoryName />
+    <ParentPlatformName />
+    <ParentPlaylistId />
+    <ParentPlatformCategoryName />
+  </Parent>
+  <Parent>
+    <PlatformName />
+    <PlaylistId>85fe659a-bfa1-446c-aca5-e5b990cd1d8d</PlaylistId>
+    <PlatformCategoryName />
+    <ParentPlatformName />
+    <ParentPlaylistId />
+    <ParentPlatformCategoryName />
+  </Parent>
+  <Parent>
+    <PlaylistId>f8eb3a63-0b42-42f7-81c5-4346eded47a1</PlaylistId>
+    <ParentPlatformName>NEC PC-8801</ParentPlatformName>
+  </Parent>
+  <Parent>
+    <PlatformName />
+    <PlaylistId>deb40ab2-ba5e-4728-8973-8ca0e70d6a32</PlaylistId>
+    <PlatformCategoryName />
+    <ParentPlatformName />
+    <ParentPlaylistId />
+    <ParentPlatformCategoryName />
+  </Parent>
+  <Parent>
+    <PlatformName />
+    <PlaylistId>05f98332-f579-4f55-adf5-284dc191a8c2</PlaylistId>
+    <PlatformCategoryName />
+    <ParentPlatformName />
+    <ParentPlaylistId />
+    <ParentPlatformCategoryName>Arcade PC (By Genre)</ParentPlatformCategoryName>
+  </Parent>
+  <Parent>
+    <PlatformName>Blender</PlatformName>
+    <PlaylistId />
+    <PlatformCategoryName />
+    <ParentPlatformName />
+    <ParentPlaylistId />
+    <ParentPlatformCategoryName>Flashpoint Platforms</ParentPlatformCategoryName>
+  </Parent>
+  <Parent>
+    <PlatformName />
+    <PlaylistId>c7219f40-a8b8-4961-adc9-00c7099a5ed2</PlaylistId>
+    <PlatformCategoryName />
+    <ParentPlatformName />
+    <ParentPlaylistId />
+    <ParentPlatformCategoryName />
+  </Parent>
+  <Parent>
+    <PlatformName>Nintendo Game Boy Advance [T-En]</PlatformName>
+    <ParentPlatformCategoryName>Translated En</ParentPlatformCategoryName>
+  </Parent>
+  <Parent>
+    <PlatformName />
+    <PlaylistId>e5b2d87d-b01d-41d7-b4d5-75a43403f384</PlaylistId>
+    <PlatformCategoryName />
+    <ParentPlatformName />
+    <ParentPlaylistId />
+    <ParentPlatformCategoryName>Arcade PC (By Genre)</ParentPlatformCategoryName>
+  </Parent>
+  <Parent>
+    <PlatformName />
+    <PlaylistId>d96fad10-6366-4245-b09e-ca8570991cee</PlaylistId>
+    <PlatformCategoryName />
+    <ParentPlatformName />
+    <ParentPlaylistId />
+    <ParentPlatformCategoryName />
+  </Parent>
+  <Parent>
+    <PlaylistId>a86a2f14-8088-4aa9-bbdb-d16fbd89ac67</PlaylistId>
+    <ParentPlatformName>Nintendo DS</ParentPlatformName>
+  </Parent>
+  <Parent>
+    <PlatformName />
+    <PlaylistId>f5649e14-9e74-4a20-b959-7ae6099e5540</PlaylistId>
+    <PlatformCategoryName />
+    <ParentPlatformName />
+    <ParentPlaylistId />
+    <ParentPlatformCategoryName />
+  </Parent>
+  <Parent>
+    <PlatformName />
+    <PlaylistId>ac753c20-f2f5-4ea7-93dd-7ecffc7c6234</PlaylistId>
+    <PlatformCategoryName />
+    <ParentPlatformName />
+    <ParentPlaylistId />
+    <ParentPlatformCategoryName>Series Collection</ParentPlatformCategoryName>
+  </Parent>
+  <Parent>
+    <PlatformName />
+    <PlaylistId>c7a339c3-157d-46e1-ab47-6e18011dc248</PlaylistId>
+    <PlatformCategoryName />
+    <ParentPlatformName />
+    <ParentPlaylistId />
+    <ParentPlatformCategoryName>Series Collection</ParentPlatformCategoryName>
+  </Parent>
+  <Parent>
+    <PlatformName />
+    <PlaylistId>d2061df6-5788-4477-88d2-b4a8633f6f06</PlaylistId>
+    <PlatformCategoryName />
+    <ParentPlatformName />
+    <ParentPlaylistId />
+    <ParentPlatformCategoryName />
+  </Parent>
+  <Parent>
+    <PlatformName />
+    <PlaylistId>c7277f01-f425-4b76-87b7-fae177431937</PlaylistId>
+    <PlatformCategoryName />
+    <ParentPlatformName>Commodore 64</ParentPlatformName>
+    <ParentPlaylistId />
+    <ParentPlatformCategoryName />
+  </Parent>
+  <Parent>
+    <PlatformName />
+    <PlaylistId>6c2c453e-9ae2-48df-8013-c3125cc6b336</PlaylistId>
+    <PlatformCategoryName />
+    <ParentPlatformName />
+    <ParentPlaylistId />
+    <ParentPlatformCategoryName>Series Collection</ParentPlatformCategoryName>
+  </Parent>
+  <Parent>
+    <PlatformName />
+    <PlaylistId>5eef1986-e6a5-4596-8e8d-3090aa0deac7</PlaylistId>
+    <PlatformCategoryName />
+    <ParentPlatformName />
+    <ParentPlaylistId />
+    <ParentPlatformCategoryName />
+  </Parent>
+  <Parent>
+    <PlatformName />
+    <PlaylistId>757c621d-7aba-4ae6-84cf-e0eeaa3c336e</PlaylistId>
+    <PlatformCategoryName />
+    <ParentPlatformName />
+    <ParentPlaylistId />
+    <ParentPlatformCategoryName />
+  </Parent>
+  <Parent>
+    <PlatformName>Commodore 64</PlatformName>
+    <PlaylistId />
+    <PlatformCategoryName />
+    <ParentPlatformName />
+    <ParentPlaylistId />
+    <ParentPlatformCategoryName>Consoles</ParentPlatformCategoryName>
+  </Parent>
+  <Parent>
+    <PlatformName>Nintendo Wii U</PlatformName>
+    <PlaylistId />
+    <PlatformCategoryName />
+    <ParentPlatformName />
+    <ParentPlaylistId />
+    <ParentPlatformCategoryName>Consoles</ParentPlatformCategoryName>
+  </Parent>
+  <Parent>
+    <PlatformName>Nintendo Satellaview</PlatformName>
+    <PlaylistId />
+    <PlatformCategoryName />
+    <ParentPlatformName />
+    <ParentPlaylistId />
+    <ParentPlatformCategoryName>Consoles</ParentPlatformCategoryName>
+  </Parent>
+  <Parent>
+    <PlatformName />
+    <PlaylistId>d1f5d4cd-3424-479b-a9b8-8af89b26987a</PlaylistId>
+    <PlatformCategoryName />
+    <ParentPlatformName>Commodore 64</ParentPlatformName>
+    <ParentPlaylistId />
+    <ParentPlatformCategoryName />
+  </Parent>
+  <Parent>
+    <PlaylistId>897d99cd-f9e3-4049-8d5d-6a8f2624f5e5</PlaylistId>
+    <ParentPlatformName>Nintendo DS</ParentPlatformName>
+  </Parent>
+  <Parent>
+    <PlaylistId>16eb9586-6063-4a5d-9a1a-fb4a4a842849</PlaylistId>
+    <ParentPlatformName>Nintendo DS</ParentPlatformName>
+  </Parent>
+  <Parent>
+    <PlaylistId>a1e02d3c-e14c-4c0d-ac72-2960f02730c4</PlaylistId>
+    <ParentPlatformName>Fujitsu FM-7</ParentPlatformName>
+  </Parent>
+  <Parent>
+    <PlaylistId>d141cd90-2f4e-4c61-ae73-b8922ce0cdb9</PlaylistId>
+    <ParentPlatformName>Nintendo DS</ParentPlatformName>
+  </Parent>
+  <Parent>
+    <PlatformName />
+    <PlaylistId>3f202f20-4e1f-4c41-86f5-6b9242580f55</PlaylistId>
+    <PlatformCategoryName />
+    <ParentPlatformName />
+    <ParentPlaylistId />
+    <ParentPlatformCategoryName>Arcade PC</ParentPlatformCategoryName>
+  </Parent>
+  <Parent>
+    <PlatformName />
+    <PlaylistId>e6ea487f-6c1d-457b-9d6a-47445a229c62</PlaylistId>
+    <PlatformCategoryName />
+    <ParentPlatformName />
+    <ParentPlaylistId />
+    <ParentPlatformCategoryName />
+  </Parent>
+  <Parent>
+    <PlaylistId>c71fa340-3237-40ee-8c35-a97cdd219e1a</PlaylistId>
+    <ParentPlatformName>Fujitsu FM Towns</ParentPlatformName>
+  </Parent>
+  <Parent>
+    <PlatformName />
+    <PlaylistId>6f8b9c4d-31c2-4926-a855-75a5b16de4d8</PlaylistId>
+    <PlatformCategoryName />
+    <ParentPlatformName />
+    <ParentPlaylistId />
+    <ParentPlatformCategoryName>Flashpoint Playlists</ParentPlatformCategoryName>
+  </Parent>
+  <Parent>
+    <PlatformName />
+    <PlaylistId>77af557f-8a35-488f-ac5b-c7f12ba17998</PlaylistId>
+    <PlatformCategoryName />
+    <ParentPlatformName />
+    <ParentPlaylistId />
+    <ParentPlatformCategoryName>Series Collection</ParentPlatformCategoryName>
+  </Parent>
+  <Parent>
+    <PlatformName />
+    <PlaylistId />
+    <PlatformCategoryName>C64 Dreams</PlatformCategoryName>
+    <ParentPlatformName />
+    <ParentPlaylistId />
+    <ParentPlatformCategoryName>Curated Projects</ParentPlatformCategoryName>
+  </Parent>
+  <Parent>
+    <PlatformName>Sony Playstation</PlatformName>
+    <PlaylistId />
+    <PlatformCategoryName />
+    <ParentPlatformName />
+    <ParentPlaylistId />
+    <ParentPlatformCategoryName>Consoles</ParentPlatformCategoryName>
+  </Parent>
+  <Parent>
+    <PlaylistId>61c2cff7-4563-4354-aa47-99bee56b603c</PlaylistId>
+    <ParentPlatformName>NEC PC-9801</ParentPlatformName>
+  </Parent>
+  <Parent>
+    <PlatformName>Singe</PlatformName>
+    <PlaylistId />
+    <PlatformCategoryName />
+    <ParentPlatformName />
+    <ParentPlaylistId />
+    <ParentPlatformCategoryName>LaserDisc Arcade</ParentPlatformCategoryName>
+  </Parent>
+  <Parent>
+    <PlatformName>Apple IIGS</PlatformName>
+    <PlaylistId />
+    <PlatformCategoryName />
+    <ParentPlatformName />
+    <ParentPlaylistId />
+    <ParentPlatformCategoryName>Computers</ParentPlatformCategoryName>
+  </Parent>
+  <Parent>
+    <PlatformName />
+    <PlaylistId>29468a9f-c897-4c76-99cd-7c4bb8cba688</PlaylistId>
+    <PlatformCategoryName />
+    <ParentPlatformName />
+    <ParentPlaylistId />
+    <ParentPlatformCategoryName>Arcade Classics (By Publisher)</ParentPlatformCategoryName>
+  </Parent>
+  <Parent>
+    <PlatformName>Flash</PlatformName>
+    <PlaylistId />
+    <PlatformCategoryName />
+    <ParentPlatformName />
+    <ParentPlaylistId />
+    <ParentPlatformCategoryName>Flashpoint Platforms</ParentPlatformCategoryName>
+  </Parent>
+  <Parent>
+    <PlatformName />
+    <PlaylistId>fef6a562-bd93-42cd-bf1f-ac2c07ceca3b</PlaylistId>
+    <PlatformCategoryName />
+    <ParentPlatformName />
+    <ParentPlaylistId />
+    <ParentPlatformCategoryName />
+  </Parent>
+  <Parent>
+    <PlaylistId>b2cda696-c486-47cb-8eaa-bc7b026bc216</PlaylistId>
+    <ParentPlatformName>Nintendo DS</ParentPlatformName>
+  </Parent>
+  <Parent>
+    <PlaylistId>c504f118-c34d-4b23-b27f-d1d8dee62f9a</PlaylistId>
+    <ParentPlatformName>NEC PC-8801</ParentPlatformName>
+  </Parent>
+  <Parent>
+    <PlatformName />
+    <PlaylistId />
+    <PlatformCategoryName>Arcade Classics (By System)</PlatformCategoryName>
+    <ParentPlatformName />
+    <ParentPlaylistId />
+    <ParentPlatformCategoryName>Arcade</ParentPlatformCategoryName>
+  </Parent>
+  <Parent>
+    <PlaylistId>780d1f6f-e365-41ac-84cb-e920da96d8a0</PlaylistId>
+    <ParentPlatformName>NEC PC-8801</ParentPlatformName>
+  </Parent>
+  <Parent>
+    <PlatformName />
+    <PlaylistId>e7124229-9058-4938-b755-3fb07e441df9</PlaylistId>
+    <PlatformCategoryName />
+    <ParentPlatformName />
+    <ParentPlaylistId />
+    <ParentPlatformCategoryName />
+  </Parent>
+  <Parent>
+    <PlatformName />
+    <PlaylistId>650225c0-2fc7-4f23-a89a-22666c8689fb</PlaylistId>
+    <PlatformCategoryName />
+    <ParentPlatformName>NEC SuperGrafx</ParentPlatformName>
+    <ParentPlaylistId />
+    <ParentPlatformCategoryName />
+  </Parent>
+  <Parent>
+    <PlatformName />
+    <PlaylistId>addb3fba-d640-48f5-89dd-4ad7bc131fed</PlaylistId>
+    <PlatformCategoryName />
+    <ParentPlatformName />
+    <ParentPlaylistId />
+    <ParentPlatformCategoryName />
+  </Parent>
+  <Parent>
+    <PlaylistId>e72713f9-bfd0-46b5-9c21-79613c6dd9ac</PlaylistId>
+    <ParentPlatformName>NEC PC-8801</ParentPlatformName>
+  </Parent>
+  <Parent>
+    <PlatformName />
+    <PlaylistId>87d84bc5-dcbf-494b-8dac-8d82ec57336b</PlaylistId>
+    <PlatformCategoryName />
+    <ParentPlatformName />
+    <ParentPlaylistId />
+    <ParentPlatformCategoryName>Arcade Classics (By Publisher)</ParentPlatformCategoryName>
+  </Parent>
+  <Parent>
+    <PlatformName />
+    <PlaylistId>a66d49f1-3a5a-4ed5-b8db-40a5eec986be</PlaylistId>
+    <PlatformCategoryName />
+    <ParentPlatformName />
+    <ParentPlaylistId />
+    <ParentPlatformCategoryName>Arcade PC (By Genre)</ParentPlatformCategoryName>
+  </Parent>
+  <Parent>
+    <PlatformName />
+    <PlaylistId>317a6573-c5fa-43e5-93c6-494b09788c93</PlaylistId>
+    <PlatformCategoryName />
+    <ParentPlatformName />
+    <ParentPlaylistId />
+    <ParentPlatformCategoryName>Arcade</ParentPlatformCategoryName>
+  </Parent>
+  <Parent>
+    <PlatformName />
+    <PlaylistId>4c6d1f72-4c8f-449d-a988-e0745aea4b2b</PlaylistId>
+    <PlatformCategoryName />
+    <ParentPlatformName />
+    <ParentPlaylistId />
+    <ParentPlatformCategoryName>Series Collection</ParentPlatformCategoryName>
+  </Parent>
+  <Parent>
+    <PlatformName />
+    <PlaylistId>d9f329d2-d5a7-4eef-bca3-2bf649131b58</PlaylistId>
+    <PlatformCategoryName />
+    <ParentPlatformName />
+    <ParentPlaylistId />
+    <ParentPlatformCategoryName>Nintendo Super Nintendo Entertainment System Genres</ParentPlatformCategoryName>
+  </Parent>
+  <Parent>
+    <PlaylistId>6ba06eb8-61c2-4206-8f67-d6e9fb322299</PlaylistId>
+    <ParentPlatformName>Fujitsu FM-7</ParentPlatformName>
+  </Parent>
+  <Parent>
+    <PlaylistId>27177f18-6372-4a54-830b-d8df988a5603</PlaylistId>
+    <ParentPlatformName>Fujitsu FM-7</ParentPlatformName>
+  </Parent>
+  <Parent>
+    <PlaylistId>33913ad9-bc79-40c4-8619-18504a7810d9</PlaylistId>
+    <ParentPlatformName>NEC PC-9801</ParentPlatformName>
+  </Parent>
+  <Parent>
+    <PlatformName>SNK Neo Geo Pocket</PlatformName>
+    <PlaylistId />
+    <PlatformCategoryName />
+    <ParentPlatformName />
+    <ParentPlaylistId />
+    <ParentPlatformCategoryName>Handhelds</ParentPlatformCategoryName>
+  </Parent>
+  <Parent>
+    <PlatformName>Sega Game Gear [T-En]</PlatformName>
+    <ParentPlatformCategoryName>Translated En</ParentPlatformCategoryName>
+  </Parent>
+  <Parent>
+    <PlatformName />
+    <PlaylistId>1271d43b-a49d-4ef3-afcf-afb83156fab7</PlaylistId>
+    <PlatformCategoryName />
+    <ParentPlatformName />
+    <ParentPlaylistId />
+    <ParentPlatformCategoryName>Genres</ParentPlatformCategoryName>
+  </Parent>
+  <Parent>
+    <PlatformName />
+    <PlaylistId>1d76d0d9-571f-4073-81b9-389f06e79d2d</PlaylistId>
+    <PlatformCategoryName />
+    <ParentPlatformName />
+    <ParentPlaylistId />
+    <ParentPlatformCategoryName>By Author</ParentPlatformCategoryName>
+  </Parent>
+  <Parent>
+    <PlatformName />
+    <PlaylistId>a5ab53b2-918c-47a1-8db6-cf2e38c1cc2e</PlaylistId>
+    <PlatformCategoryName />
+    <ParentPlatformName />
+    <ParentPlaylistId />
+    <ParentPlatformCategoryName />
+  </Parent>
+  <Parent>
+    <PlatformName />
+    <PlaylistId>4230a462-8c6c-4fa6-8183-166a58192df7</PlaylistId>
+    <PlatformCategoryName />
+    <ParentPlatformName />
+    <ParentPlaylistId />
+    <ParentPlatformCategoryName>Arcade</ParentPlatformCategoryName>
+  </Parent>
+  <Parent>
+    <PlatformName />
+    <PlaylistId>b55dd4b2-6cff-4f59-8b91-f223d9d4ca80</PlaylistId>
+    <PlatformCategoryName />
+    <ParentPlatformName />
+    <ParentPlaylistId />
+    <ParentPlatformCategoryName />
+  </Parent>
+  <Parent>
+    <PlatformName />
+    <PlaylistId>4e1d8bf7-5d8b-4fdd-a007-2863e551a0c3</PlaylistId>
+    <PlatformCategoryName />
+    <ParentPlatformName />
+    <ParentPlaylistId />
+    <ParentPlatformCategoryName>Arcade</ParentPlatformCategoryName>
+  </Parent>
+  <Parent>
+    <PlatformName />
+    <PlaylistId>377e9724-ee55-4cce-a2d9-505924792d3a</PlaylistId>
+    <PlatformCategoryName />
+    <ParentPlatformName />
+    <ParentPlaylistId />
+    <ParentPlatformCategoryName />
+  </Parent>
+  <Parent>
+    <PlatformName />
+    <PlaylistId>cc5d5e3a-50f5-4fdd-b2da-74b83e99ceb9</PlaylistId>
+    <PlatformCategoryName />
+    <ParentPlatformName />
+    <ParentPlaylistId />
+    <ParentPlatformCategoryName>Arcade</ParentPlatformCategoryName>
+  </Parent>
+  <Parent>
+    <PlatformName />
+    <PlaylistId>67d49e81-06f8-484e-a808-c3b5d4a79d2c</PlaylistId>
+    <PlatformCategoryName />
+    <ParentPlatformName />
+    <ParentPlaylistId />
+    <ParentPlatformCategoryName />
+  </Parent>
+  <Parent>
+    <PlatformName>Microsoft MSX2 [T-En]</PlatformName>
+    <ParentPlatformCategoryName>Translated En</ParentPlatformCategoryName>
+  </Parent>
+  <Parent>
+    <PlaylistId>29d8b0da-be5e-4671-bad2-418dd3fde28d</PlaylistId>
+    <ParentPlatformName>Fujitsu FM Towns</ParentPlatformName>
+  </Parent>
+  <Parent>
+    <PlatformName />
+    <PlaylistId>9e01a5fb-4a4c-49bf-b90f-e19915779068</PlaylistId>
+    <PlatformCategoryName />
+    <ParentPlatformName />
+    <ParentPlaylistId />
+    <ParentPlatformCategoryName>Arcade Classics (By System)</ParentPlatformCategoryName>
+  </Parent>
+  <Parent>
+    <PlatformName>Sega PC-Based</PlatformName>
+    <PlaylistId />
+    <PlatformCategoryName />
+    <ParentPlatformName />
+    <ParentPlaylistId />
+    <ParentPlatformCategoryName>Arcade PC</ParentPlatformCategoryName>
+  </Parent>
+  <Parent>
+    <PlatformName />
+    <PlaylistId>fc27d3de-923a-4adc-ace5-15c2253966eb</PlaylistId>
+    <PlatformCategoryName />
+    <ParentPlatformName />
+    <ParentPlaylistId />
+    <ParentPlatformCategoryName />
+  </Parent>
+  <Parent>
+    <PlatformName />
+    <PlaylistId>68cec423-a6d9-4ee2-927e-3297b41cc5e4</PlaylistId>
+    <PlatformCategoryName />
+    <ParentPlatformName />
+    <ParentPlaylistId />
+    <ParentPlatformCategoryName>Genres</ParentPlatformCategoryName>
+  </Parent>
+  <Parent>
+    <PlatformName />
+    <PlaylistId>abed12f6-c5c1-478f-b619-7038ae519b78</PlaylistId>
+    <PlatformCategoryName />
+    <ParentPlatformName />
+    <ParentPlaylistId />
+    <ParentPlatformCategoryName>Genres</ParentPlatformCategoryName>
+  </Parent>
+  <Parent>
+    <PlatformName />
+    <PlaylistId>048958ed-001a-4ba8-9360-59fd34dacad1</PlaylistId>
+    <PlatformCategoryName />
+    <ParentPlatformName />
+    <ParentPlaylistId />
+    <ParentPlatformCategoryName />
+  </Parent>
+  <Parent>
+    <PlatformName />
+    <PlaylistId>cbaf62a7-c875-4f3f-a47c-6b6758f60729</PlaylistId>
+    <PlatformCategoryName />
+    <ParentPlatformName />
+    <ParentPlaylistId />
+    <ParentPlatformCategoryName />
+  </Parent>
+  <Parent>
+    <PlatformName />
+    <PlaylistId>48663ba3-ef26-4e56-89ca-5b0bc672ff1d</PlaylistId>
+    <PlatformCategoryName />
+    <ParentPlatformName />
+    <ParentPlaylistId />
+    <ParentPlatformCategoryName>By Author</ParentPlatformCategoryName>
+  </Parent>
+  <Parent>
+    <PlatformName />
+    <PlaylistId>9257bcab-2e26-4fe4-8b64-93e76aa79672</PlaylistId>
+    <PlatformCategoryName />
+    <ParentPlatformName />
+    <ParentPlaylistId />
+    <ParentPlatformCategoryName />
+  </Parent>
+  <Parent>
+    <PlatformName>Nintendo 64 [T-En]</PlatformName>
+    <PlaylistId />
+    <PlatformCategoryName />
+    <ParentPlatformName />
+    <ParentPlaylistId />
+    <ParentPlatformCategoryName>Translated En</ParentPlatformCategoryName>
+  </Parent>
+  <Parent>
+    <PlatformName />
+    <PlaylistId>cd800a52-6bd0-4d07-9441-88971eb913c5</PlaylistId>
+    <PlatformCategoryName />
+    <ParentPlatformName />
+    <ParentPlaylistId />
+    <ParentPlatformCategoryName />
+  </Parent>
+  <Parent>
+    <PlatformName>Sharp X1 [T-En]</PlatformName>
+    <ParentPlatformCategoryName>Translated En</ParentPlatformCategoryName>
+  </Parent>
+  <Parent>
+    <PlatformName />
+    <PlaylistId>bcaaf705-edcd-45ef-9bd2-620c31320d1e</PlaylistId>
+    <PlatformCategoryName />
+    <ParentPlatformName />
+    <ParentPlaylistId />
+    <ParentPlatformCategoryName />
+  </Parent>
+  <Parent>
+    <PlatformName />
+    <PlaylistId>0a8642c6-88e2-4841-848e-3c84999b6f3c</PlaylistId>
+    <PlatformCategoryName />
+    <ParentPlatformName />
+    <ParentPlaylistId />
+    <ParentPlatformCategoryName>By Theme</ParentPlatformCategoryName>
+  </Parent>
+  <Parent>
+    <PlatformName />
+    <PlaylistId />
+    <PlatformCategoryName>Pinball</PlatformCategoryName>
+    <ParentPlatformName />
+    <ParentPlaylistId />
+    <ParentPlatformCategoryName />
+  </Parent>
+  <Parent>
+    <PlatformName />
+    <PlaylistId>1ed8aa3b-5cf1-438d-b2fa-365f5fe18e02</PlaylistId>
+    <PlatformCategoryName />
+    <ParentPlatformName />
+    <ParentPlaylistId />
+    <ParentPlatformCategoryName>Nintendo Super Nintendo Entertainment System Genres</ParentPlatformCategoryName>
+  </Parent>
+  <Parent>
+    <PlatformName>Atari Jaguar CD</PlatformName>
+    <PlaylistId />
+    <PlatformCategoryName />
+    <ParentPlatformName />
+    <ParentPlaylistId />
+    <ParentPlatformCategoryName>Consoles</ParentPlatformCategoryName>
+  </Parent>
+  <Parent>
+    <PlatformName>Fujitsu FM-7</PlatformName>
+    <PlaylistId />
+    <PlatformCategoryName />
+    <ParentPlatformName />
+    <ParentPlaylistId />
+    <ParentPlatformCategoryName>Computers</ParentPlatformCategoryName>
+  </Parent>
+  <Parent>
+    <PlatformName>OpenBOR</PlatformName>
+    <PlaylistId />
+    <PlatformCategoryName />
+    <ParentPlatformName />
+    <ParentPlaylistId />
+    <ParentPlatformCategoryName>Arcade</ParentPlatformCategoryName>
+  </Parent>
+  <Parent>
+    <PlatformName />
+    <PlaylistId>7fe39245-45a5-4168-8a57-5b70e2c9c78c</PlaylistId>
+    <PlatformCategoryName />
+    <ParentPlatformName />
+    <ParentPlaylistId />
+    <ParentPlatformCategoryName />
+  </Parent>
+  <Parent>
+    <PlatformName />
+    <PlaylistId>633b12a5-e9ff-472b-bcf8-385b3026352a</PlaylistId>
+    <PlatformCategoryName />
+    <ParentPlatformName />
+    <ParentPlaylistId />
+    <ParentPlatformCategoryName />
+  </Parent>
+  <Parent>
+    <PlatformName />
+    <PlaylistId>8420bb23-1542-4fdc-96ee-23695f1e8989</PlaylistId>
+    <PlatformCategoryName />
+    <ParentPlatformName />
+    <ParentPlaylistId />
+    <ParentPlatformCategoryName />
+  </Parent>
+  <Parent>
+    <PlatformName />
+    <PlaylistId>878d90a5-7477-4cea-8472-508d7c0587e3</PlaylistId>
+    <PlatformCategoryName />
+    <ParentPlatformName />
+    <ParentPlaylistId />
+    <ParentPlatformCategoryName />
+  </Parent>
+  <Parent>
+    <PlatformName />
+    <PlaylistId>db26fcd5-7920-42d4-ba42-0c241c8fb1a6</PlaylistId>
+    <PlatformCategoryName />
+    <ParentPlatformName />
+    <ParentPlaylistId />
+    <ParentPlatformCategoryName />
+  </Parent>
+  <Parent>
+    <PlaylistId>c841c588-81e5-408d-9b82-8e9f7ab1d706</PlaylistId>
+    <ParentPlatformName>Fujitsu FM-7</ParentPlatformName>
+  </Parent>
+  <Parent>
+    <PlatformName />
+    <PlaylistId>e5e791d3-66ee-4e21-a0a7-7960f13cebf6</PlaylistId>
+    <PlatformCategoryName />
+    <ParentPlatformName />
+    <ParentPlaylistId />
+    <ParentPlatformCategoryName />
+  </Parent>
+  <Parent>
+    <PlatformName />
+    <PlaylistId>730121c8-e8c9-49f6-ad58-9606f44aae29</PlaylistId>
+    <PlatformCategoryName />
+    <ParentPlatformName />
+    <ParentPlaylistId />
+    <ParentPlatformCategoryName />
+  </Parent>
+  <Parent>
+    <PlatformName>NEC PC-8801</PlatformName>
+    <PlaylistId />
+    <PlatformCategoryName />
+    <ParentPlatformName />
+    <ParentPlaylistId />
+    <ParentPlatformCategoryName>Computers</ParentPlatformCategoryName>
+  </Parent>
+  <Parent>
+    <PlatformName />
+    <PlaylistId>a349899d-d990-4a5e-8f27-7094820fc174</PlaylistId>
+    <PlatformCategoryName />
+    <ParentPlatformName />
+    <ParentPlaylistId />
+    <ParentPlatformCategoryName />
+  </Parent>
+  <Parent>
+    <PlatformName>Team Play PC-Based</PlatformName>
+    <PlaylistId />
+    <PlatformCategoryName />
+    <ParentPlatformName />
+    <ParentPlaylistId />
+    <ParentPlatformCategoryName>Arcade PC</ParentPlatformCategoryName>
+  </Parent>
+  <Parent>
+    <PlatformName>NEC TurboGrafx-CD</PlatformName>
+    <PlaylistId />
+    <PlatformCategoryName />
+    <ParentPlatformName />
+    <ParentPlaylistId />
+    <ParentPlatformCategoryName>Consoles</ParentPlatformCategoryName>
+  </Parent>
+  <Parent>
+    <PlatformName>MS-DOS Catalogs</PlatformName>
+    <PlaylistId />
+    <PlatformCategoryName />
+    <ParentPlatformName />
+    <ParentPlaylistId />
+    <ParentPlatformCategoryName>Books &amp; Magazines</ParentPlatformCategoryName>
+  </Parent>
+  <Parent>
+    <PlatformName>Capcom</PlatformName>
+    <PlaylistId />
+    <PlatformCategoryName />
+    <ParentPlatformName />
+    <ParentPlaylistId />
+    <ParentPlatformCategoryName>Arcade PC</ParentPlatformCategoryName>
+  </Parent>
+  <Parent>
+    <PlatformName>Future Pinball (Original Tables)</PlatformName>
+    <PlaylistId />
+    <PlatformCategoryName />
+    <ParentPlatformName />
+    <ParentPlaylistId />
+    <ParentPlatformCategoryName>Future Pinball</ParentPlatformCategoryName>
+  </Parent>
+  <Parent>
+    <PlatformName />
+    <PlaylistId>7e0d498a-12c3-4b77-b5b7-8449b456fc2b</PlaylistId>
+    <PlatformCategoryName />
+    <ParentPlatformName />
+    <ParentPlaylistId />
+    <ParentPlatformCategoryName />
+  </Parent>
+  <Parent>
+    <PlatformName />
+    <PlaylistId>3afec15e-3ca1-4710-9d32-c2a632836463</PlaylistId>
+    <PlatformCategoryName />
+    <ParentPlatformName />
+    <ParentPlaylistId />
+    <ParentPlatformCategoryName>Genres</ParentPlatformCategoryName>
+  </Parent>
+  <Parent>
+    <PlatformName />
+    <PlaylistId>09af4e8b-bd06-429b-b080-8a362f327f1c</PlaylistId>
+    <PlatformCategoryName />
+    <ParentPlatformName />
+    <ParentPlaylistId />
+    <ParentPlatformCategoryName />
+  </Parent>
+  <Parent>
+    <PlatformName />
+    <PlaylistId />
+    <PlatformCategoryName>Best of</PlatformCategoryName>
+    <ParentPlatformName />
+    <ParentPlaylistId />
+    <ParentPlatformCategoryName />
+  </Parent>
+  <Parent>
+    <PlaylistId>b80ebfd4-e7ff-46ef-a628-e981d3b761a3</PlaylistId>
+    <ParentPlatformName>Fujitsu FM Towns</ParentPlatformName>
+  </Parent>
+  <Parent>
+    <PlatformName>Visual Pinball [VPX] Recreated Tables [MODs, HACKs]</PlatformName>
+    <PlaylistId />
+    <PlatformCategoryName />
+    <ParentPlatformName />
+    <ParentPlaylistId />
+    <ParentPlatformCategoryName>Visual Pinball</ParentPlatformCategoryName>
+  </Parent>
+  <Parent>
+    <PlatformName />
+    <PlaylistId>ac4e3107-0e2c-4bcb-ad28-3cf2e6832fc4</PlaylistId>
+    <PlatformCategoryName />
+    <ParentPlatformName />
+    <ParentPlaylistId />
+    <ParentPlatformCategoryName>Arcade</ParentPlatformCategoryName>
+  </Parent>
+  <Parent>
+    <PlatformName />
+    <PlaylistId>b032106e-952c-4d45-b597-c47b27e1bc4b</PlaylistId>
+    <PlatformCategoryName />
+    <ParentPlatformName />
+    <ParentPlaylistId />
+    <ParentPlatformCategoryName>Arcade Classics (By System)</ParentPlatformCategoryName>
+  </Parent>
+  <Parent>
+    <PlatformName />
+    <PlaylistId>fbea8c17-6662-441c-bb28-cf053defebb9</PlaylistId>
+    <PlatformCategoryName />
+    <ParentPlatformName />
+    <ParentPlaylistId />
+    <ParentPlatformCategoryName />
+  </Parent>
+  <Parent>
+    <PlatformName />
+    <PlaylistId>76310933-cc75-492b-af68-cc38593c14e0</PlaylistId>
+    <PlatformCategoryName />
+    <ParentPlatformName />
+    <ParentPlaylistId />
+    <ParentPlatformCategoryName />
+  </Parent>
+  <Parent>
+    <PlatformName />
+    <PlaylistId>01d2425e-a9fc-4084-b41d-ed9cff0a65a6</PlaylistId>
+    <PlatformCategoryName />
+    <ParentPlatformName />
+    <ParentPlaylistId />
+    <ParentPlatformCategoryName>Arcade Classics (By Publisher)</ParentPlatformCategoryName>
+  </Parent>
+  <Parent>
+    <PlatformName />
+    <PlaylistId>def9a085-ba2d-49b2-971a-c767dab88578</PlaylistId>
+    <PlatformCategoryName />
+    <ParentPlatformName />
+    <ParentPlaylistId />
+    <ParentPlatformCategoryName>Series Collection</ParentPlatformCategoryName>
+  </Parent>
+  <Parent>
+    <PlatformName />
+    <PlaylistId>c0187096-dab5-4cf9-8834-56794008c6ed</PlaylistId>
+    <PlatformCategoryName />
+    <ParentPlatformName />
+    <ParentPlaylistId />
+    <ParentPlatformCategoryName />
+  </Parent>
+  <Parent>
+    <PlaylistId>95510aa6-f93a-4a62-a7b5-2e204bab6f78</PlaylistId>
+    <ParentPlatformName>Nintendo DS</ParentPlatformName>
+  </Parent>
+  <Parent>
+    <PlatformName />
+    <PlaylistId>c8344d29-5d59-4f38-8ba7-7dac534b494b</PlaylistId>
+    <PlatformCategoryName />
+    <ParentPlatformName />
+    <ParentPlaylistId />
+    <ParentPlatformCategoryName />
+  </Parent>
+  <Parent>
+    <PlatformName />
+    <PlaylistId>19822c47-6612-4124-9e32-f3051c270db3</PlaylistId>
+    <PlatformCategoryName />
+    <ParentPlatformName />
+    <ParentPlaylistId />
+    <ParentPlatformCategoryName />
+  </Parent>
+  <Parent>
+    <PlatformName />
+    <PlaylistId>3a55cfd1-b7c7-475d-917d-6dd21df5de98</PlaylistId>
+    <PlatformCategoryName />
+    <ParentPlatformName />
+    <ParentPlaylistId />
+    <ParentPlatformCategoryName />
+  </Parent>
+  <Parent>
+    <PlatformName>Commodore Amiga CD</PlatformName>
+    <PlaylistId />
+    <PlatformCategoryName />
+    <ParentPlatformName />
+    <ParentPlaylistId />
+    <ParentPlatformCategoryName>Consoles</ParentPlatformCategoryName>
+  </Parent>
+  <Parent>
+    <PlaylistId>fef24dd5-c68d-4932-aa9f-be492c6c0755</PlaylistId>
+    <ParentPlatformName>NEC PC-9801</ParentPlatformName>
+  </Parent>
+  <Parent>
+    <PlatformName>Adrenaline Amusements</PlatformName>
+    <PlaylistId />
+    <PlatformCategoryName />
+    <ParentPlatformName />
+    <ParentPlaylistId />
+    <ParentPlatformCategoryName>Arcade PC</ParentPlatformCategoryName>
+  </Parent>
+  <Parent>
+    <PlatformName>Sharp X68000</PlatformName>
+    <PlaylistId />
+    <PlatformCategoryName />
+    <ParentPlatformName />
+    <ParentPlaylistId />
+    <ParentPlatformCategoryName>Computers</ParentPlatformCategoryName>
+  </Parent>
+  <Parent>
+    <PlaylistId>05e4fc81-eb58-47e3-ad7a-371f3fc0854a</PlaylistId>
+    <ParentPlatformName>Nintendo DS</ParentPlatformName>
+  </Parent>
+  <Parent>
+    <PlatformName>WoW Action Max</PlatformName>
+    <PlaylistId />
+    <PlatformCategoryName />
+    <ParentPlatformName />
+    <ParentPlaylistId />
+    <ParentPlatformCategoryName>LaserDisc Arcade</ParentPlatformCategoryName>
+  </Parent>
+  <Parent>
+    <PlaylistId>1f3c093a-d1a0-4f27-9cef-195003958c86</PlaylistId>
+    <ParentPlatformName>Fujitsu FM-7</ParentPlatformName>
+  </Parent>
+  <Parent>
+    <PlatformName />
+    <PlaylistId>bd9d3708-34fa-49e3-9e61-168a879193ef</PlaylistId>
+    <PlatformCategoryName />
+    <ParentPlatformName>Nintendo Game Boy Advance</ParentPlatformName>
+    <ParentPlaylistId />
+    <ParentPlatformCategoryName />
+  </Parent>
+  <Parent>
+    <PlatformName />
+    <PlaylistId>37c86a3c-c14d-4a17-a7f2-24ef8f481277</PlaylistId>
+    <PlatformCategoryName />
+    <ParentPlatformName />
+    <ParentPlaylistId />
+    <ParentPlatformCategoryName>By Theme</ParentPlatformCategoryName>
+  </Parent>
+  <Parent>
+    <PlatformName />
+    <PlaylistId>b695a071-30b3-40a1-8213-f91e4d47bbec</PlaylistId>
+    <PlatformCategoryName />
+    <ParentPlatformName />
+    <ParentPlaylistId />
+    <ParentPlatformCategoryName>Series Collection</ParentPlatformCategoryName>
+  </Parent>
+  <Parent>
+    <PlatformName>Nintendo Switch</PlatformName>
+    <PlaylistId />
+    <PlatformCategoryName />
+    <ParentPlatformName />
+    <ParentPlaylistId />
+    <ParentPlatformCategoryName>Consoles</ParentPlatformCategoryName>
+  </Parent>
+  <Parent>
+    <PlatformName />
+    <PlaylistId>7011a9e8-a3a4-4b01-969b-b563493cbefb</PlaylistId>
+    <PlatformCategoryName />
+    <ParentPlatformName />
+    <ParentPlaylistId />
+    <ParentPlatformCategoryName />
+  </Parent>
+  <Parent>
+    <PlatformName />
+    <PlaylistId>85b75e88-cdf1-4610-a676-38e16c7e9f52</PlaylistId>
+    <PlatformCategoryName />
+    <ParentPlatformName />
+    <ParentPlaylistId />
+    <ParentPlatformCategoryName />
+  </Parent>
+  <Parent>
+    <PlatformName />
+    <PlaylistId>63de207f-9688-4de2-a6be-688701b367b6</PlaylistId>
+    <PlatformCategoryName />
+    <ParentPlatformName />
+    <ParentPlaylistId />
+    <ParentPlatformCategoryName />
+  </Parent>
+  <Parent>
+    <PlaylistId>8317f479-ff46-4173-a240-45d63efb781b</PlaylistId>
+    <ParentPlatformName>Fujitsu FM Towns</ParentPlatformName>
+  </Parent>
+  <Parent>
+    <PlatformName />
+    <PlaylistId>3499da58-4a5d-499c-ad44-815ce693c27b</PlaylistId>
+    <PlatformCategoryName />
+    <ParentPlatformName />
+    <ParentPlaylistId />
+    <ParentPlatformCategoryName>Best of</ParentPlatformCategoryName>
+  </Parent>
+  <Parent>
+    <PlatformName />
+    <PlaylistId>cfc9d285-d08c-486d-8847-43b87e9f4169</PlaylistId>
+    <PlatformCategoryName />
+    <ParentPlatformName />
+    <ParentPlaylistId />
+    <ParentPlatformCategoryName />
+  </Parent>
+  <Parent>
+    <PlatformName />
+    <PlaylistId>be4dc22a-cc55-432e-972c-414f4892bc4c</PlaylistId>
+    <PlatformCategoryName />
+    <ParentPlatformName />
+    <ParentPlaylistId />
+    <ParentPlatformCategoryName />
+  </Parent>
+  <Parent>
+    <PlatformName>Visual Pinball [VPX] PinMame Tables [MODs, HACKs]</PlatformName>
+    <PlaylistId />
+    <PlatformCategoryName />
+    <ParentPlatformName />
+    <ParentPlaylistId />
+    <ParentPlatformCategoryName>Visual Pinball</ParentPlatformCategoryName>
+  </Parent>
+  <Parent>
+    <PlatformName>Nintendo GameCube</PlatformName>
+    <PlaylistId />
+    <PlatformCategoryName />
+    <ParentPlatformName />
+    <ParentPlaylistId />
+    <ParentPlatformCategoryName>Consoles</ParentPlatformCategoryName>
+  </Parent>
+  <Parent>
+    <PlatformName />
+    <PlaylistId>523ea27e-4a5c-4a81-a8dc-b833ec89a14c</PlaylistId>
+    <PlatformCategoryName />
+    <ParentPlatformName />
+    <ParentPlaylistId />
+    <ParentPlatformCategoryName />
+  </Parent>
+  <Parent>
+    <PlaylistId>50ae6655-1348-43bd-9060-8f1e28bab13d</PlaylistId>
+    <ParentPlatformName>Fujitsu FM Towns</ParentPlatformName>
+  </Parent>
+  <Parent>
+    <PlatformName />
+    <PlaylistId />
+    <PlatformCategoryName>Curated Projects</PlatformCategoryName>
+    <ParentPlatformName />
+    <ParentPlaylistId />
+    <ParentPlatformCategoryName />
+  </Parent>
+  <Parent>
+    <PlatformName />
+    <PlaylistId>e99f1b8f-6802-4d4b-b757-be0d37cab525</PlaylistId>
+    <PlatformCategoryName />
+    <ParentPlatformName />
+    <ParentPlaylistId />
+    <ParentPlatformCategoryName />
+  </Parent>
+  <Parent>
+    <PlaylistId>481ec691-f4ed-4525-b4b5-38d7e66e51ad</PlaylistId>
+    <ParentPlatformName>NEC PC-9801</ParentPlatformName>
+  </Parent>
+  <Parent>
+    <PlatformName />
+    <PlaylistId>8de1042f-262f-4c5a-9c72-9e1dc839f479</PlaylistId>
+    <PlatformCategoryName />
+    <ParentPlatformName />
+    <ParentPlaylistId />
+    <ParentPlatformCategoryName>Series Collection</ParentPlatformCategoryName>
+  </Parent>
+  <Parent>
+    <PlatformName />
+    <PlaylistId>537e5c49-8b9a-46d3-be58-a56beee1763f</PlaylistId>
+    <PlatformCategoryName />
+    <ParentPlatformName />
+    <ParentPlaylistId />
+    <ParentPlatformCategoryName />
+  </Parent>
+  <Parent>
+    <PlatformName />
+    <PlaylistId>b42363c6-b4bd-4267-9d97-0bfa5c966341</PlaylistId>
+    <PlatformCategoryName />
+    <ParentPlatformName />
+    <ParentPlaylistId />
+    <ParentPlatformCategoryName />
+  </Parent>
+  <Parent>
+    <PlatformName>Nintendo Game Boy</PlatformName>
+    <PlaylistId />
+    <PlatformCategoryName />
+    <ParentPlatformName />
+    <ParentPlaylistId />
+    <ParentPlatformCategoryName>Handhelds</ParentPlatformCategoryName>
+  </Parent>
+  <Parent>
+    <PlaylistId>18a7758a-2d2a-43a9-8519-6a38355f9aee</PlaylistId>
+    <ParentPlatformName>Fujitsu FM Towns</ParentPlatformName>
+  </Parent>
+  <Parent>
+    <PlatformName />
+    <PlaylistId>e20edd8e-5eaa-4d97-9616-62ddc2d7088d</PlaylistId>
+    <PlatformCategoryName />
+    <ParentPlatformName>Commodore 64</ParentPlatformName>
+    <ParentPlaylistId />
+    <ParentPlatformCategoryName />
+  </Parent>
+  <Parent>
+    <PlaylistId>f653660f-7172-49ec-8007-72be98c560a1</PlaylistId>
+    <ParentPlatformName>Nintendo DS</ParentPlatformName>
+  </Parent>
+  <Parent>
+    <PlatformName>Sega Naomi 2</PlatformName>
+    <PlaylistId />
+    <PlatformCategoryName />
+    <ParentPlatformName />
+    <ParentPlaylistId />
+    <ParentPlatformCategoryName>Arcade Classics (By System)</ParentPlatformCategoryName>
+  </Parent>
+  <Parent>
+    <PlatformName>Sega CD [T-En]</PlatformName>
+    <PlaylistId />
+    <PlatformCategoryName />
+    <ParentPlatformName />
+    <ParentPlaylistId />
+    <ParentPlatformCategoryName>Translated En</ParentPlatformCategoryName>
+  </Parent>
+  <Parent>
+    <PlatformName>NEC TurboGrafx-16</PlatformName>
+    <PlaylistId />
+    <PlatformCategoryName />
+    <ParentPlatformName />
+    <ParentPlaylistId />
+    <ParentPlatformCategoryName>Consoles</ParentPlatformCategoryName>
+  </Parent>
+  <Parent>
+    <PlatformName />
+    <PlaylistId />
+    <PlatformCategoryName>Flashpoint Platforms</PlatformCategoryName>
+    <ParentPlatformName />
+    <ParentPlaylistId />
+    <ParentPlatformCategoryName>Flashpoint</ParentPlatformCategoryName>
+  </Parent>
+  <Parent>
+    <PlatformName />
+    <PlaylistId>34570cbb-f114-4903-964c-e721bab3ce2c</PlaylistId>
+    <PlatformCategoryName />
+    <ParentPlatformName />
+    <ParentPlaylistId />
+    <ParentPlatformCategoryName>Arcade Classics (By Publisher)</ParentPlatformCategoryName>
+  </Parent>
+  <Parent>
+    <PlatformName />
+    <PlaylistId />
+    <PlatformCategoryName>Nintendo Super Nintendo Entertainment System Genres</PlatformCategoryName>
+    <ParentPlatformName>Nintendo Super Nintendo Entertainment System</ParentPlatformName>
+    <ParentPlaylistId />
+    <ParentPlatformCategoryName />
+  </Parent>
+  <Parent>
+    <PlaylistId>88fc5a59-26df-4302-affd-7092e76d3754</PlaylistId>
+    <ParentPlatformName>Fujitsu FM Towns</ParentPlatformName>
+  </Parent>
+  <Parent>
+    <PlatformName />
+    <PlaylistId>08dc3ac5-95f3-4cf8-b55f-2870d1cf5bd6</PlaylistId>
+    <PlatformCategoryName />
+    <ParentPlatformName />
+    <ParentPlaylistId />
+    <ParentPlatformCategoryName />
+  </Parent>
+  <Parent>
+    <PlatformName />
+    <PlaylistId>7610025b-b303-487c-8efb-67ca6d1fecb3</PlaylistId>
+    <PlatformCategoryName />
+    <ParentPlatformName />
+    <ParentPlaylistId />
+    <ParentPlatformCategoryName>Nintendo Super Nintendo Entertainment System Genres</ParentPlatformCategoryName>
+  </Parent>
+  <Parent>
+    <PlatformName />
+    <PlaylistId>16da0833-5fc5-4fec-ab16-d8fe247e24a9</PlaylistId>
+    <PlatformCategoryName />
+    <ParentPlatformName />
+    <ParentPlaylistId />
+    <ParentPlatformCategoryName />
+  </Parent>
+  <Parent>
+    <PlatformName />
+    <PlaylistId>ad13a35d-222e-46e6-83fc-4ed420f7c097</PlaylistId>
+    <PlatformCategoryName />
+    <ParentPlatformName />
+    <ParentPlaylistId />
+    <ParentPlatformCategoryName>Series Collection</ParentPlatformCategoryName>
+  </Parent>
+  <Parent>
+    <PlatformName />
+    <PlaylistId>9dfaae5c-f18f-409d-876b-16d9c5420dc5</PlaylistId>
+    <PlatformCategoryName />
+    <ParentPlatformName />
+    <ParentPlaylistId />
+    <ParentPlatformCategoryName />
+  </Parent>
+  <Parent>
+    <PlatformName />
+    <PlaylistId>19701cf3-066c-41c8-a8a5-05d359f1fa19</PlaylistId>
+    <PlatformCategoryName />
+    <ParentPlatformName />
+    <ParentPlaylistId />
+    <ParentPlatformCategoryName>Arcade Classics (By System)</ParentPlatformCategoryName>
+  </Parent>
+  <Parent>
+    <PlatformName>ScummVM SVN</PlatformName>
+    <PlaylistId />
+    <PlatformCategoryName />
+    <ParentPlatformName />
+    <ParentPlaylistId />
+    <ParentPlatformCategoryName>Computers</ParentPlatformCategoryName>
+  </Parent>
+  <Parent>
+    <PlatformName />
+    <PlaylistId />
+    <PlatformCategoryName>Arcade</PlatformCategoryName>
+    <ParentPlatformName />
+    <ParentPlaylistId />
+    <ParentPlatformCategoryName />
+  </Parent>
+  <Parent>
+    <PlatformName />
+    <PlaylistId>a76a3b28-de16-4c59-a646-55847707dcad</PlaylistId>
+    <PlatformCategoryName />
+    <ParentPlatformName />
+    <ParentPlaylistId />
+    <ParentPlatformCategoryName />
+  </Parent>
+  <Parent>
+    <PlatformName>Sega APM3</PlatformName>
+    <PlaylistId />
+    <PlatformCategoryName />
+    <ParentPlatformName />
+    <ParentPlaylistId />
+    <ParentPlatformCategoryName>Arcade PC</ParentPlatformCategoryName>
+  </Parent>
+  <Parent>
+    <PlatformName />
+    <PlaylistId>59a38cb3-9a18-43f6-b7af-8cb753219a36</PlaylistId>
+    <PlatformCategoryName />
+    <ParentPlatformName>Commodore 64</ParentPlatformName>
+    <ParentPlaylistId />
+    <ParentPlatformCategoryName />
+  </Parent>
+  <Parent>
+    <PlatformName />
+    <PlaylistId>3d4b3a3e-7b77-45b6-81a8-5b49b89c1bd3</PlaylistId>
+    <PlatformCategoryName />
+    <ParentPlatformName />
+    <ParentPlaylistId />
+    <ParentPlatformCategoryName>By Theme</ParentPlatformCategoryName>
+  </Parent>
+  <Parent>
+    <PlatformName />
+    <PlaylistId>2bdab7fd-2ad7-4867-b967-5977e72eb162</PlaylistId>
+    <PlatformCategoryName />
+    <ParentPlatformName />
+    <ParentPlaylistId />
+    <ParentPlatformCategoryName />
+  </Parent>
+  <Parent>
+    <PlatformName />
+    <PlaylistId>724d3a00-19e1-4109-8fe0-8948b60a26b7</PlaylistId>
+    <PlatformCategoryName />
+    <ParentPlatformName />
+    <ParentPlaylistId />
+    <ParentPlatformCategoryName />
+  </Parent>
+  <Parent>
+    <PlatformName />
+    <PlaylistId>48a47929-b3cb-4825-9da3-46a241fad397</PlaylistId>
+    <PlatformCategoryName />
+    <ParentPlatformName />
+    <ParentPlaylistId />
+    <ParentPlatformCategoryName>Arcade PC (By Genre)</ParentPlatformCategoryName>
+  </Parent>
+  <Parent>
+    <PlatformName>Sammy Atomiswave</PlatformName>
+    <PlaylistId />
+    <PlatformCategoryName />
+    <ParentPlatformName />
+    <ParentPlaylistId />
+    <ParentPlatformCategoryName>Arcade PC</ParentPlatformCategoryName>
+  </Parent>
+  <Parent>
+    <PlaylistId>ae2d6716-b320-46c0-aa9a-b0aa7ca655d3</PlaylistId>
+    <ParentPlatformName>Fujitsu FM Towns</ParentPlatformName>
+  </Parent>
+  <Parent>
+    <PlatformName />
+    <PlaylistId>591699d4-a569-478c-aa71-d811b3ae4784</PlaylistId>
+    <PlatformCategoryName />
+    <ParentPlatformName />
+    <ParentPlaylistId />
+    <ParentPlatformCategoryName />
+  </Parent>
+  <Parent>
+    <PlatformName />
+    <PlaylistId>f1aca1b1-0538-4553-963f-f49990e3a54c</PlaylistId>
+    <PlatformCategoryName />
+    <ParentPlatformName />
+    <ParentPlaylistId />
+    <ParentPlatformCategoryName>Genres</ParentPlatformCategoryName>
+  </Parent>
+  <Parent>
+    <PlaylistId>73c774e1-2aa8-4a52-b10e-51c413418d11</PlaylistId>
+    <ParentPlatformName>NEC PC-8801</ParentPlatformName>
+  </Parent>
+  <Parent>
+    <PlatformName>Daphne</PlatformName>
+    <PlaylistId />
+    <PlatformCategoryName />
+    <ParentPlatformName />
+    <ParentPlaylistId />
+    <ParentPlatformCategoryName>LaserDisc Arcade</ParentPlatformCategoryName>
+  </Parent>
+  <Parent>
+    <PlaylistId>1b9196cf-9cb6-43bc-81ff-a9a3cc8028e7</PlaylistId>
+    <ParentPlatformName>NEC PC-8801</ParentPlatformName>
+  </Parent>
+  <Parent>
+    <PlatformName />
+    <PlaylistId>8c8e5785-0b52-4c4f-a5de-bf491becebdb</PlaylistId>
+    <PlatformCategoryName />
+    <ParentPlatformName />
+    <ParentPlaylistId />
+    <ParentPlatformCategoryName>Series Collection</ParentPlatformCategoryName>
+  </Parent>
+  <Parent>
+    <PlatformName />
+    <PlaylistId>fdcb4db8-6614-401b-b9dd-09753a2835c5</PlaylistId>
+    <PlatformCategoryName />
+    <ParentPlatformName />
+    <ParentPlaylistId />
+    <ParentPlatformCategoryName />
+  </Parent>
+  <Parent>
+    <PlatformName>Sega Naomi</PlatformName>
+    <PlaylistId />
+    <PlatformCategoryName />
+    <ParentPlatformName />
+    <ParentPlaylistId />
+    <ParentPlatformCategoryName>Arcade Classics (By System)</ParentPlatformCategoryName>
+  </Parent>
+  <Parent>
+    <PlatformName />
+    <PlaylistId>3ad5c991-7ee1-4e3d-b1b8-fd2df6e8ac30</PlaylistId>
+    <PlatformCategoryName />
+    <ParentPlatformName />
+    <ParentPlaylistId />
+    <ParentPlatformCategoryName />
+  </Parent>
+  <Parent>
+    <PlatformName>Java</PlatformName>
+    <PlaylistId />
+    <PlatformCategoryName />
+    <ParentPlatformName />
+    <ParentPlaylistId />
+    <ParentPlatformCategoryName>Flashpoint Platforms</ParentPlatformCategoryName>
+  </Parent>
+  <Parent>
+    <PlatformName />
+    <PlaylistId>bb2f917a-d159-446b-ad16-c6390099a5ea</PlaylistId>
+    <PlatformCategoryName />
+    <ParentPlatformName />
+    <ParentPlaylistId />
+    <ParentPlatformCategoryName />
+  </Parent>
+  <Parent>
+    <PlatformName />
+    <PlaylistId>b04ff6a3-90a5-4ac0-a3e7-25dcd4f10fc3</PlaylistId>
+    <PlatformCategoryName />
+    <ParentPlatformName />
+    <ParentPlaylistId />
+    <ParentPlatformCategoryName />
+  </Parent>
+  <Parent>
+    <PlatformName>Mattel HyperScan</PlatformName>
+    <PlaylistId />
+    <PlatformCategoryName />
+    <ParentPlatformName />
+    <ParentPlaylistId />
+    <ParentPlatformCategoryName>Consoles</ParentPlatformCategoryName>
+  </Parent>
+  <Parent>
+    <PlaylistId>ba8ac16e-f442-4ca5-90da-c86f53027eba</PlaylistId>
+    <ParentPlatformName>NEC PC-8801</ParentPlatformName>
+  </Parent>
+  <Parent>
+    <PlatformName />
+    <PlaylistId>77fdd80a-007a-4f83-9a0e-5052a17c8696</PlaylistId>
+    <PlatformCategoryName />
+    <ParentPlatformName />
+    <ParentPlaylistId />
+    <ParentPlatformCategoryName>Arcade Classics (By Publisher)</ParentPlatformCategoryName>
+  </Parent>
+  <Parent>
+    <PlatformName />
+    <PlaylistId>219a8d90-c52d-44a2-b531-e8fd9f08eb9a</PlaylistId>
+    <PlatformCategoryName />
+    <ParentPlatformName>Commodore 64</ParentPlatformName>
+    <ParentPlaylistId />
+    <ParentPlatformCategoryName />
+  </Parent>
+  <Parent>
+    <PlatformName />
+    <PlaylistId>d55c1812-2b99-4329-ace9-2d655ebb4bec</PlaylistId>
+    <PlatformCategoryName />
+    <ParentPlatformName />
+    <ParentPlaylistId />
+    <ParentPlatformCategoryName />
+  </Parent>
+  <Parent>
+    <PlatformName />
+    <PlaylistId>2bbdb3b0-b38b-43de-9cb8-6cf445bca094</PlaylistId>
+    <PlatformCategoryName />
+    <ParentPlatformName />
+    <ParentPlaylistId />
+    <ParentPlatformCategoryName />
+  </Parent>
+  <Parent>
+    <PlatformName>Sinclair ZX Spectrum</PlatformName>
+    <PlaylistId />
+    <PlatformCategoryName />
+    <ParentPlatformName />
+    <ParentPlaylistId />
+    <ParentPlatformCategoryName>Computers</ParentPlatformCategoryName>
+  </Parent>
+  <Parent>
+    <PlatformName>VTech VSmile</PlatformName>
+    <PlaylistId />
+    <PlatformCategoryName />
+    <ParentPlatformName />
+    <ParentPlaylistId />
+    <ParentPlatformCategoryName>Consoles</ParentPlatformCategoryName>
+  </Parent>
+  <Parent>
+    <PlatformName />
+    <PlaylistId>d6a21e4c-eebe-49b7-8087-556e35e86a6a</PlaylistId>
+    <PlatformCategoryName />
+    <ParentPlatformName />
+    <ParentPlaylistId />
+    <ParentPlatformCategoryName>Arcade</ParentPlatformCategoryName>
+  </Parent>
+  <Parent>
+    <PlatformName />
+    <PlaylistId>be377a10-d8e2-4c56-ad22-ee918e284954</PlaylistId>
+    <PlatformCategoryName />
+    <ParentPlatformName />
+    <ParentPlaylistId />
+    <ParentPlatformCategoryName>Arcade Classics (By System)</ParentPlatformCategoryName>
+  </Parent>
+  <Parent>
+    <PlatformName>Fruit Machines</PlatformName>
+    <PlaylistId />
+    <PlatformCategoryName />
+    <ParentPlatformName />
+    <ParentPlaylistId />
+    <ParentPlatformCategoryName />
+  </Parent>
+  <Parent>
+    <PlaylistId>6d4cb2b4-ce7f-4d2d-91bd-04780eef19d5</PlaylistId>
+    <ParentPlatformName>Fujitsu FM Towns</ParentPlatformName>
+  </Parent>
+  <Parent>
+    <PlatformName>3DO Interactive Multiplayer</PlatformName>
+    <PlaylistId />
+    <PlatformCategoryName />
+    <ParentPlatformName />
+    <ParentPlaylistId />
+    <ParentPlatformCategoryName>Consoles</ParentPlatformCategoryName>
+  </Parent>
+  <Parent>
+    <PlatformName />
+    <PlaylistId>9850a7a7-3c35-4883-adb9-a97bb6ac4274</PlaylistId>
+    <PlatformCategoryName />
+    <ParentPlatformName />
+    <ParentPlaylistId />
+    <ParentPlatformCategoryName />
+  </Parent>
+  <Parent>
+    <PlatformName />
+    <PlaylistId>695056c7-b69c-4ea7-8c95-71f7a9c3be90</PlaylistId>
+    <PlatformCategoryName />
+    <ParentPlatformName />
+    <ParentPlaylistId />
+    <ParentPlatformCategoryName />
+  </Parent>
+  <Parent>
+    <PlatformName />
+    <PlaylistId />
+    <PlatformCategoryName>Arcade Classics (By Publisher)</PlatformCategoryName>
+    <ParentPlatformName />
+    <ParentPlaylistId />
+    <ParentPlatformCategoryName>Arcade</ParentPlatformCategoryName>
+  </Parent>
+  <Parent>
+    <PlaylistId>d4e44f51-44c8-416f-a406-2f4380f07e55</PlaylistId>
+    <ParentPlatformName>NEC PC-8801</ParentPlatformName>
+  </Parent>
+  <Parent>
+    <PlatformName>Mattel Intellivision</PlatformName>
+    <PlaylistId />
+    <PlatformCategoryName />
+    <ParentPlatformName />
+    <ParentPlaylistId />
+    <ParentPlatformCategoryName>Consoles</ParentPlatformCategoryName>
+  </Parent>
+  <Parent>
+    <PlaylistId>4f56b0c5-59da-4904-a860-1e9a9cb7612c</PlaylistId>
+    <ParentPlatformName>Fujitsu FM Towns</ParentPlatformName>
+  </Parent>
+  <Parent>
+    <PlatformName>Sony Playstation 3</PlatformName>
+    <PlaylistId />
+    <PlatformCategoryName />
+    <ParentPlatformName />
+    <ParentPlaylistId />
+    <ParentPlatformCategoryName>Consoles</ParentPlatformCategoryName>
+  </Parent>
+  <Parent>
+    <PlatformName>Nintendo 3DS [T-En]</PlatformName>
+    <ParentPlatformCategoryName>Translated En</ParentPlatformCategoryName>
+  </Parent>
+  <Parent>
+    <PlaylistId>d5024551-963d-46f7-b145-31ca06a58823</PlaylistId>
+    <ParentPlatformName>Fujitsu FM Towns</ParentPlatformName>
+  </Parent>
+  <Parent>
+    <PlatformName />
+    <PlaylistId>9b98225f-17d9-4721-b898-b41af70e763a</PlaylistId>
+    <PlatformCategoryName />
+    <ParentPlatformName />
+    <ParentPlaylistId />
+    <ParentPlatformCategoryName>Nintendo Super Nintendo Entertainment System Genres</ParentPlatformCategoryName>
+  </Parent>
+  <Parent>
+    <PlatformName />
+    <PlaylistId>bb2566e1-2bb9-4efb-b69f-c830c3dfe01f</PlaylistId>
+    <PlatformCategoryName />
+    <ParentPlatformName />
+    <ParentPlaylistId />
+    <ParentPlatformCategoryName />
+  </Parent>
+  <Parent>
+    <PlatformName />
+    <PlaylistId>7f2beab6-f7ea-424e-bf04-160cd44d5be3</PlaylistId>
+    <PlatformCategoryName />
+    <ParentPlatformName />
+    <ParentPlaylistId />
+    <ParentPlatformCategoryName>Arcade PC (By Genre)</ParentPlatformCategoryName>
+  </Parent>
+  <Parent>
+    <PlatformName />
+    <PlaylistId>f3b4848a-1d24-4b1c-96a7-475d4d9230dd</PlaylistId>
+    <PlatformCategoryName />
+    <ParentPlatformName />
+    <ParentPlaylistId />
+    <ParentPlatformCategoryName>Light Gun</ParentPlatformCategoryName>
+  </Parent>
+  <Parent>
+    <PlatformName />
+    <PlaylistId>595f9c34-4550-4ef1-8c05-71a99422ccf1</PlaylistId>
+    <PlatformCategoryName />
+    <ParentPlatformName />
+    <ParentPlaylistId />
+    <ParentPlatformCategoryName />
+  </Parent>
+  <Parent>
+    <PlatformName />
+    <PlaylistId>f4bc738c-9fc3-49d5-9a35-2e321f0f1427</PlaylistId>
+    <PlatformCategoryName />
+    <ParentPlatformName />
+    <ParentPlaylistId />
+    <ParentPlatformCategoryName>Nintendo Super Nintendo Entertainment System Genres</ParentPlatformCategoryName>
+  </Parent>
+  <Parent>
+    <PlatformName>Gaelco PC-Based</PlatformName>
+    <PlaylistId />
+    <PlatformCategoryName />
+    <ParentPlatformName />
+    <ParentPlaylistId />
+    <ParentPlatformCategoryName>Arcade PC</ParentPlatformCategoryName>
+  </Parent>
+  <Parent>
+    <PlatformName />
+    <PlaylistId>18797992-e45b-4f03-bd24-d792eed3f3bf</PlaylistId>
+    <PlatformCategoryName />
+    <ParentPlatformName />
+    <ParentPlaylistId />
+    <ParentPlatformCategoryName />
+  </Parent>
+  <Parent>
+    <PlatformName />
+    <PlaylistId>0c8c7951-4d09-4e69-b10b-9c82c96f2ae1</PlaylistId>
+    <PlatformCategoryName />
+    <ParentPlatformName />
+    <ParentPlaylistId />
+    <ParentPlatformCategoryName />
+  </Parent>
+  <Parent>
+    <PlatformName />
+    <PlaylistId>518afdc4-32ee-404f-b858-2478903ff0a5</PlaylistId>
+    <PlatformCategoryName />
+    <ParentPlatformName />
+    <ParentPlaylistId />
+    <ParentPlatformCategoryName />
+  </Parent>
+  <Parent>
+    <PlaylistId>cd50b2ef-dcf2-4532-816f-ddae1dfe86e5</PlaylistId>
+    <ParentPlatformName>Nintendo DS</ParentPlatformName>
+  </Parent>
+  <Parent>
+    <PlatformName />
+    <PlaylistId>54497143-7365-433a-9a1f-20e128cc236e</PlaylistId>
+    <PlatformCategoryName />
+    <ParentPlatformName />
+    <ParentPlaylistId />
+    <ParentPlatformCategoryName />
+  </Parent>
+  <Parent>
+    <PlatformName />
+    <PlaylistId>331cc3a9-f16c-4047-9cda-b91c90227500</PlaylistId>
+    <PlatformCategoryName />
+    <ParentPlatformName />
+    <ParentPlaylistId />
+    <ParentPlatformCategoryName />
+  </Parent>
+  <Parent>
+    <PlaylistId>a94c3fe3-8810-471c-bff5-298ca289c566</PlaylistId>
+    <ParentPlatformName>NEC PC-9801</ParentPlatformName>
+  </Parent>
+  <Parent>
+    <PlatformName />
+    <PlaylistId>46aad5df-7c11-4036-83fd-460fc12f88b1</PlaylistId>
+    <PlatformCategoryName />
+    <ParentPlatformName />
+    <ParentPlaylistId />
+    <ParentPlatformCategoryName />
+  </Parent>
+  <Parent>
+    <PlatformName />
+    <PlaylistId>91517cb6-c353-4672-ae56-a92d1924aa84</PlaylistId>
+    <PlatformCategoryName />
+    <ParentPlatformName />
+    <ParentPlaylistId />
+    <ParentPlatformCategoryName>Arcade Classics (By System)</ParentPlatformCategoryName>
+  </Parent>
+  <Parent>
+    <PlatformName />
+    <PlaylistId>f4658607-6eee-4f40-a3f4-428a89f2a3ec</PlaylistId>
+    <PlatformCategoryName />
+    <ParentPlatformName />
+    <ParentPlaylistId />
+    <ParentPlatformCategoryName />
+  </Parent>
+  <Parent>
+    <PlaylistId>b90f04c2-793e-45aa-93c9-3e04ec5d5dbd</PlaylistId>
+    <ParentPlatformName>Nintendo DS</ParentPlatformName>
+  </Parent>
+  <Parent>
+    <PlatformName />
+    <PlaylistId>3ed6ddd3-629f-45aa-98df-cc512b04d23b</PlaylistId>
+    <PlatformCategoryName />
+    <ParentPlatformName />
+    <ParentPlaylistId />
+    <ParentPlatformCategoryName />
+  </Parent>
+  <Parent>
+    <PlatformName />
+    <PlaylistId>09cf2415-bdd0-4245-81bd-7638bab208a3</PlaylistId>
+    <PlatformCategoryName />
+    <ParentPlatformName />
+    <ParentPlaylistId />
+    <ParentPlatformCategoryName />
+  </Parent>
+  <Parent>
+    <PlatformName>Namco System 357</PlatformName>
+    <PlaylistId />
+    <PlatformCategoryName />
+    <ParentPlatformName />
+    <ParentPlaylistId />
+    <ParentPlatformCategoryName>Arcade PC</ParentPlatformCategoryName>
+  </Parent>
+  <Parent>
+    <PlatformName />
+    <PlaylistId />
+    <PlatformCategoryName>Arcade PC (By Genre)</PlatformCategoryName>
+    <ParentPlatformName />
+    <ParentPlaylistId />
+    <ParentPlatformCategoryName>Arcade PC</ParentPlatformCategoryName>
+  </Parent>
+  <Parent>
+    <PlatformName />
+    <PlaylistId>92aba40b-7d49-4c59-b6d8-dc10e62ac419</PlaylistId>
+    <PlatformCategoryName />
+    <ParentPlatformName />
+    <ParentPlaylistId />
+    <ParentPlatformCategoryName>Series Collection</ParentPlatformCategoryName>
+  </Parent>
+  <Parent>
+    <PlatformName />
+    <PlaylistId />
+    <PlatformCategoryName>Computers</PlatformCategoryName>
+    <ParentPlatformName />
+    <ParentPlaylistId />
+    <ParentPlatformCategoryName />
+  </Parent>
+  <Parent>
+    <PlatformName />
+    <PlaylistId>e757e909-acb2-4d2b-9eab-0f7518370517</PlaylistId>
+    <PlatformCategoryName />
+    <ParentPlatformName>Commodore 64</ParentPlatformName>
+    <ParentPlaylistId />
+    <ParentPlatformCategoryName />
+  </Parent>
+  <Parent>
+    <PlaylistId>64fbb12d-d31f-4fd2-8e50-64ea56bd2f3f</PlaylistId>
+    <ParentPlatformName>NEC PC-9801</ParentPlatformName>
+  </Parent>
+  <Parent>
+    <PlatformName>Nintendo GameCube [T-En]</PlatformName>
+    <PlaylistId />
+    <PlatformCategoryName />
+    <ParentPlatformName />
+    <ParentPlaylistId />
+    <ParentPlatformCategoryName>Translated En</ParentPlatformCategoryName>
+  </Parent>
+  <Parent>
+    <PlaylistId>74dccd76-3899-48cc-8b36-8d4c3714f588</PlaylistId>
+    <ParentPlatformName>Fujitsu FM-7</ParentPlatformName>
+  </Parent>
+  <Parent>
+    <PlatformName />
+    <PlaylistId>d1ee86a5-e59a-4c34-8d0d-0848ccbe47c2</PlaylistId>
+    <PlatformCategoryName />
+    <ParentPlatformName />
+    <ParentPlaylistId />
+    <ParentPlatformCategoryName>Series Collection</ParentPlatformCategoryName>
+  </Parent>
+  <Parent>
+    <PlatformName />
+    <PlaylistId>03eef1a1-150e-4caa-9065-1ab586b40604</PlaylistId>
+    <PlatformCategoryName />
+    <ParentPlatformName />
+    <ParentPlaylistId />
+    <ParentPlatformCategoryName />
+  </Parent>
+  <Parent>
+    <PlatformName />
+    <PlaylistId>1b644abf-2284-45e7-a93d-be80f67cbbd1</PlaylistId>
+    <PlatformCategoryName />
+    <ParentPlatformName />
+    <ParentPlaylistId />
+    <ParentPlatformCategoryName>Genres</ParentPlatformCategoryName>
+  </Parent>
+  <Parent>
+    <PlatformName />
+    <PlaylistId />
+    <PlatformCategoryName>Handhelds</PlatformCategoryName>
+    <ParentPlatformName />
+    <ParentPlaylistId />
+    <ParentPlatformCategoryName />
+  </Parent>
+  <Parent>
+    <PlatformName />
+    <PlaylistId>9ce95848-3b98-48b4-901c-efb9ed795237</PlaylistId>
+    <PlatformCategoryName />
+    <ParentPlatformName />
+    <ParentPlaylistId />
+    <ParentPlatformCategoryName>Nintendo Super Nintendo Entertainment System Genres</ParentPlatformCategoryName>
+  </Parent>
+  <Parent>
+    <PlatformName />
+    <PlaylistId />
+    <PlatformCategoryName>By Author</PlatformCategoryName>
+    <ParentPlatformName />
+    <ParentPlaylistId />
+    <ParentPlatformCategoryName>Visual Pinball</ParentPlatformCategoryName>
+  </Parent>
+  <Parent>
+    <PlatformName>Sega Saturn</PlatformName>
+    <PlaylistId />
+    <PlatformCategoryName />
+    <ParentPlatformName />
+    <ParentPlaylistId />
+    <ParentPlatformCategoryName>Consoles</ParentPlatformCategoryName>
+  </Parent>
+  <Parent>
+    <PlatformName />
+    <PlaylistId>85553f2c-1964-4b53-a6e1-4ea598b2c531</PlaylistId>
+    <PlatformCategoryName />
+    <ParentPlatformName />
+    <ParentPlaylistId />
+    <ParentPlatformCategoryName />
+  </Parent>
+  <Parent>
+    <PlaylistId>ddb78581-725f-4833-883a-b9d08beec197</PlaylistId>
+    <ParentPlatformName>Nintendo DS</ParentPlatformName>
+  </Parent>
+  <Parent>
+    <PlatformName>NEC PC-9801</PlatformName>
+    <PlaylistId />
+    <PlatformCategoryName />
+    <ParentPlatformName />
+    <ParentPlaylistId />
+    <ParentPlatformCategoryName>Computers</ParentPlatformCategoryName>
+  </Parent>
+  <Parent>
+    <PlatformName>MS-DOS Magazines &amp; Newsletters</PlatformName>
+    <PlaylistId />
+    <PlatformCategoryName />
+    <ParentPlatformName />
+    <ParentPlaylistId />
+    <ParentPlatformCategoryName>Books &amp; Magazines</ParentPlatformCategoryName>
+  </Parent>
+  <Parent>
+    <PlatformName />
+    <PlaylistId>9e757fcf-36e5-4cad-aa38-d03e9c30e8ad</PlaylistId>
+    <PlatformCategoryName />
+    <ParentPlatformName />
+    <ParentPlaylistId />
+    <ParentPlatformCategoryName />
+  </Parent>
+  <Parent>
+    <PlatformName />
+    <PlaylistId>f9f1ba43-bdca-4775-adc6-bdb50fdb29a1</PlaylistId>
+    <PlatformCategoryName />
+    <ParentPlatformName />
+    <ParentPlaylistId />
+    <ParentPlatformCategoryName>Arcade Classics (By Publisher)</ParentPlatformCategoryName>
+  </Parent>
+  <Parent>
+    <PlatformName />
+    <PlaylistId>105e904b-4b77-418d-86e8-d5d7af0d44cb</PlaylistId>
+    <PlatformCategoryName />
+    <ParentPlatformName />
+    <ParentPlaylistId />
+    <ParentPlatformCategoryName />
+  </Parent>
+  <Parent>
+    <PlatformName />
+    <PlaylistId />
+    <PlatformCategoryName>Series Collection</PlatformCategoryName>
+    <ParentPlatformName />
+    <ParentPlaylistId />
+    <ParentPlatformCategoryName />
+  </Parent>
+  <Parent>
+    <PlaylistId>45a63423-92b2-4dec-9e5e-723af65e9147</PlaylistId>
+    <ParentPlatformName>NEC PC-9801</ParentPlatformName>
+  </Parent>
+  <Parent>
+    <PlatformName />
+    <PlaylistId />
+    <PlatformCategoryName>Light Gun</PlatformCategoryName>
+    <ParentPlatformName />
+    <ParentPlaylistId />
+    <ParentPlatformCategoryName />
+  </Parent>
+  <Parent>
+    <PlaylistId>cd98832b-b782-4eb0-8d22-3964a33511c1</PlaylistId>
+    <ParentPlatformName>NEC PC-9801</ParentPlatformName>
+  </Parent>
+  <Parent>
+    <PlaylistId>8d569ada-5c4c-4e59-8f50-d36fa728c32f</PlaylistId>
+    <ParentPlatformName>Nintendo DS</ParentPlatformName>
+  </Parent>
+  <Parent>
+    <PlatformName>Cave PC-Based</PlatformName>
+    <PlaylistId />
+    <PlatformCategoryName />
+    <ParentPlatformName />
+    <ParentPlaylistId />
+    <ParentPlatformCategoryName>Arcade PC</ParentPlatformCategoryName>
+  </Parent>
+  <Parent>
+    <PlatformName>Taito Type X3</PlatformName>
+    <PlaylistId />
+    <PlatformCategoryName />
+    <ParentPlatformName />
+    <ParentPlaylistId />
+    <ParentPlatformCategoryName>Arcade PC</ParentPlatformCategoryName>
+  </Parent>
+  <Parent>
+    <PlatformName />
+    <PlaylistId>53b2c2f1-d945-47be-b747-c78eca433e4d</PlaylistId>
+    <PlatformCategoryName />
+    <ParentPlatformName />
+    <ParentPlaylistId />
+    <ParentPlatformCategoryName>Series Collection</ParentPlatformCategoryName>
+  </Parent>
+  <Parent>
+    <PlatformName />
+    <PlaylistId>97e45d15-dd92-4dfe-8963-324f17a475de</PlaylistId>
+    <PlatformCategoryName />
+    <ParentPlatformName />
+    <ParentPlaylistId />
+    <ParentPlatformCategoryName />
+  </Parent>
+  <Parent>
+    <PlatformName />
+    <PlaylistId>493638af-473e-4463-bd37-29e000041e2c</PlaylistId>
+    <PlatformCategoryName />
+    <ParentPlatformName />
+    <ParentPlaylistId />
+    <ParentPlatformCategoryName />
+  </Parent>
+  <Parent>
+    <PlatformName>Sega Model 2</PlatformName>
+    <PlaylistId />
+    <PlatformCategoryName />
+    <ParentPlatformName />
+    <ParentPlaylistId />
+    <ParentPlatformCategoryName>Arcade Classics (By System)</ParentPlatformCategoryName>
+  </Parent>
+  <Parent>
+    <PlatformName />
+    <PlaylistId>44db0771-fb37-47ef-ae52-2e995532c3ec</PlaylistId>
+    <PlatformCategoryName />
+    <ParentPlatformName />
+    <ParentPlaylistId />
+    <ParentPlatformCategoryName>Series Collection</ParentPlatformCategoryName>
+  </Parent>
+  <Parent>
+    <PlatformName>Sega Game Gear</PlatformName>
+    <PlaylistId />
+    <PlatformCategoryName />
+    <ParentPlatformName />
+    <ParentPlaylistId />
+    <ParentPlatformCategoryName>Handhelds</ParentPlatformCategoryName>
+  </Parent>
+  <Parent>
+    <PlatformName>Nintendo Sufami Turbo</PlatformName>
+    <PlaylistId />
+    <PlatformCategoryName />
+    <ParentPlatformName />
+    <ParentPlaylistId />
+    <ParentPlatformCategoryName>Consoles</ParentPlatformCategoryName>
+  </Parent>
+  <Parent>
+    <PlaylistId>2f433b9a-a02d-4a2a-b296-b330e8e00930</PlaylistId>
+    <ParentPlatformName>Nintendo DS</ParentPlatformName>
+  </Parent>
+  <Parent>
+    <PlatformName />
+    <PlaylistId>9a6db381-2aef-462c-95c6-33ce647567f0</PlaylistId>
+    <PlatformCategoryName />
+    <ParentPlatformName />
+    <ParentPlaylistId />
+    <ParentPlatformCategoryName>Series Collection</ParentPlatformCategoryName>
+  </Parent>
+  <Parent>
+    <PlatformName />
+    <PlaylistId>d6eaee46-29dd-4f3d-b5c7-3069d0c0764b</PlaylistId>
+    <PlatformCategoryName />
+    <ParentPlatformName />
+    <ParentPlaylistId />
+    <ParentPlatformCategoryName>Arcade PC (By Genre)</ParentPlatformCategoryName>
+  </Parent>
+  <Parent>
+    <PlatformName />
+    <PlaylistId>010f346d-7b36-4acf-8cae-bc2926219625</PlaylistId>
+    <PlatformCategoryName />
+    <ParentPlatformName />
+    <ParentPlaylistId />
+    <ParentPlatformCategoryName>Series Collection</ParentPlatformCategoryName>
+  </Parent>
+  <Parent>
+    <PlaylistId>a6d28d75-bb9c-4e6c-b9b8-9f6ab6e194e2</PlaylistId>
+    <ParentPlatformName>Fujitsu FM Towns</ParentPlatformName>
+  </Parent>
+  <Parent>
+    <PlatformName />
+    <PlaylistId>60376d44-0190-4acb-8e53-b55dec0c0308</PlaylistId>
+    <PlatformCategoryName />
+    <ParentPlatformName />
+    <ParentPlaylistId />
+    <ParentPlatformCategoryName />
+  </Parent>
+  <Parent>
+    <PlatformName>Namco BNA1 LITE</PlatformName>
+    <PlaylistId />
+    <PlatformCategoryName />
+    <ParentPlatformName />
+    <ParentPlaylistId />
+    <ParentPlatformCategoryName>Arcade PC</ParentPlatformCategoryName>
+  </Parent>
+  <Parent>
+    <PlatformName />
+    <PlaylistId>52a42a00-c504-4c45-a491-63fb299a0938</PlaylistId>
+    <PlatformCategoryName />
+    <ParentPlatformName />
+    <ParentPlaylistId />
+    <ParentPlatformCategoryName>Genres</ParentPlatformCategoryName>
+  </Parent>
+  <Parent>
+    <PlatformName />
+    <PlaylistId>ca0d8db1-f6c3-4eb4-ab79-2b764f559e59</PlaylistId>
+    <PlatformCategoryName />
+    <ParentPlatformName />
+    <ParentPlaylistId />
+    <ParentPlatformCategoryName>NEC SuperGrafx Genres</ParentPlatformCategoryName>
+  </Parent>
+  <Parent>
+    <PlatformName />
+    <PlaylistId>e3665a90-ba9d-4011-a503-b0c88bc5153a</PlaylistId>
+    <PlatformCategoryName />
+    <ParentPlatformName />
+    <ParentPlaylistId />
+    <ParentPlatformCategoryName>Arcade Classics (By Publisher)</ParentPlatformCategoryName>
+  </Parent>
+  <Parent>
+    <PlaylistId>05855486-b009-49c9-951e-4ccf253ed3cb</PlaylistId>
+    <ParentPlatformName>Fujitsu FM-7</ParentPlatformName>
+  </Parent>
+  <Parent>
+    <PlatformName />
+    <PlaylistId>d7ad8e61-79f8-40d8-a12b-a2e3dd6a9504</PlaylistId>
+    <PlatformCategoryName />
+    <ParentPlatformName />
+    <ParentPlaylistId />
+    <ParentPlatformCategoryName />
+  </Parent>
+  <Parent>
+    <PlatformName>NEC PC-9801 [T-En]</PlatformName>
+    <ParentPlatformCategoryName>Translated En</ParentPlatformCategoryName>
+  </Parent>
+  <Parent>
+    <PlatformName>Namco ES3</PlatformName>
+    <PlaylistId />
+    <PlatformCategoryName />
+    <ParentPlatformName />
+    <ParentPlaylistId />
+    <ParentPlatformCategoryName>Arcade PC</ParentPlatformCategoryName>
+  </Parent>
+  <Parent>
+    <PlaylistId>b5c5a12d-c84d-4d7f-a674-27ba3ecbcbe5</PlaylistId>
+    <ParentPlatformName>Fujitsu FM Towns</ParentPlatformName>
+  </Parent>
+  <Parent>
+    <PlatformName />
+    <PlaylistId>c748653c-f624-4cca-b7f1-0d6603e59a56</PlaylistId>
+    <PlatformCategoryName />
+    <ParentPlatformName />
+    <ParentPlaylistId />
+    <ParentPlatformCategoryName>Arcade Classics (By Publisher)</ParentPlatformCategoryName>
+  </Parent>
+  <Parent>
+    <PlaylistId>ca23aa4f-5e85-4deb-8a89-dfb8888c17d5</PlaylistId>
+    <ParentPlatformName>NEC PC-9801</ParentPlatformName>
+  </Parent>
+  <Parent>
+    <PlatformName>Bandai WonderSwan Color [T-En]</PlatformName>
+    <ParentPlatformCategoryName>Translated En</ParentPlatformCategoryName>
+  </Parent>
+  <Parent>
+    <PlatformName />
+    <PlaylistId>968b5c7c-4767-427f-b45a-1dd79c65fa6c</PlaylistId>
+    <PlatformCategoryName />
+    <ParentPlatformName />
+    <ParentPlaylistId />
+    <ParentPlatformCategoryName />
+  </Parent>
+  <Parent>
+    <PlatformName>GCE Vectrex</PlatformName>
+    <PlaylistId />
+    <PlatformCategoryName />
+    <ParentPlatformName />
+    <ParentPlaylistId />
+    <ParentPlatformCategoryName>Consoles</ParentPlatformCategoryName>
+  </Parent>
+  <Parent>
+    <PlatformName />
+    <PlaylistId>31da1f07-5b32-4f1b-9d65-b055b370c2f5</PlaylistId>
+    <PlatformCategoryName />
+    <ParentPlatformName />
+    <ParentPlaylistId />
+    <ParentPlatformCategoryName />
+  </Parent>
+  <Parent>
+    <PlatformName>Nintendo Game Boy Advance</PlatformName>
+    <PlaylistId />
+    <PlatformCategoryName />
+    <ParentPlatformName />
+    <ParentPlaylistId />
+    <ParentPlatformCategoryName>Handhelds</ParentPlatformCategoryName>
+  </Parent>
+  <Parent>
+    <PlaylistId>57f6db88-414a-4c75-b898-eb33d671fdb9</PlaylistId>
+    <ParentPlatformName>Fujitsu FM-7</ParentPlatformName>
+  </Parent>
+  <Parent>
+    <PlatformName />
+    <PlaylistId>49d6cff0-f629-494f-a342-7c829d5432d1</PlaylistId>
+    <PlatformCategoryName />
+    <ParentPlatformName />
+    <ParentPlaylistId />
+    <ParentPlatformCategoryName />
+  </Parent>
+  <Parent>
+    <PlatformName />
+    <PlaylistId>6d0ddc4f-e0fc-48d2-85ce-e581c593601d</PlaylistId>
+    <PlatformCategoryName />
+    <ParentPlatformName />
+    <ParentPlaylistId />
+    <ParentPlatformCategoryName />
+  </Parent>
+  <Parent>
+    <PlatformName />
+    <PlaylistId>0949d2d6-21c5-42f3-a066-639dce011c5d</PlaylistId>
+    <PlatformCategoryName />
+    <ParentPlatformName />
+    <ParentPlaylistId />
+    <ParentPlatformCategoryName />
+  </Parent>
+  <Parent>
+    <PlatformName>Sega Pico</PlatformName>
+    <PlaylistId />
+    <PlatformCategoryName />
+    <ParentPlatformName />
+    <ParentPlaylistId />
+    <ParentPlatformCategoryName>Consoles</ParentPlatformCategoryName>
+  </Parent>
+  <Parent>
+    <PlatformName />
+    <PlaylistId>0b078b2c-32b6-42f2-86de-cc98dae16d76</PlaylistId>
+    <PlatformCategoryName />
+    <ParentPlatformName />
+    <ParentPlaylistId />
+    <ParentPlatformCategoryName />
+  </Parent>
+  <Parent>
+    <PlatformName />
+    <PlaylistId>09efabdd-ac21-4590-bcac-68e1c43e5e44</PlaylistId>
+    <PlatformCategoryName />
+    <ParentPlatformName />
+    <ParentPlaylistId />
+    <ParentPlatformCategoryName>Genres</ParentPlatformCategoryName>
+  </Parent>
+  <Parent>
+    <PlatformName />
+    <PlaylistId>4d0d2ab2-a7a6-4869-9ab8-83990b492e13</PlaylistId>
+    <PlatformCategoryName />
+    <ParentPlatformName />
+    <ParentPlaylistId />
+    <ParentPlatformCategoryName />
+  </Parent>
+  <Parent>
+    <PlatformName />
+    <PlaylistId>4e4d1687-79ca-4aec-a66a-b3c63764422e</PlaylistId>
+    <PlatformCategoryName />
+    <ParentPlatformName />
+    <ParentPlaylistId />
+    <ParentPlatformCategoryName />
+  </Parent>
+  <Parent>
+    <PlatformName />
+    <PlaylistId>7d85f440-a61e-48de-981c-4d06993d29ed</PlaylistId>
+    <PlatformCategoryName />
+    <ParentPlatformName />
+    <ParentPlaylistId />
+    <ParentPlatformCategoryName>Series Collection</ParentPlatformCategoryName>
+  </Parent>
+  <Parent>
+    <PlatformName />
+    <PlaylistId>3cf142a5-8e06-4c73-8521-09a3be0caacf</PlaylistId>
+    <PlatformCategoryName />
+    <ParentPlatformName />
+    <ParentPlaylistId />
+    <ParentPlatformCategoryName>Series Collection</ParentPlatformCategoryName>
+  </Parent>
+  <Parent>
+    <PlatformName />
+    <PlaylistId>4de03e7a-5f87-43e7-8f80-c5ff425cf58e</PlaylistId>
+    <PlatformCategoryName />
+    <ParentPlatformName />
+    <ParentPlaylistId />
+    <ParentPlatformCategoryName />
+  </Parent>
+  <Parent>
+    <PlatformName />
+    <PlaylistId>29f8971b-5742-4f3b-81cb-079ed9f14b58</PlaylistId>
+    <PlatformCategoryName />
+    <ParentPlatformName />
+    <ParentPlaylistId />
+    <ParentPlatformCategoryName>NEC SuperGrafx Genres</ParentPlatformCategoryName>
+  </Parent>
+  <Parent>
+    <PlatformName />
+    <PlaylistId>43d69d15-2829-487c-a6f6-a17d6f01983e</PlaylistId>
+    <PlatformCategoryName />
+    <ParentPlatformName />
+    <ParentPlaylistId />
+    <ParentPlatformCategoryName />
+  </Parent>
+  <Parent>
+    <PlatformName />
+    <PlaylistId>b85b1f8c-9b88-4135-a195-2f97eba829d0</PlaylistId>
+    <PlatformCategoryName />
+    <ParentPlatformName />
+    <ParentPlaylistId />
+    <ParentPlatformCategoryName />
+  </Parent>
+  <Parent>
+    <PlatformName>Wallap PC-Based</PlatformName>
+    <PlaylistId />
+    <PlatformCategoryName />
+    <ParentPlatformName />
+    <ParentPlaylistId />
+    <ParentPlatformCategoryName>Arcade PC</ParentPlatformCategoryName>
+  </Parent>
+  <Parent>
+    <PlatformName />
+    <PlaylistId>008372dc-510f-46d9-88b5-9734c5d2fcad</PlaylistId>
+    <PlatformCategoryName />
+    <ParentPlatformName />
+    <ParentPlaylistId />
+    <ParentPlatformCategoryName />
+  </Parent>
+  <Parent>
+    <PlaylistId>c25dd818-d825-494a-978c-bcbe3787453c</PlaylistId>
+    <ParentPlatformName>NEC PC-8801</ParentPlatformName>
+  </Parent>
+  <Parent>
+    <PlaylistId>6bed4f7b-1efb-425e-9a0d-fc783bad4072</PlaylistId>
+    <ParentPlatformName>Fujitsu FM Towns</ParentPlatformName>
+  </Parent>
+  <Parent>
+    <PlatformName>Bally Astrocade</PlatformName>
+    <PlaylistId />
+    <PlatformCategoryName />
+    <ParentPlatformName />
+    <ParentPlaylistId />
+    <ParentPlatformCategoryName>Consoles</ParentPlatformCategoryName>
+  </Parent>
+  <Parent>
+    <PlatformName>Sega RingEdge</PlatformName>
+    <PlaylistId />
+    <PlatformCategoryName />
+    <ParentPlatformName />
+    <ParentPlaylistId />
+    <ParentPlatformCategoryName>Arcade PC</ParentPlatformCategoryName>
+  </Parent>
+  <Parent>
+    <PlatformName>ScummVM</PlatformName>
+    <PlaylistId />
+    <PlatformCategoryName />
+    <ParentPlatformName />
+    <ParentPlaylistId />
+    <ParentPlatformCategoryName>Computers</ParentPlatformCategoryName>
+  </Parent>
+  <Parent>
+    <PlatformName />
+    <PlaylistId>27f420e7-b6f4-492a-b2ec-c6a928b15f31</PlaylistId>
+    <PlatformCategoryName />
+    <ParentPlatformName />
+    <ParentPlaylistId />
+    <ParentPlatformCategoryName />
+  </Parent>
+  <Parent>
+    <PlatformName />
+    <PlaylistId>84627256-2a49-453f-bb7c-ad826718dc8a</PlaylistId>
+    <PlatformCategoryName />
+    <ParentPlatformName />
+    <ParentPlaylistId />
+    <ParentPlatformCategoryName>Arcade</ParentPlatformCategoryName>
+  </Parent>
+  <Parent>
+    <PlatformName />
+    <PlaylistId>ccf9ab1e-9e34-49e0-b9b3-6145a9cfe9d7</PlaylistId>
+    <PlatformCategoryName />
+    <ParentPlatformName />
+    <ParentPlaylistId />
+    <ParentPlatformCategoryName />
+  </Parent>
+  <Parent>
+    <PlatformName>Nintendo Entertainment System [T-En]</PlatformName>
+    <PlaylistId />
+    <PlatformCategoryName />
+    <ParentPlatformName />
+    <ParentPlaylistId />
+    <ParentPlatformCategoryName>Translated En</ParentPlatformCategoryName>
+  </Parent>
+  <Parent>
+    <PlatformName />
+    <PlaylistId>4db0a69b-c70a-4c29-8e66-5cae57247e41</PlaylistId>
+    <PlatformCategoryName />
+    <ParentPlatformName />
+    <ParentPlaylistId />
+    <ParentPlatformCategoryName />
+  </Parent>
+  <Parent>
+    <PlatformName />
+    <PlaylistId>d5b6d80c-2880-4606-91b8-71c3a400ac43</PlaylistId>
+    <PlatformCategoryName />
+    <ParentPlatformName />
+    <ParentPlaylistId />
+    <ParentPlatformCategoryName>Series Collection</ParentPlatformCategoryName>
+  </Parent>
+  <Parent>
+    <PlatformName />
+    <PlaylistId>a1da6502-0be5-4cea-80d1-3de9338d71c3</PlaylistId>
+    <PlatformCategoryName />
+    <ParentPlatformName />
+    <ParentPlaylistId />
+    <ParentPlatformCategoryName />
+  </Parent>
+  <Parent>
+    <PlatformName>Future Pinball (Original Tables) [MODs, HACKs]</PlatformName>
+    <PlaylistId />
+    <PlatformCategoryName />
+    <ParentPlatformName />
+    <ParentPlaylistId />
+    <ParentPlatformCategoryName>Future Pinball</ParentPlatformCategoryName>
+  </Parent>
+  <Parent>
+    <PlaylistId>f9e5d4c1-5052-4a0a-ae8d-4e7d933e659a</PlaylistId>
+    <ParentPlatformName>Nintendo DS</ParentPlatformName>
+  </Parent>
+  <Parent>
+    <PlatformName>Sega Beena</PlatformName>
+    <PlaylistId />
+    <PlatformCategoryName />
+    <ParentPlatformName />
+    <ParentPlaylistId />
+    <ParentPlatformCategoryName>Consoles</ParentPlatformCategoryName>
+  </Parent>
+  <Parent>
+    <PlatformName />
+    <PlaylistId>3be8aafb-0f43-4dd6-b24c-ee545a787f69</PlaylistId>
+    <PlatformCategoryName />
+    <ParentPlatformName />
+    <ParentPlaylistId />
+    <ParentPlatformCategoryName />
+  </Parent>
+  <Parent>
+    <PlatformName>Emerson Arcadia 2001</PlatformName>
+    <PlaylistId />
+    <PlatformCategoryName />
+    <ParentPlatformName />
+    <ParentPlaylistId />
+    <ParentPlatformCategoryName>Consoles</ParentPlatformCategoryName>
+  </Parent>
+  <Parent>
+    <PlatformName />
+    <PlaylistId>24f1555f-3f7c-4353-b55e-9fffe118b3dc</PlaylistId>
+    <PlatformCategoryName />
+    <ParentPlatformName />
+    <ParentPlaylistId />
+    <ParentPlatformCategoryName />
+  </Parent>
+  <Parent>
+    <PlatformName>Visual Pinball [VPX] PinMame Tables</PlatformName>
+    <PlaylistId />
+    <PlatformCategoryName />
+    <ParentPlatformName />
+    <ParentPlaylistId />
+    <ParentPlatformCategoryName>Visual Pinball</ParentPlatformCategoryName>
+  </Parent>
+  <Parent>
+    <PlatformName>Atari ST</PlatformName>
+    <PlaylistId />
+    <PlatformCategoryName />
+    <ParentPlatformName />
+    <ParentPlaylistId />
+    <ParentPlatformCategoryName>Computers</ParentPlatformCategoryName>
+  </Parent>
+  <Parent>
+    <PlatformName />
+    <PlaylistId>b86d4fb0-89d3-4652-85ab-f3df199feca7</PlaylistId>
+    <PlatformCategoryName />
+    <ParentPlatformName />
+    <ParentPlaylistId />
+    <ParentPlatformCategoryName>Nintendo Super Nintendo Entertainment System Genres</ParentPlatformCategoryName>
+  </Parent>
+  <Parent>
+    <PlatformName>Sega Europa-R</PlatformName>
+    <PlaylistId />
+    <PlatformCategoryName />
+    <ParentPlatformName />
+    <ParentPlaylistId />
+    <ParentPlatformCategoryName>Arcade PC</ParentPlatformCategoryName>
+  </Parent>
+  <Parent>
+    <PlatformName />
+    <PlaylistId>3ca24811-f135-45c0-b61b-f3be5015ffbf</PlaylistId>
+    <PlatformCategoryName />
+    <ParentPlatformName />
+    <ParentPlaylistId />
+    <ParentPlatformCategoryName>Series Collection</ParentPlatformCategoryName>
+  </Parent>
+  <Parent>
+    <PlatformName />
+    <PlaylistId>e5a6316d-a106-4b0d-a3df-bc7d313031d5</PlaylistId>
+    <PlatformCategoryName />
+    <ParentPlatformName />
+    <ParentPlaylistId />
+    <ParentPlatformCategoryName>Genres</ParentPlatformCategoryName>
+  </Parent>
+  <Parent>
+    <PlatformName />
+    <PlaylistId>4520ed93-3aba-4bdc-ba1e-7e37f4b75c29</PlaylistId>
+    <PlatformCategoryName />
+    <ParentPlatformName />
+    <ParentPlaylistId />
+    <ParentPlatformCategoryName>Series Collection</ParentPlatformCategoryName>
+  </Parent>
+  <Parent>
+    <PlatformName />
+    <PlaylistId>1bac476c-094c-4a4b-be4f-2c69e8f6d141</PlaylistId>
+    <PlatformCategoryName />
+    <ParentPlatformName />
+    <ParentPlaylistId />
+    <ParentPlatformCategoryName />
+  </Parent>
+  <Parent>
+    <PlatformName />
+    <PlaylistId>6ed11ee9-5d3e-4700-9b1f-090c84e41df8</PlaylistId>
+    <PlatformCategoryName />
+    <ParentPlatformName />
+    <ParentPlaylistId />
+    <ParentPlatformCategoryName>Nintendo Super Nintendo Entertainment System Genres</ParentPlatformCategoryName>
+  </Parent>
+  <Parent>
+    <PlatformName />
+    <PlaylistId>cb18ad51-24fe-46ac-bbba-d8056641f22e</PlaylistId>
+    <PlatformCategoryName />
+    <ParentPlatformName />
+    <ParentPlaylistId />
+    <ParentPlatformCategoryName />
+  </Parent>
+  <Parent>
+    <PlatformName />
+    <PlaylistId>a830bad0-c19c-4dc6-a3b5-fee12f09120e</PlaylistId>
+    <PlatformCategoryName />
+    <ParentPlatformName />
+    <ParentPlaylistId />
+    <ParentPlatformCategoryName />
+  </Parent>
+  <Parent>
+    <PlatformName>Nintendo 64</PlatformName>
+    <PlaylistId />
+    <PlatformCategoryName />
+    <ParentPlatformName />
+    <ParentPlaylistId />
+    <ParentPlatformCategoryName>Consoles</ParentPlatformCategoryName>
+  </Parent>
+  <Parent>
+    <PlatformName>Nintendo Game Boy [T-En]</PlatformName>
+    <ParentPlatformCategoryName>Translated En</ParentPlatformCategoryName>
+  </Parent>
+  <Parent>
+    <PlatformName />
+    <PlaylistId>9f2cc0d8-8cc9-4bab-8e4a-aaad97e41a77</PlaylistId>
+    <PlatformCategoryName />
+    <ParentPlatformName />
+    <ParentPlaylistId />
+    <ParentPlatformCategoryName />
+  </Parent>
+  <Parent>
+    <PlatformName />
+    <PlaylistId>05d19831-afdd-4292-ba13-bcd717f3ce5e</PlaylistId>
+    <PlatformCategoryName />
+    <ParentPlatformName />
+    <ParentPlaylistId />
+    <ParentPlatformCategoryName>Arcade</ParentPlatformCategoryName>
+  </Parent>
+  <Parent>
+    <PlatformName />
+    <PlaylistId>fcf21e1f-8f5c-4157-8619-fcd371a4e0f6</PlaylistId>
+    <PlatformCategoryName />
+    <ParentPlatformName />
+    <ParentPlaylistId />
+    <ParentPlatformCategoryName>Series Collection</ParentPlatformCategoryName>
+  </Parent>
+  <Parent>
+    <PlatformName />
+    <PlaylistId>bcab8101-0c39-4882-b6b2-975e2c4117e8</PlaylistId>
+    <PlatformCategoryName />
+    <ParentPlatformName>Commodore 64</ParentPlatformName>
+    <ParentPlaylistId />
+    <ParentPlatformCategoryName />
+  </Parent>
+  <Parent>
+    <PlatformName />
+    <PlaylistId>dd690f38-1ea9-4abb-9d56-f18c8600fbcd</PlaylistId>
+    <PlatformCategoryName />
+    <ParentPlatformName />
+    <ParentPlaylistId />
+    <ParentPlatformCategoryName />
+  </Parent>
+  <Parent>
+    <PlatformName />
+    <PlaylistId>df66b068-25c9-45ac-9703-bbc3e52fceeb</PlaylistId>
+    <PlatformCategoryName />
+    <ParentPlatformName />
+    <ParentPlaylistId />
+    <ParentPlatformCategoryName>Arcade</ParentPlatformCategoryName>
+  </Parent>
+  <Parent>
+    <PlatformName />
+    <PlaylistId>7c4b0418-915c-4aff-a7b7-8590cd99f8ac</PlaylistId>
+    <PlatformCategoryName />
+    <ParentPlatformName />
+    <ParentPlaylistId />
+    <ParentPlatformCategoryName>Arcade</ParentPlatformCategoryName>
+  </Parent>
+  <Parent>
+    <PlatformName />
+    <PlaylistId>4eed1457-aff2-4226-b302-da6cf3998919</PlaylistId>
+    <PlatformCategoryName />
+    <ParentPlatformName />
+    <ParentPlaylistId />
+    <ParentPlatformCategoryName />
+  </Parent>
+  <Parent>
+    <PlatformName />
+    <PlaylistId>d8ff94ac-c83c-4b45-bf4b-7e36366797c3</PlaylistId>
+    <PlatformCategoryName />
+    <ParentPlatformName />
+    <ParentPlaylistId />
+    <ParentPlatformCategoryName>Genres</ParentPlatformCategoryName>
+  </Parent>
+  <Parent>
+    <PlatformName>Sharp X68000 [T-En]</PlatformName>
+    <ParentPlatformCategoryName>Translated En</ParentPlatformCategoryName>
+  </Parent>
+  <Parent>
+    <PlatformName>Nintendo Game Boy Color</PlatformName>
+    <PlaylistId />
+    <PlatformCategoryName />
+    <ParentPlatformName />
+    <ParentPlaylistId />
+    <ParentPlatformCategoryName>Handhelds</ParentPlatformCategoryName>
+  </Parent>
+  <Parent>
+    <PlatformName />
+    <PlaylistId>cd745c9e-21d9-43d9-a5a4-71f417682444</PlaylistId>
+    <PlatformCategoryName />
+    <ParentPlatformName />
+    <ParentPlaylistId />
+    <ParentPlatformCategoryName>Series Collection</ParentPlatformCategoryName>
+  </Parent>
+  <Parent>
+    <PlatformName>Future Pinball (Recreated Tables) [MODs, HACKs]</PlatformName>
+    <PlaylistId />
+    <PlatformCategoryName />
+    <ParentPlatformName />
+    <ParentPlaylistId />
+    <ParentPlatformCategoryName>Future Pinball</ParentPlatformCategoryName>
+  </Parent>
+  <Parent>
+    <PlatformName>GamePark GP32</PlatformName>
+    <PlaylistId />
+    <PlatformCategoryName />
+    <ParentPlatformName />
+    <ParentPlaylistId />
+    <ParentPlatformCategoryName>Handhelds</ParentPlatformCategoryName>
+  </Parent>
+  <Parent>
+    <PlatformName />
+    <PlaylistId>bc7b16e9-9841-40c5-b52b-dff5a8d9eac5</PlaylistId>
+    <PlatformCategoryName />
+    <ParentPlatformName />
+    <ParentPlaylistId />
+    <ParentPlatformCategoryName>Nintendo Super Nintendo Entertainment System Genres</ParentPlatformCategoryName>
+  </Parent>
+  <Parent>
+    <PlatformName />
+    <PlaylistId>35ebc3b3-9fe5-46a3-bafa-98c29c9958d1</PlaylistId>
+    <PlatformCategoryName />
+    <ParentPlatformName />
+    <ParentPlaylistId />
+    <ParentPlatformCategoryName />
+  </Parent>
+  <Parent>
+    <PlatformName />
+    <PlaylistId />
+    <PlatformCategoryName>Translated En</PlatformCategoryName>
+    <ParentPlatformName />
+    <ParentPlaylistId />
+    <ParentPlatformCategoryName />
+  </Parent>
+  <Parent>
+    <PlatformName />
+    <PlaylistId>6011a974-29ba-4957-96ab-97a0b8a22219</PlaylistId>
+    <PlatformCategoryName />
+    <ParentPlatformName />
+    <ParentPlaylistId />
+    <ParentPlatformCategoryName>Nintendo Super Nintendo Entertainment System Genres</ParentPlatformCategoryName>
+  </Parent>
+  <Parent>
+    <PlatformName>Microsoft MSX [T-En]</PlatformName>
+    <ParentPlatformCategoryName>Translated En</ParentPlatformCategoryName>
+  </Parent>
+  <Parent>
+    <PlatformName>Nintendo Virtual Boy</PlatformName>
+    <PlaylistId />
+    <PlatformCategoryName />
+    <ParentPlatformName />
+    <ParentPlaylistId />
+    <ParentPlatformCategoryName>Consoles</ParentPlatformCategoryName>
+  </Parent>
+  <Parent>
+    <PlatformName />
+    <PlaylistId />
+    <PlatformCategoryName>Flashpoint</PlatformCategoryName>
+    <ParentPlatformName />
+    <ParentPlaylistId />
+    <ParentPlatformCategoryName />
+  </Parent>
+  <Parent>
+    <PlatformName>NEC SuperGrafx</PlatformName>
+    <PlaylistId />
+    <PlatformCategoryName />
+    <ParentPlatformName />
+    <ParentPlaylistId />
+    <ParentPlatformCategoryName>Consoles</ParentPlatformCategoryName>
+  </Parent>
+  <Parent>
+    <PlaylistId>ed917c4d-441d-4c10-826e-4129fc3ab61f</PlaylistId>
+    <ParentPlatformName>NEC PC-8801</ParentPlatformName>
+  </Parent>
+  <Parent>
+    <PlatformName>Sega Genesis [T-En]</PlatformName>
+    <PlaylistId />
+    <PlatformCategoryName />
+    <ParentPlatformName />
+    <ParentPlaylistId />
+    <ParentPlatformCategoryName>Translated En</ParentPlatformCategoryName>
+  </Parent>
+  <Parent>
+    <PlatformName />
+    <PlaylistId>f486f046-1981-4ec8-8743-e63cfa1007ef</PlaylistId>
+    <PlatformCategoryName />
+    <ParentPlatformName />
+    <ParentPlaylistId />
+    <ParentPlatformCategoryName>Arcade Classics (By System)</ParentPlatformCategoryName>
+  </Parent>
+  <Parent>
+    <PlaylistId>7720246c-583a-4733-ae6d-76d911923f6d</PlaylistId>
+    <ParentPlatformName>NEC PC-9801</ParentPlatformName>
+  </Parent>
+  <Parent>
+    <PlatformName />
+    <PlaylistId>0a5afbd5-d41a-4578-9555-8ec367aa5dbb</PlaylistId>
+    <PlatformCategoryName />
+    <ParentPlatformName />
+    <ParentPlaylistId />
+    <ParentPlatformCategoryName>Arcade PC (By Genre)</ParentPlatformCategoryName>
+  </Parent>
+  <Parent>
+    <PlatformName />
+    <PlaylistId>1a94c764-4cae-4712-ae4e-f7716761b5e3</PlaylistId>
+    <PlatformCategoryName />
+    <ParentPlatformName />
+    <ParentPlaylistId />
+    <ParentPlatformCategoryName />
+  </Parent>
+  <Parent>
+    <PlatformName />
+    <PlaylistId />
+    <PlatformCategoryName>By Theme</PlatformCategoryName>
+    <ParentPlatformName />
+    <ParentPlaylistId />
+    <ParentPlatformCategoryName>Visual Pinball</ParentPlatformCategoryName>
+  </Parent>
+  <Parent>
+    <PlatformName />
+    <PlaylistId>9fdaacc8-0a68-43b5-9770-d5d7f01cc324</PlaylistId>
+    <PlatformCategoryName />
+    <ParentPlatformName />
+    <ParentPlaylistId />
+    <ParentPlatformCategoryName>Nintendo Super Nintendo Entertainment System Genres</ParentPlatformCategoryName>
+  </Parent>
+  <Parent>
+    <PlatformName />
+    <PlaylistId>83ff2de2-f5b4-44be-8d67-a2a46e712d4a</PlaylistId>
+    <PlatformCategoryName />
+    <ParentPlatformName>Commodore 64</ParentPlatformName>
+    <ParentPlaylistId />
+    <ParentPlatformCategoryName />
+  </Parent>
+  <Parent>
+    <PlatformName />
+    <PlaylistId>865aa4e4-bf86-45d3-bbf6-7bf0b1d00071</PlaylistId>
+    <PlatformCategoryName />
+    <ParentPlatformName />
+    <ParentPlaylistId />
+    <ParentPlatformCategoryName>Genres</ParentPlatformCategoryName>
+  </Parent>
+  <Parent>
+    <PlaylistId>c3aa0235-2d3e-4053-9c77-e5620b8c9b97</PlaylistId>
+    <ParentPlatformName>Nintendo DS</ParentPlatformName>
+  </Parent>
+  <Parent>
+    <PlaylistId>8efa06e4-f11c-48ad-8bc5-e7fa8720fce2</PlaylistId>
+    <ParentPlatformName>NEC PC-8801</ParentPlatformName>
+  </Parent>
+  <Parent>
+    <PlatformName />
+    <PlaylistId>c0bccae5-75d7-495c-b607-d812f059ec6f</PlaylistId>
+    <PlatformCategoryName />
+    <ParentPlatformName />
+    <ParentPlaylistId />
+    <ParentPlatformCategoryName>Arcade PC (By Genre)</ParentPlatformCategoryName>
+  </Parent>
+  <Parent>
+    <PlatformName />
+    <PlaylistId>11dfb839-8140-40cd-af1d-70175f065de6</PlaylistId>
+    <PlatformCategoryName />
+    <ParentPlatformName />
+    <ParentPlaylistId />
+    <ParentPlatformCategoryName>Genres</ParentPlatformCategoryName>
+  </Parent>
+  <Parent>
+    <PlatformName />
+    <PlaylistId>80b3edf9-21ed-418f-9330-fbb4e5317642</PlaylistId>
+    <PlatformCategoryName />
+    <ParentPlatformName />
+    <ParentPlaylistId />
+    <ParentPlatformCategoryName>Best of</ParentPlatformCategoryName>
+  </Parent>
+  <Parent>
+    <PlatformName />
+    <PlaylistId />
+    <PlatformCategoryName>Genres</PlatformCategoryName>
+    <ParentPlatformName />
+    <ParentPlaylistId />
+    <ParentPlatformCategoryName />
+  </Parent>
+  <Parent>
+    <PlatformName />
+    <PlaylistId>42fb1b33-47bf-4fbe-ae3f-59ecd1d44770</PlaylistId>
+    <PlatformCategoryName />
+    <ParentPlatformName />
+    <ParentPlaylistId />
+    <ParentPlatformCategoryName />
+  </Parent>
+  <Parent>
+    <PlatformName />
+    <PlaylistId>130bf7cf-b061-4851-9047-dfe57d42a2b6</PlaylistId>
+    <PlatformCategoryName />
+    <ParentPlatformName />
+    <ParentPlaylistId />
+    <ParentPlatformCategoryName />
+  </Parent>
+  <Parent>
+    <PlatformName>Sharp X1</PlatformName>
+    <PlaylistId />
+    <PlatformCategoryName />
+    <ParentPlatformName />
+    <ParentPlaylistId />
+    <ParentPlatformCategoryName>Computers</ParentPlatformCategoryName>
+  </Parent>
+  <Parent>
+    <PlatformName />
+    <PlaylistId>99b36d6c-456d-4861-8bb2-d591ee524877</PlaylistId>
+    <PlatformCategoryName />
+    <ParentPlatformName />
+    <ParentPlaylistId />
+    <ParentPlatformCategoryName>Arcade PC (By Genre)</ParentPlatformCategoryName>
+  </Parent>
+  <Parent>
+    <PlaylistId>854a9ed9-db24-43f5-8ade-50a1ef01a5cf</PlaylistId>
+    <ParentPlatformName>NEC PC-8801</ParentPlatformName>
+  </Parent>
+  <Parent>
+    <PlatformName />
+    <PlaylistId>9652d1b0-5a1a-4769-b113-f71aa57165c2</PlaylistId>
+    <PlatformCategoryName />
+    <ParentPlatformName />
+    <ParentPlaylistId />
+    <ParentPlatformCategoryName />
+  </Parent>
+  <Parent>
+    <PlatformName>Commodore 64</PlatformName>
+    <PlaylistId />
+    <PlatformCategoryName />
+    <ParentPlatformName />
+    <ParentPlaylistId />
+    <ParentPlatformCategoryName>C64 Dreams</ParentPlatformCategoryName>
+  </Parent>
+  <Parent>
+    <PlatformName>NEC PC-8801 [T-En]</PlatformName>
+    <ParentPlatformCategoryName>Translated En</ParentPlatformCategoryName>
+  </Parent>
+  <Parent>
+    <PlaylistId>e062e709-17ec-42d5-9be4-db78e3528ea9</PlaylistId>
+    <ParentPlatformName>NEC PC-8801</ParentPlatformName>
+  </Parent>
+  <Parent>
+    <PlatformName />
+    <PlaylistId>18e92880-0ef7-4385-9238-ab8a0dfb12c2</PlaylistId>
+    <PlatformCategoryName />
+    <ParentPlatformName />
+    <ParentPlaylistId />
+    <ParentPlatformCategoryName />
+  </Parent>
+  <Parent>
+    <PlatformName />
+    <PlaylistId>788d412d-0cd2-4dd0-85ef-20bac5d5f107</PlaylistId>
+    <PlatformCategoryName />
+    <ParentPlatformName>Nintendo Super Nintendo Entertainment System</ParentPlatformName>
+    <ParentPlaylistId />
+    <ParentPlatformCategoryName />
+  </Parent>
+  <Parent>
+    <PlatformName>NEC TurboGrafx-CD [T-En]</PlatformName>
+    <PlaylistId />
+    <PlatformCategoryName />
+    <ParentPlatformName />
+    <ParentPlaylistId />
+    <ParentPlatformCategoryName>Translated En</ParentPlatformCategoryName>
+  </Parent>
+  <Parent>
+    <PlatformName />
+    <PlaylistId>9e5bc81a-e4d5-43a6-baa2-688bd8b42dce</PlaylistId>
+    <PlatformCategoryName />
+    <ParentPlatformName />
+    <ParentPlaylistId />
+    <ParentPlatformCategoryName>By Theme</ParentPlatformCategoryName>
+  </Parent>
+  <Parent>
+    <PlaylistId>a436a15d-4411-4ef4-b009-09e5e5b4cc70</PlaylistId>
+    <ParentPlatformName>Fujitsu FM Towns</ParentPlatformName>
+  </Parent>
+  <Parent>
+    <PlatformName />
+    <PlaylistId>9b11fc8a-3e44-4252-8bfa-1b6e0603f9aa</PlaylistId>
+    <PlatformCategoryName />
+    <ParentPlatformName>Commodore 64</ParentPlatformName>
+    <ParentPlaylistId />
+    <ParentPlatformCategoryName />
+  </Parent>
+  <Parent>
+    <PlatformName>Fairchild Channel F</PlatformName>
+    <PlaylistId />
+    <PlatformCategoryName />
+    <ParentPlatformName />
+    <ParentPlaylistId />
+    <ParentPlatformCategoryName>Consoles</ParentPlatformCategoryName>
+  </Parent>
+  <Parent>
+    <PlaylistId>9b78fc83-a9b1-4ef9-8daf-6ac0a2e6d611</PlaylistId>
+    <ParentPlatformName>NEC PC-9801</ParentPlatformName>
+  </Parent>
+  <Parent>
+    <PlaylistId>9e86c6cd-3423-4c74-a84b-1125843b56f5</PlaylistId>
+    <ParentPlatformName>Nintendo DS</ParentPlatformName>
+  </Parent>
+  <Parent>
+    <PlatformName />
+    <PlaylistId>175dbc58-1913-4486-95b1-b02e748714fd</PlaylistId>
+    <PlatformCategoryName />
+    <ParentPlatformName />
+    <ParentPlaylistId />
+    <ParentPlatformCategoryName />
+  </Parent>
+  <Parent>
+    <PlatformName />
+    <PlaylistId>ec665ef8-c477-4268-8b29-e4de1c05120b</PlaylistId>
+    <PlatformCategoryName />
+    <ParentPlatformName />
+    <ParentPlaylistId />
+    <ParentPlatformCategoryName>Arcade Classics (By System)</ParentPlatformCategoryName>
+  </Parent>
+  <Parent>
+    <PlatformName />
+    <PlaylistId>090a3455-370e-4c3b-b931-9c3acc83839c</PlaylistId>
+    <PlatformCategoryName />
+    <ParentPlatformName />
+    <ParentPlaylistId />
+    <ParentPlatformCategoryName>Series Collection</ParentPlatformCategoryName>
+  </Parent>
+  <Parent>
+    <PlatformName />
+    <PlaylistId>173d79f4-976b-4de9-8b06-7fdc1a30d2a8</PlaylistId>
+    <PlatformCategoryName />
+    <ParentPlatformName />
+    <ParentPlaylistId />
+    <ParentPlatformCategoryName>Series Collection</ParentPlatformCategoryName>
+  </Parent>
+  <Parent>
+    <PlatformName />
+    <PlaylistId>82d424bc-8804-417b-bc01-2bc20aaa9cb7</PlaylistId>
+    <PlatformCategoryName />
+    <ParentPlatformName />
+    <ParentPlaylistId />
+    <ParentPlatformCategoryName />
+  </Parent>
+  <Parent>
+    <PlatformName>Nintendo 3DS</PlatformName>
+    <PlaylistId />
+    <PlatformCategoryName />
+    <ParentPlatformName />
+    <ParentPlaylistId />
+    <ParentPlatformCategoryName>Handhelds</ParentPlatformCategoryName>
+  </Parent>
+  <Parent>
+    <PlatformName />
+    <PlaylistId>4028deaf-e54a-439f-a867-f1cf47cfd634</PlaylistId>
+    <PlatformCategoryName />
+    <ParentPlatformName />
+    <ParentPlaylistId />
+    <ParentPlatformCategoryName />
+  </Parent>
+  <Parent>
+    <PlatformName />
+    <PlaylistId>28528624-eaf0-4dbe-81fd-0c87eaa3b6a9</PlaylistId>
+    <PlatformCategoryName />
+    <ParentPlatformName />
+    <ParentPlaylistId />
+    <ParentPlatformCategoryName />
+  </Parent>
+  <Parent>
+    <PlatformName>Nintendo Famicom Disk System [T-En]</PlatformName>
+    <PlaylistId />
+    <PlatformCategoryName />
+    <ParentPlatformName />
+    <ParentPlaylistId />
+    <ParentPlatformCategoryName>Translated En</ParentPlatformCategoryName>
+  </Parent>
+  <Parent>
+    <PlatformName />
+    <PlaylistId>951f9fb3-a265-4c82-95ff-2a363fe68c2a</PlaylistId>
+    <PlatformCategoryName />
+    <ParentPlatformName />
+    <ParentPlaylistId />
+    <ParentPlatformCategoryName>Series Collection</ParentPlatformCategoryName>
+  </Parent>
+  <Parent>
+    <PlatformName />
+    <PlaylistId />
+    <PlatformCategoryName>Arcade PC</PlatformCategoryName>
+    <ParentPlatformName />
+    <ParentPlaylistId />
+    <ParentPlatformCategoryName />
+  </Parent>
+  <Parent>
+    <PlatformName />
+    <PlaylistId>594717ed-c564-44f4-99e0-12e751ace926</PlaylistId>
+    <PlatformCategoryName />
+    <ParentPlatformName />
+    <ParentPlaylistId />
+    <ParentPlatformCategoryName>Arcade PC (By Genre)</ParentPlatformCategoryName>
+  </Parent>
+  <Parent>
+    <PlatformName />
+    <PlaylistId>51a103ec-080f-4c11-ae3e-c2c65a747f9d</PlaylistId>
+    <PlatformCategoryName />
+    <ParentPlatformName />
+    <ParentPlaylistId />
+    <ParentPlatformCategoryName />
+  </Parent>
+  <Parent>
+    <PlatformName />
+    <PlaylistId>f428ab59-6064-422b-b49c-38b92624508e</PlaylistId>
+    <PlatformCategoryName />
+    <ParentPlatformName />
+    <ParentPlaylistId />
+    <ParentPlatformCategoryName />
+  </Parent>
+  <Parent>
+    <PlatformName />
+    <PlaylistId>c30bae03-9c3a-45af-a3ee-b6e3021638ab</PlaylistId>
+    <PlatformCategoryName />
+    <ParentPlatformName />
+    <ParentPlaylistId />
+    <ParentPlatformCategoryName />
+  </Parent>
+  <Parent>
+    <PlatformName />
+    <PlaylistId>0457de53-ec28-45af-94cc-643c7e745dd7</PlaylistId>
+    <PlatformCategoryName />
+    <ParentPlatformName />
+    <ParentPlaylistId />
+    <ParentPlatformCategoryName>Series Collection</ParentPlatformCategoryName>
+  </Parent>
+  <Parent>
+    <PlatformName />
+    <PlaylistId>3d628ce3-18d2-4b25-8147-b9f33e227ddf</PlaylistId>
+    <PlatformCategoryName />
+    <ParentPlatformName>Commodore 64</ParentPlatformName>
+    <ParentPlaylistId />
+    <ParentPlatformCategoryName />
+  </Parent>
+  <Parent>
+    <PlaylistId>564a738a-761f-4582-9de8-ef4743350831</PlaylistId>
+    <ParentPlatformName>Fujitsu FM Towns</ParentPlatformName>
+  </Parent>
+  <Parent>
+    <PlatformName>Gaelco</PlatformName>
+    <PlaylistId />
+    <PlatformCategoryName />
+    <ParentPlatformName />
+    <ParentPlaylistId />
+    <ParentPlatformCategoryName>Arcade Classics (By System)</ParentPlatformCategoryName>
+  </Parent>
+  <Parent>
+    <PlatformName />
+    <PlaylistId>e460d807-435d-45a3-a05a-6e49192435aa</PlaylistId>
+    <PlatformCategoryName />
+    <ParentPlatformName />
+    <ParentPlaylistId />
+    <ParentPlatformCategoryName />
+  </Parent>
+  <Parent>
+    <PlatformName>MS-DOS Books</PlatformName>
+    <PlaylistId />
+    <PlatformCategoryName />
+    <ParentPlatformName />
+    <ParentPlaylistId />
+    <ParentPlatformCategoryName>Books &amp; Magazines</ParentPlatformCategoryName>
+  </Parent>
+  <Parent>
+    <PlatformName>Epoch Game Pocket Computer</PlatformName>
+    <PlaylistId />
+    <PlatformCategoryName />
+    <ParentPlatformName />
+    <ParentPlaylistId />
+    <ParentPlatformCategoryName>Handhelds</ParentPlatformCategoryName>
+  </Parent>
+  <Parent>
+    <PlaylistId>2c0d5dde-024e-4e23-a72a-fc009bc1f411</PlaylistId>
+    <ParentPlatformName>NEC PC-9801</ParentPlatformName>
+  </Parent>
+  <Parent>
+    <PlatformName />
+    <PlaylistId>61d3b620-a933-4d31-a0b5-e9b6f2874aaf</PlaylistId>
+    <PlatformCategoryName />
+    <ParentPlatformName />
+    <ParentPlaylistId />
+    <ParentPlatformCategoryName />
+  </Parent>
+  <Parent>
+    <PlatformName />
+    <PlaylistId>0d682682-4ebc-4dc3-acb8-9f52483220af</PlaylistId>
+    <PlatformCategoryName />
+    <ParentPlatformName />
+    <ParentPlaylistId />
+    <ParentPlatformCategoryName />
+  </Parent>
+  <Parent>
+    <PlaylistId>04292c6f-0a16-45c5-b578-e66badf7ac24</PlaylistId>
+    <ParentPlatformName>NEC PC-8801</ParentPlatformName>
+  </Parent>
+  <Parent>
+    <PlatformName />
+    <PlaylistId>3a97c13f-44e9-4601-8dec-8303a25eaeff</PlaylistId>
+    <PlatformCategoryName />
+    <ParentPlatformName />
+    <ParentPlaylistId />
+    <ParentPlatformCategoryName>Series Collection</ParentPlatformCategoryName>
+  </Parent>
+  <Parent>
+    <PlatformName />
+    <PlaylistId>1c2484e0-1c72-49ef-aeef-e710c453bb09</PlaylistId>
+    <PlatformCategoryName />
+    <ParentPlatformName />
+    <ParentPlaylistId />
+    <ParentPlatformCategoryName />
+  </Parent>
+  <Parent>
+    <PlatformName />
+    <PlaylistId>749d61a8-d330-4713-b4ad-61efdde8f708</PlaylistId>
+    <PlatformCategoryName />
+    <ParentPlatformName />
+    <ParentPlaylistId />
+    <ParentPlatformCategoryName />
+  </Parent>
+  <Parent>
+    <PlatformName />
+    <PlaylistId>4cf2dad3-9a91-4d1c-a67f-8597a4e0da31</PlaylistId>
+    <PlatformCategoryName />
+    <ParentPlatformName />
+    <ParentPlaylistId />
+    <ParentPlatformCategoryName />
+  </Parent>
+  <Parent>
+    <PlatformName />
+    <PlaylistId>c645ba8f-7162-4508-b994-1975dd58fdb7</PlaylistId>
+    <PlatformCategoryName />
+    <ParentPlatformName />
+    <ParentPlaylistId />
+    <ParentPlatformCategoryName />
+  </Parent>
+  <Parent>
+    <PlatformName />
+    <PlaylistId>4a4ad807-a244-40d1-9a3a-0ad34229f032</PlaylistId>
+    <PlatformCategoryName />
+    <ParentPlatformName />
+    <ParentPlaylistId />
+    <ParentPlatformCategoryName>Light Gun</ParentPlatformCategoryName>
+  </Parent>
+  <Parent>
+    <PlatformName />
+    <PlaylistId>06fd98d0-e2a2-4e37-b3a9-032c6c2b98a2</PlaylistId>
+    <PlatformCategoryName />
+    <ParentPlatformName />
+    <ParentPlaylistId />
+    <ParentPlatformCategoryName>Series Collection</ParentPlatformCategoryName>
+  </Parent>
+  <Parent>
+    <PlatformName />
+    <PlaylistId>46525654-2336-4b06-afca-54c47805b54a</PlaylistId>
+    <PlatformCategoryName />
+    <ParentPlatformName />
+    <ParentPlaylistId />
+    <ParentPlatformCategoryName>Nintendo Super Nintendo Entertainment System Genres</ParentPlatformCategoryName>
+  </Parent>
+  <Parent>
+    <PlatformName />
+    <PlaylistId>467b3b7c-93a4-448e-bf42-7245050aff42</PlaylistId>
+    <PlatformCategoryName />
+    <ParentPlatformName />
+    <ParentPlaylistId />
+    <ParentPlatformCategoryName />
+  </Parent>
+  <Parent>
+    <PlaylistId>8fe79489-4703-45c4-a58d-35f146987703</PlaylistId>
+    <ParentPlatformName>NEC PC-8801</ParentPlatformName>
+  </Parent>
+  <Parent>
+    <PlaylistId>c33f3a33-5a57-487d-a1c4-10f769b3820c</PlaylistId>
+    <ParentPlatformName>Nintendo DS</ParentPlatformName>
+  </Parent>
+  <Parent>
+    <PlatformName />
+    <PlaylistId>2418c44b-6dff-41ec-88e9-00ff20f69161</PlaylistId>
+    <PlatformCategoryName />
+    <ParentPlatformName />
+    <ParentPlaylistId />
+    <ParentPlatformCategoryName>Nintendo Super Nintendo Entertainment System Genres</ParentPlatformCategoryName>
+  </Parent>
+  <Parent>
+    <PlatformName />
+    <PlaylistId>10bd95ff-f224-4055-b4dc-241838fb11b1</PlaylistId>
+    <PlatformCategoryName />
+    <ParentPlatformName />
+    <ParentPlaylistId />
+    <ParentPlatformCategoryName />
+  </Parent>
+  <Parent>
+    <PlatformName />
+    <PlaylistId />
+    <PlatformCategoryName>NEC SuperGrafx Genres</PlatformCategoryName>
+    <ParentPlatformName>NEC SuperGrafx</ParentPlatformName>
+    <ParentPlaylistId />
+    <ParentPlatformCategoryName />
+  </Parent>
+  <Parent>
+    <PlatformName />
+    <PlaylistId>2d56cc79-d9c5-4ba6-a409-a2670723811d</PlaylistId>
+    <PlatformCategoryName />
+    <ParentPlatformName />
+    <ParentPlaylistId />
+    <ParentPlatformCategoryName>Series Collection</ParentPlatformCategoryName>
+  </Parent>
+  <Parent>
+    <PlatformName />
+    <PlaylistId>1434fb4f-443e-49c3-ba89-1db2389940ee</PlaylistId>
+    <PlatformCategoryName />
+    <ParentPlatformName />
+    <ParentPlaylistId />
+    <ParentPlatformCategoryName />
+  </Parent>
+  <Parent>
+    <PlatformName />
+    <PlaylistId>9d73064e-785f-47c8-8919-47ea145ad745</PlaylistId>
+    <PlatformCategoryName />
+    <ParentPlatformName />
+    <ParentPlaylistId />
+    <ParentPlatformCategoryName />
+  </Parent>
+  <Parent>
+    <PlaylistId>afcee9e1-6a8c-4d3e-8bcc-585b4c0957da</PlaylistId>
+    <ParentPlatformName>Nintendo DS</ParentPlatformName>
+  </Parent>
+  <Parent>
+    <PlatformName />
+    <PlaylistId>a353acf9-285a-4949-ac09-b23ac51d2e31</PlaylistId>
+    <PlatformCategoryName />
+    <ParentPlatformName>Commodore 64</ParentPlatformName>
+    <ParentPlaylistId />
+    <ParentPlatformCategoryName />
+  </Parent>
+  <Parent>
+    <PlatformName>Sony Playstation [T-En]</PlatformName>
+    <PlaylistId />
+    <PlatformCategoryName />
+    <ParentPlatformName />
+    <ParentPlaylistId />
+    <ParentPlatformCategoryName>Translated En</ParentPlatformCategoryName>
+  </Parent>
+  <Parent>
+    <PlatformName />
+    <PlaylistId>38b841f9-d914-4720-9d26-1d63dec09f23</PlaylistId>
+    <PlatformCategoryName />
+    <ParentPlatformName />
+    <ParentPlaylistId />
+    <ParentPlatformCategoryName />
+  </Parent>
+  <Parent>
+    <PlatformName />
+    <PlaylistId>f855f1ea-a59b-4aea-8c5b-3e6549b70b70</PlaylistId>
+    <PlatformCategoryName />
+    <ParentPlatformName />
+    <ParentPlaylistId />
+    <ParentPlatformCategoryName>Arcade Classics (By Publisher)</ParentPlatformCategoryName>
+  </Parent>
+  <Parent>
+    <PlatformName>Sony PSP</PlatformName>
+    <PlaylistId />
+    <PlatformCategoryName />
+    <ParentPlatformName />
+    <ParentPlaylistId />
+    <ParentPlatformCategoryName>Handhelds</ParentPlatformCategoryName>
+  </Parent>
+  <Parent>
+    <PlatformName>Nintendo Super Nintendo Entertainment System [T-En]</PlatformName>
+    <PlaylistId />
+    <PlatformCategoryName />
+    <ParentPlatformName />
+    <ParentPlaylistId />
+    <ParentPlatformCategoryName>Translated En</ParentPlatformCategoryName>
+  </Parent>
+  <Parent>
+    <PlatformName />
+    <PlaylistId>9f338b80-c909-4727-8a25-d82f9bcbf48a</PlaylistId>
+    <PlatformCategoryName />
+    <ParentPlatformName />
+    <ParentPlaylistId />
+    <ParentPlatformCategoryName />
+  </Parent>
+  <Parent>
+    <PlatformName />
+    <PlaylistId>bba014f7-e461-4421-8959-d177d75024be</PlaylistId>
+    <PlatformCategoryName />
+    <ParentPlatformName />
+    <ParentPlaylistId />
+    <ParentPlatformCategoryName>By Theme</ParentPlatformCategoryName>
+  </Parent>
+  <Parent>
+    <PlaylistId>30fc3b1d-f539-4b6c-87f5-b326b17fc26c</PlaylistId>
+    <ParentPlatformName>NEC PC-8801</ParentPlatformName>
+  </Parent>
+  <Parent>
+    <PlatformName />
+    <PlaylistId>946ae148-1cab-4b1b-ad30-96762250d2d1</PlaylistId>
+    <PlatformCategoryName />
+    <ParentPlatformName />
+    <ParentPlaylistId />
+    <ParentPlatformCategoryName>Series Collection</ParentPlatformCategoryName>
+  </Parent>
+  <Parent>
+    <PlatformName />
+    <PlaylistId>c9ef70c7-41ad-4918-9510-97fa6978a895</PlaylistId>
+    <PlatformCategoryName />
+    <ParentPlatformName />
+    <ParentPlaylistId />
+    <ParentPlatformCategoryName>Series Collection</ParentPlatformCategoryName>
+  </Parent>
+  <Parent>
+    <PlaylistId>e9e39e40-dd38-4968-b5ff-145755952a9f</PlaylistId>
+    <ParentPlatformName>Nintendo DS</ParentPlatformName>
+  </Parent>
+  <Parent>
+    <PlatformName>Hartung Game Master</PlatformName>
+    <PlaylistId />
+    <PlatformCategoryName />
+    <ParentPlatformName />
+    <ParentPlaylistId />
+    <ParentPlatformCategoryName>Handhelds</ParentPlatformCategoryName>
+  </Parent>
+  <Parent>
+    <PlatformName />
+    <PlaylistId>2d90692e-69b2-4fd4-a9fc-9fcc1813b0ed</PlaylistId>
+    <PlatformCategoryName />
+    <ParentPlatformName />
+    <ParentPlaylistId />
+    <ParentPlatformCategoryName>Best of</ParentPlatformCategoryName>
+  </Parent>
+  <Parent>
+    <PlatformName />
+    <PlaylistId>4830ee4c-f09b-4637-9d59-6017e290ea1e</PlaylistId>
+    <PlatformCategoryName />
+    <ParentPlatformName />
+    <ParentPlaylistId />
+    <ParentPlatformCategoryName />
+  </Parent>
+  <Parent>
+    <PlatformName>Sega Master System</PlatformName>
+    <PlaylistId />
+    <PlatformCategoryName />
+    <ParentPlatformName />
+    <ParentPlaylistId />
+    <ParentPlatformCategoryName>Consoles</ParentPlatformCategoryName>
+  </Parent>
+  <Parent>
+    <PlatformName />
+    <PlaylistId>7cc725a8-f5d5-440f-959b-8d35e6f2b904</PlaylistId>
+    <PlatformCategoryName />
+    <ParentPlatformName />
+    <ParentPlaylistId />
+    <ParentPlatformCategoryName />
+  </Parent>
+  <Parent>
+    <PlaylistId>0f4a7783-b15e-4f6c-b798-3de6ff1d5f9e</PlaylistId>
+    <ParentPlatformName>Fujitsu FM-7</ParentPlatformName>
+  </Parent>
+  <Parent>
+    <PlatformName>Sega System SP</PlatformName>
+    <PlaylistId />
+    <PlatformCategoryName />
+    <ParentPlatformName />
+    <ParentPlaylistId />
+    <ParentPlatformCategoryName>Arcade Classics (By System)</ParentPlatformCategoryName>
+  </Parent>
+  <Parent>
+    <PlatformName>Uniana PC-Based</PlatformName>
+    <PlaylistId />
+    <PlatformCategoryName />
+    <ParentPlatformName />
+    <ParentPlaylistId />
+    <ParentPlatformCategoryName>Arcade PC</ParentPlatformCategoryName>
+  </Parent>
+  <Parent>
+    <PlatformName>Sega Lindbergh Red</PlatformName>
+    <PlaylistId />
+    <PlatformCategoryName />
+    <ParentPlatformName />
+    <ParentPlaylistId />
+    <ParentPlatformCategoryName>Arcade PC</ParentPlatformCategoryName>
+  </Parent>
+  <Parent>
+    <PlatformName />
+    <PlaylistId>2fed015a-7491-40b7-8542-b840d58b32f5</PlaylistId>
+    <PlatformCategoryName />
+    <ParentPlatformName />
+    <ParentPlaylistId />
+    <ParentPlatformCategoryName>Genres</ParentPlatformCategoryName>
+  </Parent>
+  <Parent>
+    <PlaylistId>a6077195-bfe0-4aa1-8d3c-b2374a9ef516</PlaylistId>
+    <ParentPlatformName>NEC PC-8801</ParentPlatformName>
+  </Parent>
+  <Parent>
+    <PlatformName />
+    <PlaylistId />
+    <PlatformCategoryName>Visual Pinball</PlatformCategoryName>
+    <ParentPlatformName />
+    <ParentPlaylistId />
+    <ParentPlatformCategoryName>Pinball</ParentPlatformCategoryName>
+  </Parent>
+  <Parent>
+    <PlatformName>MS-DOS</PlatformName>
+    <PlaylistId />
+    <PlatformCategoryName />
+    <ParentPlatformName />
+    <ParentPlaylistId />
+    <ParentPlatformCategoryName>Computers</ParentPlatformCategoryName>
+  </Parent>
+  <Parent>
+    <PlatformName>VTech VSmile Motion</PlatformName>
+    <PlaylistId />
+    <PlatformCategoryName />
+    <ParentPlatformName />
+    <ParentPlaylistId />
+    <ParentPlatformCategoryName>Consoles</ParentPlatformCategoryName>
+  </Parent>
+  <Parent>
+    <PlatformName />
+    <PlaylistId>f07d676b-a24c-4c7c-a88e-d77bbf759ded</PlaylistId>
+    <PlatformCategoryName />
+    <ParentPlatformName />
+    <ParentPlaylistId />
+    <ParentPlatformCategoryName>Nintendo Super Nintendo Entertainment System Genres</ParentPlatformCategoryName>
+  </Parent>
+  <Parent>
+    <PlatformName />
+    <PlaylistId>b99ca213-f30b-4295-84f3-49499c02149b</PlaylistId>
+    <PlatformCategoryName />
+    <ParentPlatformName />
+    <ParentPlaylistId />
+    <ParentPlatformCategoryName />
+  </Parent>
+  <Parent>
+    <PlatformName>Sony Playstation Vita</PlatformName>
+    <PlaylistId />
+    <PlatformCategoryName />
+    <ParentPlatformName />
+    <ParentPlaylistId />
+    <ParentPlatformCategoryName>Handhelds</ParentPlatformCategoryName>
+  </Parent>
+  <Parent>
+    <PlatformName>American Laser Games</PlatformName>
+    <PlaylistId />
+    <PlatformCategoryName />
+    <ParentPlatformName />
+    <ParentPlaylistId />
+    <ParentPlatformCategoryName>LaserDisc Arcade</ParentPlatformCategoryName>
+  </Parent>
+  <Parent>
+    <PlatformName />
+    <PlaylistId>01eba3c3-d95f-4901-b978-2092ad55485c</PlaylistId>
+    <PlatformCategoryName />
+    <ParentPlatformName />
+    <ParentPlaylistId />
+    <ParentPlatformCategoryName>Series Collection</ParentPlatformCategoryName>
+  </Parent>
+  <Parent>
+    <PlatformName />
+    <PlaylistId>2795d63b-3f34-4730-bc45-ad1bb9bf24f7</PlaylistId>
+    <PlatformCategoryName />
+    <ParentPlatformName>NEC SuperGrafx</ParentPlatformName>
+    <ParentPlaylistId />
+    <ParentPlatformCategoryName />
+  </Parent>
+  <Parent>
+    <PlatformName>Sega 32X</PlatformName>
+    <PlaylistId />
+    <PlatformCategoryName />
+    <ParentPlatformName />
+    <ParentPlaylistId />
+    <ParentPlatformCategoryName>Consoles</ParentPlatformCategoryName>
+  </Parent>
+  <Parent>
+    <PlatformName />
+    <PlaylistId>faa2648c-6a7a-4654-89d0-fc41ba398109</PlaylistId>
+    <PlatformCategoryName />
+    <ParentPlatformName />
+    <ParentPlaylistId />
+    <ParentPlatformCategoryName>Series Collection</ParentPlatformCategoryName>
+  </Parent>
+  <Parent>
+    <PlatformName>Nintendo Pokemon Mini</PlatformName>
+    <PlaylistId />
+    <PlatformCategoryName />
+    <ParentPlatformName />
+    <ParentPlaylistId />
+    <ParentPlatformCategoryName>Handhelds</ParentPlatformCategoryName>
+  </Parent>
+  <Parent>
+    <PlatformName />
+    <PlaylistId>07a30717-7868-4082-b3aa-f46767cdadea</PlaylistId>
+    <PlatformCategoryName />
+    <ParentPlatformName />
+    <ParentPlaylistId />
+    <ParentPlatformCategoryName>Series Collection</ParentPlatformCategoryName>
+  </Parent>
+  <Parent>
+    <PlatformName>Bandai WonderSwan Color</PlatformName>
+    <PlaylistId />
+    <PlatformCategoryName />
+    <ParentPlatformName />
+    <ParentPlaylistId />
+    <ParentPlatformCategoryName>Handhelds</ParentPlatformCategoryName>
+  </Parent>
+  <Parent>
+    <PlatformName />
+    <PlaylistId>de95c8f4-02f6-4fc4-8e54-4b8495b9f865</PlaylistId>
+    <PlatformCategoryName />
+    <ParentPlatformName />
+    <ParentPlaylistId />
+    <ParentPlatformCategoryName />
+  </Parent>
+  <Parent>
+    <PlatformName />
+    <PlaylistId>1db27066-8aec-4ff0-bb5e-9a4752873d34</PlaylistId>
+    <PlatformCategoryName />
+    <ParentPlatformName />
+    <ParentPlaylistId />
+    <ParentPlatformCategoryName />
+  </Parent>
+  <Parent>
+    <PlatformName>Future Pinball (Recreated Tables)</PlatformName>
+    <PlaylistId />
+    <PlatformCategoryName />
+    <ParentPlatformName />
+    <ParentPlaylistId />
+    <ParentPlatformCategoryName>Future Pinball</ParentPlatformCategoryName>
+  </Parent>
+  <Parent>
+    <PlatformName />
+    <PlaylistId>1130fe0b-5fb7-4f6e-b0da-c64711d6483c</PlaylistId>
+    <PlatformCategoryName />
+    <ParentPlatformName />
+    <ParentPlaylistId />
+    <ParentPlatformCategoryName />
+  </Parent>
+  <Parent>
+    <PlatformName />
+    <PlaylistId>0df91efa-64ab-4f37-834d-affb2827ff9b</PlaylistId>
+    <PlatformCategoryName />
+    <ParentPlatformName />
+    <ParentPlaylistId />
+    <ParentPlatformCategoryName />
+  </Parent>
+  <Parent>
+    <PlatformName />
+    <PlaylistId>29deac32-3868-47a5-b6c0-967fd7889da4</PlaylistId>
+    <PlatformCategoryName />
+    <ParentPlatformName />
+    <ParentPlaylistId />
+    <ParentPlatformCategoryName />
+  </Parent>
+  <Parent>
+    <PlatformName />
+    <PlaylistId>cc59d651-b4d0-40a3-8599-6e5d13ab2636</PlaylistId>
+    <PlatformCategoryName />
+    <ParentPlatformName />
+    <ParentPlaylistId />
+    <ParentPlatformCategoryName>Arcade</ParentPlatformCategoryName>
+  </Parent>
+  <Parent>
+    <PlatformName />
+    <PlaylistId>1a7b5977-f208-49bd-abf3-ad4fdabfd990</PlaylistId>
+    <PlatformCategoryName />
+    <ParentPlatformName />
+    <ParentPlaylistId />
+    <ParentPlatformCategoryName />
+  </Parent>
+  <Parent>
+    <PlatformName>Unity</PlatformName>
+    <PlaylistId />
+    <PlatformCategoryName />
+    <ParentPlatformName />
+    <ParentPlaylistId />
+    <ParentPlatformCategoryName>Flashpoint Platforms</ParentPlatformCategoryName>
+  </Parent>
+  <Parent>
+    <PlatformName>NEC TurboGrafx-16 [T-En]</PlatformName>
+    <PlaylistId />
+    <PlatformCategoryName />
+    <ParentPlatformName />
+    <ParentPlaylistId />
+    <ParentPlatformCategoryName>Translated En</ParentPlatformCategoryName>
+  </Parent>
+  <Parent>
+    <PlaylistId>19c34678-2865-4d85-a8a1-e375d4e53936</PlaylistId>
+    <ParentPlatformName>NEC PC-9801</ParentPlatformName>
+  </Parent>
+  <Parent>
+    <PlatformName />
+    <PlaylistId>40de96fa-dec8-4771-a410-261f7d8dbbef</PlaylistId>
+    <PlatformCategoryName />
+    <ParentPlatformName />
+    <ParentPlaylistId />
+    <ParentPlatformCategoryName>Series Collection</ParentPlatformCategoryName>
+  </Parent>
+  <Parent>
+    <PlatformName>Namco System 246_256</PlatformName>
+    <PlaylistId />
+    <PlatformCategoryName />
+    <ParentPlatformName />
+    <ParentPlaylistId />
+    <ParentPlatformCategoryName>Arcade PC</ParentPlatformCategoryName>
+  </Parent>
+  <Parent>
+    <PlatformName />
+    <PlaylistId>2bd393d9-d1f2-437f-b638-eb61bf8df489</PlaylistId>
+    <PlatformCategoryName />
+    <ParentPlatformName>Commodore 64</ParentPlatformName>
+    <ParentPlaylistId />
+    <ParentPlatformCategoryName />
+  </Parent>
+  <Parent>
+    <PlatformName />
+    <PlaylistId>54427728-11ed-4ebc-af9c-2420d4c73ec8</PlaylistId>
+    <PlatformCategoryName />
+    <ParentPlatformName />
+    <ParentPlaylistId />
+    <ParentPlatformCategoryName />
+  </Parent>
+  <Parent>
+    <PlatformName />
+    <PlaylistId>a5164eb6-b979-4c85-844e-7c2b851ba118</PlaylistId>
+    <PlatformCategoryName />
+    <ParentPlatformName />
+    <ParentPlaylistId />
+    <ParentPlatformCategoryName />
+  </Parent>
+  <Parent>
+    <PlatformName>UNIS Technology PC-Based</PlatformName>
+    <PlaylistId />
+    <PlatformCategoryName />
+    <ParentPlatformName />
+    <ParentPlaylistId />
+    <ParentPlatformCategoryName>Arcade PC</ParentPlatformCategoryName>
+  </Parent>
+  <Parent>
+    <PlatformName />
+    <PlaylistId>2924f721-e1bb-447d-bcaa-ba36b145aea9</PlaylistId>
+    <PlatformCategoryName />
+    <ParentPlatformName />
+    <ParentPlaylistId />
+    <ParentPlatformCategoryName>Series Collection</ParentPlatformCategoryName>
+  </Parent>
+  <Parent>
+    <PlatformName />
+    <PlaylistId>4da87af9-94d0-4997-9805-edad34d92503</PlaylistId>
+    <PlatformCategoryName />
+    <ParentPlatformName>Commodore 64</ParentPlatformName>
+    <ParentPlaylistId />
+    <ParentPlatformCategoryName />
+  </Parent>
+  <Parent>
+    <PlatformName />
+    <PlaylistId>5eda078b-6170-487f-8667-d2a54d7dd8a5</PlaylistId>
+    <PlatformCategoryName />
+    <ParentPlatformName />
+    <ParentPlaylistId />
+    <ParentPlatformCategoryName />
+  </Parent>
+  <Parent>
+    <PlaylistId>5b03563b-081d-4aa8-8621-18b9d38cb7c7</PlaylistId>
+    <ParentPlatformName>Fujitsu FM Towns</ParentPlatformName>
+  </Parent>
+  <Parent>
+    <PlatformName />
+    <PlaylistId>d153415b-1c1d-4988-a650-e2e4ddc0b0c8</PlaylistId>
+    <PlatformCategoryName />
+    <ParentPlatformName />
+    <ParentPlaylistId />
+    <ParentPlatformCategoryName />
+  </Parent>
+  <Parent>
+    <PlatformName>ColecoVision</PlatformName>
+    <PlaylistId />
+    <PlatformCategoryName />
+    <ParentPlatformName />
+    <ParentPlaylistId />
+    <ParentPlatformCategoryName>Consoles</ParentPlatformCategoryName>
+  </Parent>
+  <Parent>
+    <PlatformName>Sega Genesis</PlatformName>
+    <PlaylistId />
+    <PlatformCategoryName />
+    <ParentPlatformName />
+    <ParentPlaylistId />
+    <ParentPlatformCategoryName>Consoles</ParentPlatformCategoryName>
+  </Parent>
+  <Parent>
+    <PlatformName>Nintendo Wii [T-En]</PlatformName>
+    <PlaylistId />
+    <PlatformCategoryName />
+    <ParentPlatformName />
+    <ParentPlaylistId />
+    <ParentPlatformCategoryName>Translated En</ParentPlatformCategoryName>
+  </Parent>
+  <Parent>
+    <PlatformName />
+    <PlaylistId>3f202f20-4e1f-4c41-86f5-6b9242580f55</PlaylistId>
+    <PlatformCategoryName />
+    <ParentPlatformName />
+    <ParentPlaylistId />
+    <ParentPlatformCategoryName>Light Gun</ParentPlatformCategoryName>
+  </Parent>
+  <Parent>
+    <PlatformName />
+    <PlaylistId>6cbd5fed-036c-4265-b65c-e77921540973</PlaylistId>
+    <PlatformCategoryName />
+    <ParentPlatformName />
+    <ParentPlaylistId />
+    <ParentPlatformCategoryName />
+  </Parent>
+  <Parent>
+    <PlatformName />
+    <PlaylistId>b1ebeb33-86fc-49a4-9c7b-4bb08e9b2781</PlaylistId>
+    <PlatformCategoryName />
+    <ParentPlatformName />
+    <ParentPlaylistId />
+    <ParentPlatformCategoryName />
+  </Parent>
+  <Parent>
+    <PlatformName />
+    <PlaylistId>79619baf-14fb-450b-b9e2-5e3663413eef</PlaylistId>
+    <PlatformCategoryName />
+    <ParentPlatformName />
+    <ParentPlaylistId />
+    <ParentPlatformCategoryName />
+  </Parent>
+  <Parent>
+    <PlatformName>Sega Master System [T-En]</PlatformName>
+    <PlaylistId />
+    <PlatformCategoryName />
+    <ParentPlatformName />
+    <ParentPlaylistId />
+    <ParentPlatformCategoryName>Translated En</ParentPlatformCategoryName>
+  </Parent>
+  <Parent>
+    <PlatformName>Sega RingEdge 2</PlatformName>
+    <PlaylistId />
+    <PlatformCategoryName />
+    <ParentPlatformName />
+    <ParentPlaylistId />
+    <ParentPlatformCategoryName>Arcade PC</ParentPlatformCategoryName>
+  </Parent>
+  <Parent>
+    <PlatformName />
+    <PlaylistId>eee2ff2e-fb73-4952-88f5-c4a0caf4604f</PlaylistId>
+    <PlatformCategoryName />
+    <ParentPlatformName />
+    <ParentPlaylistId />
+    <ParentPlatformCategoryName />
+  </Parent>
+  <Parent>
+    <PlatformName>WoW Action Max</PlatformName>
+    <PlaylistId />
+    <PlatformCategoryName />
+    <ParentPlatformName />
+    <ParentPlaylistId />
+    <ParentPlatformCategoryName>Light Gun</ParentPlatformCategoryName>
+  </Parent>
+  <Parent>
+    <PlatformName />
+    <PlaylistId>565f3455-0a23-4fe4-a8d1-4e92bf8b3443</PlaylistId>
+    <PlatformCategoryName />
+    <ParentPlatformName />
+    <ParentPlaylistId />
+    <ParentPlatformCategoryName />
+  </Parent>
+  <Parent>
+    <PlatformName>Commodore 64 SID</PlatformName>
+    <PlaylistId />
+    <PlatformCategoryName />
+    <ParentPlatformName />
+    <ParentPlaylistId />
+    <ParentPlatformCategoryName>C64 Dreams</ParentPlatformCategoryName>
+  </Parent>
+  <Parent>
+    <PlaylistId>7ff297ed-eedb-4b79-9cd3-b5caf490501b</PlaylistId>
+    <ParentPlatformName>NEC PC-8801</ParentPlatformName>
+  </Parent>
+  <Parent>
+    <PlatformName />
+    <PlaylistId>bd4ff64a-6b3d-4368-974f-f8dd0f04df14</PlaylistId>
+    <PlatformCategoryName />
+    <ParentPlatformName />
+    <ParentPlaylistId />
+    <ParentPlatformCategoryName />
+  </Parent>
+  <Parent>
+    <PlatformName>Sega Saturn [T-En]</PlatformName>
+    <PlaylistId />
+    <PlatformCategoryName />
+    <ParentPlatformName />
+    <ParentPlaylistId />
+    <ParentPlatformCategoryName>Translated En</ParentPlatformCategoryName>
+  </Parent>
+  <Parent>
+    <PlatformName />
+    <PlaylistId>5e3748d2-832c-47bf-83fd-a855d5068c0b</PlaylistId>
+    <PlatformCategoryName />
+    <ParentPlatformName />
+    <ParentPlaylistId />
+    <ParentPlatformCategoryName>Arcade PC</ParentPlatformCategoryName>
+  </Parent>
+  <Parent>
+    <PlatformName />
+    <PlaylistId>e2c6558f-a90d-4c94-9ce8-5850034539e4</PlaylistId>
+    <PlatformCategoryName />
+    <ParentPlatformName />
+    <ParentPlaylistId />
+    <ParentPlatformCategoryName>Nintendo Super Nintendo Entertainment System Genres</ParentPlatformCategoryName>
+  </Parent>
+  <Parent>
+    <PlatformName />
+    <PlaylistId>f353f1bc-c337-4f19-929c-afedf9539cb9</PlaylistId>
+    <PlatformCategoryName />
+    <ParentPlatformName />
+    <ParentPlaylistId />
+    <ParentPlatformCategoryName>Arcade</ParentPlatformCategoryName>
+  </Parent>
+  <Parent>
+    <PlatformName />
+    <PlaylistId>16b57b4b-355e-44a4-8d56-7b0ea9688e77</PlaylistId>
+    <PlatformCategoryName />
+    <ParentPlatformName />
+    <ParentPlaylistId />
+    <ParentPlatformCategoryName />
+  </Parent>
+  <Parent>
+    <PlatformName />
+    <PlaylistId>7b183d0f-9f90-47b3-af77-4af1caf04d3a</PlaylistId>
+    <PlatformCategoryName />
+    <ParentPlatformName />
+    <ParentPlaylistId />
+    <ParentPlatformCategoryName />
+  </Parent>
+  <Parent>
+    <PlatformName>Nintendo Super Nintendo Entertainment System</PlatformName>
+    <PlaylistId />
+    <PlatformCategoryName />
+    <ParentPlatformName />
+    <ParentPlaylistId />
+    <ParentPlatformCategoryName>Consoles</ParentPlatformCategoryName>
+  </Parent>
+  <Parent>
+    <PlatformName />
+    <PlaylistId>a6e008a9-8622-420c-b3cf-6a1676c287ec</PlaylistId>
+    <PlatformCategoryName />
+    <ParentPlatformName />
+    <ParentPlaylistId />
+    <ParentPlatformCategoryName />
+  </Parent>
+  <Parent>
+    <PlatformName />
+    <PlaylistId>a106cadf-a7c6-4ed6-a458-30e0fe929276</PlaylistId>
+    <PlatformCategoryName />
+    <ParentPlatformName />
+    <ParentPlaylistId />
+    <ParentPlatformCategoryName />
+  </Parent>
+  <Parent>
+    <PlatformName />
+    <PlaylistId>dd7ac6e0-2ed3-48a7-bb82-39c3465eaec5</PlaylistId>
+    <PlatformCategoryName />
+    <ParentPlatformName />
+    <ParentPlaylistId />
+    <ParentPlatformCategoryName />
+  </Parent>
+  <Parent>
+    <PlatformName />
+    <PlaylistId>3c72d4ca-db63-4550-9099-bd0a07331029</PlaylistId>
+    <PlatformCategoryName />
+    <ParentPlatformName />
+    <ParentPlaylistId />
+    <ParentPlatformCategoryName />
+  </Parent>
+  <Parent>
+    <PlatformName>Apple IIGS Magazines</PlatformName>
+    <PlaylistId />
+    <PlatformCategoryName />
+    <ParentPlatformName />
+    <ParentPlaylistId />
+    <ParentPlatformCategoryName>Books &amp; Magazines</ParentPlatformCategoryName>
+  </Parent>
+  <Parent>
+    <PlatformName />
+    <PlaylistId>967b1ed7-e6ea-483c-ae3f-0343f294b78b</PlaylistId>
+    <PlatformCategoryName />
+    <ParentPlatformName />
+    <ParentPlaylistId />
+    <ParentPlatformCategoryName />
+  </Parent>
+  <Parent>
+    <PlatformName>Sega Hikaru</PlatformName>
+    <PlaylistId />
+    <PlatformCategoryName />
+    <ParentPlatformName />
+    <ParentPlaylistId />
+    <ParentPlatformCategoryName>Arcade Classics (By System)</ParentPlatformCategoryName>
+  </Parent>
+  <Parent>
+    <PlatformName />
+    <PlaylistId>3c0650a2-39dc-4847-8c13-56586b512cd5</PlaylistId>
+    <PlatformCategoryName />
+    <ParentPlatformName />
+    <ParentPlaylistId />
+    <ParentPlatformCategoryName>Arcade</ParentPlatformCategoryName>
+  </Parent>
+  <Parent>
+    <PlatformName />
+    <PlaylistId>53174b2e-d4c0-4c27-ba52-cb502d211fa6</PlaylistId>
+    <PlatformCategoryName />
+    <ParentPlatformName />
+    <ParentPlaylistId />
+    <ParentPlatformCategoryName>Series Collection</ParentPlatformCategoryName>
+  </Parent>
+  <Parent>
+    <PlaylistId>98b376ef-a97b-4302-b592-67f2a16701dd</PlaylistId>
+    <ParentPlatformName>NEC PC-9801</ParentPlatformName>
+  </Parent>
+  <Parent>
+    <PlatformName />
+    <PlaylistId>1596eaa1-4609-4b8f-a07f-6d1f6e27f23a</PlaylistId>
+    <PlatformCategoryName />
+    <ParentPlatformName />
+    <ParentPlaylistId />
+    <ParentPlatformCategoryName />
+  </Parent>
+  <Parent>
+    <PlaylistId>d2546e0b-d652-4e79-9d9e-296ee4c6a320</PlaylistId>
+    <ParentPlatformName>NEC PC-8801</ParentPlatformName>
+  </Parent>
+  <Parent>
+    <PlatformName />
+    <PlaylistId>d0c09250-47d0-4941-a929-bbbdb9ad800a</PlaylistId>
+    <PlatformCategoryName />
+    <ParentPlatformName />
+    <ParentPlaylistId />
+    <ParentPlatformCategoryName />
+  </Parent>
+  <Parent>
+    <PlaylistId>80136629-9dda-4a7c-8d51-6614a6976289</PlaylistId>
+    <ParentPlatformName>NEC PC-9801</ParentPlatformName>
+  </Parent>
+  <Parent>
+    <PlatformName />
+    <PlaylistId>df55f3dc-272b-4888-8873-942350c3919d</PlaylistId>
+    <PlatformCategoryName />
+    <ParentPlatformName>Commodore 64</ParentPlatformName>
+    <ParentPlaylistId />
+    <ParentPlatformCategoryName />
+  </Parent>
+  <Parent>
+    <PlaylistId>6c1d5684-9c6b-4951-9772-16d677338945</PlaylistId>
+    <ParentPlatformName>Fujitsu FM-7</ParentPlatformName>
+  </Parent>
+  <Parent>
+    <PlatformName>Cave</PlatformName>
+    <PlaylistId />
+    <PlatformCategoryName />
+    <ParentPlatformName />
+    <ParentPlaylistId />
+    <ParentPlatformCategoryName>Arcade Classics (By System)</ParentPlatformCategoryName>
+  </Parent>
+  <Parent>
+    <PlatformName />
+    <PlaylistId>69a65c32-d66d-46df-a1de-b3b192148bed</PlaylistId>
+    <PlatformCategoryName />
+    <ParentPlatformName />
+    <ParentPlaylistId />
+    <ParentPlatformCategoryName />
+  </Parent>
+  <Parent>
+    <PlatformName>Sega RingWide</PlatformName>
+    <PlaylistId />
+    <PlatformCategoryName />
+    <ParentPlatformName />
+    <ParentPlaylistId />
+    <ParentPlatformCategoryName>Arcade PC</ParentPlatformCategoryName>
+  </Parent>
+  <Parent>
+    <PlatformName />
+    <PlaylistId>089c6fdb-4138-4a3d-893f-4e13de2d6d4f</PlaylistId>
+    <PlatformCategoryName />
+    <ParentPlatformName />
+    <ParentPlaylistId />
+    <ParentPlatformCategoryName />
+  </Parent>
+  <Parent>
+    <PlatformName />
+    <PlaylistId>40b806d7-561d-41dd-80c9-266371ddd6ea</PlaylistId>
+    <PlatformCategoryName />
+    <ParentPlatformName />
+    <ParentPlaylistId />
+    <ParentPlatformCategoryName />
+  </Parent>
+  <Parent>
+    <PlatformName />
+    <PlaylistId>d336381c-5071-4944-995e-c0f110bd0185</PlaylistId>
+    <PlatformCategoryName />
+    <ParentPlatformName />
+    <ParentPlaylistId />
+    <ParentPlatformCategoryName />
+  </Parent>
+  <Parent>
+    <PlatformName />
+    <PlaylistId>47ae1ef5-c47b-492a-b1e2-1aad11810360</PlaylistId>
+    <PlatformCategoryName />
+    <ParentPlatformName />
+    <ParentPlaylistId />
+    <ParentPlatformCategoryName>Arcade Classics (By Publisher)</ParentPlatformCategoryName>
+  </Parent>
+  <Parent>
+    <PlatformName />
+    <PlaylistId>2ecced33-4d8a-481b-97a9-9d2b3140abd1</PlaylistId>
+    <PlatformCategoryName />
+    <ParentPlatformName />
+    <ParentPlaylistId />
+    <ParentPlatformCategoryName />
+  </Parent>
+  <Parent>
+    <PlatformName />
+    <PlaylistId>a8878155-c762-4e5e-829c-2dda3f45d6fb</PlaylistId>
+    <PlatformCategoryName />
+    <ParentPlatformName />
+    <ParentPlaylistId />
+    <ParentPlatformCategoryName>Arcade Classics (By Publisher)</ParentPlatformCategoryName>
+  </Parent>
+  <Parent>
+    <PlatformName />
+    <PlaylistId>06213ee7-b13f-477e-a960-b47080f8782b</PlaylistId>
+    <PlatformCategoryName />
+    <ParentPlatformName />
+    <ParentPlaylistId />
+    <ParentPlatformCategoryName />
+  </Parent>
+  <Parent>
+    <PlatformName />
+    <PlaylistId>ad17eb87-2367-4151-ac2a-093877fdebe6</PlaylistId>
+    <PlatformCategoryName />
+    <ParentPlatformName />
+    <ParentPlaylistId />
+    <ParentPlatformCategoryName>Series Collection</ParentPlatformCategoryName>
+  </Parent>
+  <Parent>
+    <PlatformName />
+    <PlaylistId>b205df5b-79cb-45cd-b63e-b45bd99fa959</PlaylistId>
+    <PlatformCategoryName />
+    <ParentPlatformName />
+    <ParentPlaylistId />
+    <ParentPlatformCategoryName>Series Collection</ParentPlatformCategoryName>
+  </Parent>
+  <Parent>
+    <PlatformName />
+    <PlaylistId>c23dd012-cba5-4b2c-bb8d-519be9a503b5</PlaylistId>
+    <PlatformCategoryName />
+    <ParentPlatformName />
+    <ParentPlaylistId />
+    <ParentPlatformCategoryName />
+  </Parent>
+  <Parent>
+    <PlatformName>VTech VSmile Baby</PlatformName>
+    <PlaylistId />
+    <PlatformCategoryName />
+    <ParentPlatformName />
+    <ParentPlaylistId />
+    <ParentPlatformCategoryName>Consoles</ParentPlatformCategoryName>
+  </Parent>
+  <Parent>
+    <PlaylistId>6fe67168-599f-434b-8362-7be342f20853</PlaylistId>
+    <ParentPlatformName>Nintendo DS</ParentPlatformName>
+  </Parent>
+  <Parent>
+    <PlaylistId>f0cc986d-6f96-4ce8-8c94-c8ee7053cc6b</PlaylistId>
+    <ParentPlatformName>NEC PC-9801</ParentPlatformName>
+  </Parent>
+  <Parent>
+    <PlatformName>Microsoft Xbox</PlatformName>
+    <PlaylistId />
+    <PlatformCategoryName />
+    <ParentPlatformName />
+    <ParentPlaylistId />
+    <ParentPlatformCategoryName>Consoles</ParentPlatformCategoryName>
+  </Parent>
+  <Parent>
+    <PlatformName>Raw Thrills PC-Based</PlatformName>
+    <PlaylistId />
+    <PlatformCategoryName />
+    <ParentPlatformName />
+    <ParentPlaylistId />
+    <ParentPlatformCategoryName>Arcade PC</ParentPlatformCategoryName>
+  </Parent>
+  <Parent>
+    <PlatformName />
+    <PlaylistId>b6763361-b9f3-45fe-bdee-a0850ef889a4</PlaylistId>
+    <PlatformCategoryName />
+    <ParentPlatformName />
+    <ParentPlaylistId />
+    <ParentPlatformCategoryName />
+  </Parent>
+  <Parent>
+    <PlatformName />
+    <PlaylistId>b441d929-a748-4b95-8bb4-e10b95862d48</PlaylistId>
+    <PlatformCategoryName />
+    <ParentPlatformName />
+    <ParentPlaylistId />
+    <ParentPlatformCategoryName />
+  </Parent>
+  <Parent>
+    <PlatformName />
+    <PlaylistId>58eab4e0-fe55-48c3-bc1f-ed67447df3df</PlaylistId>
+    <PlatformCategoryName />
+    <ParentPlatformName />
+    <ParentPlaylistId />
+    <ParentPlatformCategoryName />
+  </Parent>
+  <Parent>
+    <PlatformName />
+    <PlaylistId>34f87bd3-75ed-4195-9f78-21b9f180558e</PlaylistId>
+    <PlatformCategoryName />
+    <ParentPlatformName />
+    <ParentPlaylistId />
+    <ParentPlatformCategoryName />
+  </Parent>
+  <Parent>
+    <PlatformName />
+    <PlaylistId />
+    <PlatformCategoryName>Books &amp; Magazines</PlatformCategoryName>
+    <ParentPlatformName />
+    <ParentPlaylistId />
+    <ParentPlatformCategoryName />
+  </Parent>
+  <Parent>
+    <PlaylistId>954199e0-9c42-4cb9-b596-c5aa54a35e87</PlaylistId>
+    <ParentPlatformName>Fujitsu FM-7</ParentPlatformName>
+  </Parent>
+  <Parent>
+    <PlatformName>Epoch Super Cassette Vision</PlatformName>
+    <PlaylistId />
+    <PlatformCategoryName />
+    <ParentPlatformName />
+    <ParentPlaylistId />
+    <ParentPlatformCategoryName>Consoles</ParentPlatformCategoryName>
+  </Parent>
+  <Parent>
+    <PlatformName />
+    <PlaylistId>7228ea25-56c5-4386-ade5-54a0d5a88420</PlaylistId>
+    <PlatformCategoryName />
+    <ParentPlatformName />
+    <ParentPlaylistId />
+    <ParentPlatformCategoryName>Arcade Classics (By System)</ParentPlatformCategoryName>
+  </Parent>
+  <Parent>
+    <PlatformName />
+    <PlaylistId>168073b5-c844-44f8-aabc-e149c4708071</PlaylistId>
+    <PlatformCategoryName />
+    <ParentPlatformName />
+    <ParentPlaylistId />
+    <ParentPlatformCategoryName>Genres</ParentPlatformCategoryName>
+  </Parent>
+  <Parent>
+    <PlatformName />
+    <PlaylistId>684a8e03-1852-4f17-a859-9d13ccc6d702</PlaylistId>
+    <PlatformCategoryName />
+    <ParentPlatformName />
+    <ParentPlaylistId />
+    <ParentPlatformCategoryName />
+  </Parent>
+  <Parent>
+    <PlatformName />
+    <PlaylistId>9e5e5dd6-0f7d-48c8-a28f-7f1a64f72ac7</PlaylistId>
+    <PlatformCategoryName />
+    <ParentPlatformName />
+    <ParentPlaylistId />
+    <ParentPlatformCategoryName />
+  </Parent>
+  <Parent>
+    <PlatformName />
+    <PlaylistId>afd2d2cb-fd37-4905-8439-62e5f79211e4</PlaylistId>
+    <PlatformCategoryName />
+    <ParentPlatformName>Commodore 64</ParentPlatformName>
+    <ParentPlaylistId />
+    <ParentPlatformCategoryName />
+  </Parent>
+  <Parent>
+    <PlatformName />
+    <PlaylistId>dd3abda1-47ca-4c34-ada5-3cbfd837e809</PlaylistId>
+    <PlatformCategoryName />
+    <ParentPlatformName />
+    <ParentPlaylistId />
+    <ParentPlatformCategoryName />
+  </Parent>
+  <Parent>
+    <PlatformName>Sega CD</PlatformName>
+    <PlaylistId />
+    <PlatformCategoryName />
+    <ParentPlatformName />
+    <ParentPlaylistId />
+    <ParentPlatformCategoryName>Consoles</ParentPlatformCategoryName>
+  </Parent>
+  <Parent>
+    <PlatformName />
+    <PlaylistId>6e1e2ffe-95a6-4614-a32c-138d6766d18a</PlaylistId>
+    <PlatformCategoryName />
+    <ParentPlatformName />
+    <ParentPlaylistId />
+    <ParentPlatformCategoryName>NEC SuperGrafx Genres</ParentPlatformCategoryName>
+  </Parent>
+  <Parent>
+    <PlatformName>Magnavox Odyssey 2</PlatformName>
+    <PlaylistId />
+    <PlatformCategoryName />
+    <ParentPlatformName />
+    <ParentPlaylistId />
+    <ParentPlatformCategoryName>Consoles</ParentPlatformCategoryName>
+  </Parent>
+  <Parent>
+    <PlatformName />
+    <PlaylistId>fc0daac8-eb06-4db4-b8ca-71b81a34a393</PlaylistId>
+    <PlatformCategoryName />
+    <ParentPlatformName />
+    <ParentPlaylistId />
+    <ParentPlatformCategoryName>Series Collection</ParentPlatformCategoryName>
+  </Parent>
+  <Parent>
+    <PlatformName>Capcom</PlatformName>
+    <PlaylistId />
+    <PlatformCategoryName />
+    <ParentPlatformName />
+    <ParentPlaylistId />
+    <ParentPlatformCategoryName>Arcade Classics (By System)</ParentPlatformCategoryName>
+  </Parent>
+  <Parent>
+    <PlatformName>Atari Lynx</PlatformName>
+    <PlaylistId />
+    <PlatformCategoryName />
+    <ParentPlatformName />
+    <ParentPlaylistId />
+    <ParentPlatformCategoryName>Handhelds</ParentPlatformCategoryName>
+  </Parent>
+  <Parent>
+    <PlatformName>Commodore Amiga CD32</PlatformName>
+    <PlaylistId />
+    <PlatformCategoryName />
+    <ParentPlatformName />
+    <ParentPlaylistId />
+    <ParentPlatformCategoryName>Consoles</ParentPlatformCategoryName>
+  </Parent>
+  <Parent>
+    <PlatformName />
+    <PlaylistId>f98c0460-93ad-4b9b-8e3c-979e704769fa</PlaylistId>
+    <PlatformCategoryName />
+    <ParentPlatformName />
+    <ParentPlaylistId />
+    <ParentPlatformCategoryName />
+  </Parent>
+  <Parent>
+    <PlatformName>Microsoft MSX2</PlatformName>
+    <PlaylistId />
+    <PlatformCategoryName />
+    <ParentPlatformName />
+    <ParentPlaylistId />
+    <ParentPlatformCategoryName>Computers</ParentPlatformCategoryName>
+  </Parent>
+  <Parent>
+    <PlatformName>Tiger Game.com</PlatformName>
+    <PlaylistId />
+    <PlatformCategoryName />
+    <ParentPlatformName />
+    <ParentPlaylistId />
+    <ParentPlatformCategoryName>Handhelds</ParentPlatformCategoryName>
+  </Parent>
+  <Parent>
+    <PlaylistId>865edac9-8367-41e1-8c81-02f1270c22e4</PlaylistId>
+    <ParentPlatformName>Fujitsu FM Towns</ParentPlatformName>
+  </Parent>
+  <Parent>
+    <PlaylistId>e7b25176-f9f9-42d9-818a-c1e8235c10a3</PlaylistId>
+    <ParentPlatformName>NEC PC-8801</ParentPlatformName>
+  </Parent>
+  <Parent>
+    <PlatformName />
+    <PlaylistId>518d3d57-2150-4f1b-80a7-16a3c21e52c3</PlaylistId>
+    <PlatformCategoryName />
+    <ParentPlatformName />
+    <ParentPlaylistId />
+    <ParentPlatformCategoryName />
+  </Parent>
+  <Parent>
+    <PlatformName />
+    <PlaylistId>244d23b9-874b-4a5d-8231-9ee014ccac11</PlaylistId>
+    <PlatformCategoryName />
+    <ParentPlatformName />
+    <ParentPlaylistId />
+    <ParentPlatformCategoryName />
+  </Parent>
+  <Parent>
+    <PlatformName>Philips CD-i</PlatformName>
+    <PlaylistId />
+    <PlatformCategoryName />
+    <ParentPlatformName />
+    <ParentPlaylistId />
+    <ParentPlatformCategoryName>Consoles</ParentPlatformCategoryName>
+  </Parent>
+  <Parent>
+    <PlatformName />
+    <PlaylistId>ab092f69-ed88-47fb-8984-c40d35cef1e0</PlaylistId>
+    <PlatformCategoryName />
+    <ParentPlatformName />
+    <ParentPlaylistId />
+    <ParentPlatformCategoryName />
+  </Parent>
+  <Parent>
+    <PlaylistId>634e5025-24ba-4b41-b440-bd641cc6fafc</PlaylistId>
+    <ParentPlatformName>NEC PC-8801</ParentPlatformName>
+  </Parent>
+  <Parent>
+    <PlatformName />
+    <PlaylistId />
+    <PlatformCategoryName />
+    <ParentPlatformName />
+    <ParentPlaylistId />
+    <ParentPlatformCategoryName />
+  </Parent>
+  <Parent>
+    <PlatformName />
+    <PlaylistId>2a1c9e84-38b7-4d91-8566-ecb23df42bb4</PlaylistId>
+    <PlatformCategoryName />
+    <ParentPlatformName />
+    <ParentPlaylistId />
+    <ParentPlatformCategoryName>Arcade</ParentPlatformCategoryName>
+  </Parent>
+  <Parent>
+    <PlatformName>Fujitsu FM Towns</PlatformName>
+    <PlaylistId />
+    <PlatformCategoryName />
+    <ParentPlatformName />
+    <ParentPlaylistId />
+    <ParentPlatformCategoryName>Computers</ParentPlatformCategoryName>
+  </Parent>
+  <Parent>
+    <PlatformName>NEC PC-FX</PlatformName>
+    <PlaylistId />
+    <PlatformCategoryName />
+    <ParentPlatformName />
+    <ParentPlaylistId />
+    <ParentPlatformCategoryName>Consoles</ParentPlatformCategoryName>
+  </Parent>
+  <Parent>
+    <PlatformName />
+    <PlaylistId>f7fc3833-3eb7-4bda-a2bd-6d92b25e1607</PlaylistId>
+    <PlatformCategoryName />
+    <ParentPlatformName />
+    <ParentPlaylistId />
+    <ParentPlatformCategoryName />
+  </Parent>
+  <Parent>
+    <PlatformName />
+    <PlaylistId>f0fb7f03-4ec1-4d1a-a35a-d6f26fc11fc2</PlaylistId>
+    <PlatformCategoryName />
+    <ParentPlatformName>Nintendo Super Nintendo Entertainment System</ParentPlatformName>
+    <ParentPlaylistId />
+    <ParentPlatformCategoryName />
+  </Parent>
+  <Parent>
+    <PlatformName />
+    <PlaylistId>c1905a6c-7b81-42e1-9cf2-f2e66c5756fb</PlaylistId>
+    <PlatformCategoryName />
+    <ParentPlatformName />
+    <ParentPlaylistId />
+    <ParentPlatformCategoryName>Arcade PC (By Genre)</ParentPlatformCategoryName>
+  </Parent>
+  <Parent>
+    <PlatformName />
+    <PlaylistId>fd4266b8-a909-40c8-b72b-40c03223be92</PlaylistId>
+    <PlatformCategoryName />
+    <ParentPlatformName />
+    <ParentPlaylistId />
+    <ParentPlatformCategoryName />
+  </Parent>
+  <Parent>
+    <PlatformName />
+    <PlaylistId>6c303321-b2cd-41bf-b33b-73813363096f</PlaylistId>
+    <PlatformCategoryName />
+    <ParentPlatformName />
+    <ParentPlaylistId />
+    <ParentPlatformCategoryName />
+  </Parent>
+  <Parent>
+    <PlatformName />
+    <PlaylistId>f22cf75c-80a0-4e7a-babc-d9abbb2da272</PlaylistId>
+    <PlatformCategoryName />
+    <ParentPlatformName />
+    <ParentPlaylistId />
+    <ParentPlatformCategoryName>Series Collection</ParentPlatformCategoryName>
+  </Parent>
+  <Parent>
+    <PlatformName>Konami PC-Based</PlatformName>
+    <PlaylistId />
+    <PlatformCategoryName />
+    <ParentPlatformName />
+    <ParentPlaylistId />
+    <ParentPlatformCategoryName>Arcade PC</ParentPlatformCategoryName>
+  </Parent>
+  <Parent>
+    <PlatformName />
+    <PlaylistId>c38d1e43-f0a0-4ac7-a7fb-b1fe3e85931f</PlaylistId>
+    <PlatformCategoryName />
+    <ParentPlatformName />
+    <ParentPlaylistId />
+    <ParentPlatformCategoryName />
+  </Parent>
+  <Parent>
+    <PlatformName />
+    <PlaylistId>b057302d-f566-4b76-9bfd-330151fec4c7</PlaylistId>
+    <PlatformCategoryName />
+    <ParentPlatformName />
+    <ParentPlaylistId />
+    <ParentPlatformCategoryName />
+  </Parent>
+  <Parent>
+    <PlaylistId>586c3b10-5213-456e-b7ce-0ec33ee2bf2f</PlaylistId>
+    <ParentPlatformName>NEC PC-9801</ParentPlatformName>
+  </Parent>
+  <Parent>
+    <PlatformName>Atari Jaguar</PlatformName>
+    <PlaylistId />
+    <PlatformCategoryName />
+    <ParentPlatformName />
+    <ParentPlaylistId />
+    <ParentPlatformCategoryName>Consoles</ParentPlatformCategoryName>
+  </Parent>
+  <Parent>
+    <PlaylistId>d71009cf-7e3e-442a-b057-015ee95a0164</PlaylistId>
+    <ParentPlatformName>Nintendo DS</ParentPlatformName>
+  </Parent>
+  <Parent>
+    <PlatformName />
+    <PlaylistId>c8e239ac-7a31-4b4c-b3ad-e87cdd135494</PlaylistId>
+    <PlatformCategoryName />
+    <ParentPlatformName />
+    <ParentPlaylistId />
+    <ParentPlatformCategoryName>Nintendo Super Nintendo Entertainment System Genres</ParentPlatformCategoryName>
+  </Parent>
+  <Parent>
+    <PlatformName />
+    <PlaylistId />
+    <PlatformCategoryName>Consoles</PlatformCategoryName>
+    <ParentPlatformName />
+    <ParentPlaylistId />
+    <ParentPlatformCategoryName />
+  </Parent>
+  <Parent>
+    <PlatformName />
+    <PlaylistId>5b4dd965-4601-4b55-b25f-57e768ffd7d0</PlaylistId>
+    <PlatformCategoryName />
+    <ParentPlatformName />
+    <ParentPlaylistId />
+    <ParentPlatformCategoryName>Arcade</ParentPlatformCategoryName>
+  </Parent>
+  <Parent>
+    <PlatformName />
+    <PlaylistId>5441aa5c-139e-4101-9222-545f005f2d34</PlaylistId>
+    <PlatformCategoryName />
+    <ParentPlatformName />
+    <ParentPlaylistId />
+    <ParentPlatformCategoryName />
+  </Parent>
+  <Parent>
+    <PlatformName />
+    <PlaylistId>108c9a35-2ffd-435a-bc15-1ba2e810cd90</PlaylistId>
+    <PlatformCategoryName />
+    <ParentPlatformName />
+    <ParentPlaylistId />
+    <ParentPlatformCategoryName />
+  </Parent>
+  <Parent>
+    <PlatformName>Singe 2</PlatformName>
+    <PlaylistId />
+    <PlatformCategoryName />
+    <ParentPlatformName />
+    <ParentPlaylistId />
+    <ParentPlatformCategoryName>LaserDisc Arcade</ParentPlatformCategoryName>
+  </Parent>
+  <Parent>
+    <PlatformName />
+    <PlaylistId>ba1fa17c-319b-45cf-917e-a573375bf63e</PlaylistId>
+    <PlatformCategoryName />
+    <ParentPlatformName />
+    <ParentPlaylistId />
+    <ParentPlatformCategoryName>Series Collection</ParentPlatformCategoryName>
+  </Parent>
+  <Parent>
+    <PlaylistId>900d853c-6de7-41ff-83a9-68c8817c0d66</PlaylistId>
+    <ParentPlatformName>Fujitsu FM-7</ParentPlatformName>
+  </Parent>
+  <Parent>
+    <PlaylistId>35ab56e0-2b37-4c85-a24b-2d60545510a9</PlaylistId>
+    <ParentPlatformName>Nintendo DS</ParentPlatformName>
+  </Parent>
+  <Parent>
+    <PlatformName />
+    <PlaylistId>aef38e2e-f7b4-4448-b99b-7844613627a5</PlaylistId>
+    <PlatformCategoryName />
+    <ParentPlatformName />
+    <ParentPlaylistId />
+    <ParentPlatformCategoryName />
+  </Parent>
+  <Parent>
+    <PlatformName />
+    <PlaylistId>4b70f525-ef04-4ffa-8a26-fcc870ca7e32</PlaylistId>
+    <PlatformCategoryName />
+    <ParentPlatformName />
+    <ParentPlaylistId />
+    <ParentPlatformCategoryName />
+  </Parent>
+  <Parent>
+    <PlatformName />
+    <PlaylistId>ba11071a-14ed-4953-84e1-1e30d61cb9bb</PlaylistId>
+    <PlatformCategoryName />
+    <ParentPlatformName />
+    <ParentPlaylistId />
+    <ParentPlatformCategoryName />
+  </Parent>
+  <Parent>
+    <PlatformName />
+    <PlaylistId>695dfe71-c5f5-4b1d-9d1f-eb7c05d1f519</PlaylistId>
+    <PlatformCategoryName />
+    <ParentPlatformName />
+    <ParentPlaylistId />
+    <ParentPlatformCategoryName />
+  </Parent>
+  <Parent>
+    <PlaylistId>4663a9a5-2bbe-4d4c-80b1-cd46145ad809</PlaylistId>
+    <ParentPlatformName>Fujitsu FM-7</ParentPlatformName>
+  </Parent>
+  <Parent>
+    <PlaylistId>3e04b8cc-f93b-4485-9cf8-a07ceb2af168</PlaylistId>
+    <ParentPlatformName>NEC PC-9801</ParentPlatformName>
+  </Parent>
+  <Parent>
+    <PlatformName />
+    <PlaylistId>e780cc81-4631-4ae7-98ae-77eb0050cde9</PlaylistId>
+    <PlatformCategoryName />
+    <ParentPlatformName />
+    <ParentPlaylistId />
+    <ParentPlatformCategoryName />
+  </Parent>
+  <Parent>
+    <PlatformName />
+    <PlaylistId>b8eb2799-c029-472d-b256-cc4fb847a4fd</PlaylistId>
+    <PlatformCategoryName />
+    <ParentPlatformName />
+    <ParentPlaylistId />
+    <ParentPlatformCategoryName>Series Collection</ParentPlatformCategoryName>
+  </Parent>
+  <Parent>
+    <PlatformName />
+    <PlaylistId>ac331d55-7e8c-446f-9778-99e5ab7daa70</PlaylistId>
+    <PlatformCategoryName />
+    <ParentPlatformName />
+    <ParentPlaylistId />
+    <ParentPlatformCategoryName>Series Collection</ParentPlatformCategoryName>
+  </Parent>
+  <Parent>
+    <PlatformName />
+    <PlaylistId>18cea2c4-9b14-4273-9f12-ece9df6912d5</PlaylistId>
+    <PlatformCategoryName />
+    <ParentPlatformName />
+    <ParentPlaylistId />
+    <ParentPlatformCategoryName />
+  </Parent>
+  <Parent>
+    <PlatformName />
+    <PlaylistId>02952baf-123c-4155-857f-7f3a3e81d6e2</PlaylistId>
+    <PlatformCategoryName />
+    <ParentPlatformName />
+    <ParentPlaylistId />
+    <ParentPlatformCategoryName>Arcade</ParentPlatformCategoryName>
+  </Parent>
+  <Parent>
+    <PlatformName />
+    <PlaylistId>9365e88d-e992-438f-9531-802e1b64d763</PlaylistId>
+    <PlatformCategoryName />
+    <ParentPlatformName />
+    <ParentPlaylistId />
+    <ParentPlatformCategoryName />
+  </Parent>
+  <Parent>
+    <PlatformName />
+    <PlaylistId>83d82f6e-a01c-4432-a7fa-d7a71209ced7</PlaylistId>
+    <PlatformCategoryName />
+    <ParentPlatformName />
+    <ParentPlaylistId />
+    <ParentPlatformCategoryName>Arcade</ParentPlatformCategoryName>
+  </Parent>
+  <Parent>
+    <PlatformName />
+    <PlaylistId>29f50f01-0b75-4256-bd46-eb26749be75f</PlaylistId>
+    <PlatformCategoryName />
+    <ParentPlatformName />
+    <ParentPlaylistId />
+    <ParentPlatformCategoryName>Series Collection</ParentPlatformCategoryName>
+  </Parent>
+  <Parent>
+    <PlatformName>Nintendo Famicom Disk System</PlatformName>
+    <PlaylistId />
+    <PlatformCategoryName />
+    <ParentPlatformName />
+    <ParentPlaylistId />
+    <ParentPlatformCategoryName>Consoles</ParentPlatformCategoryName>
+  </Parent>
+  <Parent>
+    <PlatformName>Microsoft Xbox [T-En]</PlatformName>
+    <PlaylistId />
+    <PlatformCategoryName />
+    <ParentPlatformName />
+    <ParentPlaylistId />
+    <ParentPlatformCategoryName>Translated En</ParentPlatformCategoryName>
+  </Parent>
+  <Parent>
+    <PlatformName />
+    <PlaylistId>d3d61c86-4657-4a99-b99b-0b1c85624c8d</PlaylistId>
+    <PlatformCategoryName />
+    <ParentPlatformName />
+    <ParentPlaylistId />
+    <ParentPlatformCategoryName>Series Collection</ParentPlatformCategoryName>
+  </Parent>
+  <Parent>
+    <PlatformName />
+    <PlaylistId>da69c826-73fc-4b8f-8223-c4493856184b</PlaylistId>
+    <PlatformCategoryName />
+    <ParentPlatformName />
+    <ParentPlaylistId />
+    <ParentPlatformCategoryName />
+  </Parent>
+  <Parent>
+    <PlatformName />
+    <PlaylistId>95fb8737-4701-4c41-9161-71fe388cd99e</PlaylistId>
+    <PlatformCategoryName />
+    <ParentPlatformName />
+    <ParentPlaylistId />
+    <ParentPlatformCategoryName>Nintendo Super Nintendo Entertainment System Genres</ParentPlatformCategoryName>
+  </Parent>
+  <Parent>
+    <PlatformName />
+    <PlaylistId>afcfdec6-dac2-4477-84ee-ee564eb65798</PlaylistId>
+    <PlatformCategoryName />
+    <ParentPlatformName />
+    <ParentPlaylistId />
+    <ParentPlatformCategoryName>Nintendo Super Nintendo Entertainment System Genres</ParentPlatformCategoryName>
+  </Parent>
+  <Parent>
+    <PlatformName />
+    <PlaylistId>8f46e2eb-4614-4035-8fee-74922873685c</PlaylistId>
+    <PlatformCategoryName />
+    <ParentPlatformName />
+    <ParentPlaylistId />
+    <ParentPlatformCategoryName />
+  </Parent>
+  <Parent>
+    <PlatformName />
+    <PlaylistId>4544865c-51a7-41fb-ba34-5d538a95caf6</PlaylistId>
+    <PlatformCategoryName />
+    <ParentPlatformName />
+    <ParentPlaylistId />
+    <ParentPlatformCategoryName />
+  </Parent>
+  <Parent>
+    <PlaylistId>a69da841-2138-4bc0-b938-99675e8cac75</PlaylistId>
+    <ParentPlatformName>Nintendo DS</ParentPlatformName>
+  </Parent>
+  <Parent>
+    <PlatformName />
+    <PlaylistId>22e51040-8227-4a4b-bf28-c1f6cdefd7fb</PlaylistId>
+    <PlatformCategoryName />
+    <ParentPlatformName>Sharp X68000</ParentPlatformName>
+    <ParentPlaylistId />
+    <ParentPlatformCategoryName />
+  </Parent>
+  <Parent>
+    <PlatformName />
+    <PlaylistId>b8f1050f-479b-4d01-b821-e72f8a380ed5</PlaylistId>
+    <PlatformCategoryName />
+    <ParentPlatformName />
+    <ParentPlaylistId />
+    <ParentPlatformCategoryName />
+  </Parent>
+  <Parent>
+    <PlatformName>Arcade</PlatformName>
+    <PlaylistId />
+    <PlatformCategoryName />
+    <ParentPlatformName />
+    <ParentPlaylistId />
+    <ParentPlatformCategoryName>Arcade</ParentPlatformCategoryName>
+  </Parent>
+  <Parent>
+    <PlatformName />
+    <PlaylistId>2b3211b2-c264-47e6-a3c3-a31b0a75622d</PlaylistId>
+    <PlatformCategoryName />
+    <ParentPlatformName />
+    <ParentPlaylistId />
+    <ParentPlatformCategoryName>Series Collection</ParentPlatformCategoryName>
+  </Parent>
+</LaunchBox>

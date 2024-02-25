@@ -1,0 +1,2265 @@
+<?xml version="1.0" standalone="yes"?>
+<LaunchBox>
+  <Game>
+    <GogAppId />
+    <OriginAppId />
+    <OriginInstallPath />
+    <VideoPath />
+    <ThemeVideoPath />
+    <ApplicationPath>R:\ROMS-Arcade\Cave\mushisam.zip</ApplicationPath>
+    <CommandLine />
+    <Completed>false</Completed>
+    <ConfigurationCommandLine />
+    <ConfigurationPath />
+    <DateAdded>2023-06-07T22:32:57.5439305+08:00</DateAdded>
+    <DateModified>2024-02-22T01:09:12.9667561+08:00</DateModified>
+    <Developer>Cave</Developer>
+    <DosBoxConfigurationPath />
+    <Emulator>9c584e20-f670-433c-81e0-6b7f3c178958</Emulator>
+    <Favorite>false</Favorite>
+    <ID>40005ad4-d0e2-4e48-a09e-010babf42aa0</ID>
+    <ManualPath />
+    <MusicPath />
+    <Notes>Mushihimesama is a vertical shooter in the “bullet hell” subgenre. Sometimes featuring thousands of bullets on screen at a time, Mushihimesama is designed to create thrilling close calls where the player uses a small hitbox to narrowly escape through the gaps in the dense shot curtains.</Notes>
+    <Platform>Cave</Platform>
+    <Publisher>Cave (AMI license)</Publisher>
+    <Rating>Not Rated</Rating>
+    <ReleaseDate>2004-01-01T00:00:00+08:00</ReleaseDate>
+    <RootFolder />
+    <ScummVMAspectCorrection>false</ScummVMAspectCorrection>
+    <ScummVMFullscreen>false</ScummVMFullscreen>
+    <ScummVMGameDataFolderPath />
+    <ScummVMGameType />
+    <SortTitle />
+    <Source>cv1k.cpp</Source>
+    <StarRatingFloat>0</StarRatingFloat>
+    <StarRating>0</StarRating>
+    <CommunityStarRating>4.2719297</CommunityStarRating>
+    <CommunityStarRatingTotalVotes>58</CommunityStarRatingTotalVotes>
+    <Status>imperfect</Status>
+    <DatabaseID>38249</DatabaseID>
+    <WikipediaURL>https://en.wikipedia.org/wiki/Mushihimesama</WikipediaURL>
+    <Title>Mushihime-sama</Title>
+    <UseDosBox>false</UseDosBox>
+    <UseScummVM>false</UseScummVM>
+    <Version>(2004/10/12.MASTER VER.)</Version>
+    <Series>Mushihime-Sama</Series>
+    <PlayMode>2-Player Simultaneous</PlayMode>
+    <Region>North America</Region>
+    <PlayCount>0</PlayCount>
+    <PlayTime>0</PlayTime>
+    <Portable>false</Portable>
+    <Hide>false</Hide>
+    <Broken>false</Broken>
+    <CloneOf />
+    <Genre>Shooter / Flying Vertical</Genre>
+    <MissingVideo>false</MissingVideo>
+    <MissingBoxFrontImage>false</MissingBoxFrontImage>
+    <MissingScreenshotImage>false</MissingScreenshotImage>
+    <MissingMarqueeImage>false</MissingMarqueeImage>
+    <MissingClearLogoImage>false</MissingClearLogoImage>
+    <MissingBackgroundImage>false</MissingBackgroundImage>
+    <MissingBox3dImage>false</MissingBox3dImage>
+    <MissingCartImage>true</MissingCartImage>
+    <MissingCart3dImage>true</MissingCart3dImage>
+    <MissingManual>true</MissingManual>
+    <MissingBannerImage>false</MissingBannerImage>
+    <MissingMusic>true</MissingMusic>
+    <UseStartupScreen>false</UseStartupScreen>
+    <HideAllNonExclusiveFullscreenWindows>false</HideAllNonExclusiveFullscreenWindows>
+    <StartupLoadDelay>0</StartupLoadDelay>
+    <HideMouseCursorInGame>false</HideMouseCursorInGame>
+    <DisableShutdownScreen>false</DisableShutdownScreen>
+    <AggressiveWindowHiding>false</AggressiveWindowHiding>
+    <OverrideDefaultStartupScreenSettings>false</OverrideDefaultStartupScreenSettings>
+    <UsePauseScreen>false</UsePauseScreen>
+    <PauseAutoHotkeyScript />
+    <ResumeAutoHotkeyScript />
+    <OverrideDefaultPauseScreenSettings>false</OverrideDefaultPauseScreenSettings>
+    <SuspendProcessOnPause>false</SuspendProcessOnPause>
+    <ForcefulPauseScreenActivation>false</ForcefulPauseScreenActivation>
+    <LoadStateAutoHotkeyScript />
+    <SaveStateAutoHotkeyScript />
+    <ResetAutoHotkeyScript />
+    <SwapDiscsAutoHotkeyScript />
+    <CustomDosBoxVersionPath />
+    <ReleaseType>Released</ReleaseType>
+    <MaxPlayers>2</MaxPlayers>
+    <VideoUrl>https://www.youtube.com/watch?v=Xq2-D-4ORJk</VideoUrl>
+    <AndroidBoxFrontThumbPath />
+    <AndroidBoxFrontFullPath />
+    <AndroidClearLogoThumbPath />
+    <AndroidClearLogoFullPath />
+    <AndroidBackgroundPath />
+    <AndroidBackgroundThumbPath />
+    <AndroidGameTitleScreenshotThumbPath />
+    <AndroidGameplayScreenshotThumbPath />
+    <AndroidGameTitleScreenshotPath />
+    <AndroidGameplayScreenshotPath />
+    <AndroidVideoPath />
+    <HasCloudSynced>false</HasCloudSynced>
+  </Game>
+  <Game>
+    <GogAppId />
+    <OriginAppId />
+    <OriginInstallPath />
+    <VideoPath />
+    <ThemeVideoPath />
+    <ApplicationPath>R:\ROMS-Arcade\Cave\futari15.zip</ApplicationPath>
+    <CommandLine />
+    <Completed>false</Completed>
+    <ConfigurationCommandLine />
+    <ConfigurationPath />
+    <DateAdded>2023-06-07T22:32:57.5532581+08:00</DateAdded>
+    <DateModified>2024-02-22T01:09:12.966768+08:00</DateModified>
+    <Developer>Cave</Developer>
+    <DosBoxConfigurationPath />
+    <Emulator>9c584e20-f670-433c-81e0-6b7f3c178958</Emulator>
+    <Favorite>false</Favorite>
+    <ID>7dee429a-04c0-4e6a-9163-746d3a94e789</ID>
+    <ManualPath />
+    <MusicPath />
+    <Notes>Mushihimesama Futari (虫姫さまふたり Mushihime-sama Futari, lit. "Bug Princess Duo"), a bullet hell shooter by Cave, was released in arcades on October 27, 2006 and as a sequel to Mushihimesama. Mushihimesama Futari was released on the Xbox 360 in Japan on November 26, 2009. In April 2012, Cave released a port of the game on the iOS platforms, titled Bug Princess 2 (Mushihimesama was also released on the platforms titled Bug Princess).</Notes>
+    <Platform>Cave</Platform>
+    <Publisher>Cave (AMI license)</Publisher>
+    <Rating>Not Rated</Rating>
+    <ReleaseDate>2006-01-01T00:00:00+08:00</ReleaseDate>
+    <RootFolder />
+    <ScummVMAspectCorrection>false</ScummVMAspectCorrection>
+    <ScummVMFullscreen>false</ScummVMFullscreen>
+    <ScummVMGameDataFolderPath />
+    <ScummVMGameType />
+    <SortTitle />
+    <Source>cv1k.cpp</Source>
+    <StarRatingFloat>0</StarRatingFloat>
+    <StarRating>0</StarRating>
+    <CommunityStarRating>4.2659574</CommunityStarRating>
+    <CommunityStarRatingTotalVotes>47</CommunityStarRatingTotalVotes>
+    <Status>imperfect</Status>
+    <DatabaseID>38253</DatabaseID>
+    <WikipediaURL>https://en.wikipedia.org/wiki/Mushihimesama_Futari</WikipediaURL>
+    <Title>Mushihime-sama Futari Ver. 1.5</Title>
+    <UseDosBox>false</UseDosBox>
+    <UseScummVM>false</UseScummVM>
+    <Version>(2006/12/8.MASTER VER. 1.54.)</Version>
+    <Series>Mushihime-Sama</Series>
+    <PlayMode>2-Player Simultaneous</PlayMode>
+    <Region>North America</Region>
+    <PlayCount>0</PlayCount>
+    <PlayTime>0</PlayTime>
+    <Portable>false</Portable>
+    <Hide>false</Hide>
+    <Broken>false</Broken>
+    <CloneOf />
+    <Genre>Shooter / Flying Vertical</Genre>
+    <MissingVideo>false</MissingVideo>
+    <MissingBoxFrontImage>false</MissingBoxFrontImage>
+    <MissingScreenshotImage>false</MissingScreenshotImage>
+    <MissingMarqueeImage>false</MissingMarqueeImage>
+    <MissingClearLogoImage>false</MissingClearLogoImage>
+    <MissingBackgroundImage>false</MissingBackgroundImage>
+    <MissingBox3dImage>false</MissingBox3dImage>
+    <MissingCartImage>true</MissingCartImage>
+    <MissingCart3dImage>true</MissingCart3dImage>
+    <MissingManual>true</MissingManual>
+    <MissingBannerImage>false</MissingBannerImage>
+    <MissingMusic>true</MissingMusic>
+    <UseStartupScreen>false</UseStartupScreen>
+    <HideAllNonExclusiveFullscreenWindows>false</HideAllNonExclusiveFullscreenWindows>
+    <StartupLoadDelay>0</StartupLoadDelay>
+    <HideMouseCursorInGame>false</HideMouseCursorInGame>
+    <DisableShutdownScreen>false</DisableShutdownScreen>
+    <AggressiveWindowHiding>false</AggressiveWindowHiding>
+    <OverrideDefaultStartupScreenSettings>false</OverrideDefaultStartupScreenSettings>
+    <UsePauseScreen>false</UsePauseScreen>
+    <PauseAutoHotkeyScript />
+    <ResumeAutoHotkeyScript />
+    <OverrideDefaultPauseScreenSettings>false</OverrideDefaultPauseScreenSettings>
+    <SuspendProcessOnPause>false</SuspendProcessOnPause>
+    <ForcefulPauseScreenActivation>false</ForcefulPauseScreenActivation>
+    <LoadStateAutoHotkeyScript />
+    <SaveStateAutoHotkeyScript />
+    <ResetAutoHotkeyScript />
+    <SwapDiscsAutoHotkeyScript />
+    <CustomDosBoxVersionPath />
+    <ReleaseType>Released</ReleaseType>
+    <MaxPlayers>2</MaxPlayers>
+    <VideoUrl>https://www.youtube.com/watch?v=Xq2-D-4ORJk</VideoUrl>
+    <AndroidBoxFrontThumbPath />
+    <AndroidBoxFrontFullPath />
+    <AndroidClearLogoThumbPath />
+    <AndroidClearLogoFullPath />
+    <AndroidBackgroundPath />
+    <AndroidBackgroundThumbPath />
+    <AndroidGameTitleScreenshotThumbPath />
+    <AndroidGameplayScreenshotThumbPath />
+    <AndroidGameTitleScreenshotPath />
+    <AndroidGameplayScreenshotPath />
+    <AndroidVideoPath />
+    <HasCloudSynced>false</HasCloudSynced>
+  </Game>
+  <Game>
+    <GogAppId />
+    <OriginAppId />
+    <OriginInstallPath />
+    <VideoPath />
+    <ThemeVideoPath />
+    <ApplicationPath>R:\ROMS-Arcade\Cave\espgal2.zip</ApplicationPath>
+    <CommandLine />
+    <Completed>false</Completed>
+    <ConfigurationCommandLine />
+    <ConfigurationPath />
+    <DateAdded>2023-06-07T22:32:57.5272304+08:00</DateAdded>
+    <DateModified>2024-02-22T01:09:12.9640917+08:00</DateModified>
+    <Developer>Cave</Developer>
+    <DosBoxConfigurationPath />
+    <Emulator>9c584e20-f670-433c-81e0-6b7f3c178958</Emulator>
+    <Favorite>false</Favorite>
+    <ID>af0c3af4-0691-49a5-8492-35cdc45c234f</ID>
+    <ManualPath />
+    <MusicPath />
+    <Notes>Espgaluda II (エスプガルーダII) is a manic shooter originally released by Cave in the arcades in 2005 as a sequel to Espgaluda.
+
+The game takes place in a fictional land called Soma, three years after a massive war known as the Great Shinra War devastated the land and killed most of its plant life. Humanity is forced to pull their efforts together for the sake of survival and reforestation. Using new found technology, an alchemist named Hiodoshi spearheaded a project called Project Espgaluda, which gathered youths and used them as experimental test subjects for artificial armored wings. They were then called Galuda, named after the mythical bird of legend.
+
+Ageha and Tateha were two of the subjects who escaped during the project. At the end of Espgaluda, they were reunited with their mother and lived peacefully after going into hiding. Espgaluda II begins when they are discovered.</Notes>
+    <Platform>Cave</Platform>
+    <Publisher>Cave (AMI license)</Publisher>
+    <Rating>Not Rated</Rating>
+    <ReleaseDate>2005-01-01T00:00:00+08:00</ReleaseDate>
+    <RootFolder />
+    <ScummVMAspectCorrection>false</ScummVMAspectCorrection>
+    <ScummVMFullscreen>false</ScummVMFullscreen>
+    <ScummVMGameDataFolderPath />
+    <ScummVMGameType />
+    <SortTitle />
+    <Source>cv1k.cpp</Source>
+    <StarRatingFloat>0</StarRatingFloat>
+    <StarRating>0</StarRating>
+    <CommunityStarRating>4.230769</CommunityStarRating>
+    <CommunityStarRatingTotalVotes>52</CommunityStarRatingTotalVotes>
+    <Status>imperfect</Status>
+    <DatabaseID>31197</DatabaseID>
+    <WikipediaURL>https://en.wikipedia.org/wiki/Espgaluda_II</WikipediaURL>
+    <Title>Espgaluda II</Title>
+    <UseDosBox>false</UseDosBox>
+    <UseScummVM>false</UseScummVM>
+    <Version>(2005/11/14 MASTER VER, newer CV1000-B PCB)</Version>
+    <Series>ESP Ra.de.</Series>
+    <PlayMode>2-Player Simultaneous</PlayMode>
+    <Region>North America</Region>
+    <PlayCount>0</PlayCount>
+    <PlayTime>0</PlayTime>
+    <Portable>false</Portable>
+    <Hide>false</Hide>
+    <Broken>false</Broken>
+    <CloneOf />
+    <Genre>Shooter / Flying Vertical</Genre>
+    <MissingVideo>false</MissingVideo>
+    <MissingBoxFrontImage>false</MissingBoxFrontImage>
+    <MissingScreenshotImage>false</MissingScreenshotImage>
+    <MissingMarqueeImage>false</MissingMarqueeImage>
+    <MissingClearLogoImage>false</MissingClearLogoImage>
+    <MissingBackgroundImage>false</MissingBackgroundImage>
+    <MissingBox3dImage>false</MissingBox3dImage>
+    <MissingCartImage>true</MissingCartImage>
+    <MissingCart3dImage>true</MissingCart3dImage>
+    <MissingManual>true</MissingManual>
+    <MissingBannerImage>false</MissingBannerImage>
+    <MissingMusic>true</MissingMusic>
+    <UseStartupScreen>false</UseStartupScreen>
+    <HideAllNonExclusiveFullscreenWindows>false</HideAllNonExclusiveFullscreenWindows>
+    <StartupLoadDelay>0</StartupLoadDelay>
+    <HideMouseCursorInGame>false</HideMouseCursorInGame>
+    <DisableShutdownScreen>false</DisableShutdownScreen>
+    <AggressiveWindowHiding>false</AggressiveWindowHiding>
+    <OverrideDefaultStartupScreenSettings>false</OverrideDefaultStartupScreenSettings>
+    <UsePauseScreen>false</UsePauseScreen>
+    <PauseAutoHotkeyScript />
+    <ResumeAutoHotkeyScript />
+    <OverrideDefaultPauseScreenSettings>false</OverrideDefaultPauseScreenSettings>
+    <SuspendProcessOnPause>false</SuspendProcessOnPause>
+    <ForcefulPauseScreenActivation>false</ForcefulPauseScreenActivation>
+    <LoadStateAutoHotkeyScript />
+    <SaveStateAutoHotkeyScript />
+    <ResetAutoHotkeyScript />
+    <SwapDiscsAutoHotkeyScript />
+    <CustomDosBoxVersionPath />
+    <ReleaseType>Released</ReleaseType>
+    <MaxPlayers>2</MaxPlayers>
+    <VideoUrl>https://www.youtube.com/watch?v=dEzH4yxjFx0</VideoUrl>
+    <AndroidBoxFrontThumbPath />
+    <AndroidBoxFrontFullPath />
+    <AndroidClearLogoThumbPath />
+    <AndroidClearLogoFullPath />
+    <AndroidBackgroundPath />
+    <AndroidBackgroundThumbPath />
+    <AndroidGameTitleScreenshotThumbPath />
+    <AndroidGameplayScreenshotThumbPath />
+    <AndroidGameTitleScreenshotPath />
+    <AndroidGameplayScreenshotPath />
+    <AndroidVideoPath />
+    <HasCloudSynced>false</HasCloudSynced>
+  </Game>
+  <Game>
+    <GogAppId />
+    <OriginAppId />
+    <OriginInstallPath />
+    <VideoPath />
+    <ThemeVideoPath />
+    <ApplicationPath>R:\ROMS-Arcade\Cave\mmpork.zip</ApplicationPath>
+    <CommandLine />
+    <Completed>false</Completed>
+    <ConfigurationCommandLine />
+    <ConfigurationPath />
+    <DateAdded>2023-06-07T22:32:57.5398354+08:00</DateAdded>
+    <DateModified>2024-02-22T01:09:12.9667154+08:00</DateModified>
+    <Developer>Cave</Developer>
+    <DosBoxConfigurationPath />
+    <Emulator>9c584e20-f670-433c-81e0-6b7f3c178958</Emulator>
+    <Favorite>false</Favorite>
+    <ID>05632773-29b2-4537-a0cc-392f99269617</ID>
+    <ManualPath />
+    <MusicPath />
+    <Notes>Muchi Muchi Pork! is a bullet hell vertical scrolling shooter in cute-'em-up style for one or two players. The theme of the game is pork, and there are pork heads as collectible medals, the special attack is lard attack, the names of main heroines are puns on food items, and the main villain is called General Pork Fillet. The three playable heroines were transformed by the general into plump "pig" girls, and so they ride their flying bikes to avenge the general.
+
+The game consists of 5 levels. The second loop becomes available if the player clears the game without loosing a life.</Notes>
+    <Platform>Cave</Platform>
+    <Publisher>Cave (AMI license)</Publisher>
+    <Rating>Not Rated</Rating>
+    <ReleaseDate>2007-01-01T00:00:00+08:00</ReleaseDate>
+    <RootFolder />
+    <ScummVMAspectCorrection>false</ScummVMAspectCorrection>
+    <ScummVMFullscreen>false</ScummVMFullscreen>
+    <ScummVMGameDataFolderPath />
+    <ScummVMGameType />
+    <SortTitle />
+    <Source>cv1k.cpp</Source>
+    <StarRatingFloat>0</StarRatingFloat>
+    <StarRating>0</StarRating>
+    <CommunityStarRating>4.1796875</CommunityStarRating>
+    <CommunityStarRatingTotalVotes>62</CommunityStarRatingTotalVotes>
+    <Status>imperfect</Status>
+    <DatabaseID>31102</DatabaseID>
+    <WikipediaURL>https://en.wikipedia.org/wiki/Muchi_Muchi_Pork!</WikipediaURL>
+    <Title>Muchi Muchi Pork!</Title>
+    <UseDosBox>false</UseDosBox>
+    <UseScummVM>false</UseScummVM>
+    <Version>(2007/ 4/17 MASTER VER.)</Version>
+    <Series />
+    <PlayMode>2-Player Simultaneous</PlayMode>
+    <Region>North America</Region>
+    <PlayCount>0</PlayCount>
+    <PlayTime>0</PlayTime>
+    <Portable>false</Portable>
+    <Hide>false</Hide>
+    <Broken>false</Broken>
+    <CloneOf />
+    <Genre>Shooter / Flying Vertical</Genre>
+    <MissingVideo>false</MissingVideo>
+    <MissingBoxFrontImage>false</MissingBoxFrontImage>
+    <MissingScreenshotImage>false</MissingScreenshotImage>
+    <MissingMarqueeImage>false</MissingMarqueeImage>
+    <MissingClearLogoImage>false</MissingClearLogoImage>
+    <MissingBackgroundImage>false</MissingBackgroundImage>
+    <MissingBox3dImage>false</MissingBox3dImage>
+    <MissingCartImage>false</MissingCartImage>
+    <MissingCart3dImage>false</MissingCart3dImage>
+    <MissingManual>true</MissingManual>
+    <MissingBannerImage>false</MissingBannerImage>
+    <MissingMusic>true</MissingMusic>
+    <UseStartupScreen>false</UseStartupScreen>
+    <HideAllNonExclusiveFullscreenWindows>false</HideAllNonExclusiveFullscreenWindows>
+    <StartupLoadDelay>0</StartupLoadDelay>
+    <HideMouseCursorInGame>false</HideMouseCursorInGame>
+    <DisableShutdownScreen>false</DisableShutdownScreen>
+    <AggressiveWindowHiding>false</AggressiveWindowHiding>
+    <OverrideDefaultStartupScreenSettings>false</OverrideDefaultStartupScreenSettings>
+    <UsePauseScreen>false</UsePauseScreen>
+    <PauseAutoHotkeyScript />
+    <ResumeAutoHotkeyScript />
+    <OverrideDefaultPauseScreenSettings>false</OverrideDefaultPauseScreenSettings>
+    <SuspendProcessOnPause>false</SuspendProcessOnPause>
+    <ForcefulPauseScreenActivation>false</ForcefulPauseScreenActivation>
+    <LoadStateAutoHotkeyScript />
+    <SaveStateAutoHotkeyScript />
+    <ResetAutoHotkeyScript />
+    <SwapDiscsAutoHotkeyScript />
+    <CustomDosBoxVersionPath />
+    <ReleaseType>Released</ReleaseType>
+    <MaxPlayers>2</MaxPlayers>
+    <VideoUrl>http://www.youtube.com/watch?v=9bLpLCgyVKw</VideoUrl>
+    <AndroidBoxFrontThumbPath />
+    <AndroidBoxFrontFullPath />
+    <AndroidClearLogoThumbPath />
+    <AndroidClearLogoFullPath />
+    <AndroidBackgroundPath />
+    <AndroidBackgroundThumbPath />
+    <AndroidGameTitleScreenshotThumbPath />
+    <AndroidGameplayScreenshotThumbPath />
+    <AndroidGameTitleScreenshotPath />
+    <AndroidGameplayScreenshotPath />
+    <AndroidVideoPath />
+    <HasCloudSynced>false</HasCloudSynced>
+  </Game>
+  <Game>
+    <GogAppId />
+    <OriginAppId />
+    <OriginInstallPath />
+    <VideoPath />
+    <ThemeVideoPath />
+    <ApplicationPath>R:\ROMS-Arcade\Cave\dfkbl.zip</ApplicationPath>
+    <CommandLine />
+    <Completed>false</Completed>
+    <ConfigurationCommandLine />
+    <ConfigurationPath />
+    <DateAdded>2023-06-07T22:32:57.5235665+08:00</DateAdded>
+    <DateModified>2024-02-22T01:09:12.9636737+08:00</DateModified>
+    <Developer>Cave</Developer>
+    <DosBoxConfigurationPath />
+    <Emulator>9c584e20-f670-433c-81e0-6b7f3c178958</Emulator>
+    <Favorite>false</Favorite>
+    <ID>3cb57bca-f247-496a-b0d3-3c4aab475ccb</ID>
+    <ManualPath />
+    <MusicPath />
+    <Notes>After the turmoil caused by the assault on Lunapolis which sparked the "Blissful Death Wars", peace seems to have been restored, with the legendary DonPachi Corps retreating to its HQ in a space-time fold. Six years later, anomalies are detected in the space-time fabric, yet tests reveal nothing out of order, with the portals regularly functioning for both teleportation and time travel; also, the leader of the DonPachi squadron Colonel Godwin Longhener dismisses the matter due to the lack of actual danger.
+
+Nevertheless, a technician delves deeper into the anomaly, discovering that something has infiltrated the HQ computer systems and is using the portals to send large quantities of materials and data to the past, spreading out like a virus and quickly evolving. In an ironic twist, the virus is discovered to be the program originally installed in the Element Dolls six years ago, now reaching beyond the DonPachi Corps programming and seeking to annihilate the human race in retaliation for their "enslavement" (after the war, they met a rather cruel demise at the hand of their own human creators) by waging war in the past rather than in the present: unsettled, the Colonel authorizes the last transport ship to time jump in order to fight back the invasion before future changes. However, he states: "Start over from the past... I never thought of that", echoing the ideas of mankind's imperfection which has always been a recurring theme in the series.
+
+And once again, the three pilots jump back in time to 2008 and enter the fray, the transport ship being targeted as soon as it exits the portal: the Element Daughters, gigantic evolutions of the Dolls, are awaiting...
+
+The bee is still humming.</Notes>
+    <Platform>Cave</Platform>
+    <Publisher>Cave</Publisher>
+    <Rating>Not Rated</Rating>
+    <ReleaseDate>2010-01-01T00:00:00+08:00</ReleaseDate>
+    <RootFolder />
+    <ScummVMAspectCorrection>false</ScummVMAspectCorrection>
+    <ScummVMFullscreen>false</ScummVMFullscreen>
+    <ScummVMGameDataFolderPath />
+    <ScummVMGameType />
+    <SortTitle />
+    <Source>cv1k.cpp</Source>
+    <StarRatingFloat>0</StarRatingFloat>
+    <StarRating>0</StarRating>
+    <CommunityStarRating>4.0576925</CommunityStarRating>
+    <CommunityStarRatingTotalVotes>52</CommunityStarRatingTotalVotes>
+    <Status>imperfect</Status>
+    <DatabaseID>36405</DatabaseID>
+    <WikipediaURL>https://en.wikipedia.org/wiki/DoDonPachi_DaiFukkatsu</WikipediaURL>
+    <Title>Dodonpachi Daifukkatsu Black Label</Title>
+    <UseDosBox>false</UseDosBox>
+    <UseScummVM>false</UseScummVM>
+    <Version>(2010/1/18 BLACK LABEL)</Version>
+    <Series>DonPachi</Series>
+    <PlayMode>2-Player Simultaneous</PlayMode>
+    <Region />
+    <PlayCount>0</PlayCount>
+    <PlayTime>0</PlayTime>
+    <Portable>false</Portable>
+    <Hide>false</Hide>
+    <Broken>false</Broken>
+    <CloneOf />
+    <Genre>Shooter / Flying Vertical</Genre>
+    <MissingVideo>false</MissingVideo>
+    <MissingBoxFrontImage>false</MissingBoxFrontImage>
+    <MissingScreenshotImage>false</MissingScreenshotImage>
+    <MissingMarqueeImage>true</MissingMarqueeImage>
+    <MissingClearLogoImage>false</MissingClearLogoImage>
+    <MissingBackgroundImage>false</MissingBackgroundImage>
+    <MissingBox3dImage>false</MissingBox3dImage>
+    <MissingCartImage>true</MissingCartImage>
+    <MissingCart3dImage>true</MissingCart3dImage>
+    <MissingManual>true</MissingManual>
+    <MissingBannerImage>false</MissingBannerImage>
+    <MissingMusic>true</MissingMusic>
+    <UseStartupScreen>false</UseStartupScreen>
+    <HideAllNonExclusiveFullscreenWindows>false</HideAllNonExclusiveFullscreenWindows>
+    <StartupLoadDelay>0</StartupLoadDelay>
+    <HideMouseCursorInGame>false</HideMouseCursorInGame>
+    <DisableShutdownScreen>false</DisableShutdownScreen>
+    <AggressiveWindowHiding>false</AggressiveWindowHiding>
+    <OverrideDefaultStartupScreenSettings>false</OverrideDefaultStartupScreenSettings>
+    <UsePauseScreen>false</UsePauseScreen>
+    <PauseAutoHotkeyScript />
+    <ResumeAutoHotkeyScript />
+    <OverrideDefaultPauseScreenSettings>false</OverrideDefaultPauseScreenSettings>
+    <SuspendProcessOnPause>false</SuspendProcessOnPause>
+    <ForcefulPauseScreenActivation>false</ForcefulPauseScreenActivation>
+    <LoadStateAutoHotkeyScript />
+    <SaveStateAutoHotkeyScript />
+    <ResetAutoHotkeyScript />
+    <SwapDiscsAutoHotkeyScript />
+    <CustomDosBoxVersionPath />
+    <ReleaseType>Released</ReleaseType>
+    <MaxPlayers>0</MaxPlayers>
+    <VideoUrl>https://www.youtube.com/watch?v=FbU5XVUjX_c&amp;ab_channel=InsertMoreCoinsblogIMC</VideoUrl>
+    <AndroidBoxFrontThumbPath />
+    <AndroidBoxFrontFullPath />
+    <AndroidClearLogoThumbPath />
+    <AndroidClearLogoFullPath />
+    <AndroidBackgroundPath />
+    <AndroidBackgroundThumbPath />
+    <AndroidGameTitleScreenshotThumbPath />
+    <AndroidGameplayScreenshotThumbPath />
+    <AndroidGameTitleScreenshotPath />
+    <AndroidGameplayScreenshotPath />
+    <AndroidVideoPath />
+    <HasCloudSynced>false</HasCloudSynced>
+  </Game>
+  <Game>
+    <GogAppId />
+    <OriginAppId />
+    <OriginInstallPath />
+    <VideoPath />
+    <ThemeVideoPath />
+    <ApplicationPath>R:\ROMS-Arcade\Cave\mushitam.zip</ApplicationPath>
+    <CommandLine />
+    <Completed>false</Completed>
+    <ConfigurationCommandLine />
+    <ConfigurationPath />
+    <DateAdded>2023-06-07T22:32:57.5625278+08:00</DateAdded>
+    <DateModified>2024-02-22T01:10:06.9325127+08:00</DateModified>
+    <Developer>Cave</Developer>
+    <DosBoxConfigurationPath />
+    <Emulator>9c584e20-f670-433c-81e0-6b7f3c178958</Emulator>
+    <Favorite>false</Favorite>
+    <ID>0b308973-7f64-4b0b-afa8-a53a5d3f0870</ID>
+    <LastPlayedDate>2023-07-22T15:13:52.6201531+08:00</LastPlayedDate>
+    <ManualPath />
+    <MusicPath />
+    <Notes>Puzzle! Mushihimetama is a 2005 puzzle game developed by Cave and published by AMI. It is notable for being the only non-shooter released on the CAVE CV1000 hardware. Puzzle! Mushihimetama is the spiritual successor of the 1998 Cave game Puzzle Uo Poko. The game is also unique among Cave releases for having a song play during the attract mode, "Reco de Singing." 
+
+The objective in Mushihimetama is to save the Kojuu trapped underneath a bed of colored stones. Reco shoots colored stones one at a time into the play field. A cluster of three or more stones of the same color will result in those stones being removed from the play field. Once there is an opening for the Kojuu to escape the level is complete.
+
+Every five stages results in a boss battle in which Reco must continually fire stones of any color onto a specially marked spot on the boss to prevent it from escaping out the top of the play field.
+
+There are two multiplayer modes available, cooperative multiplayer which makes its return from Uo Poko as well as a new head-to-head multiplayer.</Notes>
+    <Platform>Cave</Platform>
+    <Publisher>Cave (AMI license)</Publisher>
+    <Rating>Not Rated</Rating>
+    <ReleaseDate>2005-01-01T00:00:00+08:00</ReleaseDate>
+    <RootFolder />
+    <ScummVMAspectCorrection>false</ScummVMAspectCorrection>
+    <ScummVMFullscreen>false</ScummVMFullscreen>
+    <ScummVMGameDataFolderPath />
+    <ScummVMGameType />
+    <SortTitle />
+    <Source>cv1k.cpp</Source>
+    <StarRatingFloat>0</StarRatingFloat>
+    <StarRating>0</StarRating>
+    <CommunityStarRating>3.8833334</CommunityStarRating>
+    <CommunityStarRatingTotalVotes>30</CommunityStarRatingTotalVotes>
+    <Status>imperfect</Status>
+    <DatabaseID>38821</DatabaseID>
+    <WikipediaURL />
+    <Title>Puzzle! Mushihime-tama</Title>
+    <UseDosBox>false</UseDosBox>
+    <UseScummVM>false</UseScummVM>
+    <Version>(2005/09/09.MASTER VER)</Version>
+    <Series />
+    <PlayMode>2-Player Simultaneous</PlayMode>
+    <Region>North America</Region>
+    <PlayCount>1</PlayCount>
+    <PlayTime>0</PlayTime>
+    <Portable>false</Portable>
+    <Hide>false</Hide>
+    <Broken>false</Broken>
+    <CloneOf />
+    <Genre>Puzzle / Match</Genre>
+    <MissingVideo>false</MissingVideo>
+    <MissingBoxFrontImage>false</MissingBoxFrontImage>
+    <MissingScreenshotImage>false</MissingScreenshotImage>
+    <MissingMarqueeImage>false</MissingMarqueeImage>
+    <MissingClearLogoImage>false</MissingClearLogoImage>
+    <MissingBackgroundImage>true</MissingBackgroundImage>
+    <MissingBox3dImage>false</MissingBox3dImage>
+    <MissingCartImage>true</MissingCartImage>
+    <MissingCart3dImage>true</MissingCart3dImage>
+    <MissingManual>true</MissingManual>
+    <MissingBannerImage>false</MissingBannerImage>
+    <MissingMusic>true</MissingMusic>
+    <UseStartupScreen>false</UseStartupScreen>
+    <HideAllNonExclusiveFullscreenWindows>false</HideAllNonExclusiveFullscreenWindows>
+    <StartupLoadDelay>0</StartupLoadDelay>
+    <HideMouseCursorInGame>false</HideMouseCursorInGame>
+    <DisableShutdownScreen>false</DisableShutdownScreen>
+    <AggressiveWindowHiding>false</AggressiveWindowHiding>
+    <OverrideDefaultStartupScreenSettings>false</OverrideDefaultStartupScreenSettings>
+    <UsePauseScreen>false</UsePauseScreen>
+    <PauseAutoHotkeyScript />
+    <ResumeAutoHotkeyScript />
+    <OverrideDefaultPauseScreenSettings>false</OverrideDefaultPauseScreenSettings>
+    <SuspendProcessOnPause>false</SuspendProcessOnPause>
+    <ForcefulPauseScreenActivation>false</ForcefulPauseScreenActivation>
+    <LoadStateAutoHotkeyScript />
+    <SaveStateAutoHotkeyScript />
+    <ResetAutoHotkeyScript />
+    <SwapDiscsAutoHotkeyScript />
+    <CustomDosBoxVersionPath />
+    <ReleaseType>Released</ReleaseType>
+    <MaxPlayers>1</MaxPlayers>
+    <VideoUrl>https://www.youtube.com/watch?v=ldwDdRPgfpA</VideoUrl>
+    <AndroidBoxFrontThumbPath />
+    <AndroidBoxFrontFullPath />
+    <AndroidClearLogoThumbPath />
+    <AndroidClearLogoFullPath />
+    <AndroidBackgroundPath />
+    <AndroidBackgroundThumbPath />
+    <AndroidGameTitleScreenshotThumbPath />
+    <AndroidGameplayScreenshotThumbPath />
+    <AndroidGameTitleScreenshotPath />
+    <AndroidGameplayScreenshotPath />
+    <AndroidVideoPath />
+    <HasCloudSynced>true</HasCloudSynced>
+  </Game>
+  <Game>
+    <GogAppId />
+    <OriginAppId />
+    <OriginInstallPath />
+    <VideoPath />
+    <ThemeVideoPath />
+    <ApplicationPath>R:\ROMS-Arcade\Cave\futaribl.zip</ApplicationPath>
+    <CommandLine />
+    <Completed>false</Completed>
+    <ConfigurationCommandLine />
+    <ConfigurationPath />
+    <DateAdded>2023-06-07T22:32:57.5480069+08:00</DateAdded>
+    <DateModified>2024-02-22T01:09:12.966761+08:00</DateModified>
+    <Developer>Cave</Developer>
+    <DosBoxConfigurationPath />
+    <Emulator>9c584e20-f670-433c-81e0-6b7f3c178958</Emulator>
+    <Favorite>false</Favorite>
+    <ID>f44760df-f49e-40b3-b483-1002e9dfd9e4</ID>
+    <ManualPath />
+    <MusicPath />
+    <Notes>Cave would go on to release a modified version of Mushihime-Sama Futari Black Label two years later. Aimed exclusively at an international release, the aptly titled Mushihime-sama Futari Black Label "Another Ver" featured bosses with reduced health from the original Black Label release. Due to its extremely limited production numbers and how quickly it sold out, many people would normally never get the chance to play this version of the game.</Notes>
+    <Platform>Cave</Platform>
+    <Publisher>Cave (AMI license)</Publisher>
+    <Rating>Not Rated</Rating>
+    <ReleaseDate>2007-01-01T00:00:00+08:00</ReleaseDate>
+    <RootFolder />
+    <ScummVMAspectCorrection>false</ScummVMAspectCorrection>
+    <ScummVMFullscreen>false</ScummVMFullscreen>
+    <ScummVMGameDataFolderPath />
+    <ScummVMGameType />
+    <SortTitle />
+    <Source>cv1k.cpp</Source>
+    <StarRatingFloat>0</StarRatingFloat>
+    <StarRating>0</StarRating>
+    <CommunityStarRating>4.576087</CommunityStarRating>
+    <CommunityStarRatingTotalVotes>46</CommunityStarRatingTotalVotes>
+    <Status>imperfect</Status>
+    <DatabaseID>38251</DatabaseID>
+    <WikipediaURL />
+    <Title>Mushihime-sama Futari Black Label - Another Ver</Title>
+    <UseDosBox>false</UseDosBox>
+    <UseScummVM>false</UseScummVM>
+    <Version>(2009/11/27 INTERNATIONAL BL)</Version>
+    <Series>Mushihime-Sama</Series>
+    <PlayMode>2-Player Simultaneous</PlayMode>
+    <Region>North America</Region>
+    <PlayCount>0</PlayCount>
+    <PlayTime>0</PlayTime>
+    <Portable>false</Portable>
+    <Hide>false</Hide>
+    <Broken>false</Broken>
+    <CloneOf />
+    <Genre>Shooter / Flying Vertical</Genre>
+    <MissingVideo>false</MissingVideo>
+    <MissingBoxFrontImage>false</MissingBoxFrontImage>
+    <MissingScreenshotImage>false</MissingScreenshotImage>
+    <MissingMarqueeImage>true</MissingMarqueeImage>
+    <MissingClearLogoImage>false</MissingClearLogoImage>
+    <MissingBackgroundImage>false</MissingBackgroundImage>
+    <MissingBox3dImage>false</MissingBox3dImage>
+    <MissingCartImage>true</MissingCartImage>
+    <MissingCart3dImage>true</MissingCart3dImage>
+    <MissingManual>true</MissingManual>
+    <MissingBannerImage>false</MissingBannerImage>
+    <MissingMusic>true</MissingMusic>
+    <UseStartupScreen>false</UseStartupScreen>
+    <HideAllNonExclusiveFullscreenWindows>false</HideAllNonExclusiveFullscreenWindows>
+    <StartupLoadDelay>0</StartupLoadDelay>
+    <HideMouseCursorInGame>false</HideMouseCursorInGame>
+    <DisableShutdownScreen>false</DisableShutdownScreen>
+    <AggressiveWindowHiding>false</AggressiveWindowHiding>
+    <OverrideDefaultStartupScreenSettings>false</OverrideDefaultStartupScreenSettings>
+    <UsePauseScreen>false</UsePauseScreen>
+    <PauseAutoHotkeyScript />
+    <ResumeAutoHotkeyScript />
+    <OverrideDefaultPauseScreenSettings>false</OverrideDefaultPauseScreenSettings>
+    <SuspendProcessOnPause>false</SuspendProcessOnPause>
+    <ForcefulPauseScreenActivation>false</ForcefulPauseScreenActivation>
+    <LoadStateAutoHotkeyScript />
+    <SaveStateAutoHotkeyScript />
+    <ResetAutoHotkeyScript />
+    <SwapDiscsAutoHotkeyScript />
+    <CustomDosBoxVersionPath />
+    <ReleaseType>Released</ReleaseType>
+    <MaxPlayers>2</MaxPlayers>
+    <VideoUrl>https://youtu.be/KW9-RxRYBKU</VideoUrl>
+    <AndroidBoxFrontThumbPath />
+    <AndroidBoxFrontFullPath />
+    <AndroidClearLogoThumbPath />
+    <AndroidClearLogoFullPath />
+    <AndroidBackgroundPath />
+    <AndroidBackgroundThumbPath />
+    <AndroidGameTitleScreenshotThumbPath />
+    <AndroidGameplayScreenshotThumbPath />
+    <AndroidGameTitleScreenshotPath />
+    <AndroidGameplayScreenshotPath />
+    <AndroidVideoPath />
+    <HasCloudSynced>false</HasCloudSynced>
+  </Game>
+  <Game>
+    <GogAppId />
+    <OriginAppId />
+    <OriginInstallPath />
+    <VideoPath />
+    <ThemeVideoPath />
+    <ApplicationPath>R:\ROMS-Arcade\Cave\ibara.zip</ApplicationPath>
+    <CommandLine />
+    <Completed>false</Completed>
+    <ConfigurationCommandLine />
+    <ConfigurationPath />
+    <DateAdded>2023-06-07T22:32:57.5287841+08:00</DateAdded>
+    <DateModified>2024-02-22T01:09:12.9653056+08:00</DateModified>
+    <Developer>Cave</Developer>
+    <DosBoxConfigurationPath />
+    <Emulator>9c584e20-f670-433c-81e0-6b7f3c178958</Emulator>
+    <Favorite>false</Favorite>
+    <ID>f1c31252-f393-488d-adc4-12f2a69b2439</ID>
+    <ManualPath />
+    <MusicPath />
+    <Notes>Ibara takes place in the 19th century, shortly after the development of the steam engine. Because of their precision crafting, the Northern European country of Edelweiss has excelled in the mechanical industry, and was achieving tremendous amounts of growth.
+
+However, dark clouds would soon rise up over Edelweiss’ horizon, as Professor Teresa Rose spoke to her 5 guardians with a fearless smile on her face. “Let’s destroy this filthy land and its people. We must make this world beautiful. Yes… then we’ll make the entire surface a lovely rose garden.” Teresa began her attack from their fortress, resembling a twisted and jagged mountain of knives.
+Under the Rose Garden Emblem, the nails of eerily laughing iron men destroyed buildings, the roars of planes covering the sky burn the Earth. The people’s cries and the rising flames illuminate the fortress, as if it were a beautiful flower blossoming from the scorched earth.
+
+The Rose Garden’s power was horrific, but the Edelweiss forces pressed through the desperate battle. As the situation became increasingly dire, the Emperor ordered his Special Imperial Attack Unit, The Negotiators, into battle. “Annihilate the Rose Garden with your ships!” The Negotiators found that these “ships” had been secretly readied, as if predicting they would have to stand up to a threat and had longed for this day to come, shone bright.</Notes>
+    <Platform>Cave</Platform>
+    <Publisher>Cave (AMI license)</Publisher>
+    <Rating>Not Rated</Rating>
+    <ReleaseDate>2005-01-01T00:00:00+08:00</ReleaseDate>
+    <RootFolder />
+    <ScummVMAspectCorrection>false</ScummVMAspectCorrection>
+    <ScummVMFullscreen>false</ScummVMFullscreen>
+    <ScummVMGameDataFolderPath />
+    <ScummVMGameType />
+    <SortTitle />
+    <Source>cv1k.cpp</Source>
+    <StarRatingFloat>0</StarRatingFloat>
+    <StarRating>0</StarRating>
+    <CommunityStarRating>3.75</CommunityStarRating>
+    <CommunityStarRatingTotalVotes>36</CommunityStarRatingTotalVotes>
+    <Status>imperfect</Status>
+    <DatabaseID>37300</DatabaseID>
+    <WikipediaURL>https://en.wikipedia.org/wiki/Ibara_(video_game)</WikipediaURL>
+    <Title>Ibara</Title>
+    <UseDosBox>false</UseDosBox>
+    <UseScummVM>false</UseScummVM>
+    <Version>(2005/03/22 MASTER VER..)</Version>
+    <Series>Ibara</Series>
+    <PlayMode>2-Player Simultaneous</PlayMode>
+    <Region>North America</Region>
+    <PlayCount>0</PlayCount>
+    <PlayTime>0</PlayTime>
+    <Portable>false</Portable>
+    <Hide>false</Hide>
+    <Broken>false</Broken>
+    <CloneOf />
+    <Genre>Shooter / Flying Vertical</Genre>
+    <MissingVideo>false</MissingVideo>
+    <MissingBoxFrontImage>false</MissingBoxFrontImage>
+    <MissingScreenshotImage>false</MissingScreenshotImage>
+    <MissingMarqueeImage>false</MissingMarqueeImage>
+    <MissingClearLogoImage>false</MissingClearLogoImage>
+    <MissingBackgroundImage>false</MissingBackgroundImage>
+    <MissingBox3dImage>false</MissingBox3dImage>
+    <MissingCartImage>false</MissingCartImage>
+    <MissingCart3dImage>false</MissingCart3dImage>
+    <MissingManual>true</MissingManual>
+    <MissingBannerImage>false</MissingBannerImage>
+    <MissingMusic>true</MissingMusic>
+    <UseStartupScreen>false</UseStartupScreen>
+    <HideAllNonExclusiveFullscreenWindows>false</HideAllNonExclusiveFullscreenWindows>
+    <StartupLoadDelay>0</StartupLoadDelay>
+    <HideMouseCursorInGame>false</HideMouseCursorInGame>
+    <DisableShutdownScreen>false</DisableShutdownScreen>
+    <AggressiveWindowHiding>false</AggressiveWindowHiding>
+    <OverrideDefaultStartupScreenSettings>false</OverrideDefaultStartupScreenSettings>
+    <UsePauseScreen>false</UsePauseScreen>
+    <PauseAutoHotkeyScript />
+    <ResumeAutoHotkeyScript />
+    <OverrideDefaultPauseScreenSettings>false</OverrideDefaultPauseScreenSettings>
+    <SuspendProcessOnPause>false</SuspendProcessOnPause>
+    <ForcefulPauseScreenActivation>false</ForcefulPauseScreenActivation>
+    <LoadStateAutoHotkeyScript />
+    <SaveStateAutoHotkeyScript />
+    <ResetAutoHotkeyScript />
+    <SwapDiscsAutoHotkeyScript />
+    <CustomDosBoxVersionPath />
+    <ReleaseType>Released</ReleaseType>
+    <MaxPlayers>2</MaxPlayers>
+    <VideoUrl>https://www.youtube.com/watch?v=pkDeowXme-Q</VideoUrl>
+    <AndroidBoxFrontThumbPath />
+    <AndroidBoxFrontFullPath />
+    <AndroidClearLogoThumbPath />
+    <AndroidClearLogoFullPath />
+    <AndroidBackgroundPath />
+    <AndroidBackgroundThumbPath />
+    <AndroidGameTitleScreenshotThumbPath />
+    <AndroidGameplayScreenshotThumbPath />
+    <AndroidGameTitleScreenshotPath />
+    <AndroidGameplayScreenshotPath />
+    <AndroidVideoPath />
+    <HasCloudSynced>false</HasCloudSynced>
+  </Game>
+  <Game>
+    <GogAppId />
+    <OriginAppId />
+    <OriginInstallPath />
+    <VideoPath />
+    <ThemeVideoPath />
+    <ApplicationPath>R:\ROMS-Arcade\Cave\pinkswts.zip</ApplicationPath>
+    <CommandLine />
+    <Completed>false</Completed>
+    <ConfigurationCommandLine />
+    <ConfigurationPath />
+    <DateAdded>2023-06-07T22:32:57.5562349+08:00</DateAdded>
+    <DateModified>2024-02-22T01:09:12.9673622+08:00</DateModified>
+    <Developer />
+    <DosBoxConfigurationPath />
+    <Emulator>9c584e20-f670-433c-81e0-6b7f3c178958</Emulator>
+    <Favorite>false</Favorite>
+    <ID>3ff725b3-7843-43b5-851f-0432d6f5f130</ID>
+    <ManualPath />
+    <MusicPath />
+    <Notes />
+    <Platform>Cave</Platform>
+    <Publisher>Cave (AMI license)</Publisher>
+    <Rating />
+    <ReleaseDate>2006-01-01T00:00:00+08:00</ReleaseDate>
+    <RootFolder />
+    <ScummVMAspectCorrection>false</ScummVMAspectCorrection>
+    <ScummVMFullscreen>false</ScummVMFullscreen>
+    <ScummVMGameDataFolderPath />
+    <ScummVMGameType />
+    <SortTitle />
+    <Source>cv1k.cpp</Source>
+    <StarRatingFloat>0</StarRatingFloat>
+    <StarRating>0</StarRating>
+    <CommunityStarRating>0</CommunityStarRating>
+    <CommunityStarRatingTotalVotes>0</CommunityStarRatingTotalVotes>
+    <Status>imperfect</Status>
+    <WikipediaURL />
+    <Title>Pink Sweets ~Ibara Sorekara~</Title>
+    <UseDosBox>false</UseDosBox>
+    <UseScummVM>false</UseScummVM>
+    <Version>(2006/04/06 MASTER VER....)</Version>
+    <Series>Ibara</Series>
+    <PlayMode>2-Player Simultaneous</PlayMode>
+    <Region>North America</Region>
+    <PlayCount>0</PlayCount>
+    <PlayTime>0</PlayTime>
+    <Portable>false</Portable>
+    <Hide>false</Hide>
+    <Broken>false</Broken>
+    <CloneOf />
+    <Genre>Shooter / Flying Vertical</Genre>
+    <MissingVideo>false</MissingVideo>
+    <MissingBoxFrontImage>false</MissingBoxFrontImage>
+    <MissingScreenshotImage>false</MissingScreenshotImage>
+    <MissingMarqueeImage>false</MissingMarqueeImage>
+    <MissingClearLogoImage>false</MissingClearLogoImage>
+    <MissingBackgroundImage>true</MissingBackgroundImage>
+    <MissingBox3dImage>false</MissingBox3dImage>
+    <MissingCartImage>true</MissingCartImage>
+    <MissingCart3dImage>true</MissingCart3dImage>
+    <MissingManual>true</MissingManual>
+    <MissingBannerImage>false</MissingBannerImage>
+    <MissingMusic>true</MissingMusic>
+    <UseStartupScreen>false</UseStartupScreen>
+    <HideAllNonExclusiveFullscreenWindows>false</HideAllNonExclusiveFullscreenWindows>
+    <StartupLoadDelay>0</StartupLoadDelay>
+    <HideMouseCursorInGame>false</HideMouseCursorInGame>
+    <DisableShutdownScreen>false</DisableShutdownScreen>
+    <AggressiveWindowHiding>false</AggressiveWindowHiding>
+    <OverrideDefaultStartupScreenSettings>false</OverrideDefaultStartupScreenSettings>
+    <UsePauseScreen>false</UsePauseScreen>
+    <PauseAutoHotkeyScript />
+    <ResumeAutoHotkeyScript />
+    <OverrideDefaultPauseScreenSettings>false</OverrideDefaultPauseScreenSettings>
+    <SuspendProcessOnPause>false</SuspendProcessOnPause>
+    <ForcefulPauseScreenActivation>false</ForcefulPauseScreenActivation>
+    <LoadStateAutoHotkeyScript />
+    <SaveStateAutoHotkeyScript />
+    <ResetAutoHotkeyScript />
+    <SwapDiscsAutoHotkeyScript />
+    <CustomDosBoxVersionPath />
+    <ReleaseType />
+    <VideoUrl />
+    <AndroidBoxFrontThumbPath />
+    <AndroidBoxFrontFullPath />
+    <AndroidClearLogoThumbPath />
+    <AndroidClearLogoFullPath />
+    <AndroidBackgroundPath />
+    <AndroidBackgroundThumbPath />
+    <AndroidGameTitleScreenshotThumbPath />
+    <AndroidGameplayScreenshotThumbPath />
+    <AndroidGameTitleScreenshotPath />
+    <AndroidGameplayScreenshotPath />
+    <AndroidVideoPath />
+    <HasCloudSynced>false</HasCloudSynced>
+  </Game>
+  <Game>
+    <GogAppId />
+    <OriginAppId />
+    <OriginInstallPath />
+    <VideoPath />
+    <ThemeVideoPath />
+    <ApplicationPath>R:\ROMS-Arcade\Cave\dsmbl.zip</ApplicationPath>
+    <CommandLine />
+    <Completed>false</Completed>
+    <ConfigurationCommandLine />
+    <ConfigurationPath />
+    <DateAdded>2023-06-07T22:32:57.514859+08:00</DateAdded>
+    <DateModified>2024-02-22T01:09:12.9635041+08:00</DateModified>
+    <Developer />
+    <DosBoxConfigurationPath />
+    <Emulator>9c584e20-f670-433c-81e0-6b7f3c178958</Emulator>
+    <Favorite>false</Favorite>
+    <ID>bb50e39c-4118-4b0f-9bbf-86f21255fcd4</ID>
+    <ManualPath />
+    <MusicPath />
+    <Notes />
+    <Platform>Cave</Platform>
+    <Publisher>Cave (AMI license)</Publisher>
+    <Rating />
+    <ReleaseDate>2008-01-01T00:00:00+08:00</ReleaseDate>
+    <RootFolder />
+    <ScummVMAspectCorrection>false</ScummVMAspectCorrection>
+    <ScummVMFullscreen>false</ScummVMFullscreen>
+    <ScummVMGameDataFolderPath />
+    <ScummVMGameType />
+    <SortTitle />
+    <Source>cv1k.cpp</Source>
+    <StarRatingFloat>0</StarRatingFloat>
+    <StarRating>0</StarRating>
+    <CommunityStarRating>0</CommunityStarRating>
+    <CommunityStarRatingTotalVotes>0</CommunityStarRatingTotalVotes>
+    <Status>imperfect</Status>
+    <WikipediaURL />
+    <Title>Death Smiles ~Mega Black Label~</Title>
+    <UseDosBox>false</UseDosBox>
+    <UseScummVM>false</UseScummVM>
+    <Version>(2008/10/06 MEGABLACK LABEL VER)</Version>
+    <Series>Deathsmiles</Series>
+    <PlayMode>2-Player Simultaneous</PlayMode>
+    <Region>North America</Region>
+    <PlayCount>0</PlayCount>
+    <PlayTime>0</PlayTime>
+    <Portable>false</Portable>
+    <Hide>false</Hide>
+    <Broken>false</Broken>
+    <CloneOf />
+    <Genre>Shooter / Flying Horizontal</Genre>
+    <MissingVideo>false</MissingVideo>
+    <MissingBoxFrontImage>false</MissingBoxFrontImage>
+    <MissingScreenshotImage>false</MissingScreenshotImage>
+    <MissingMarqueeImage>true</MissingMarqueeImage>
+    <MissingClearLogoImage>true</MissingClearLogoImage>
+    <MissingBackgroundImage>true</MissingBackgroundImage>
+    <MissingBox3dImage>false</MissingBox3dImage>
+    <MissingCartImage>true</MissingCartImage>
+    <MissingCart3dImage>true</MissingCart3dImage>
+    <MissingManual>true</MissingManual>
+    <MissingBannerImage>false</MissingBannerImage>
+    <MissingMusic>true</MissingMusic>
+    <UseStartupScreen>false</UseStartupScreen>
+    <HideAllNonExclusiveFullscreenWindows>false</HideAllNonExclusiveFullscreenWindows>
+    <StartupLoadDelay>0</StartupLoadDelay>
+    <HideMouseCursorInGame>false</HideMouseCursorInGame>
+    <DisableShutdownScreen>false</DisableShutdownScreen>
+    <AggressiveWindowHiding>false</AggressiveWindowHiding>
+    <OverrideDefaultStartupScreenSettings>false</OverrideDefaultStartupScreenSettings>
+    <UsePauseScreen>false</UsePauseScreen>
+    <PauseAutoHotkeyScript />
+    <ResumeAutoHotkeyScript />
+    <OverrideDefaultPauseScreenSettings>false</OverrideDefaultPauseScreenSettings>
+    <SuspendProcessOnPause>false</SuspendProcessOnPause>
+    <ForcefulPauseScreenActivation>false</ForcefulPauseScreenActivation>
+    <LoadStateAutoHotkeyScript />
+    <SaveStateAutoHotkeyScript />
+    <ResetAutoHotkeyScript />
+    <SwapDiscsAutoHotkeyScript />
+    <CustomDosBoxVersionPath />
+    <ReleaseType />
+    <VideoUrl />
+    <AndroidBoxFrontThumbPath />
+    <AndroidBoxFrontFullPath />
+    <AndroidClearLogoThumbPath />
+    <AndroidClearLogoFullPath />
+    <AndroidBackgroundPath />
+    <AndroidBackgroundThumbPath />
+    <AndroidGameTitleScreenshotThumbPath />
+    <AndroidGameplayScreenshotThumbPath />
+    <AndroidGameTitleScreenshotPath />
+    <AndroidGameplayScreenshotPath />
+    <AndroidVideoPath />
+    <HasCloudSynced>false</HasCloudSynced>
+  </Game>
+  <Game>
+    <GogAppId />
+    <OriginAppId />
+    <OriginInstallPath />
+    <VideoPath />
+    <ThemeVideoPath />
+    <ApplicationPath>R:\ROMS-Arcade\Cave\ddpdfk.zip</ApplicationPath>
+    <CommandLine />
+    <Completed>false</Completed>
+    <ConfigurationCommandLine />
+    <ConfigurationPath />
+    <DateAdded>2023-06-07T22:32:57.5252065+08:00</DateAdded>
+    <DateModified>2024-02-22T01:09:12.9636758+08:00</DateModified>
+    <Developer>Cave</Developer>
+    <DosBoxConfigurationPath />
+    <Emulator>9c584e20-f670-433c-81e0-6b7f3c178958</Emulator>
+    <Favorite>false</Favorite>
+    <ID>91deabc3-7627-498b-9d76-e7e3cc0567d4</ID>
+    <ManualPath />
+    <MusicPath />
+    <Notes>After the turmoil caused by the assault on Lunapolis which sparked the "Blissful Death Wars", peace seems to have been restored, with the legendary DonPachi Corps retreating to its HQ in a space-time fold. Six years later, anomalies are detected in the space-time fabric, yet tests reveal nothing out of order, with the portals regularly functioning for both teleportation and time travel; also, the leader of the DonPachi squadron Colonel Godwin Longhener dismisses the matter due to the lack of actual danger.
+
+Nevertheless, a technician delves deeper into the anomaly, discovering that something has infiltrated the HQ computer systems and is using the portals to send large quantities of materials and data to the past, spreading out like a virus and quickly evolving. In an ironic twist, the virus is discovered to be the program originally installed in the Element Dolls six years ago, now reaching beyond the DonPachi Corps programming and seeking to annihilate the human race in retaliation for their "enslavement" (after the war, they met a rather cruel demise at the hand of their own human creators) by waging war in the past rather than in the present: unsettled, the Colonel authorizes the last transport ship to time jump in order to fight back the invasion before future changes. However, he states: "Start over from the past... I never thought of that", echoing the ideas of mankind's imperfection which has always been a recurring theme in the series.
+
+And once again, the three pilots jump back in time to 2008 and enter the fray, the transport ship being targeted as soon as it exits the portal: the Element Daughters, gigantic evolutions of the Dolls, are awaiting...
+
+The bee is still humming.</Notes>
+    <Platform>Cave</Platform>
+    <Publisher>Cave (AMI license)</Publisher>
+    <Rating>Not Rated</Rating>
+    <ReleaseDate>2008-01-01T00:00:00+08:00</ReleaseDate>
+    <RootFolder />
+    <ScummVMAspectCorrection>false</ScummVMAspectCorrection>
+    <ScummVMFullscreen>false</ScummVMFullscreen>
+    <ScummVMGameDataFolderPath />
+    <ScummVMGameType />
+    <SortTitle />
+    <Source>cv1k.cpp</Source>
+    <StarRatingFloat>0</StarRatingFloat>
+    <StarRating>0</StarRating>
+    <CommunityStarRating>4.390909</CommunityStarRating>
+    <CommunityStarRatingTotalVotes>55</CommunityStarRatingTotalVotes>
+    <Status>imperfect</Status>
+    <DatabaseID>34192</DatabaseID>
+    <WikipediaURL>https://en.wikipedia.org/wiki/DoDonPachi_DaiFukkatsu</WikipediaURL>
+    <Title>Dodonpachi Daifukkatsu Ver. 1.5</Title>
+    <UseDosBox>false</UseDosBox>
+    <UseScummVM>false</UseScummVM>
+    <Version>(2008/06/23 MASTER VER 1.5)</Version>
+    <Series>DonPachi</Series>
+    <PlayMode>2-Player Simultaneous</PlayMode>
+    <Region>North America</Region>
+    <PlayCount>0</PlayCount>
+    <PlayTime>0</PlayTime>
+    <Portable>false</Portable>
+    <Hide>false</Hide>
+    <Broken>false</Broken>
+    <CloneOf />
+    <Genre>Shooter / Flying Vertical</Genre>
+    <MissingVideo>false</MissingVideo>
+    <MissingBoxFrontImage>false</MissingBoxFrontImage>
+    <MissingScreenshotImage>false</MissingScreenshotImage>
+    <MissingMarqueeImage>false</MissingMarqueeImage>
+    <MissingClearLogoImage>false</MissingClearLogoImage>
+    <MissingBackgroundImage>false</MissingBackgroundImage>
+    <MissingBox3dImage>false</MissingBox3dImage>
+    <MissingCartImage>true</MissingCartImage>
+    <MissingCart3dImage>true</MissingCart3dImage>
+    <MissingManual>true</MissingManual>
+    <MissingBannerImage>false</MissingBannerImage>
+    <MissingMusic>true</MissingMusic>
+    <UseStartupScreen>false</UseStartupScreen>
+    <HideAllNonExclusiveFullscreenWindows>false</HideAllNonExclusiveFullscreenWindows>
+    <StartupLoadDelay>0</StartupLoadDelay>
+    <HideMouseCursorInGame>false</HideMouseCursorInGame>
+    <DisableShutdownScreen>false</DisableShutdownScreen>
+    <AggressiveWindowHiding>false</AggressiveWindowHiding>
+    <OverrideDefaultStartupScreenSettings>false</OverrideDefaultStartupScreenSettings>
+    <UsePauseScreen>false</UsePauseScreen>
+    <PauseAutoHotkeyScript />
+    <ResumeAutoHotkeyScript />
+    <OverrideDefaultPauseScreenSettings>false</OverrideDefaultPauseScreenSettings>
+    <SuspendProcessOnPause>false</SuspendProcessOnPause>
+    <ForcefulPauseScreenActivation>false</ForcefulPauseScreenActivation>
+    <LoadStateAutoHotkeyScript />
+    <SaveStateAutoHotkeyScript />
+    <ResetAutoHotkeyScript />
+    <SwapDiscsAutoHotkeyScript />
+    <CustomDosBoxVersionPath />
+    <ReleaseType>Released</ReleaseType>
+    <MaxPlayers>2</MaxPlayers>
+    <VideoUrl>https://www.youtube.com/watch?v=Su_diaNCUX8&amp;ab_channel=MaribelHearn</VideoUrl>
+    <AndroidBoxFrontThumbPath />
+    <AndroidBoxFrontFullPath />
+    <AndroidClearLogoThumbPath />
+    <AndroidClearLogoFullPath />
+    <AndroidBackgroundPath />
+    <AndroidBackgroundThumbPath />
+    <AndroidGameTitleScreenshotThumbPath />
+    <AndroidGameplayScreenshotThumbPath />
+    <AndroidGameTitleScreenshotPath />
+    <AndroidGameplayScreenshotPath />
+    <AndroidVideoPath />
+    <HasCloudSynced>false</HasCloudSynced>
+  </Game>
+  <Game>
+    <GogAppId />
+    <OriginAppId />
+    <OriginInstallPath />
+    <VideoPath />
+    <ThemeVideoPath />
+    <ApplicationPath>R:\ROMS-Arcade\Cave\deathsml.zip</ApplicationPath>
+    <CommandLine />
+    <Completed>false</Completed>
+    <ConfigurationCommandLine />
+    <ConfigurationPath />
+    <DateAdded>2023-06-07T22:32:57.5120285+08:00</DateAdded>
+    <DateModified>2024-02-22T01:09:12.9635013+08:00</DateModified>
+    <Developer>Cave</Developer>
+    <DosBoxConfigurationPath />
+    <Emulator>9c584e20-f670-433c-81e0-6b7f3c178958</Emulator>
+    <Favorite>false</Favorite>
+    <ID>65429330-5e3e-454b-afde-3f4234809786</ID>
+    <ManualPath />
+    <MusicPath />
+    <Notes>Deathsmiles is CAVE's bullet-hell shoot-'em-up where you take the role of one of five Angels to defend the magical land of Gilverado from an invasion by Hell itself! Team up with a friend, choose an angel, and eradicate this devilish assault across six different game modes!  Deathsmiles’s developer, CAVE Co., Ltd., is the powerhouse behind revered bullet-hell shooters such as Mushihimesama, DoDonPachi, Espgaluda, and many more!</Notes>
+    <Platform>Cave</Platform>
+    <Publisher>Cave (AMI license)</Publisher>
+    <Rating>Not Rated</Rating>
+    <ReleaseDate>2007-01-01T00:00:00+08:00</ReleaseDate>
+    <RootFolder />
+    <ScummVMAspectCorrection>false</ScummVMAspectCorrection>
+    <ScummVMFullscreen>false</ScummVMFullscreen>
+    <ScummVMGameDataFolderPath />
+    <ScummVMGameType />
+    <SortTitle />
+    <Source>cv1k.cpp</Source>
+    <StarRatingFloat>0</StarRatingFloat>
+    <StarRating>0</StarRating>
+    <CommunityStarRating>4.3135595</CommunityStarRating>
+    <CommunityStarRatingTotalVotes>118</CommunityStarRatingTotalVotes>
+    <Status>imperfect</Status>
+    <DatabaseID>36334</DatabaseID>
+    <WikipediaURL>https://en.wikipedia.org/wiki/Deathsmiles</WikipediaURL>
+    <Title>Death Smiles</Title>
+    <UseDosBox>false</UseDosBox>
+    <UseScummVM>false</UseScummVM>
+    <Version>(2007/10/09 MASTER VER)</Version>
+    <Series>Deathsmiles</Series>
+    <PlayMode>2-Player Simultaneous</PlayMode>
+    <Region>North America</Region>
+    <PlayCount>0</PlayCount>
+    <PlayTime>0</PlayTime>
+    <Portable>false</Portable>
+    <Hide>false</Hide>
+    <Broken>false</Broken>
+    <CloneOf />
+    <Genre>Shooter / Flying Horizontal</Genre>
+    <MissingVideo>false</MissingVideo>
+    <MissingBoxFrontImage>false</MissingBoxFrontImage>
+    <MissingScreenshotImage>false</MissingScreenshotImage>
+    <MissingMarqueeImage>false</MissingMarqueeImage>
+    <MissingClearLogoImage>false</MissingClearLogoImage>
+    <MissingBackgroundImage>false</MissingBackgroundImage>
+    <MissingBox3dImage>false</MissingBox3dImage>
+    <MissingCartImage>true</MissingCartImage>
+    <MissingCart3dImage>true</MissingCart3dImage>
+    <MissingManual>true</MissingManual>
+    <MissingBannerImage>false</MissingBannerImage>
+    <MissingMusic>true</MissingMusic>
+    <UseStartupScreen>false</UseStartupScreen>
+    <HideAllNonExclusiveFullscreenWindows>false</HideAllNonExclusiveFullscreenWindows>
+    <StartupLoadDelay>0</StartupLoadDelay>
+    <HideMouseCursorInGame>false</HideMouseCursorInGame>
+    <DisableShutdownScreen>false</DisableShutdownScreen>
+    <AggressiveWindowHiding>false</AggressiveWindowHiding>
+    <OverrideDefaultStartupScreenSettings>false</OverrideDefaultStartupScreenSettings>
+    <UsePauseScreen>false</UsePauseScreen>
+    <PauseAutoHotkeyScript />
+    <ResumeAutoHotkeyScript />
+    <OverrideDefaultPauseScreenSettings>false</OverrideDefaultPauseScreenSettings>
+    <SuspendProcessOnPause>false</SuspendProcessOnPause>
+    <ForcefulPauseScreenActivation>false</ForcefulPauseScreenActivation>
+    <LoadStateAutoHotkeyScript />
+    <SaveStateAutoHotkeyScript />
+    <ResetAutoHotkeyScript />
+    <SwapDiscsAutoHotkeyScript />
+    <CustomDosBoxVersionPath />
+    <ReleaseType>Released</ReleaseType>
+    <MaxPlayers>2</MaxPlayers>
+    <VideoUrl>https://www.youtube.com/watch?v=bYE8X5nxg2Y</VideoUrl>
+    <AndroidBoxFrontThumbPath />
+    <AndroidBoxFrontFullPath />
+    <AndroidClearLogoThumbPath />
+    <AndroidClearLogoFullPath />
+    <AndroidBackgroundPath />
+    <AndroidBackgroundThumbPath />
+    <AndroidGameTitleScreenshotThumbPath />
+    <AndroidGameplayScreenshotThumbPath />
+    <AndroidGameTitleScreenshotPath />
+    <AndroidGameplayScreenshotPath />
+    <AndroidVideoPath />
+    <HasCloudSynced>false</HasCloudSynced>
+  </Game>
+  <Game>
+    <GogAppId />
+    <OriginAppId />
+    <OriginInstallPath />
+    <VideoPath />
+    <ThemeVideoPath />
+    <ApplicationPath>R:\ROMS-Arcade\Cave\ibarablk.zip</ApplicationPath>
+    <CommandLine />
+    <Completed>false</Completed>
+    <ConfigurationCommandLine />
+    <ConfigurationPath />
+    <DateAdded>2023-06-07T22:32:57.5338171+08:00</DateAdded>
+    <DateModified>2024-02-22T01:09:12.9653076+08:00</DateModified>
+    <Developer />
+    <DosBoxConfigurationPath />
+    <Emulator>9c584e20-f670-433c-81e0-6b7f3c178958</Emulator>
+    <Favorite>false</Favorite>
+    <ID>1d628b5a-5e85-4720-a1c6-523f14fb88ae</ID>
+    <ManualPath />
+    <MusicPath />
+    <Notes />
+    <Platform>Cave</Platform>
+    <Publisher>Cave (AMI license)</Publisher>
+    <Rating />
+    <ReleaseDate>2006-01-01T00:00:00+08:00</ReleaseDate>
+    <RootFolder />
+    <ScummVMAspectCorrection>false</ScummVMAspectCorrection>
+    <ScummVMFullscreen>false</ScummVMFullscreen>
+    <ScummVMGameDataFolderPath />
+    <ScummVMGameType />
+    <SortTitle />
+    <Source>cv1k.cpp</Source>
+    <StarRatingFloat>0</StarRatingFloat>
+    <StarRating>0</StarRating>
+    <CommunityStarRating>0</CommunityStarRating>
+    <CommunityStarRatingTotalVotes>0</CommunityStarRatingTotalVotes>
+    <Status>imperfect</Status>
+    <WikipediaURL />
+    <Title>Ibara Kuro ~Black Label~</Title>
+    <UseDosBox>false</UseDosBox>
+    <UseScummVM>false</UseScummVM>
+    <Version>(2006/02/06. MASTER VER.)</Version>
+    <Series>Ibara</Series>
+    <PlayMode>2-Player Simultaneous</PlayMode>
+    <Region>North America</Region>
+    <PlayCount>0</PlayCount>
+    <PlayTime>0</PlayTime>
+    <Portable>false</Portable>
+    <Hide>false</Hide>
+    <Broken>false</Broken>
+    <CloneOf />
+    <Genre>Shooter / Flying Vertical</Genre>
+    <MissingVideo>false</MissingVideo>
+    <MissingBoxFrontImage>false</MissingBoxFrontImage>
+    <MissingScreenshotImage>false</MissingScreenshotImage>
+    <MissingMarqueeImage>false</MissingMarqueeImage>
+    <MissingClearLogoImage>false</MissingClearLogoImage>
+    <MissingBackgroundImage>true</MissingBackgroundImage>
+    <MissingBox3dImage>false</MissingBox3dImage>
+    <MissingCartImage>true</MissingCartImage>
+    <MissingCart3dImage>true</MissingCart3dImage>
+    <MissingManual>true</MissingManual>
+    <MissingBannerImage>false</MissingBannerImage>
+    <MissingMusic>true</MissingMusic>
+    <UseStartupScreen>false</UseStartupScreen>
+    <HideAllNonExclusiveFullscreenWindows>false</HideAllNonExclusiveFullscreenWindows>
+    <StartupLoadDelay>0</StartupLoadDelay>
+    <HideMouseCursorInGame>false</HideMouseCursorInGame>
+    <DisableShutdownScreen>false</DisableShutdownScreen>
+    <AggressiveWindowHiding>false</AggressiveWindowHiding>
+    <OverrideDefaultStartupScreenSettings>false</OverrideDefaultStartupScreenSettings>
+    <UsePauseScreen>false</UsePauseScreen>
+    <PauseAutoHotkeyScript />
+    <ResumeAutoHotkeyScript />
+    <OverrideDefaultPauseScreenSettings>false</OverrideDefaultPauseScreenSettings>
+    <SuspendProcessOnPause>false</SuspendProcessOnPause>
+    <ForcefulPauseScreenActivation>false</ForcefulPauseScreenActivation>
+    <LoadStateAutoHotkeyScript />
+    <SaveStateAutoHotkeyScript />
+    <ResetAutoHotkeyScript />
+    <SwapDiscsAutoHotkeyScript />
+    <CustomDosBoxVersionPath />
+    <ReleaseType />
+    <VideoUrl />
+    <AndroidBoxFrontThumbPath />
+    <AndroidBoxFrontFullPath />
+    <AndroidClearLogoThumbPath />
+    <AndroidClearLogoFullPath />
+    <AndroidBackgroundPath />
+    <AndroidBackgroundThumbPath />
+    <AndroidGameTitleScreenshotThumbPath />
+    <AndroidGameplayScreenshotThumbPath />
+    <AndroidGameTitleScreenshotPath />
+    <AndroidGameplayScreenshotPath />
+    <AndroidVideoPath />
+    <HasCloudSynced>false</HasCloudSynced>
+  </Game>
+  <Game>
+    <GogAppId />
+    <OriginAppId />
+    <OriginInstallPath />
+    <VideoPath />
+    <ThemeVideoPath />
+    <ApplicationPath>R:\ROMS-Arcade\Cave\mmmbanc.zip</ApplicationPath>
+    <CommandLine />
+    <Completed>false</Completed>
+    <ConfigurationCommandLine />
+    <ConfigurationPath />
+    <DateAdded>2023-06-07T22:32:57.5367668+08:00</DateAdded>
+    <DateModified>2024-02-22T01:10:06.9325595+08:00</DateModified>
+    <Developer>Cave</Developer>
+    <DosBoxConfigurationPath />
+    <Emulator>9c584e20-f670-433c-81e0-6b7f3c178958</Emulator>
+    <Favorite>false</Favorite>
+    <ID>42bad773-6cb3-48e1-9c2e-8c6e741e99f8</ID>
+    <LastPlayedDate>2023-07-22T15:14:09.499775+08:00</LastPlayedDate>
+    <ManualPath />
+    <MusicPath />
+    <Notes />
+    <Platform>Cave</Platform>
+    <Publisher>Cave (AMI license)</Publisher>
+    <Rating>Not Rated</Rating>
+    <ReleaseDate>2007-01-01T00:00:00+08:00</ReleaseDate>
+    <RootFolder />
+    <ScummVMAspectCorrection>false</ScummVMAspectCorrection>
+    <ScummVMFullscreen>false</ScummVMFullscreen>
+    <ScummVMGameDataFolderPath />
+    <ScummVMGameType />
+    <SortTitle />
+    <Source>cv1k.cpp</Source>
+    <StarRatingFloat>0</StarRatingFloat>
+    <StarRating>0</StarRating>
+    <CommunityStarRating>1</CommunityStarRating>
+    <CommunityStarRatingTotalVotes>1</CommunityStarRatingTotalVotes>
+    <Status>preliminary</Status>
+    <DatabaseID>38041</DatabaseID>
+    <WikipediaURL />
+    <Title>Medal Mahjong Moukari Bancho</Title>
+    <UseDosBox>false</UseDosBox>
+    <UseScummVM>false</UseScummVM>
+    <Version>(2007/06/05 MASTER VER.)</Version>
+    <Series />
+    <PlayMode>Single Player</PlayMode>
+    <Region>North America</Region>
+    <PlayCount>1</PlayCount>
+    <PlayTime>0</PlayTime>
+    <Portable>false</Portable>
+    <Hide>false</Hide>
+    <Broken>false</Broken>
+    <CloneOf />
+    <Genre>Tabletop / Mahjong</Genre>
+    <MissingVideo>false</MissingVideo>
+    <MissingBoxFrontImage>false</MissingBoxFrontImage>
+    <MissingScreenshotImage>false</MissingScreenshotImage>
+    <MissingMarqueeImage>false</MissingMarqueeImage>
+    <MissingClearLogoImage>false</MissingClearLogoImage>
+    <MissingBackgroundImage>true</MissingBackgroundImage>
+    <MissingBox3dImage>false</MissingBox3dImage>
+    <MissingCartImage>true</MissingCartImage>
+    <MissingCart3dImage>true</MissingCart3dImage>
+    <MissingManual>true</MissingManual>
+    <MissingBannerImage>false</MissingBannerImage>
+    <MissingMusic>true</MissingMusic>
+    <UseStartupScreen>false</UseStartupScreen>
+    <HideAllNonExclusiveFullscreenWindows>false</HideAllNonExclusiveFullscreenWindows>
+    <StartupLoadDelay>0</StartupLoadDelay>
+    <HideMouseCursorInGame>false</HideMouseCursorInGame>
+    <DisableShutdownScreen>false</DisableShutdownScreen>
+    <AggressiveWindowHiding>false</AggressiveWindowHiding>
+    <OverrideDefaultStartupScreenSettings>false</OverrideDefaultStartupScreenSettings>
+    <UsePauseScreen>false</UsePauseScreen>
+    <PauseAutoHotkeyScript />
+    <ResumeAutoHotkeyScript />
+    <OverrideDefaultPauseScreenSettings>false</OverrideDefaultPauseScreenSettings>
+    <SuspendProcessOnPause>false</SuspendProcessOnPause>
+    <ForcefulPauseScreenActivation>false</ForcefulPauseScreenActivation>
+    <LoadStateAutoHotkeyScript />
+    <SaveStateAutoHotkeyScript />
+    <ResetAutoHotkeyScript />
+    <SwapDiscsAutoHotkeyScript />
+    <CustomDosBoxVersionPath />
+    <ReleaseType>Released</ReleaseType>
+    <MaxPlayers>1</MaxPlayers>
+    <VideoUrl />
+    <AndroidBoxFrontThumbPath />
+    <AndroidBoxFrontFullPath />
+    <AndroidClearLogoThumbPath />
+    <AndroidClearLogoFullPath />
+    <AndroidBackgroundPath />
+    <AndroidBackgroundThumbPath />
+    <AndroidGameTitleScreenshotThumbPath />
+    <AndroidGameplayScreenshotThumbPath />
+    <AndroidGameTitleScreenshotPath />
+    <AndroidGameplayScreenshotPath />
+    <AndroidVideoPath />
+    <HasCloudSynced>true</HasCloudSynced>
+  </Game>
+  <AdditionalApplication>
+    <Id>39749732-6c45-4f8f-8e15-4fb2b8016a80</Id>
+    <PlayCount>0</PlayCount>
+    <PlayTime>0</PlayTime>
+    <GameID>40005ad4-d0e2-4e48-a09e-010babf42aa0</GameID>
+    <ApplicationPath>C:\Programs\LaunchBox\Add-On\CPWizard-master\bin\Release\CPWizard.exe</ApplicationPath>
+    <AutoRunAfter>false</AutoRunAfter>
+    <AutoRunBefore>true</AutoRunBefore>
+    <CommandLine>-emu mame -minimized -show -game</CommandLine>
+    <Name>-emu mame -minimized -show -game</Name>
+    <UseDosBox>false</UseDosBox>
+    <UseEmulator>false</UseEmulator>
+    <WaitForExit>true</WaitForExit>
+    <SideA>false</SideA>
+    <SideB>false</SideB>
+    <Priority>0</Priority>
+    <HasCloudSynced>false</HasCloudSynced>
+  </AdditionalApplication>
+  <AdditionalApplication>
+    <Id>bf9c8f65-29bd-4cd5-acb4-d29fa47f5de0</Id>
+    <PlayCount>0</PlayCount>
+    <PlayTime>0</PlayTime>
+    <GameID>40005ad4-d0e2-4e48-a09e-010babf42aa0</GameID>
+    <ApplicationPath>C:\Programs\LaunchBox\Add-On\CPWizard-master\bin\Release\CPWizard.exe</ApplicationPath>
+    <AutoRunAfter>false</AutoRunAfter>
+    <AutoRunBefore>true</AutoRunBefore>
+    <CommandLine>-emu mame -minimized -show -game</CommandLine>
+    <Name>CPWizard</Name>
+    <UseDosBox>false</UseDosBox>
+    <UseEmulator>false</UseEmulator>
+    <WaitForExit>true</WaitForExit>
+    <SideA>false</SideA>
+    <SideB>false</SideB>
+    <Priority>0</Priority>
+    <HasCloudSynced>false</HasCloudSynced>
+  </AdditionalApplication>
+  <AdditionalApplication>
+    <Id>d1da591f-1a90-4686-94ef-3f757b0731cf</Id>
+    <PlayCount>0</PlayCount>
+    <PlayTime>0</PlayTime>
+    <GameID>40005ad4-d0e2-4e48-a09e-010babf42aa0</GameID>
+    <ApplicationPath>C:\Programs\LaunchBox\Add-On\CPWizard-master\bin\Release\CPWizard.exe</ApplicationPath>
+    <AutoRunAfter>false</AutoRunAfter>
+    <AutoRunBefore>true</AutoRunBefore>
+    <CommandLine>-emu mame -minimized -show -game</CommandLine>
+    <Name>CPWizard</Name>
+    <UseDosBox>false</UseDosBox>
+    <UseEmulator>false</UseEmulator>
+    <WaitForExit>false</WaitForExit>
+    <SideA>false</SideA>
+    <SideB>false</SideB>
+    <Priority>0</Priority>
+    <HasCloudSynced>false</HasCloudSynced>
+  </AdditionalApplication>
+  <AdditionalApplication>
+    <Id>61b32cd7-a91e-496b-9bb8-4eb53192ee2f</Id>
+    <PlayCount>0</PlayCount>
+    <PlayTime>0</PlayTime>
+    <GameID>7dee429a-04c0-4e6a-9163-746d3a94e789</GameID>
+    <ApplicationPath>C:\Programs\LaunchBox\Add-On\CPWizard-master\bin\Release\CPWizard.exe</ApplicationPath>
+    <AutoRunAfter>false</AutoRunAfter>
+    <AutoRunBefore>true</AutoRunBefore>
+    <CommandLine>-emu mame -minimized -show -game</CommandLine>
+    <Name>-emu mame -minimized -show -game</Name>
+    <UseDosBox>false</UseDosBox>
+    <UseEmulator>false</UseEmulator>
+    <WaitForExit>true</WaitForExit>
+    <SideA>false</SideA>
+    <SideB>false</SideB>
+    <Priority>0</Priority>
+    <HasCloudSynced>false</HasCloudSynced>
+  </AdditionalApplication>
+  <AdditionalApplication>
+    <Id>b7e66841-6acd-457d-82ae-b9149b38e056</Id>
+    <PlayCount>0</PlayCount>
+    <PlayTime>0</PlayTime>
+    <GameID>7dee429a-04c0-4e6a-9163-746d3a94e789</GameID>
+    <ApplicationPath>C:\Programs\LaunchBox\Add-On\CPWizard-master\bin\Release\CPWizard.exe</ApplicationPath>
+    <AutoRunAfter>false</AutoRunAfter>
+    <AutoRunBefore>true</AutoRunBefore>
+    <CommandLine>-emu mame -minimized -show -game</CommandLine>
+    <Name>CPWizard</Name>
+    <UseDosBox>false</UseDosBox>
+    <UseEmulator>false</UseEmulator>
+    <WaitForExit>true</WaitForExit>
+    <SideA>false</SideA>
+    <SideB>false</SideB>
+    <Priority>0</Priority>
+    <HasCloudSynced>false</HasCloudSynced>
+  </AdditionalApplication>
+  <AdditionalApplication>
+    <Id>5d948105-5993-4ea5-94c8-e7daa61f9b6a</Id>
+    <PlayCount>0</PlayCount>
+    <PlayTime>0</PlayTime>
+    <GameID>7dee429a-04c0-4e6a-9163-746d3a94e789</GameID>
+    <ApplicationPath>C:\Programs\LaunchBox\Add-On\CPWizard-master\bin\Release\CPWizard.exe</ApplicationPath>
+    <AutoRunAfter>false</AutoRunAfter>
+    <AutoRunBefore>true</AutoRunBefore>
+    <CommandLine>-emu mame -minimized -show -game</CommandLine>
+    <Name>CPWizard</Name>
+    <UseDosBox>false</UseDosBox>
+    <UseEmulator>false</UseEmulator>
+    <WaitForExit>false</WaitForExit>
+    <SideA>false</SideA>
+    <SideB>false</SideB>
+    <Priority>0</Priority>
+    <HasCloudSynced>false</HasCloudSynced>
+  </AdditionalApplication>
+  <AdditionalApplication>
+    <Id>b614deb6-402a-4aef-a911-d52e7120a3d0</Id>
+    <PlayCount>0</PlayCount>
+    <PlayTime>0</PlayTime>
+    <GameID>af0c3af4-0691-49a5-8492-35cdc45c234f</GameID>
+    <ApplicationPath>C:\Programs\LaunchBox\Add-On\CPWizard-master\bin\Release\CPWizard.exe</ApplicationPath>
+    <AutoRunAfter>false</AutoRunAfter>
+    <AutoRunBefore>true</AutoRunBefore>
+    <CommandLine>-emu mame -minimized -show -game</CommandLine>
+    <Name>-emu mame -minimized -show -game</Name>
+    <UseDosBox>false</UseDosBox>
+    <UseEmulator>false</UseEmulator>
+    <WaitForExit>true</WaitForExit>
+    <SideA>false</SideA>
+    <SideB>false</SideB>
+    <Priority>0</Priority>
+    <HasCloudSynced>false</HasCloudSynced>
+  </AdditionalApplication>
+  <AdditionalApplication>
+    <Id>7506ed76-637f-4335-9333-2a7eaa5a3698</Id>
+    <PlayCount>0</PlayCount>
+    <PlayTime>0</PlayTime>
+    <GameID>af0c3af4-0691-49a5-8492-35cdc45c234f</GameID>
+    <ApplicationPath>C:\Programs\LaunchBox\Add-On\CPWizard-master\bin\Release\CPWizard.exe</ApplicationPath>
+    <AutoRunAfter>false</AutoRunAfter>
+    <AutoRunBefore>true</AutoRunBefore>
+    <CommandLine>-emu mame -minimized -show -game</CommandLine>
+    <Name>CPWizard</Name>
+    <UseDosBox>false</UseDosBox>
+    <UseEmulator>false</UseEmulator>
+    <WaitForExit>true</WaitForExit>
+    <SideA>false</SideA>
+    <SideB>false</SideB>
+    <Priority>0</Priority>
+    <HasCloudSynced>false</HasCloudSynced>
+  </AdditionalApplication>
+  <AdditionalApplication>
+    <Id>a0b8515a-a11a-47a4-9f66-405cd2c66f57</Id>
+    <PlayCount>0</PlayCount>
+    <PlayTime>0</PlayTime>
+    <GameID>af0c3af4-0691-49a5-8492-35cdc45c234f</GameID>
+    <ApplicationPath>C:\Programs\LaunchBox\Add-On\CPWizard-master\bin\Release\CPWizard.exe</ApplicationPath>
+    <AutoRunAfter>false</AutoRunAfter>
+    <AutoRunBefore>true</AutoRunBefore>
+    <CommandLine>-emu mame -minimized -show -game</CommandLine>
+    <Name>CPWizard</Name>
+    <UseDosBox>false</UseDosBox>
+    <UseEmulator>false</UseEmulator>
+    <WaitForExit>false</WaitForExit>
+    <SideA>false</SideA>
+    <SideB>false</SideB>
+    <Priority>0</Priority>
+    <HasCloudSynced>false</HasCloudSynced>
+  </AdditionalApplication>
+  <AdditionalApplication>
+    <Id>0a725291-d268-44d7-bd52-d2be3106be72</Id>
+    <PlayCount>0</PlayCount>
+    <PlayTime>0</PlayTime>
+    <GameID>05632773-29b2-4537-a0cc-392f99269617</GameID>
+    <ApplicationPath>C:\Programs\LaunchBox\Add-On\CPWizard-master\bin\Release\CPWizard.exe</ApplicationPath>
+    <AutoRunAfter>false</AutoRunAfter>
+    <AutoRunBefore>true</AutoRunBefore>
+    <CommandLine>-emu mame -minimized -show -game</CommandLine>
+    <Name>-emu mame -minimized -show -game</Name>
+    <UseDosBox>false</UseDosBox>
+    <UseEmulator>false</UseEmulator>
+    <WaitForExit>true</WaitForExit>
+    <SideA>false</SideA>
+    <SideB>false</SideB>
+    <Priority>0</Priority>
+    <HasCloudSynced>false</HasCloudSynced>
+  </AdditionalApplication>
+  <AdditionalApplication>
+    <Id>702d84da-7f19-40f0-86e2-a4082238c226</Id>
+    <PlayCount>0</PlayCount>
+    <PlayTime>0</PlayTime>
+    <GameID>05632773-29b2-4537-a0cc-392f99269617</GameID>
+    <ApplicationPath>C:\Programs\LaunchBox\Add-On\CPWizard-master\bin\Release\CPWizard.exe</ApplicationPath>
+    <AutoRunAfter>false</AutoRunAfter>
+    <AutoRunBefore>true</AutoRunBefore>
+    <CommandLine>-emu mame -minimized -show -game</CommandLine>
+    <Name>CPWizard</Name>
+    <UseDosBox>false</UseDosBox>
+    <UseEmulator>false</UseEmulator>
+    <WaitForExit>true</WaitForExit>
+    <SideA>false</SideA>
+    <SideB>false</SideB>
+    <Priority>0</Priority>
+    <HasCloudSynced>false</HasCloudSynced>
+  </AdditionalApplication>
+  <AdditionalApplication>
+    <Id>01e198c9-4716-47d6-8cc8-65db1211664d</Id>
+    <PlayCount>0</PlayCount>
+    <PlayTime>0</PlayTime>
+    <GameID>05632773-29b2-4537-a0cc-392f99269617</GameID>
+    <ApplicationPath>C:\Programs\LaunchBox\Add-On\CPWizard-master\bin\Release\CPWizard.exe</ApplicationPath>
+    <AutoRunAfter>false</AutoRunAfter>
+    <AutoRunBefore>true</AutoRunBefore>
+    <CommandLine>-emu mame -minimized -show -game</CommandLine>
+    <Name>CPWizard</Name>
+    <UseDosBox>false</UseDosBox>
+    <UseEmulator>false</UseEmulator>
+    <WaitForExit>false</WaitForExit>
+    <SideA>false</SideA>
+    <SideB>false</SideB>
+    <Priority>0</Priority>
+    <HasCloudSynced>false</HasCloudSynced>
+  </AdditionalApplication>
+  <AdditionalApplication>
+    <Id>57a7be74-481d-4163-a627-92ce915ec369</Id>
+    <PlayCount>0</PlayCount>
+    <PlayTime>0</PlayTime>
+    <GameID>3cb57bca-f247-496a-b0d3-3c4aab475ccb</GameID>
+    <ApplicationPath>C:\Programs\LaunchBox\Add-On\CPWizard-master\bin\Release\CPWizard.exe</ApplicationPath>
+    <AutoRunAfter>false</AutoRunAfter>
+    <AutoRunBefore>true</AutoRunBefore>
+    <CommandLine>-emu mame -minimized -show -game</CommandLine>
+    <Name>-emu mame -minimized -show -game</Name>
+    <UseDosBox>false</UseDosBox>
+    <UseEmulator>false</UseEmulator>
+    <WaitForExit>true</WaitForExit>
+    <SideA>false</SideA>
+    <SideB>false</SideB>
+    <Priority>0</Priority>
+    <HasCloudSynced>false</HasCloudSynced>
+  </AdditionalApplication>
+  <AdditionalApplication>
+    <Id>4d5f1e7b-abf0-4c60-9e65-cf42f3a7362c</Id>
+    <PlayCount>0</PlayCount>
+    <PlayTime>0</PlayTime>
+    <GameID>3cb57bca-f247-496a-b0d3-3c4aab475ccb</GameID>
+    <ApplicationPath>C:\Programs\LaunchBox\Add-On\CPWizard-master\bin\Release\CPWizard.exe</ApplicationPath>
+    <AutoRunAfter>false</AutoRunAfter>
+    <AutoRunBefore>true</AutoRunBefore>
+    <CommandLine>-emu mame -minimized -show -game</CommandLine>
+    <Name>CPWizard</Name>
+    <UseDosBox>false</UseDosBox>
+    <UseEmulator>false</UseEmulator>
+    <WaitForExit>true</WaitForExit>
+    <SideA>false</SideA>
+    <SideB>false</SideB>
+    <Priority>0</Priority>
+    <HasCloudSynced>false</HasCloudSynced>
+  </AdditionalApplication>
+  <AdditionalApplication>
+    <Id>ceac7ce1-1e79-4fa2-a2fe-55bb591a70f8</Id>
+    <PlayCount>0</PlayCount>
+    <PlayTime>0</PlayTime>
+    <GameID>3cb57bca-f247-496a-b0d3-3c4aab475ccb</GameID>
+    <ApplicationPath>C:\Programs\LaunchBox\Add-On\CPWizard-master\bin\Release\CPWizard.exe</ApplicationPath>
+    <AutoRunAfter>false</AutoRunAfter>
+    <AutoRunBefore>true</AutoRunBefore>
+    <CommandLine>-emu mame -minimized -show -game</CommandLine>
+    <Name>CPWizard</Name>
+    <UseDosBox>false</UseDosBox>
+    <UseEmulator>false</UseEmulator>
+    <WaitForExit>false</WaitForExit>
+    <SideA>false</SideA>
+    <SideB>false</SideB>
+    <Priority>0</Priority>
+    <HasCloudSynced>false</HasCloudSynced>
+  </AdditionalApplication>
+  <AdditionalApplication>
+    <Id>3f250108-f666-4e36-9eac-9ba40141df32</Id>
+    <PlayCount>0</PlayCount>
+    <PlayTime>0</PlayTime>
+    <GameID>0b308973-7f64-4b0b-afa8-a53a5d3f0870</GameID>
+    <ApplicationPath>C:\Programs\LaunchBox\Add-On\CPWizard-master\bin\Release\CPWizard.exe</ApplicationPath>
+    <AutoRunAfter>false</AutoRunAfter>
+    <AutoRunBefore>true</AutoRunBefore>
+    <CommandLine>-emu mame -minimized -show -game</CommandLine>
+    <Name>-emu mame -minimized -show -game</Name>
+    <UseDosBox>false</UseDosBox>
+    <UseEmulator>false</UseEmulator>
+    <WaitForExit>true</WaitForExit>
+    <SideA>false</SideA>
+    <SideB>false</SideB>
+    <Priority>0</Priority>
+    <HasCloudSynced>false</HasCloudSynced>
+  </AdditionalApplication>
+  <AdditionalApplication>
+    <Id>3c4d91d8-cd3f-4a22-b414-756bfd87b0c9</Id>
+    <PlayCount>0</PlayCount>
+    <PlayTime>0</PlayTime>
+    <GameID>0b308973-7f64-4b0b-afa8-a53a5d3f0870</GameID>
+    <ApplicationPath>C:\Programs\LaunchBox\Add-On\CPWizard-master\bin\Release\CPWizard.exe</ApplicationPath>
+    <AutoRunAfter>false</AutoRunAfter>
+    <AutoRunBefore>true</AutoRunBefore>
+    <CommandLine>-emu mame -minimized -show -game</CommandLine>
+    <Name>CPWizard</Name>
+    <UseDosBox>false</UseDosBox>
+    <UseEmulator>false</UseEmulator>
+    <WaitForExit>true</WaitForExit>
+    <SideA>false</SideA>
+    <SideB>false</SideB>
+    <Priority>0</Priority>
+    <HasCloudSynced>false</HasCloudSynced>
+  </AdditionalApplication>
+  <AdditionalApplication>
+    <Id>2dfb3a08-75e0-4ed7-83e2-00a79fc52933</Id>
+    <PlayCount>0</PlayCount>
+    <PlayTime>0</PlayTime>
+    <GameID>0b308973-7f64-4b0b-afa8-a53a5d3f0870</GameID>
+    <ApplicationPath>C:\Programs\LaunchBox\Add-On\CPWizard-master\bin\Release\CPWizard.exe</ApplicationPath>
+    <AutoRunAfter>false</AutoRunAfter>
+    <AutoRunBefore>true</AutoRunBefore>
+    <CommandLine>-emu mame -minimized -show -game</CommandLine>
+    <Name>CPWizard</Name>
+    <UseDosBox>false</UseDosBox>
+    <UseEmulator>false</UseEmulator>
+    <WaitForExit>false</WaitForExit>
+    <SideA>false</SideA>
+    <SideB>false</SideB>
+    <Priority>0</Priority>
+    <HasCloudSynced>false</HasCloudSynced>
+  </AdditionalApplication>
+  <AdditionalApplication>
+    <Id>0ca57f01-ccb6-444f-9604-563a13ee5636</Id>
+    <PlayCount>0</PlayCount>
+    <PlayTime>0</PlayTime>
+    <GameID>f44760df-f49e-40b3-b483-1002e9dfd9e4</GameID>
+    <ApplicationPath>C:\Programs\LaunchBox\Add-On\CPWizard-master\bin\Release\CPWizard.exe</ApplicationPath>
+    <AutoRunAfter>false</AutoRunAfter>
+    <AutoRunBefore>true</AutoRunBefore>
+    <CommandLine>-emu mame -minimized -show -game</CommandLine>
+    <Name>-emu mame -minimized -show -game</Name>
+    <UseDosBox>false</UseDosBox>
+    <UseEmulator>false</UseEmulator>
+    <WaitForExit>true</WaitForExit>
+    <SideA>false</SideA>
+    <SideB>false</SideB>
+    <Priority>0</Priority>
+    <HasCloudSynced>false</HasCloudSynced>
+  </AdditionalApplication>
+  <AdditionalApplication>
+    <Id>8f4cc339-cb33-4807-b929-c594c72e4e4c</Id>
+    <PlayCount>0</PlayCount>
+    <PlayTime>0</PlayTime>
+    <GameID>f44760df-f49e-40b3-b483-1002e9dfd9e4</GameID>
+    <ApplicationPath>C:\Programs\LaunchBox\Add-On\CPWizard-master\bin\Release\CPWizard.exe</ApplicationPath>
+    <AutoRunAfter>false</AutoRunAfter>
+    <AutoRunBefore>true</AutoRunBefore>
+    <CommandLine>-emu mame -minimized -show -game</CommandLine>
+    <Name>CPWizard</Name>
+    <UseDosBox>false</UseDosBox>
+    <UseEmulator>false</UseEmulator>
+    <WaitForExit>true</WaitForExit>
+    <SideA>false</SideA>
+    <SideB>false</SideB>
+    <Priority>0</Priority>
+    <HasCloudSynced>false</HasCloudSynced>
+  </AdditionalApplication>
+  <AdditionalApplication>
+    <Id>22f7bb43-edd3-4480-899f-6cb3ef0ab841</Id>
+    <PlayCount>0</PlayCount>
+    <PlayTime>0</PlayTime>
+    <GameID>f44760df-f49e-40b3-b483-1002e9dfd9e4</GameID>
+    <ApplicationPath>C:\Programs\LaunchBox\Add-On\CPWizard-master\bin\Release\CPWizard.exe</ApplicationPath>
+    <AutoRunAfter>false</AutoRunAfter>
+    <AutoRunBefore>true</AutoRunBefore>
+    <CommandLine>-emu mame -minimized -show -game</CommandLine>
+    <Name>CPWizard</Name>
+    <UseDosBox>false</UseDosBox>
+    <UseEmulator>false</UseEmulator>
+    <WaitForExit>false</WaitForExit>
+    <SideA>false</SideA>
+    <SideB>false</SideB>
+    <Priority>0</Priority>
+    <HasCloudSynced>false</HasCloudSynced>
+  </AdditionalApplication>
+  <AdditionalApplication>
+    <Id>65e7cf92-2fc0-4dba-af30-0237209bc7bb</Id>
+    <PlayCount>0</PlayCount>
+    <PlayTime>0</PlayTime>
+    <GameID>f1c31252-f393-488d-adc4-12f2a69b2439</GameID>
+    <ApplicationPath>C:\Programs\LaunchBox\Add-On\CPWizard-master\bin\Release\CPWizard.exe</ApplicationPath>
+    <AutoRunAfter>false</AutoRunAfter>
+    <AutoRunBefore>true</AutoRunBefore>
+    <CommandLine>-emu mame -minimized -show -game</CommandLine>
+    <Name>-emu mame -minimized -show -game</Name>
+    <UseDosBox>false</UseDosBox>
+    <UseEmulator>false</UseEmulator>
+    <WaitForExit>true</WaitForExit>
+    <SideA>false</SideA>
+    <SideB>false</SideB>
+    <Priority>0</Priority>
+    <HasCloudSynced>false</HasCloudSynced>
+  </AdditionalApplication>
+  <AdditionalApplication>
+    <Id>ded59370-4699-45be-b151-12c6ad6ef01c</Id>
+    <PlayCount>0</PlayCount>
+    <PlayTime>0</PlayTime>
+    <GameID>f1c31252-f393-488d-adc4-12f2a69b2439</GameID>
+    <ApplicationPath>C:\Programs\LaunchBox\Add-On\CPWizard-master\bin\Release\CPWizard.exe</ApplicationPath>
+    <AutoRunAfter>false</AutoRunAfter>
+    <AutoRunBefore>true</AutoRunBefore>
+    <CommandLine>-emu mame -minimized -show -game</CommandLine>
+    <Name>CPWizard</Name>
+    <UseDosBox>false</UseDosBox>
+    <UseEmulator>false</UseEmulator>
+    <WaitForExit>true</WaitForExit>
+    <SideA>false</SideA>
+    <SideB>false</SideB>
+    <Priority>0</Priority>
+    <HasCloudSynced>false</HasCloudSynced>
+  </AdditionalApplication>
+  <AdditionalApplication>
+    <Id>b3702311-7d66-4744-9756-9fd40ee6d7ad</Id>
+    <PlayCount>0</PlayCount>
+    <PlayTime>0</PlayTime>
+    <GameID>f1c31252-f393-488d-adc4-12f2a69b2439</GameID>
+    <ApplicationPath>C:\Programs\LaunchBox\Add-On\CPWizard-master\bin\Release\CPWizard.exe</ApplicationPath>
+    <AutoRunAfter>false</AutoRunAfter>
+    <AutoRunBefore>true</AutoRunBefore>
+    <CommandLine>-emu mame -minimized -show -game</CommandLine>
+    <Name>CPWizard</Name>
+    <UseDosBox>false</UseDosBox>
+    <UseEmulator>false</UseEmulator>
+    <WaitForExit>false</WaitForExit>
+    <SideA>false</SideA>
+    <SideB>false</SideB>
+    <Priority>0</Priority>
+    <HasCloudSynced>false</HasCloudSynced>
+  </AdditionalApplication>
+  <AdditionalApplication>
+    <Id>2be75dc6-a763-448a-9275-50171f78c2ce</Id>
+    <PlayCount>0</PlayCount>
+    <PlayTime>0</PlayTime>
+    <GameID>3ff725b3-7843-43b5-851f-0432d6f5f130</GameID>
+    <ApplicationPath>C:\Programs\LaunchBox\Add-On\CPWizard-master\bin\Release\CPWizard.exe</ApplicationPath>
+    <AutoRunAfter>false</AutoRunAfter>
+    <AutoRunBefore>true</AutoRunBefore>
+    <CommandLine>-emu mame -minimized -show -game</CommandLine>
+    <Name>-emu mame -minimized -show -game</Name>
+    <UseDosBox>false</UseDosBox>
+    <UseEmulator>false</UseEmulator>
+    <WaitForExit>true</WaitForExit>
+    <SideA>false</SideA>
+    <SideB>false</SideB>
+    <Priority>0</Priority>
+    <HasCloudSynced>false</HasCloudSynced>
+  </AdditionalApplication>
+  <AdditionalApplication>
+    <Id>ab9d6410-87ac-4300-8dbf-3c37c175eccf</Id>
+    <PlayCount>0</PlayCount>
+    <PlayTime>0</PlayTime>
+    <GameID>3ff725b3-7843-43b5-851f-0432d6f5f130</GameID>
+    <ApplicationPath>C:\Programs\LaunchBox\Add-On\CPWizard-master\bin\Release\CPWizard.exe</ApplicationPath>
+    <AutoRunAfter>false</AutoRunAfter>
+    <AutoRunBefore>true</AutoRunBefore>
+    <CommandLine>-emu mame -minimized -show -game</CommandLine>
+    <Name>CPWizard</Name>
+    <UseDosBox>false</UseDosBox>
+    <UseEmulator>false</UseEmulator>
+    <WaitForExit>true</WaitForExit>
+    <SideA>false</SideA>
+    <SideB>false</SideB>
+    <Priority>0</Priority>
+    <HasCloudSynced>false</HasCloudSynced>
+  </AdditionalApplication>
+  <AdditionalApplication>
+    <Id>5cb84b70-ae72-4860-824b-768e7fcc4945</Id>
+    <PlayCount>0</PlayCount>
+    <PlayTime>0</PlayTime>
+    <GameID>3ff725b3-7843-43b5-851f-0432d6f5f130</GameID>
+    <ApplicationPath>C:\Programs\LaunchBox\Add-On\CPWizard-master\bin\Release\CPWizard.exe</ApplicationPath>
+    <AutoRunAfter>false</AutoRunAfter>
+    <AutoRunBefore>true</AutoRunBefore>
+    <CommandLine>-emu mame -minimized -show -game</CommandLine>
+    <Name>CPWizard</Name>
+    <UseDosBox>false</UseDosBox>
+    <UseEmulator>false</UseEmulator>
+    <WaitForExit>false</WaitForExit>
+    <SideA>false</SideA>
+    <SideB>false</SideB>
+    <Priority>0</Priority>
+    <HasCloudSynced>false</HasCloudSynced>
+  </AdditionalApplication>
+  <AdditionalApplication>
+    <Id>df0eeb1b-10a9-426d-9e2d-17ba78417e80</Id>
+    <PlayCount>0</PlayCount>
+    <PlayTime>0</PlayTime>
+    <GameID>bb50e39c-4118-4b0f-9bbf-86f21255fcd4</GameID>
+    <ApplicationPath>C:\Programs\LaunchBox\Add-On\CPWizard-master\bin\Release\CPWizard.exe</ApplicationPath>
+    <AutoRunAfter>false</AutoRunAfter>
+    <AutoRunBefore>true</AutoRunBefore>
+    <CommandLine>-emu mame -minimized -show -game</CommandLine>
+    <Name>-emu mame -minimized -show -game</Name>
+    <UseDosBox>false</UseDosBox>
+    <UseEmulator>false</UseEmulator>
+    <WaitForExit>true</WaitForExit>
+    <SideA>false</SideA>
+    <SideB>false</SideB>
+    <Priority>0</Priority>
+    <HasCloudSynced>false</HasCloudSynced>
+  </AdditionalApplication>
+  <AdditionalApplication>
+    <Id>cf2a074f-9bf1-45fb-bf36-24b80ef4f58b</Id>
+    <PlayCount>0</PlayCount>
+    <PlayTime>0</PlayTime>
+    <GameID>bb50e39c-4118-4b0f-9bbf-86f21255fcd4</GameID>
+    <ApplicationPath>C:\Programs\LaunchBox\Add-On\CPWizard-master\bin\Release\CPWizard.exe</ApplicationPath>
+    <AutoRunAfter>false</AutoRunAfter>
+    <AutoRunBefore>true</AutoRunBefore>
+    <CommandLine>-emu mame -minimized -show -game</CommandLine>
+    <Name>CPWizard</Name>
+    <UseDosBox>false</UseDosBox>
+    <UseEmulator>false</UseEmulator>
+    <WaitForExit>true</WaitForExit>
+    <SideA>false</SideA>
+    <SideB>false</SideB>
+    <Priority>0</Priority>
+    <HasCloudSynced>false</HasCloudSynced>
+  </AdditionalApplication>
+  <AdditionalApplication>
+    <Id>3455c942-c28b-4395-b3f6-1d549cb71d73</Id>
+    <PlayCount>0</PlayCount>
+    <PlayTime>0</PlayTime>
+    <GameID>bb50e39c-4118-4b0f-9bbf-86f21255fcd4</GameID>
+    <ApplicationPath>C:\Programs\LaunchBox\Add-On\CPWizard-master\bin\Release\CPWizard.exe</ApplicationPath>
+    <AutoRunAfter>false</AutoRunAfter>
+    <AutoRunBefore>true</AutoRunBefore>
+    <CommandLine>-emu mame -minimized -show -game</CommandLine>
+    <Name>CPWizard</Name>
+    <UseDosBox>false</UseDosBox>
+    <UseEmulator>false</UseEmulator>
+    <WaitForExit>false</WaitForExit>
+    <SideA>false</SideA>
+    <SideB>false</SideB>
+    <Priority>0</Priority>
+    <HasCloudSynced>false</HasCloudSynced>
+  </AdditionalApplication>
+  <AdditionalApplication>
+    <Id>451401de-395f-4670-b8d9-8019bb3b945f</Id>
+    <PlayCount>0</PlayCount>
+    <PlayTime>0</PlayTime>
+    <GameID>91deabc3-7627-498b-9d76-e7e3cc0567d4</GameID>
+    <ApplicationPath>C:\Programs\LaunchBox\Add-On\CPWizard-master\bin\Release\CPWizard.exe</ApplicationPath>
+    <AutoRunAfter>false</AutoRunAfter>
+    <AutoRunBefore>true</AutoRunBefore>
+    <CommandLine>-emu mame -minimized -show -game</CommandLine>
+    <Name>-emu mame -minimized -show -game</Name>
+    <UseDosBox>false</UseDosBox>
+    <UseEmulator>false</UseEmulator>
+    <WaitForExit>true</WaitForExit>
+    <SideA>false</SideA>
+    <SideB>false</SideB>
+    <Priority>0</Priority>
+    <HasCloudSynced>false</HasCloudSynced>
+  </AdditionalApplication>
+  <AdditionalApplication>
+    <Id>91ec55cb-37fd-4151-a8e5-d8cb8260fa8e</Id>
+    <PlayCount>0</PlayCount>
+    <PlayTime>0</PlayTime>
+    <GameID>91deabc3-7627-498b-9d76-e7e3cc0567d4</GameID>
+    <ApplicationPath>C:\Programs\LaunchBox\Add-On\CPWizard-master\bin\Release\CPWizard.exe</ApplicationPath>
+    <AutoRunAfter>false</AutoRunAfter>
+    <AutoRunBefore>true</AutoRunBefore>
+    <CommandLine>-emu mame -minimized -show -game</CommandLine>
+    <Name>CPWizard</Name>
+    <UseDosBox>false</UseDosBox>
+    <UseEmulator>false</UseEmulator>
+    <WaitForExit>true</WaitForExit>
+    <SideA>false</SideA>
+    <SideB>false</SideB>
+    <Priority>0</Priority>
+    <HasCloudSynced>false</HasCloudSynced>
+  </AdditionalApplication>
+  <AdditionalApplication>
+    <Id>df94c113-b835-429a-ae63-efd0fd96fb6c</Id>
+    <PlayCount>0</PlayCount>
+    <PlayTime>0</PlayTime>
+    <GameID>91deabc3-7627-498b-9d76-e7e3cc0567d4</GameID>
+    <ApplicationPath>C:\Programs\LaunchBox\Add-On\CPWizard-master\bin\Release\CPWizard.exe</ApplicationPath>
+    <AutoRunAfter>false</AutoRunAfter>
+    <AutoRunBefore>true</AutoRunBefore>
+    <CommandLine>-emu mame -minimized -show -game</CommandLine>
+    <Name>CPWizard</Name>
+    <UseDosBox>false</UseDosBox>
+    <UseEmulator>false</UseEmulator>
+    <WaitForExit>false</WaitForExit>
+    <SideA>false</SideA>
+    <SideB>false</SideB>
+    <Priority>0</Priority>
+    <HasCloudSynced>false</HasCloudSynced>
+  </AdditionalApplication>
+  <AdditionalApplication>
+    <Id>53fe4123-61f6-464f-bb78-7b9380bf5d56</Id>
+    <PlayCount>0</PlayCount>
+    <PlayTime>0</PlayTime>
+    <GameID>65429330-5e3e-454b-afde-3f4234809786</GameID>
+    <ApplicationPath>C:\Programs\LaunchBox\Add-On\CPWizard-master\bin\Release\CPWizard.exe</ApplicationPath>
+    <AutoRunAfter>false</AutoRunAfter>
+    <AutoRunBefore>true</AutoRunBefore>
+    <CommandLine>-emu mame -minimized -show -game</CommandLine>
+    <Name>-emu mame -minimized -show -game</Name>
+    <UseDosBox>false</UseDosBox>
+    <UseEmulator>false</UseEmulator>
+    <WaitForExit>true</WaitForExit>
+    <SideA>false</SideA>
+    <SideB>false</SideB>
+    <Priority>0</Priority>
+    <HasCloudSynced>false</HasCloudSynced>
+  </AdditionalApplication>
+  <AdditionalApplication>
+    <Id>c940059d-2eca-43e5-978b-a55337bf29a4</Id>
+    <PlayCount>0</PlayCount>
+    <PlayTime>0</PlayTime>
+    <GameID>65429330-5e3e-454b-afde-3f4234809786</GameID>
+    <ApplicationPath>C:\Programs\LaunchBox\Add-On\CPWizard-master\bin\Release\CPWizard.exe</ApplicationPath>
+    <AutoRunAfter>false</AutoRunAfter>
+    <AutoRunBefore>true</AutoRunBefore>
+    <CommandLine>-emu mame -minimized -show -game</CommandLine>
+    <Name>CPWizard</Name>
+    <UseDosBox>false</UseDosBox>
+    <UseEmulator>false</UseEmulator>
+    <WaitForExit>true</WaitForExit>
+    <SideA>false</SideA>
+    <SideB>false</SideB>
+    <Priority>0</Priority>
+    <HasCloudSynced>false</HasCloudSynced>
+  </AdditionalApplication>
+  <AdditionalApplication>
+    <Id>4069174d-9002-42a8-b4f0-5e5fa9c1725d</Id>
+    <PlayCount>0</PlayCount>
+    <PlayTime>0</PlayTime>
+    <GameID>65429330-5e3e-454b-afde-3f4234809786</GameID>
+    <ApplicationPath>C:\Programs\LaunchBox\Add-On\CPWizard-master\bin\Release\CPWizard.exe</ApplicationPath>
+    <AutoRunAfter>false</AutoRunAfter>
+    <AutoRunBefore>true</AutoRunBefore>
+    <CommandLine>-emu mame -minimized -show -game</CommandLine>
+    <Name>CPWizard</Name>
+    <UseDosBox>false</UseDosBox>
+    <UseEmulator>false</UseEmulator>
+    <WaitForExit>false</WaitForExit>
+    <SideA>false</SideA>
+    <SideB>false</SideB>
+    <Priority>0</Priority>
+    <HasCloudSynced>false</HasCloudSynced>
+  </AdditionalApplication>
+  <AdditionalApplication>
+    <Id>bab316cb-2189-44af-ab65-365a760c1e62</Id>
+    <PlayCount>0</PlayCount>
+    <PlayTime>0</PlayTime>
+    <GameID>1d628b5a-5e85-4720-a1c6-523f14fb88ae</GameID>
+    <ApplicationPath>C:\Programs\LaunchBox\Add-On\CPWizard-master\bin\Release\CPWizard.exe</ApplicationPath>
+    <AutoRunAfter>false</AutoRunAfter>
+    <AutoRunBefore>true</AutoRunBefore>
+    <CommandLine>-emu mame -minimized -show -game</CommandLine>
+    <Name>-emu mame -minimized -show -game</Name>
+    <UseDosBox>false</UseDosBox>
+    <UseEmulator>false</UseEmulator>
+    <WaitForExit>true</WaitForExit>
+    <SideA>false</SideA>
+    <SideB>false</SideB>
+    <Priority>0</Priority>
+    <HasCloudSynced>false</HasCloudSynced>
+  </AdditionalApplication>
+  <AdditionalApplication>
+    <Id>10c52232-6e5e-45db-abd7-1a46352efd28</Id>
+    <PlayCount>0</PlayCount>
+    <PlayTime>0</PlayTime>
+    <GameID>1d628b5a-5e85-4720-a1c6-523f14fb88ae</GameID>
+    <ApplicationPath>C:\Programs\LaunchBox\Add-On\CPWizard-master\bin\Release\CPWizard.exe</ApplicationPath>
+    <AutoRunAfter>false</AutoRunAfter>
+    <AutoRunBefore>true</AutoRunBefore>
+    <CommandLine>-emu mame -minimized -show -game</CommandLine>
+    <Name>CPWizard</Name>
+    <UseDosBox>false</UseDosBox>
+    <UseEmulator>false</UseEmulator>
+    <WaitForExit>true</WaitForExit>
+    <SideA>false</SideA>
+    <SideB>false</SideB>
+    <Priority>0</Priority>
+    <HasCloudSynced>false</HasCloudSynced>
+  </AdditionalApplication>
+  <AdditionalApplication>
+    <Id>d5434e99-0745-4ffd-b72e-c425af6470fa</Id>
+    <PlayCount>0</PlayCount>
+    <PlayTime>0</PlayTime>
+    <GameID>1d628b5a-5e85-4720-a1c6-523f14fb88ae</GameID>
+    <ApplicationPath>C:\Programs\LaunchBox\Add-On\CPWizard-master\bin\Release\CPWizard.exe</ApplicationPath>
+    <AutoRunAfter>false</AutoRunAfter>
+    <AutoRunBefore>true</AutoRunBefore>
+    <CommandLine>-emu mame -minimized -show -game</CommandLine>
+    <Name>CPWizard</Name>
+    <UseDosBox>false</UseDosBox>
+    <UseEmulator>false</UseEmulator>
+    <WaitForExit>false</WaitForExit>
+    <SideA>false</SideA>
+    <SideB>false</SideB>
+    <Priority>0</Priority>
+    <HasCloudSynced>false</HasCloudSynced>
+  </AdditionalApplication>
+  <AdditionalApplication>
+    <Id>70b20497-774e-484b-97f4-d3afcea8a8fd</Id>
+    <PlayCount>0</PlayCount>
+    <PlayTime>0</PlayTime>
+    <GameID>42bad773-6cb3-48e1-9c2e-8c6e741e99f8</GameID>
+    <ApplicationPath>C:\Programs\LaunchBox\Add-On\CPWizard-master\bin\Release\CPWizard.exe</ApplicationPath>
+    <AutoRunAfter>false</AutoRunAfter>
+    <AutoRunBefore>true</AutoRunBefore>
+    <CommandLine>-emu mame -minimized -show -game</CommandLine>
+    <Name>-emu mame -minimized -show -game</Name>
+    <UseDosBox>false</UseDosBox>
+    <UseEmulator>false</UseEmulator>
+    <WaitForExit>true</WaitForExit>
+    <SideA>false</SideA>
+    <SideB>false</SideB>
+    <Priority>0</Priority>
+    <HasCloudSynced>false</HasCloudSynced>
+  </AdditionalApplication>
+  <AdditionalApplication>
+    <Id>661fac5d-84b9-4230-9258-29c4b7fc064d</Id>
+    <PlayCount>0</PlayCount>
+    <PlayTime>0</PlayTime>
+    <GameID>42bad773-6cb3-48e1-9c2e-8c6e741e99f8</GameID>
+    <ApplicationPath>C:\Programs\LaunchBox\Add-On\CPWizard-master\bin\Release\CPWizard.exe</ApplicationPath>
+    <AutoRunAfter>false</AutoRunAfter>
+    <AutoRunBefore>true</AutoRunBefore>
+    <CommandLine>-emu mame -minimized -show -game</CommandLine>
+    <Name>CPWizard</Name>
+    <UseDosBox>false</UseDosBox>
+    <UseEmulator>false</UseEmulator>
+    <WaitForExit>true</WaitForExit>
+    <SideA>false</SideA>
+    <SideB>false</SideB>
+    <Priority>0</Priority>
+    <HasCloudSynced>false</HasCloudSynced>
+  </AdditionalApplication>
+  <AdditionalApplication>
+    <Id>52e1d282-8e58-4c14-80ef-4ceacfdce628</Id>
+    <PlayCount>0</PlayCount>
+    <PlayTime>0</PlayTime>
+    <GameID>42bad773-6cb3-48e1-9c2e-8c6e741e99f8</GameID>
+    <ApplicationPath>C:\Programs\LaunchBox\Add-On\CPWizard-master\bin\Release\CPWizard.exe</ApplicationPath>
+    <AutoRunAfter>false</AutoRunAfter>
+    <AutoRunBefore>true</AutoRunBefore>
+    <CommandLine>-emu mame -minimized -show -game</CommandLine>
+    <Name>CPWizard</Name>
+    <UseDosBox>false</UseDosBox>
+    <UseEmulator>false</UseEmulator>
+    <WaitForExit>false</WaitForExit>
+    <SideA>false</SideA>
+    <SideB>false</SideB>
+    <Priority>0</Priority>
+    <HasCloudSynced>false</HasCloudSynced>
+  </AdditionalApplication>
+  <AlternateName>
+    <GameID>7dee429a-04c0-4e6a-9163-746d3a94e789</GameID>
+    <Name>Bug Princess 2</Name>
+    <Region>World</Region>
+  </AlternateName>
+  <AlternateName>
+    <GameID>7dee429a-04c0-4e6a-9163-746d3a94e789</GameID>
+    <Name>Mushihime-Sama Futari Ver 1.0</Name>
+    <Region>World</Region>
+  </AlternateName>
+  <AlternateName>
+    <GameID>7dee429a-04c0-4e6a-9163-746d3a94e789</GameID>
+    <Name>Mushihime-Sama Futari Ver 1.5</Name>
+    <Region>World</Region>
+  </AlternateName>
+  <AlternateName>
+    <GameID>3cb57bca-f247-496a-b0d3-3c4aab475ccb</GameID>
+    <Name>怒首領蜂 大復活 Black Label</Name>
+    <Region>Japan</Region>
+  </AlternateName>
+  <AlternateName>
+    <GameID>65429330-5e3e-454b-afde-3f4234809786</GameID>
+    <Name>Deathsmiles MegaBlack Label</Name>
+    <Region>World</Region>
+  </AlternateName>
+  <GameControllerSupport>
+    <ControllerId>e5feabc8-de49-414f-b43e-c07fa1bcabdf</ControllerId>
+    <GameId>40005ad4-d0e2-4e48-a09e-010babf42aa0</GameId>
+    <SupportLevel>3</SupportLevel>
+  </GameControllerSupport>
+  <GameControllerSupport>
+    <ControllerId>e5feabc8-de49-414f-b43e-c07fa1bcabdf</ControllerId>
+    <GameId>7dee429a-04c0-4e6a-9163-746d3a94e789</GameId>
+    <SupportLevel>3</SupportLevel>
+  </GameControllerSupport>
+  <GameControllerSupport>
+    <ControllerId>e5feabc8-de49-414f-b43e-c07fa1bcabdf</ControllerId>
+    <GameId>af0c3af4-0691-49a5-8492-35cdc45c234f</GameId>
+    <SupportLevel>3</SupportLevel>
+  </GameControllerSupport>
+  <GameControllerSupport>
+    <ControllerId>e5feabc8-de49-414f-b43e-c07fa1bcabdf</ControllerId>
+    <GameId>05632773-29b2-4537-a0cc-392f99269617</GameId>
+    <SupportLevel>3</SupportLevel>
+  </GameControllerSupport>
+  <GameControllerSupport>
+    <ControllerId>e5feabc8-de49-414f-b43e-c07fa1bcabdf</ControllerId>
+    <GameId>3cb57bca-f247-496a-b0d3-3c4aab475ccb</GameId>
+    <SupportLevel>3</SupportLevel>
+  </GameControllerSupport>
+  <GameControllerSupport>
+    <ControllerId>e5feabc8-de49-414f-b43e-c07fa1bcabdf</ControllerId>
+    <GameId>0b308973-7f64-4b0b-afa8-a53a5d3f0870</GameId>
+    <SupportLevel>3</SupportLevel>
+  </GameControllerSupport>
+  <GameControllerSupport>
+    <ControllerId>e5feabc8-de49-414f-b43e-c07fa1bcabdf</ControllerId>
+    <GameId>f44760df-f49e-40b3-b483-1002e9dfd9e4</GameId>
+    <SupportLevel>3</SupportLevel>
+  </GameControllerSupport>
+  <GameControllerSupport>
+    <ControllerId>e5feabc8-de49-414f-b43e-c07fa1bcabdf</ControllerId>
+    <GameId>f1c31252-f393-488d-adc4-12f2a69b2439</GameId>
+    <SupportLevel>3</SupportLevel>
+  </GameControllerSupport>
+  <GameControllerSupport>
+    <ControllerId>e5feabc8-de49-414f-b43e-c07fa1bcabdf</ControllerId>
+    <GameId>3ff725b3-7843-43b5-851f-0432d6f5f130</GameId>
+    <SupportLevel>3</SupportLevel>
+  </GameControllerSupport>
+  <GameControllerSupport>
+    <ControllerId>e5feabc8-de49-414f-b43e-c07fa1bcabdf</ControllerId>
+    <GameId>bb50e39c-4118-4b0f-9bbf-86f21255fcd4</GameId>
+    <SupportLevel>3</SupportLevel>
+  </GameControllerSupport>
+  <GameControllerSupport>
+    <ControllerId>e5feabc8-de49-414f-b43e-c07fa1bcabdf</ControllerId>
+    <GameId>91deabc3-7627-498b-9d76-e7e3cc0567d4</GameId>
+    <SupportLevel>3</SupportLevel>
+  </GameControllerSupport>
+  <GameControllerSupport>
+    <ControllerId>e5feabc8-de49-414f-b43e-c07fa1bcabdf</ControllerId>
+    <GameId>65429330-5e3e-454b-afde-3f4234809786</GameId>
+    <SupportLevel>3</SupportLevel>
+  </GameControllerSupport>
+  <GameControllerSupport>
+    <ControllerId>e5feabc8-de49-414f-b43e-c07fa1bcabdf</ControllerId>
+    <GameId>1d628b5a-5e85-4720-a1c6-523f14fb88ae</GameId>
+    <SupportLevel>3</SupportLevel>
+  </GameControllerSupport>
+  <GameControllerSupport>
+    <ControllerId>e5feabc8-de49-414f-b43e-c07fa1bcabdf</ControllerId>
+    <GameId>42bad773-6cb3-48e1-9c2e-8c6e741e99f8</GameId>
+    <SupportLevel>3</SupportLevel>
+  </GameControllerSupport>
+</LaunchBox>

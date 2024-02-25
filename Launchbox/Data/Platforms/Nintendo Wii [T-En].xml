@@ -1,0 +1,1809 @@
+<?xml version="1.0" standalone="yes"?>
+<LaunchBox>
+  <Game>
+    <GogAppId />
+    <OriginAppId />
+    <OriginInstallPath />
+    <VideoPath />
+    <ThemeVideoPath />
+    <ApplicationPath>S:\roms-translated-1g1r\archive-org-nintendo-wii\Chibi Robo! (Japan) [T-En by Brand Newman v1.00] [n].zip</ApplicationPath>
+    <CommandLine />
+    <Completed>false</Completed>
+    <ConfigurationCommandLine />
+    <ConfigurationPath />
+    <DateAdded>2023-12-25T19:16:39.3124+08:00</DateAdded>
+    <DateModified>2024-01-28T03:23:45.4749555+08:00</DateModified>
+    <Developer>Skip</Developer>
+    <DosBoxConfigurationPath />
+    <Emulator>d66bc5b0-a990-48b4-ad28-c9841d92e214</Emulator>
+    <Favorite>false</Favorite>
+    <ID>ac3b9f75-5c39-403b-a9e4-5b3145162833</ID>
+    <ManualPath />
+    <MusicPath />
+    <Notes>Chibi-Robo! is a platform-adventure game that puts the player in direct control of a tiny, battery-powered robot that does housework for humans. The objective of the game is to become the top-ranked "Super Chibi-Robo" in the world by accumulating Happy Points, a collectible gained by doing good deeds for the family and for various toys in the Sandersons' home.[6][7][8][9][14] In order to do this, the player must control Chibi-Robo and explore the Sandersons' home. During exploration, Chibi-Robo can find a wide variety of things to collect, including "Moolah", the currency of Chibi-Robo!. An important task in gaining Happy Points is to clean up messes around the house, such as disposing of trash or scrubbing dirty footprints.[7] The player can also interact with and help with the personal problems of the Sandersons and the toys. This ranges from solving a plot-driving crisis or completing a subquest of simply locating a lost object as a favor.[6][8][9] With Chibi-Robo's assistant Telly Vision as his speaker, the player is often prompted to give either a positive or negative response to each question or request.[8] The player loses battery power with every step and action. If his battery is not charged before it empties, Chibi-Robo will collapse and re-emerge in the Chibi-House, having lost half of his Moolah.[8] Throughout the house are electrical outlets, which the player can plug into to recharge his battery or save his progress.[7][14] The player's exploration is limited by a timer representing a full day or full night. Once the timer expires, Chibi-Robo automatically returns to the Chibi-House.[9]
+
+There are three collectibles in the game. One is the stickers, which can be obtained throughout the game, either by completing the game, completing quests, playing mini-games, or doing simple tasks for other non-player characters. The Second is the Frog Rings which can be collected and given to Jenny, the daughter of the Sanderson household, for Happy Points and a sticker. The third is the crayons found throughout the house which can be deposited in a crayon box for Happy Points.
+
+At the start of both day and night, the player begins in the Chibi-House, where they can charge Chibi-Robo's battery, save at the electrical outlet, or connect to the Citrusoft "Chibi-PC" to purchase a variety of items and power-ups with Moolah and use scrap metal to build "Utilibots", robotic helpers that ease the navigation of the Sandersons' home.[7][14] The gear available from Citrusoft includes the "Chibi-Copter", used to reach far-off points or fly down from a high place safely; the "Chibi-Blaster", used to eliminate obstacles and fend off the hostile Spydorz; and the "Chibi-Radar", used to detect hidden objects.[6][8] There are several other items of the Sandersons' that Chibi-Robo can find and use. These include the toothbrush, used to clean up stains; the coffee mug, used for protection; the spoon, used to dig holes; and the squirter, used to hold fluids and squirt them.[6][8] Chibi-Robo can also gain special costumes throughout the game, each of which has its own function.[7] For instance, if the player poses for Mr. Sanderson while wearing The Drake Redcrest costume, he will give Chibi-Robo Happy Points. As more Happy Points are acquired, the player's rank increases among all the Chibi-Robos in the world. At certain ranks, Citrusoft will send the player bonus batteries, allowing Chibi-Robo to roam longer without having to recharge until they earn the status of "Super Chibi-Robo", which earns the player unlimited battery life.[14]</Notes>
+    <Platform>Nintendo Wii [T-En]</Platform>
+    <Publisher>Nintendo</Publisher>
+    <Rating>E10+ - Everyone 10+</Rating>
+    <ReleaseDate>2009-06-11T15:00:00+08:00</ReleaseDate>
+    <RootFolder />
+    <ScummVMAspectCorrection>false</ScummVMAspectCorrection>
+    <ScummVMFullscreen>false</ScummVMFullscreen>
+    <ScummVMGameDataFolderPath />
+    <ScummVMGameType />
+    <SortTitle />
+    <Source />
+    <StarRatingFloat>0</StarRatingFloat>
+    <StarRating>0</StarRating>
+    <CommunityStarRating>4.1666665</CommunityStarRating>
+    <CommunityStarRatingTotalVotes>3</CommunityStarRatingTotalVotes>
+    <Status>Imported ROM</Status>
+    <DatabaseID>167024</DatabaseID>
+    <WikipediaURL>https://en.wikipedia.org/wiki/Chibi-Robo!</WikipediaURL>
+    <Title>Chibi-Robo!</Title>
+    <UseDosBox>false</UseDosBox>
+    <UseScummVM>false</UseScummVM>
+    <Version>(Japan) [T-En by Brand Newman v1.00] [n]</Version>
+    <Series />
+    <PlayMode>Single Player</PlayMode>
+    <Region>Japan</Region>
+    <PlayCount>0</PlayCount>
+    <PlayTime>0</PlayTime>
+    <Portable>false</Portable>
+    <Hide>false</Hide>
+    <Broken>false</Broken>
+    <CloneOf />
+    <Genre>Platform</Genre>
+    <MissingVideo>true</MissingVideo>
+    <MissingBoxFrontImage>false</MissingBoxFrontImage>
+    <MissingScreenshotImage>true</MissingScreenshotImage>
+    <MissingMarqueeImage>true</MissingMarqueeImage>
+    <MissingClearLogoImage>false</MissingClearLogoImage>
+    <MissingBackgroundImage>true</MissingBackgroundImage>
+    <MissingBox3dImage>false</MissingBox3dImage>
+    <MissingCartImage>true</MissingCartImage>
+    <MissingCart3dImage>true</MissingCart3dImage>
+    <MissingManual>true</MissingManual>
+    <MissingBannerImage>false</MissingBannerImage>
+    <MissingMusic>true</MissingMusic>
+    <UseStartupScreen>false</UseStartupScreen>
+    <HideAllNonExclusiveFullscreenWindows>false</HideAllNonExclusiveFullscreenWindows>
+    <StartupLoadDelay>0</StartupLoadDelay>
+    <HideMouseCursorInGame>false</HideMouseCursorInGame>
+    <DisableShutdownScreen>false</DisableShutdownScreen>
+    <AggressiveWindowHiding>false</AggressiveWindowHiding>
+    <OverrideDefaultStartupScreenSettings>false</OverrideDefaultStartupScreenSettings>
+    <UsePauseScreen>false</UsePauseScreen>
+    <PauseAutoHotkeyScript />
+    <ResumeAutoHotkeyScript />
+    <OverrideDefaultPauseScreenSettings>false</OverrideDefaultPauseScreenSettings>
+    <SuspendProcessOnPause>false</SuspendProcessOnPause>
+    <ForcefulPauseScreenActivation>false</ForcefulPauseScreenActivation>
+    <LoadStateAutoHotkeyScript />
+    <SaveStateAutoHotkeyScript />
+    <ResetAutoHotkeyScript />
+    <SwapDiscsAutoHotkeyScript />
+    <CustomDosBoxVersionPath />
+    <ReleaseType>Released</ReleaseType>
+    <MaxPlayers>1</MaxPlayers>
+    <VideoUrl />
+    <AndroidBoxFrontThumbPath />
+    <AndroidBoxFrontFullPath />
+    <AndroidClearLogoThumbPath />
+    <AndroidClearLogoFullPath />
+    <AndroidBackgroundPath />
+    <AndroidBackgroundThumbPath />
+    <AndroidGameTitleScreenshotThumbPath />
+    <AndroidGameplayScreenshotThumbPath />
+    <AndroidGameTitleScreenshotPath />
+    <AndroidGameplayScreenshotPath />
+    <AndroidVideoPath />
+    <HasCloudSynced>false</HasCloudSynced>
+  </Game>
+  <Game>
+    <GogAppId />
+    <OriginAppId />
+    <OriginInstallPath />
+    <VideoPath />
+    <ThemeVideoPath />
+    <ApplicationPath>S:\roms-translated-1g1r\archive-org-nintendo-wii\Arc Rise Fantasia (USA) [Undub by Somebody Special v1.1].zip</ApplicationPath>
+    <CommandLine />
+    <Completed>false</Completed>
+    <ConfigurationCommandLine />
+    <ConfigurationPath />
+    <DateAdded>2023-12-25T19:16:39.3130063+08:00</DateAdded>
+    <DateModified>2024-01-26T01:08:00.0802506+08:00</DateModified>
+    <Developer>Imageepoch</Developer>
+    <DosBoxConfigurationPath />
+    <Emulator>d66bc5b0-a990-48b4-ad28-c9841d92e214</Emulator>
+    <Favorite>false</Favorite>
+    <ID>8f22ba3f-18d0-4d87-9b6f-6e73a4d7b0b3</ID>
+    <ManualPath />
+    <MusicPath />
+    <Notes>Arc Rise Fantasia is set in the world of Fulheim. Creatures called "Feldragons" are causing a lot of trouble as they pass the Meridian Empire in flocks. If one is killed, the resulting explosion poisons the local area. When the empire receives word that a massive horde has its sights on the capital of Diamant, it immediately sends out an army to fight them, including L'Arc, a cool and collected novice mercenary, and his friend Alf, the beloved prince and second in line for the throne.</Notes>
+    <Platform>Nintendo Wii [T-En]</Platform>
+    <Publisher>Ignition Entertainment</Publisher>
+    <Rating>T - Teen</Rating>
+    <ReleaseDate>2010-07-20T15:00:00+08:00</ReleaseDate>
+    <RootFolder />
+    <ScummVMAspectCorrection>false</ScummVMAspectCorrection>
+    <ScummVMFullscreen>false</ScummVMFullscreen>
+    <ScummVMGameDataFolderPath />
+    <ScummVMGameType />
+    <SortTitle />
+    <Source />
+    <StarRatingFloat>0</StarRatingFloat>
+    <StarRating>0</StarRating>
+    <CommunityStarRating>3.7857144</CommunityStarRating>
+    <CommunityStarRatingTotalVotes>21</CommunityStarRatingTotalVotes>
+    <Status>Imported ROM</Status>
+    <DatabaseID>7677</DatabaseID>
+    <WikipediaURL>https://en.wikipedia.org/wiki/Arc_Rise_Fantasia</WikipediaURL>
+    <Title>Arc Rise Fantasia</Title>
+    <UseDosBox>false</UseDosBox>
+    <UseScummVM>false</UseScummVM>
+    <Version>(USA) [Undub by Somebody Special v1.1]</Version>
+    <Series />
+    <PlayMode>Single Player</PlayMode>
+    <Region>North America</Region>
+    <PlayCount>0</PlayCount>
+    <PlayTime>0</PlayTime>
+    <Portable>false</Portable>
+    <Hide>false</Hide>
+    <Broken>false</Broken>
+    <CloneOf />
+    <Genre>Role-Playing</Genre>
+    <MissingVideo>false</MissingVideo>
+    <MissingBoxFrontImage>false</MissingBoxFrontImage>
+    <MissingScreenshotImage>false</MissingScreenshotImage>
+    <MissingMarqueeImage>false</MissingMarqueeImage>
+    <MissingClearLogoImage>false</MissingClearLogoImage>
+    <MissingBackgroundImage>false</MissingBackgroundImage>
+    <MissingBox3dImage>false</MissingBox3dImage>
+    <MissingCartImage>false</MissingCartImage>
+    <MissingCart3dImage>true</MissingCart3dImage>
+    <MissingManual>true</MissingManual>
+    <MissingBannerImage>false</MissingBannerImage>
+    <MissingMusic>true</MissingMusic>
+    <UseStartupScreen>false</UseStartupScreen>
+    <HideAllNonExclusiveFullscreenWindows>false</HideAllNonExclusiveFullscreenWindows>
+    <StartupLoadDelay>0</StartupLoadDelay>
+    <HideMouseCursorInGame>false</HideMouseCursorInGame>
+    <DisableShutdownScreen>false</DisableShutdownScreen>
+    <AggressiveWindowHiding>false</AggressiveWindowHiding>
+    <OverrideDefaultStartupScreenSettings>false</OverrideDefaultStartupScreenSettings>
+    <UsePauseScreen>false</UsePauseScreen>
+    <PauseAutoHotkeyScript />
+    <ResumeAutoHotkeyScript />
+    <OverrideDefaultPauseScreenSettings>false</OverrideDefaultPauseScreenSettings>
+    <SuspendProcessOnPause>false</SuspendProcessOnPause>
+    <ForcefulPauseScreenActivation>false</ForcefulPauseScreenActivation>
+    <LoadStateAutoHotkeyScript />
+    <SaveStateAutoHotkeyScript />
+    <ResetAutoHotkeyScript />
+    <SwapDiscsAutoHotkeyScript />
+    <CustomDosBoxVersionPath />
+    <ReleaseType>Released</ReleaseType>
+    <MaxPlayers>1</MaxPlayers>
+    <VideoUrl />
+    <AndroidBoxFrontThumbPath />
+    <AndroidBoxFrontFullPath />
+    <AndroidClearLogoThumbPath />
+    <AndroidClearLogoFullPath />
+    <AndroidBackgroundPath />
+    <AndroidBackgroundThumbPath />
+    <AndroidGameTitleScreenshotThumbPath />
+    <AndroidGameplayScreenshotThumbPath />
+    <AndroidGameTitleScreenshotPath />
+    <AndroidGameplayScreenshotPath />
+    <AndroidVideoPath />
+    <HasCloudSynced>false</HasCloudSynced>
+  </Game>
+  <Game>
+    <GogAppId />
+    <OriginAppId />
+    <OriginInstallPath />
+    <VideoPath />
+    <ThemeVideoPath />
+    <ApplicationPath>S:\roms-translated-1g1r\archive-org-nintendo-wii\Captain Rainbow (Japan) [T-En by MarkAss &amp; Kirameki Translations v1] [i].zip</ApplicationPath>
+    <CommandLine />
+    <Completed>false</Completed>
+    <ConfigurationCommandLine />
+    <ConfigurationPath />
+    <DateAdded>2023-12-25T19:16:39.3126407+08:00</DateAdded>
+    <DateModified>2024-01-26T01:05:10.4408262+08:00</DateModified>
+    <Developer>Skip</Developer>
+    <DosBoxConfigurationPath />
+    <Emulator>d66bc5b0-a990-48b4-ad28-c9841d92e214</Emulator>
+    <Favorite>false</Favorite>
+    <ID>672f3588-f3d8-4322-a409-c506144f3d3b</ID>
+    <ManualPath />
+    <MusicPath />
+    <Notes>The main character Nick is able to transform into Captain Rainbow, a tokusatsu-styled superhero wielding a yo-yo that stars in his own TV show. Unfortunately, his TV show isn't popular anymore. To restore his popularity, Nick ventures to Mimin Island; an island where wishes are said to come true, he'll meet a vast array of past minor Nintendo characters with their own dreams and wishes on his journey.</Notes>
+    <Platform>Nintendo Wii [T-En]</Platform>
+    <Publisher>Nintendo</Publisher>
+    <Rating>Not Rated</Rating>
+    <ReleaseDate>2008-08-28T15:00:00+08:00</ReleaseDate>
+    <RootFolder />
+    <ScummVMAspectCorrection>false</ScummVMAspectCorrection>
+    <ScummVMFullscreen>false</ScummVMFullscreen>
+    <ScummVMGameDataFolderPath />
+    <ScummVMGameType />
+    <SortTitle />
+    <Source />
+    <StarRatingFloat>0</StarRatingFloat>
+    <StarRating>0</StarRating>
+    <CommunityStarRating>3.2727273</CommunityStarRating>
+    <CommunityStarRatingTotalVotes>11</CommunityStarRatingTotalVotes>
+    <Status>Imported ROM</Status>
+    <DatabaseID>119848</DatabaseID>
+    <WikipediaURL>https://en.wikipedia.org/wiki/Captain_Rainbow</WikipediaURL>
+    <Title>Captain Rainbow</Title>
+    <UseDosBox>false</UseDosBox>
+    <UseScummVM>false</UseScummVM>
+    <Version>(Japan) [T-En by MarkAss &amp; Kirameki Translations v1] [i]</Version>
+    <Series />
+    <PlayMode>Single Player</PlayMode>
+    <Region>Japan</Region>
+    <PlayCount>0</PlayCount>
+    <PlayTime>0</PlayTime>
+    <Portable>false</Portable>
+    <Hide>false</Hide>
+    <Broken>false</Broken>
+    <CloneOf />
+    <Genre>Action; Adventure</Genre>
+    <MissingVideo>false</MissingVideo>
+    <MissingBoxFrontImage>false</MissingBoxFrontImage>
+    <MissingScreenshotImage>false</MissingScreenshotImage>
+    <MissingMarqueeImage>false</MissingMarqueeImage>
+    <MissingClearLogoImage>false</MissingClearLogoImage>
+    <MissingBackgroundImage>false</MissingBackgroundImage>
+    <MissingBox3dImage>false</MissingBox3dImage>
+    <MissingCartImage>false</MissingCartImage>
+    <MissingCart3dImage>true</MissingCart3dImage>
+    <MissingManual>true</MissingManual>
+    <MissingBannerImage>false</MissingBannerImage>
+    <MissingMusic>true</MissingMusic>
+    <UseStartupScreen>false</UseStartupScreen>
+    <HideAllNonExclusiveFullscreenWindows>false</HideAllNonExclusiveFullscreenWindows>
+    <StartupLoadDelay>0</StartupLoadDelay>
+    <HideMouseCursorInGame>false</HideMouseCursorInGame>
+    <DisableShutdownScreen>false</DisableShutdownScreen>
+    <AggressiveWindowHiding>false</AggressiveWindowHiding>
+    <OverrideDefaultStartupScreenSettings>false</OverrideDefaultStartupScreenSettings>
+    <UsePauseScreen>false</UsePauseScreen>
+    <PauseAutoHotkeyScript />
+    <ResumeAutoHotkeyScript />
+    <OverrideDefaultPauseScreenSettings>false</OverrideDefaultPauseScreenSettings>
+    <SuspendProcessOnPause>false</SuspendProcessOnPause>
+    <ForcefulPauseScreenActivation>false</ForcefulPauseScreenActivation>
+    <LoadStateAutoHotkeyScript />
+    <SaveStateAutoHotkeyScript />
+    <ResetAutoHotkeyScript />
+    <SwapDiscsAutoHotkeyScript />
+    <CustomDosBoxVersionPath />
+    <ReleaseType>Released</ReleaseType>
+    <MaxPlayers>1</MaxPlayers>
+    <VideoUrl>https://www.youtube.com/watch?v=Yc7l8MrQPrQ</VideoUrl>
+    <AndroidBoxFrontThumbPath />
+    <AndroidBoxFrontFullPath />
+    <AndroidClearLogoThumbPath />
+    <AndroidClearLogoFullPath />
+    <AndroidBackgroundPath />
+    <AndroidBackgroundThumbPath />
+    <AndroidGameTitleScreenshotThumbPath />
+    <AndroidGameplayScreenshotThumbPath />
+    <AndroidGameTitleScreenshotPath />
+    <AndroidGameplayScreenshotPath />
+    <AndroidVideoPath />
+    <HasCloudSynced>false</HasCloudSynced>
+  </Game>
+  <Game>
+    <GogAppId />
+    <OriginAppId />
+    <OriginInstallPath />
+    <VideoPath />
+    <ThemeVideoPath />
+    <ApplicationPath>S:\roms-translated-1g1r\archive-org-nintendo-wii\Blades of Reginleiv (Japan) [T-En by Gummi &amp; Brand Newman v1.01] [n].zip</ApplicationPath>
+    <CommandLine />
+    <Completed>false</Completed>
+    <ConfigurationCommandLine />
+    <ConfigurationPath />
+    <DateAdded>2023-12-25T19:16:39.3128765+08:00</DateAdded>
+    <DateModified>2024-01-26T03:10:55.8561213+08:00</DateModified>
+    <Developer>Sandlot</Developer>
+    <DosBoxConfigurationPath />
+    <Emulator>d66bc5b0-a990-48b4-ad28-c9841d92e214</Emulator>
+    <Favorite>false</Favorite>
+    <ID>c6377700-451f-4616-aefe-d5ad85045af0</ID>
+    <ManualPath />
+    <MusicPath />
+    <Notes>Ragnarok is upon us.
+
+The giants have emerged and threaten to annihilate creation. Join forces with angelic emissaries Frøy and Freia to counter the carnage and bring a new era to the world.
+
+Use the pointer of the Wii Remote across the screen to slash through the cursed legion, and co-operate with 3 other players online to keep the waves of fiends at bay.</Notes>
+    <Platform>Nintendo Wii [T-En]</Platform>
+    <Publisher>Nintendo</Publisher>
+    <Rating>Not Rated</Rating>
+    <ReleaseDate>2010-02-11T16:00:00+08:00</ReleaseDate>
+    <RootFolder />
+    <ScummVMAspectCorrection>false</ScummVMAspectCorrection>
+    <ScummVMFullscreen>false</ScummVMFullscreen>
+    <ScummVMGameDataFolderPath />
+    <ScummVMGameType />
+    <SortTitle />
+    <Source />
+    <StarRatingFloat>0</StarRatingFloat>
+    <StarRating>0</StarRating>
+    <CommunityStarRating>3.75</CommunityStarRating>
+    <CommunityStarRatingTotalVotes>4</CommunityStarRatingTotalVotes>
+    <Status>Imported ROM</Status>
+    <DatabaseID>171126</DatabaseID>
+    <WikipediaURL>https://en.wikipedia.org/wiki/Zangeki_no_Reginleiv</WikipediaURL>
+    <Title>Blades of Reginleiv</Title>
+    <UseDosBox>false</UseDosBox>
+    <UseScummVM>false</UseScummVM>
+    <Version>(Japan) [T-En by Gummi &amp; Brand Newman v1.01] [n]</Version>
+    <Series />
+    <PlayMode>Cooperative; Multiplayer</PlayMode>
+    <Region>Japan</Region>
+    <PlayCount>0</PlayCount>
+    <PlayTime>0</PlayTime>
+    <Portable>false</Portable>
+    <Hide>false</Hide>
+    <Broken>false</Broken>
+    <CloneOf />
+    <Genre>Action</Genre>
+    <MissingVideo>true</MissingVideo>
+    <MissingBoxFrontImage>false</MissingBoxFrontImage>
+    <MissingScreenshotImage>false</MissingScreenshotImage>
+    <MissingMarqueeImage>false</MissingMarqueeImage>
+    <MissingClearLogoImage>false</MissingClearLogoImage>
+    <MissingBackgroundImage>true</MissingBackgroundImage>
+    <MissingBox3dImage>false</MissingBox3dImage>
+    <MissingCartImage>false</MissingCartImage>
+    <MissingCart3dImage>true</MissingCart3dImage>
+    <MissingManual>true</MissingManual>
+    <MissingBannerImage>false</MissingBannerImage>
+    <MissingMusic>true</MissingMusic>
+    <UseStartupScreen>false</UseStartupScreen>
+    <HideAllNonExclusiveFullscreenWindows>false</HideAllNonExclusiveFullscreenWindows>
+    <StartupLoadDelay>0</StartupLoadDelay>
+    <HideMouseCursorInGame>false</HideMouseCursorInGame>
+    <DisableShutdownScreen>false</DisableShutdownScreen>
+    <AggressiveWindowHiding>false</AggressiveWindowHiding>
+    <OverrideDefaultStartupScreenSettings>false</OverrideDefaultStartupScreenSettings>
+    <UsePauseScreen>false</UsePauseScreen>
+    <PauseAutoHotkeyScript />
+    <ResumeAutoHotkeyScript />
+    <OverrideDefaultPauseScreenSettings>false</OverrideDefaultPauseScreenSettings>
+    <SuspendProcessOnPause>false</SuspendProcessOnPause>
+    <ForcefulPauseScreenActivation>false</ForcefulPauseScreenActivation>
+    <LoadStateAutoHotkeyScript />
+    <SaveStateAutoHotkeyScript />
+    <ResetAutoHotkeyScript />
+    <SwapDiscsAutoHotkeyScript />
+    <CustomDosBoxVersionPath />
+    <ReleaseType>Released</ReleaseType>
+    <MaxPlayers>4</MaxPlayers>
+    <VideoUrl>https://www.youtube.com/watch?v=vXY-L37qROM</VideoUrl>
+    <AndroidBoxFrontThumbPath />
+    <AndroidBoxFrontFullPath />
+    <AndroidClearLogoThumbPath />
+    <AndroidClearLogoFullPath />
+    <AndroidBackgroundPath />
+    <AndroidBackgroundThumbPath />
+    <AndroidGameTitleScreenshotThumbPath />
+    <AndroidGameplayScreenshotThumbPath />
+    <AndroidGameTitleScreenshotPath />
+    <AndroidGameplayScreenshotPath />
+    <AndroidVideoPath />
+    <HasCloudSynced>false</HasCloudSynced>
+  </Game>
+  <Game>
+    <GogAppId />
+    <OriginAppId />
+    <OriginInstallPath />
+    <VideoPath />
+    <ThemeVideoPath />
+    <ApplicationPath>S:\roms-translated-1g1r\archive-org-nintendo-wii\Night of the Sacrifice (Japan) [T-En by Brand Newman v1.03] [n] [Save Data].zip</ApplicationPath>
+    <CommandLine />
+    <Completed>false</Completed>
+    <ConfigurationCommandLine />
+    <ConfigurationPath />
+    <DateAdded>2023-12-25T19:16:39.3112633+08:00</DateAdded>
+    <DateModified>2024-01-31T07:30:43.2033526+08:00</DateModified>
+    <Developer>Marvelous Entertainment</Developer>
+    <DosBoxConfigurationPath />
+    <Emulator>d66bc5b0-a990-48b4-ad28-c9841d92e214</Emulator>
+    <Favorite>false</Favorite>
+    <ID>b9f4b352-bf27-4ef7-8824-6dbefee39ef0</ID>
+    <ManualPath />
+    <MusicPath />
+    <Notes>In the game, the player controls in turn five teenagers exploring a haunted mansion. The player has no weapons against the ghosts, and instead must run away to avoid being touched and killed. The game uses the Wii Remote and Nunchuk as well as the Wii Balance Board for different elements in the game. Ikenie no Yoru was released in March 2011, and was not released outside Japan. However, an unofficial English patch was released on 03.31.2020 by Brand Newman.
+
+A group of college students have decided to take a trip to a place called the Tsukuyomi Ravine, where people used to sacrifice to the gods. There are five main characters in this game, which the game encourages the player to rename with the names of their friends: Black, Blue, Yellow, Pink and Red.
+
+Black invites the group to the ravine, and his father owns the mansion in which they're staying at. Red is the hot-tempered leader of the group. He starts the whole mess with the statement "Let's test our courage". Blue is kind and has a strong sense of justice. Yellow has a pure heart - she is kind, well raised and nice to people. Pink states her opinions clearly and makes sure everyone hears them. Also, a mysterious young girl comes along the game and she seems to get along with Yellow. An extra character, "You", is playable in the epilogue of the story. The player controls each of the characters in turn as they explore the mansion.</Notes>
+    <Platform>Nintendo Wii [T-En]</Platform>
+    <Publisher>Marvelous Entertainment</Publisher>
+    <Rating>Not Rated</Rating>
+    <ReleaseDate>2011-03-24T15:00:00+08:00</ReleaseDate>
+    <RootFolder />
+    <ScummVMAspectCorrection>false</ScummVMAspectCorrection>
+    <ScummVMFullscreen>false</ScummVMFullscreen>
+    <ScummVMGameDataFolderPath />
+    <ScummVMGameType />
+    <SortTitle />
+    <Source />
+    <StarRatingFloat>0</StarRatingFloat>
+    <StarRating>0</StarRating>
+    <CommunityStarRating>3.6666667</CommunityStarRating>
+    <CommunityStarRatingTotalVotes>3</CommunityStarRatingTotalVotes>
+    <Status>Imported ROM</Status>
+    <DatabaseID>184167</DatabaseID>
+    <WikipediaURL>https://en.wikipedia.org/wiki/Ikenie_no_Yoru</WikipediaURL>
+    <Title>Night of the Sacrifice</Title>
+    <UseDosBox>false</UseDosBox>
+    <UseScummVM>false</UseScummVM>
+    <Version>(Japan) [T-En by Brand Newman v1.03] [n] [Save Data]</Version>
+    <Series />
+    <PlayMode>Single Player</PlayMode>
+    <Region>Japan</Region>
+    <PlayCount>0</PlayCount>
+    <PlayTime>0</PlayTime>
+    <Portable>false</Portable>
+    <Hide>false</Hide>
+    <Broken>false</Broken>
+    <CloneOf />
+    <Genre>Adventure; Horror</Genre>
+    <MissingVideo>true</MissingVideo>
+    <MissingBoxFrontImage>false</MissingBoxFrontImage>
+    <MissingScreenshotImage>false</MissingScreenshotImage>
+    <MissingMarqueeImage>true</MissingMarqueeImage>
+    <MissingClearLogoImage>false</MissingClearLogoImage>
+    <MissingBackgroundImage>true</MissingBackgroundImage>
+    <MissingBox3dImage>false</MissingBox3dImage>
+    <MissingCartImage>false</MissingCartImage>
+    <MissingCart3dImage>true</MissingCart3dImage>
+    <MissingManual>true</MissingManual>
+    <MissingBannerImage>false</MissingBannerImage>
+    <MissingMusic>true</MissingMusic>
+    <UseStartupScreen>false</UseStartupScreen>
+    <HideAllNonExclusiveFullscreenWindows>false</HideAllNonExclusiveFullscreenWindows>
+    <StartupLoadDelay>0</StartupLoadDelay>
+    <HideMouseCursorInGame>false</HideMouseCursorInGame>
+    <DisableShutdownScreen>false</DisableShutdownScreen>
+    <AggressiveWindowHiding>false</AggressiveWindowHiding>
+    <OverrideDefaultStartupScreenSettings>false</OverrideDefaultStartupScreenSettings>
+    <UsePauseScreen>false</UsePauseScreen>
+    <PauseAutoHotkeyScript />
+    <ResumeAutoHotkeyScript />
+    <OverrideDefaultPauseScreenSettings>false</OverrideDefaultPauseScreenSettings>
+    <SuspendProcessOnPause>false</SuspendProcessOnPause>
+    <ForcefulPauseScreenActivation>false</ForcefulPauseScreenActivation>
+    <LoadStateAutoHotkeyScript />
+    <SaveStateAutoHotkeyScript />
+    <ResetAutoHotkeyScript />
+    <SwapDiscsAutoHotkeyScript />
+    <CustomDosBoxVersionPath />
+    <ReleaseType>Released</ReleaseType>
+    <MaxPlayers>1</MaxPlayers>
+    <VideoUrl>https://www.youtube.com/watch?v=AJDaz0ggwX4</VideoUrl>
+    <AndroidBoxFrontThumbPath />
+    <AndroidBoxFrontFullPath />
+    <AndroidClearLogoThumbPath />
+    <AndroidClearLogoFullPath />
+    <AndroidBackgroundPath />
+    <AndroidBackgroundThumbPath />
+    <AndroidGameTitleScreenshotThumbPath />
+    <AndroidGameplayScreenshotThumbPath />
+    <AndroidGameTitleScreenshotPath />
+    <AndroidGameplayScreenshotPath />
+    <AndroidVideoPath />
+    <HasCloudSynced>false</HasCloudSynced>
+  </Game>
+  <Game>
+    <GogAppId />
+    <OriginAppId />
+    <OriginInstallPath />
+    <VideoPath />
+    <ThemeVideoPath />
+    <ApplicationPath>S:\roms-translated-1g1r\archive-org-nintendo-wii\Pokemon Mystery Dungeon - Go for it! Radiant Adventure Squad (Japan) (WiiWare) [T-En by Higsby &amp; MegaMinerd &amp; SpecialAgentApe v1.03] [n].zip</ApplicationPath>
+    <CommandLine />
+    <Completed>false</Completed>
+    <ConfigurationCommandLine />
+    <ConfigurationPath />
+    <DateAdded>2023-12-25T19:16:39.3107106+08:00</DateAdded>
+    <DateModified>2024-01-31T07:30:43.4309606+08:00</DateModified>
+    <Developer>Chunsoft</Developer>
+    <DosBoxConfigurationPath />
+    <Emulator>d66bc5b0-a990-48b4-ad28-c9841d92e214</Emulator>
+    <Favorite>false</Favorite>
+    <ID>883e987b-92db-40ae-aa5d-d0832f36033b</ID>
+    <ManualPath />
+    <MusicPath />
+    <Notes>Pokémon Fushigi no Dungeon: Mezase! Hikari no Bōkendan (Pokémon Mystery Dungeon: Go For It! Light Adventure Squad!) is a Roguelike video game developed by Chunsoft and published by Nintendo for WiiWare as part of the Pokémon Mystery Dungeon: Adventure Squad! set of games within the Pokémon Mystery Dungeon series. The other games within the generation are Pokémon Fushigi no Dungeon: Susume! Honō no Bōkendan (Pokémon Mystery Dungeon: Keep Going! Blazing Adventure Squad) and Pokémon Fushigi no Dungeon: Ikuzo! Arashi no Bōkendan (Pokémon Mystery Dungeon: Let's Go! Stormy Adventure Squad!) Much like standard Pokémon releases, all three games share the same engine, artwork, and environments; however each game has entirely unique dungeons built from the shared assets. They were the first Pokémon Mystery Dungeon titles to be released on a console, and the first to be a Japanese exclusive</Notes>
+    <Platform>Nintendo Wii [T-En]</Platform>
+    <Publisher>Nintendo</Publisher>
+    <Rating>Not Rated</Rating>
+    <ReleaseDate>2009-08-04T15:00:00+08:00</ReleaseDate>
+    <RootFolder />
+    <ScummVMAspectCorrection>false</ScummVMAspectCorrection>
+    <ScummVMFullscreen>false</ScummVMFullscreen>
+    <ScummVMGameDataFolderPath />
+    <ScummVMGameType />
+    <SortTitle />
+    <Source />
+    <StarRatingFloat>0</StarRatingFloat>
+    <StarRating>0</StarRating>
+    <CommunityStarRating>3.875</CommunityStarRating>
+    <CommunityStarRatingTotalVotes>4</CommunityStarRatingTotalVotes>
+    <Status>Imported ROM</Status>
+    <DatabaseID>127072</DatabaseID>
+    <WikipediaURL />
+    <Title>Pokemon Mystery Dungeon: Go for it! Radiant Adventure Squad</Title>
+    <UseDosBox>false</UseDosBox>
+    <UseScummVM>false</UseScummVM>
+    <Version>(Japan) (WiiWare) [T-En by Higsby &amp; MegaMinerd &amp; SpecialAgentApe v1.03] [n]</Version>
+    <Series />
+    <PlayMode>Single Player</PlayMode>
+    <Region>Japan</Region>
+    <PlayCount>0</PlayCount>
+    <PlayTime>0</PlayTime>
+    <Portable>false</Portable>
+    <Hide>false</Hide>
+    <Broken>false</Broken>
+    <CloneOf />
+    <Genre>Adventure; Role-Playing</Genre>
+    <MissingVideo>true</MissingVideo>
+    <MissingBoxFrontImage>false</MissingBoxFrontImage>
+    <MissingScreenshotImage>false</MissingScreenshotImage>
+    <MissingMarqueeImage>true</MissingMarqueeImage>
+    <MissingClearLogoImage>false</MissingClearLogoImage>
+    <MissingBackgroundImage>true</MissingBackgroundImage>
+    <MissingBox3dImage>false</MissingBox3dImage>
+    <MissingCartImage>true</MissingCartImage>
+    <MissingCart3dImage>true</MissingCart3dImage>
+    <MissingManual>true</MissingManual>
+    <MissingBannerImage>false</MissingBannerImage>
+    <MissingMusic>true</MissingMusic>
+    <UseStartupScreen>false</UseStartupScreen>
+    <HideAllNonExclusiveFullscreenWindows>false</HideAllNonExclusiveFullscreenWindows>
+    <StartupLoadDelay>0</StartupLoadDelay>
+    <HideMouseCursorInGame>false</HideMouseCursorInGame>
+    <DisableShutdownScreen>false</DisableShutdownScreen>
+    <AggressiveWindowHiding>false</AggressiveWindowHiding>
+    <OverrideDefaultStartupScreenSettings>false</OverrideDefaultStartupScreenSettings>
+    <UsePauseScreen>false</UsePauseScreen>
+    <PauseAutoHotkeyScript />
+    <ResumeAutoHotkeyScript />
+    <OverrideDefaultPauseScreenSettings>false</OverrideDefaultPauseScreenSettings>
+    <SuspendProcessOnPause>false</SuspendProcessOnPause>
+    <ForcefulPauseScreenActivation>false</ForcefulPauseScreenActivation>
+    <LoadStateAutoHotkeyScript />
+    <SaveStateAutoHotkeyScript />
+    <ResetAutoHotkeyScript />
+    <SwapDiscsAutoHotkeyScript />
+    <CustomDosBoxVersionPath />
+    <ReleaseType>Released</ReleaseType>
+    <MaxPlayers>1</MaxPlayers>
+    <VideoUrl />
+    <AndroidBoxFrontThumbPath />
+    <AndroidBoxFrontFullPath />
+    <AndroidClearLogoThumbPath />
+    <AndroidClearLogoFullPath />
+    <AndroidBackgroundPath />
+    <AndroidBackgroundThumbPath />
+    <AndroidGameTitleScreenshotThumbPath />
+    <AndroidGameplayScreenshotThumbPath />
+    <AndroidGameTitleScreenshotPath />
+    <AndroidGameplayScreenshotPath />
+    <AndroidVideoPath />
+    <HasCloudSynced>false</HasCloudSynced>
+  </Game>
+  <Game>
+    <GogAppId />
+    <OriginAppId />
+    <OriginInstallPath />
+    <VideoPath />
+    <ThemeVideoPath />
+    <ApplicationPath>S:\roms-translated-1g1r\archive-org-nintendo-wii\Opoona (USA) [T-En by Opoonaproject v1.1] [Relocalized].zip</ApplicationPath>
+    <CommandLine />
+    <Completed>false</Completed>
+    <ConfigurationCommandLine />
+    <ConfigurationPath />
+    <DateAdded>2023-12-25T19:16:39.3110264+08:00</DateAdded>
+    <DateModified>2024-01-29T01:54:49.921351+08:00</DateModified>
+    <Developer>ArtePiazza</Developer>
+    <DosBoxConfigurationPath />
+    <Emulator>d66bc5b0-a990-48b4-ad28-c9841d92e214</Emulator>
+    <Favorite>false</Favorite>
+    <ID>392643e6-57b6-42ae-a344-ca74a2091516</ID>
+    <ManualPath />
+    <MusicPath />
+    <Notes>Opoona (オプーナ Opūna?) is a role-playing video game developed by ArtePiazza and published by Koei for the Wii. The player follows the story of the titular Opoona as he attempts to find the location of his family from which he was separated after the occurrence of a mysterious accident during their travels. Former Dragon Quest art designer Shintaro Majima was the lead artist, with Sachiko Sugimura, who has also worked on Dragon Quest, as the planning director. Hitoshi Sakimoto, best known for composing Final Fantasy XII, produced the soundtrack, which was composed by him and his Basiscape musicians.</Notes>
+    <Platform>Nintendo Wii [T-En]</Platform>
+    <Publisher>Koei</Publisher>
+    <Rating>E10+ - Everyone 10+</Rating>
+    <ReleaseDate>2007-11-01T15:00:00+08:00</ReleaseDate>
+    <RootFolder />
+    <ScummVMAspectCorrection>false</ScummVMAspectCorrection>
+    <ScummVMFullscreen>false</ScummVMFullscreen>
+    <ScummVMGameDataFolderPath />
+    <ScummVMGameType />
+    <SortTitle />
+    <Source />
+    <StarRatingFloat>0</StarRatingFloat>
+    <StarRating>0</StarRating>
+    <CommunityStarRating>3.5714285</CommunityStarRating>
+    <CommunityStarRatingTotalVotes>7</CommunityStarRatingTotalVotes>
+    <Status>Imported ROM</Status>
+    <DatabaseID>18866</DatabaseID>
+    <WikipediaURL>https://en.wikipedia.org/wiki/Opoona</WikipediaURL>
+    <Title>Opoona</Title>
+    <UseDosBox>false</UseDosBox>
+    <UseScummVM>false</UseScummVM>
+    <Version>(USA) [T-En by Opoonaproject v1.1] [Relocalized]</Version>
+    <Series />
+    <PlayMode>Single Player</PlayMode>
+    <Region>North America</Region>
+    <PlayCount>0</PlayCount>
+    <PlayTime>0</PlayTime>
+    <Portable>false</Portable>
+    <Hide>false</Hide>
+    <Broken>false</Broken>
+    <CloneOf />
+    <Genre>Role-Playing</Genre>
+    <MissingVideo>true</MissingVideo>
+    <MissingBoxFrontImage>false</MissingBoxFrontImage>
+    <MissingScreenshotImage>false</MissingScreenshotImage>
+    <MissingMarqueeImage>true</MissingMarqueeImage>
+    <MissingClearLogoImage>false</MissingClearLogoImage>
+    <MissingBackgroundImage>false</MissingBackgroundImage>
+    <MissingBox3dImage>false</MissingBox3dImage>
+    <MissingCartImage>false</MissingCartImage>
+    <MissingCart3dImage>true</MissingCart3dImage>
+    <MissingManual>true</MissingManual>
+    <MissingBannerImage>false</MissingBannerImage>
+    <MissingMusic>true</MissingMusic>
+    <UseStartupScreen>false</UseStartupScreen>
+    <HideAllNonExclusiveFullscreenWindows>false</HideAllNonExclusiveFullscreenWindows>
+    <StartupLoadDelay>0</StartupLoadDelay>
+    <HideMouseCursorInGame>false</HideMouseCursorInGame>
+    <DisableShutdownScreen>false</DisableShutdownScreen>
+    <AggressiveWindowHiding>false</AggressiveWindowHiding>
+    <OverrideDefaultStartupScreenSettings>false</OverrideDefaultStartupScreenSettings>
+    <UsePauseScreen>false</UsePauseScreen>
+    <PauseAutoHotkeyScript />
+    <ResumeAutoHotkeyScript />
+    <OverrideDefaultPauseScreenSettings>false</OverrideDefaultPauseScreenSettings>
+    <SuspendProcessOnPause>false</SuspendProcessOnPause>
+    <ForcefulPauseScreenActivation>false</ForcefulPauseScreenActivation>
+    <LoadStateAutoHotkeyScript />
+    <SaveStateAutoHotkeyScript />
+    <ResetAutoHotkeyScript />
+    <SwapDiscsAutoHotkeyScript />
+    <CustomDosBoxVersionPath />
+    <ReleaseType>Released</ReleaseType>
+    <MaxPlayers>1</MaxPlayers>
+    <VideoUrl>https://www.youtube.com/watch?v=4MAc0C-oF8Y</VideoUrl>
+    <AndroidBoxFrontThumbPath />
+    <AndroidBoxFrontFullPath />
+    <AndroidClearLogoThumbPath />
+    <AndroidClearLogoFullPath />
+    <AndroidBackgroundPath />
+    <AndroidBackgroundThumbPath />
+    <AndroidGameTitleScreenshotThumbPath />
+    <AndroidGameplayScreenshotThumbPath />
+    <AndroidGameTitleScreenshotPath />
+    <AndroidGameplayScreenshotPath />
+    <AndroidVideoPath />
+    <HasCloudSynced>false</HasCloudSynced>
+  </Game>
+  <Game>
+    <GogAppId />
+    <OriginAppId />
+    <OriginInstallPath />
+    <VideoPath />
+    <ThemeVideoPath />
+    <ApplicationPath>S:\roms-translated-1g1r\archive-org-nintendo-wii\Fatal Frame 4 - Mask of the Lunar Eclipse (Japan) [T-En by Tempus v1.0+update] [n].zip</ApplicationPath>
+    <CommandLine />
+    <Completed>false</Completed>
+    <ConfigurationCommandLine />
+    <ConfigurationPath />
+    <DateAdded>2023-12-25T19:16:39.3117483+08:00</DateAdded>
+    <DateModified>2024-01-31T07:30:43.7297324+08:00</DateModified>
+    <Developer>Grasshopper Manufacture</Developer>
+    <DosBoxConfigurationPath />
+    <Emulator>d66bc5b0-a990-48b4-ad28-c9841d92e214</Emulator>
+    <Favorite>false</Favorite>
+    <ID>eb7bdd97-8762-44a5-97c4-4145bcf7493b</ID>
+    <ManualPath />
+    <MusicPath />
+    <Notes>Ten years ago, a suspected serial killer has kidnapped five girls from a sanatorium located on Rogetsu Island in Japan. The detective Choshiro Kirishima eventually succeeded in pursuing the criminal and rescuing the girls. However, several years later, two of the girls died under mysterious circumstances. The three remaining girls - Ruka, Misaki, and Madoka - decide to return to the island to find out more about the kidnapping and retrieve their lost memories. Ruka's mother pleads Choshiro to follow them. One by one, the heroes venture into the dark haunted house...
+
+Zero: Tsukihami no Kamen is an installment in the Fatal Frame (Project Zero) series. The player switches between the four main protagonists as dictated by the story. As in the previous games, the characters use a camera to fend off hostile spirits. A new weapon is the Spirit Flashlight, a kind of torch that possesses the power to exorcise spirits with moonlight. Not all the spirits are hostile; the player is expected to differentiate between them, and also capture pictures with the camera to gather clues and advance in the game. Spirit Crystals can be collected and use to upgrade the camera and the flashlight. Healing items and films can be purchased in special shop-like locations.</Notes>
+    <Platform>Nintendo Wii [T-En]</Platform>
+    <Publisher>Tecmo</Publisher>
+    <Rating>T - Teen</Rating>
+    <ReleaseDate>2008-07-31T15:00:00+08:00</ReleaseDate>
+    <RootFolder />
+    <ScummVMAspectCorrection>false</ScummVMAspectCorrection>
+    <ScummVMFullscreen>false</ScummVMFullscreen>
+    <ScummVMGameDataFolderPath />
+    <ScummVMGameType />
+    <SortTitle />
+    <Source />
+    <StarRatingFloat>0</StarRatingFloat>
+    <StarRating>0</StarRating>
+    <CommunityStarRating>4.032258</CommunityStarRating>
+    <CommunityStarRatingTotalVotes>31</CommunityStarRatingTotalVotes>
+    <Status>Imported ROM</Status>
+    <DatabaseID>7605</DatabaseID>
+    <WikipediaURL>https://en.wikipedia.org/wiki/Fatal_Frame:_Mask_of_the_Lunar_Eclipse</WikipediaURL>
+    <Title>Project Zero IV</Title>
+    <UseDosBox>false</UseDosBox>
+    <UseScummVM>false</UseScummVM>
+    <Version>(Japan) [T-En by Tempus v1.0+update] [n]</Version>
+    <Series />
+    <PlayMode>Single Player</PlayMode>
+    <Region>Japan</Region>
+    <PlayCount>0</PlayCount>
+    <PlayTime>0</PlayTime>
+    <Portable>false</Portable>
+    <Hide>false</Hide>
+    <Broken>false</Broken>
+    <CloneOf />
+    <Genre>Adventure; Horror</Genre>
+    <MissingVideo>true</MissingVideo>
+    <MissingBoxFrontImage>false</MissingBoxFrontImage>
+    <MissingScreenshotImage>true</MissingScreenshotImage>
+    <MissingMarqueeImage>true</MissingMarqueeImage>
+    <MissingClearLogoImage>false</MissingClearLogoImage>
+    <MissingBackgroundImage>false</MissingBackgroundImage>
+    <MissingBox3dImage>false</MissingBox3dImage>
+    <MissingCartImage>false</MissingCartImage>
+    <MissingCart3dImage>true</MissingCart3dImage>
+    <MissingManual>true</MissingManual>
+    <MissingBannerImage>false</MissingBannerImage>
+    <MissingMusic>true</MissingMusic>
+    <UseStartupScreen>false</UseStartupScreen>
+    <HideAllNonExclusiveFullscreenWindows>false</HideAllNonExclusiveFullscreenWindows>
+    <StartupLoadDelay>0</StartupLoadDelay>
+    <HideMouseCursorInGame>false</HideMouseCursorInGame>
+    <DisableShutdownScreen>false</DisableShutdownScreen>
+    <AggressiveWindowHiding>false</AggressiveWindowHiding>
+    <OverrideDefaultStartupScreenSettings>false</OverrideDefaultStartupScreenSettings>
+    <UsePauseScreen>false</UsePauseScreen>
+    <PauseAutoHotkeyScript />
+    <ResumeAutoHotkeyScript />
+    <OverrideDefaultPauseScreenSettings>false</OverrideDefaultPauseScreenSettings>
+    <SuspendProcessOnPause>false</SuspendProcessOnPause>
+    <ForcefulPauseScreenActivation>false</ForcefulPauseScreenActivation>
+    <LoadStateAutoHotkeyScript />
+    <SaveStateAutoHotkeyScript />
+    <ResetAutoHotkeyScript />
+    <SwapDiscsAutoHotkeyScript />
+    <CustomDosBoxVersionPath />
+    <ReleaseType>Released</ReleaseType>
+    <MaxPlayers>1</MaxPlayers>
+    <VideoUrl>https://www.youtube.com/watch?v=_AWCleUGDMI</VideoUrl>
+    <AndroidBoxFrontThumbPath />
+    <AndroidBoxFrontFullPath />
+    <AndroidClearLogoThumbPath />
+    <AndroidClearLogoFullPath />
+    <AndroidBackgroundPath />
+    <AndroidBackgroundThumbPath />
+    <AndroidGameTitleScreenshotThumbPath />
+    <AndroidGameplayScreenshotThumbPath />
+    <AndroidGameTitleScreenshotPath />
+    <AndroidGameplayScreenshotPath />
+    <AndroidVideoPath />
+    <HasCloudSynced>false</HasCloudSynced>
+  </Game>
+  <Game>
+    <GogAppId />
+    <OriginAppId />
+    <OriginInstallPath />
+    <VideoPath />
+    <ThemeVideoPath />
+    <ApplicationPath>S:\roms-translated-1g1r\archive-org-nintendo-wii\Earth Seeker (Japan) [T-En by Brand Newman v2.04] [Odekake Edition].zip</ApplicationPath>
+    <CommandLine />
+    <Completed>false</Completed>
+    <ConfigurationCommandLine />
+    <ConfigurationPath />
+    <DateAdded>2023-12-25T19:16:39.312149+08:00</DateAdded>
+    <DateModified>2024-01-26T03:29:44.9535742+08:00</DateModified>
+    <Developer>Crafts &amp; Meister</Developer>
+    <DosBoxConfigurationPath />
+    <Emulator>d66bc5b0-a990-48b4-ad28-c9841d92e214</Emulator>
+    <Favorite>false</Favorite>
+    <ID>152e1c14-1862-47b0-9922-e6500b59ee34</ID>
+    <ManualPath />
+    <MusicPath />
+    <Notes>Stranded on a foreign planet is the least of your concerns in Earth Seeker, that place is full of monsters. Stop time in the real time battles to combo them. There are no complicated sequence of inputs, this easy to master system will appeal to players who are unaccustomed to action games or turn based battles.
+Besides stopping time, players can recruit allies into their team. The inhabitants of the planet – Guardians each master their element. With a bit of alcohol in your possession, you can have them fight for you. Come explore this dangerous and colorful world.</Notes>
+    <Platform>Nintendo Wii [T-En]</Platform>
+    <Publisher>Enterbrain</Publisher>
+    <Rating>Not Rated</Rating>
+    <ReleaseDate>2011-06-23T15:00:00+08:00</ReleaseDate>
+    <RootFolder />
+    <ScummVMAspectCorrection>false</ScummVMAspectCorrection>
+    <ScummVMFullscreen>false</ScummVMFullscreen>
+    <ScummVMGameDataFolderPath />
+    <ScummVMGameType />
+    <SortTitle />
+    <Source />
+    <StarRatingFloat>0</StarRatingFloat>
+    <StarRating>0</StarRating>
+    <CommunityStarRating>3.8888888</CommunityStarRating>
+    <CommunityStarRatingTotalVotes>9</CommunityStarRatingTotalVotes>
+    <Status>Imported ROM</Status>
+    <DatabaseID>174134</DatabaseID>
+    <WikipediaURL>https://en.wikipedia.org/wiki/Earth_Seeker</WikipediaURL>
+    <Title>アースシーカー</Title>
+    <UseDosBox>false</UseDosBox>
+    <UseScummVM>false</UseScummVM>
+    <Version>(Japan) [T-En by Brand Newman v2.04] [Odekake Edition]</Version>
+    <Series />
+    <PlayMode>Single Player</PlayMode>
+    <Region>Japan</Region>
+    <PlayCount>0</PlayCount>
+    <PlayTime>0</PlayTime>
+    <Portable>false</Portable>
+    <Hide>false</Hide>
+    <Broken>false</Broken>
+    <CloneOf />
+    <Genre>Action; Role-Playing</Genre>
+    <MissingVideo>true</MissingVideo>
+    <MissingBoxFrontImage>false</MissingBoxFrontImage>
+    <MissingScreenshotImage>false</MissingScreenshotImage>
+    <MissingMarqueeImage>false</MissingMarqueeImage>
+    <MissingClearLogoImage>false</MissingClearLogoImage>
+    <MissingBackgroundImage>true</MissingBackgroundImage>
+    <MissingBox3dImage>false</MissingBox3dImage>
+    <MissingCartImage>false</MissingCartImage>
+    <MissingCart3dImage>true</MissingCart3dImage>
+    <MissingManual>true</MissingManual>
+    <MissingBannerImage>false</MissingBannerImage>
+    <MissingMusic>true</MissingMusic>
+    <UseStartupScreen>false</UseStartupScreen>
+    <HideAllNonExclusiveFullscreenWindows>false</HideAllNonExclusiveFullscreenWindows>
+    <StartupLoadDelay>0</StartupLoadDelay>
+    <HideMouseCursorInGame>false</HideMouseCursorInGame>
+    <DisableShutdownScreen>false</DisableShutdownScreen>
+    <AggressiveWindowHiding>false</AggressiveWindowHiding>
+    <OverrideDefaultStartupScreenSettings>false</OverrideDefaultStartupScreenSettings>
+    <UsePauseScreen>false</UsePauseScreen>
+    <PauseAutoHotkeyScript />
+    <ResumeAutoHotkeyScript />
+    <OverrideDefaultPauseScreenSettings>false</OverrideDefaultPauseScreenSettings>
+    <SuspendProcessOnPause>false</SuspendProcessOnPause>
+    <ForcefulPauseScreenActivation>false</ForcefulPauseScreenActivation>
+    <LoadStateAutoHotkeyScript />
+    <SaveStateAutoHotkeyScript />
+    <ResetAutoHotkeyScript />
+    <SwapDiscsAutoHotkeyScript />
+    <CustomDosBoxVersionPath />
+    <ReleaseType>Released</ReleaseType>
+    <MaxPlayers>1</MaxPlayers>
+    <VideoUrl />
+    <AndroidBoxFrontThumbPath />
+    <AndroidBoxFrontFullPath />
+    <AndroidClearLogoThumbPath />
+    <AndroidClearLogoFullPath />
+    <AndroidBackgroundPath />
+    <AndroidBackgroundThumbPath />
+    <AndroidGameTitleScreenshotThumbPath />
+    <AndroidGameplayScreenshotThumbPath />
+    <AndroidGameTitleScreenshotPath />
+    <AndroidGameplayScreenshotPath />
+    <AndroidVideoPath />
+    <HasCloudSynced>false</HasCloudSynced>
+  </Game>
+  <Game>
+    <GogAppId />
+    <OriginAppId />
+    <OriginInstallPath />
+    <VideoPath />
+    <ThemeVideoPath />
+    <ApplicationPath>S:\roms-translated-1g1r\archive-org-nintendo-wii\Puyo Puyo 7 (Japan) [T-En by Puyo Nexus &amp; Nenilein &amp; Saetta06 v1.1].zip</ApplicationPath>
+    <CommandLine />
+    <Completed>false</Completed>
+    <ConfigurationCommandLine />
+    <ConfigurationPath />
+    <DateAdded>2023-12-25T19:16:39.3103199+08:00</DateAdded>
+    <DateModified>2024-01-26T01:07:20.9256765+08:00</DateModified>
+    <Developer>h.a.n.d.</Developer>
+    <DosBoxConfigurationPath />
+    <Emulator>d66bc5b0-a990-48b4-ad28-c9841d92e214</Emulator>
+    <Favorite>false</Favorite>
+    <ID>3cfb55d4-95d3-42c5-8822-69807eb3c680</ID>
+    <ManualPath />
+    <MusicPath />
+    <Notes>This is the 7th game in the main Puyo Puyo series, which is denoted by the 7. A break from the previous Fever series games, the game is set in a world similar to the real world instead of Primp Town. In this game, a new game mode known as Transformation was added as the default mode. Five new characters were introduced, and a few characters from past games in the series were reintroduced, either as playable characters or cameos.</Notes>
+    <Platform>Nintendo Wii [T-En]</Platform>
+    <Publisher>Sega</Publisher>
+    <Rating>E - Everyone</Rating>
+    <ReleaseDate>2009-11-26T16:00:00+08:00</ReleaseDate>
+    <RootFolder />
+    <ScummVMAspectCorrection>false</ScummVMAspectCorrection>
+    <ScummVMFullscreen>false</ScummVMFullscreen>
+    <ScummVMGameDataFolderPath />
+    <ScummVMGameType />
+    <SortTitle />
+    <Source />
+    <StarRatingFloat>0</StarRatingFloat>
+    <StarRating>0</StarRating>
+    <CommunityStarRating>0</CommunityStarRating>
+    <CommunityStarRatingTotalVotes>0</CommunityStarRatingTotalVotes>
+    <Status>Imported ROM</Status>
+    <DatabaseID>28515</DatabaseID>
+    <WikipediaURL />
+    <Title>Puyo Puyo 7</Title>
+    <UseDosBox>false</UseDosBox>
+    <UseScummVM>false</UseScummVM>
+    <Version>(Japan) [T-En by Puyo Nexus &amp; Nenilein &amp; Saetta06 v1.1]</Version>
+    <Series />
+    <PlayMode>Multiplayer</PlayMode>
+    <Region>Japan</Region>
+    <PlayCount>0</PlayCount>
+    <PlayTime>0</PlayTime>
+    <Portable>false</Portable>
+    <Hide>false</Hide>
+    <Broken>false</Broken>
+    <CloneOf />
+    <Genre>Puzzle</Genre>
+    <MissingVideo>false</MissingVideo>
+    <MissingBoxFrontImage>false</MissingBoxFrontImage>
+    <MissingScreenshotImage>false</MissingScreenshotImage>
+    <MissingMarqueeImage>false</MissingMarqueeImage>
+    <MissingClearLogoImage>false</MissingClearLogoImage>
+    <MissingBackgroundImage>false</MissingBackgroundImage>
+    <MissingBox3dImage>false</MissingBox3dImage>
+    <MissingCartImage>false</MissingCartImage>
+    <MissingCart3dImage>true</MissingCart3dImage>
+    <MissingManual>true</MissingManual>
+    <MissingBannerImage>false</MissingBannerImage>
+    <MissingMusic>true</MissingMusic>
+    <UseStartupScreen>false</UseStartupScreen>
+    <HideAllNonExclusiveFullscreenWindows>false</HideAllNonExclusiveFullscreenWindows>
+    <StartupLoadDelay>0</StartupLoadDelay>
+    <HideMouseCursorInGame>false</HideMouseCursorInGame>
+    <DisableShutdownScreen>false</DisableShutdownScreen>
+    <AggressiveWindowHiding>false</AggressiveWindowHiding>
+    <OverrideDefaultStartupScreenSettings>false</OverrideDefaultStartupScreenSettings>
+    <UsePauseScreen>false</UsePauseScreen>
+    <PauseAutoHotkeyScript />
+    <ResumeAutoHotkeyScript />
+    <OverrideDefaultPauseScreenSettings>false</OverrideDefaultPauseScreenSettings>
+    <SuspendProcessOnPause>false</SuspendProcessOnPause>
+    <ForcefulPauseScreenActivation>false</ForcefulPauseScreenActivation>
+    <LoadStateAutoHotkeyScript />
+    <SaveStateAutoHotkeyScript />
+    <ResetAutoHotkeyScript />
+    <SwapDiscsAutoHotkeyScript />
+    <CustomDosBoxVersionPath />
+    <ReleaseType>Released</ReleaseType>
+    <MaxPlayers>4</MaxPlayers>
+    <VideoUrl />
+    <AndroidBoxFrontThumbPath />
+    <AndroidBoxFrontFullPath />
+    <AndroidClearLogoThumbPath />
+    <AndroidClearLogoFullPath />
+    <AndroidBackgroundPath />
+    <AndroidBackgroundThumbPath />
+    <AndroidGameTitleScreenshotThumbPath />
+    <AndroidGameplayScreenshotThumbPath />
+    <AndroidGameTitleScreenshotPath />
+    <AndroidGameplayScreenshotPath />
+    <AndroidVideoPath />
+    <HasCloudSynced>false</HasCloudSynced>
+  </Game>
+  <Game>
+    <GogAppId />
+    <OriginAppId />
+    <OriginInstallPath />
+    <VideoPath />
+    <ThemeVideoPath />
+    <ApplicationPath>S:\roms-translated-1g1r\archive-org-nintendo-wii\Bleach - Versus Crusade (Japan) [T-En by Sixfortyfive v1.0] [i].zip</ApplicationPath>
+    <CommandLine />
+    <Completed>false</Completed>
+    <ConfigurationCommandLine />
+    <ConfigurationPath />
+    <DateAdded>2023-12-25T19:16:39.3127784+08:00</DateAdded>
+    <DateModified>2024-01-29T02:00:42.752729+08:00</DateModified>
+    <Developer>Treasure</Developer>
+    <DosBoxConfigurationPath />
+    <Emulator>d66bc5b0-a990-48b4-ad28-c9841d92e214</Emulator>
+    <Favorite>false</Favorite>
+    <ID>6e3ba069-fd7a-4681-b530-8b3446e46586</ID>
+    <ManualPath />
+    <MusicPath />
+    <Notes>Bleach: Versus Crusade (BLEACH バーサス・クルセイド 特典) is a game for the Nintendo Wii and it was released in Japan on December 18, 2008. It is unknown if the game will be released outside of Japan. Scans depict a roster of characters in line with the manga and anime storyline, featuring Nelliel, Nnoitra, Ichigo with his Hollow mask and Grimmjow's released form, (Pantera) to name a few. The gameplay appears to have been changed substantially, showing a split-screen during multi-player fights. It is a one-on-one fighter, but players pick a partner character for various team-up attacks and other maneuvers as well as being able to switch between them. It supports Wi-Fi play and can be played with the Classic controller or Gamecube controller in place of the Wii-Remote and nunchuk. Unlike other instalments before this, it is developed by Treasure Co. Ltd.</Notes>
+    <Platform>Nintendo Wii [T-En]</Platform>
+    <Publisher>Sega</Publisher>
+    <Rating>Not Rated</Rating>
+    <ReleaseDate>2008-12-18T16:00:00+08:00</ReleaseDate>
+    <RootFolder />
+    <ScummVMAspectCorrection>false</ScummVMAspectCorrection>
+    <ScummVMFullscreen>false</ScummVMFullscreen>
+    <ScummVMGameDataFolderPath />
+    <ScummVMGameType />
+    <SortTitle />
+    <Source />
+    <StarRatingFloat>0</StarRatingFloat>
+    <StarRating>0</StarRating>
+    <CommunityStarRating>3.6875</CommunityStarRating>
+    <CommunityStarRatingTotalVotes>8</CommunityStarRatingTotalVotes>
+    <Status>Imported ROM</Status>
+    <DatabaseID>32379</DatabaseID>
+    <WikipediaURL />
+    <Title>Bleach: Versus Crusade</Title>
+    <UseDosBox>false</UseDosBox>
+    <UseScummVM>false</UseScummVM>
+    <Version>(Japan) [T-En by Sixfortyfive v1.0] [i]</Version>
+    <Series />
+    <PlayMode>Multiplayer</PlayMode>
+    <Region>Japan</Region>
+    <PlayCount>0</PlayCount>
+    <PlayTime>0</PlayTime>
+    <Portable>false</Portable>
+    <Hide>false</Hide>
+    <Broken>false</Broken>
+    <CloneOf />
+    <Genre>Fighting</Genre>
+    <MissingVideo>true</MissingVideo>
+    <MissingBoxFrontImage>false</MissingBoxFrontImage>
+    <MissingScreenshotImage>false</MissingScreenshotImage>
+    <MissingMarqueeImage>true</MissingMarqueeImage>
+    <MissingClearLogoImage>false</MissingClearLogoImage>
+    <MissingBackgroundImage>true</MissingBackgroundImage>
+    <MissingBox3dImage>false</MissingBox3dImage>
+    <MissingCartImage>false</MissingCartImage>
+    <MissingCart3dImage>true</MissingCart3dImage>
+    <MissingManual>true</MissingManual>
+    <MissingBannerImage>false</MissingBannerImage>
+    <MissingMusic>true</MissingMusic>
+    <UseStartupScreen>false</UseStartupScreen>
+    <HideAllNonExclusiveFullscreenWindows>false</HideAllNonExclusiveFullscreenWindows>
+    <StartupLoadDelay>0</StartupLoadDelay>
+    <HideMouseCursorInGame>false</HideMouseCursorInGame>
+    <DisableShutdownScreen>false</DisableShutdownScreen>
+    <AggressiveWindowHiding>false</AggressiveWindowHiding>
+    <OverrideDefaultStartupScreenSettings>false</OverrideDefaultStartupScreenSettings>
+    <UsePauseScreen>false</UsePauseScreen>
+    <PauseAutoHotkeyScript />
+    <ResumeAutoHotkeyScript />
+    <OverrideDefaultPauseScreenSettings>false</OverrideDefaultPauseScreenSettings>
+    <SuspendProcessOnPause>false</SuspendProcessOnPause>
+    <ForcefulPauseScreenActivation>false</ForcefulPauseScreenActivation>
+    <LoadStateAutoHotkeyScript />
+    <SaveStateAutoHotkeyScript />
+    <ResetAutoHotkeyScript />
+    <SwapDiscsAutoHotkeyScript />
+    <CustomDosBoxVersionPath />
+    <ReleaseType>Released</ReleaseType>
+    <MaxPlayers>2</MaxPlayers>
+    <VideoUrl>http://www.youtube.com/watch?v=bs7ff2pZH3Y</VideoUrl>
+    <AndroidBoxFrontThumbPath />
+    <AndroidBoxFrontFullPath />
+    <AndroidClearLogoThumbPath />
+    <AndroidClearLogoFullPath />
+    <AndroidBackgroundPath />
+    <AndroidBackgroundThumbPath />
+    <AndroidGameTitleScreenshotThumbPath />
+    <AndroidGameplayScreenshotThumbPath />
+    <AndroidGameTitleScreenshotPath />
+    <AndroidGameplayScreenshotPath />
+    <AndroidVideoPath />
+    <HasCloudSynced>false</HasCloudSynced>
+  </Game>
+  <Game>
+    <GogAppId />
+    <OriginAppId />
+    <OriginInstallPath />
+    <VideoPath />
+    <ThemeVideoPath />
+    <ApplicationPath>S:\roms-translated-1g1r\archive-org-nintendo-wii\Line Attack Heroes (Japan) (WiiWare) [T-En by Brand Newman v1.0].zip</ApplicationPath>
+    <CommandLine />
+    <Completed>false</Completed>
+    <ConfigurationCommandLine />
+    <ConfigurationPath />
+    <DateAdded>2023-12-25T19:16:39.3114628+08:00</DateAdded>
+    <DateModified>2024-01-26T03:19:15.4896005+08:00</DateModified>
+    <Developer>Grezzo</Developer>
+    <DosBoxConfigurationPath />
+    <Emulator>d66bc5b0-a990-48b4-ad28-c9841d92e214</Emulator>
+    <Favorite>false</Favorite>
+    <ID>ed2ca2cb-bd48-42a5-b8e3-8c98d9819387</ID>
+    <ManualPath />
+    <MusicPath />
+    <Notes>Line Attack Heroes is an action video game developed by Grezzo and published by Nintendo for the Wii's WiiWare service. It was first revealed at Nintendo's Conference on October 2, 2008, and released in Japan on July 27, 2010.</Notes>
+    <Platform>Nintendo Wii [T-En]</Platform>
+    <Publisher>Nintendo</Publisher>
+    <Rating>Not Rated</Rating>
+    <ReleaseDate>2010-07-27T15:00:00+08:00</ReleaseDate>
+    <RootFolder />
+    <ScummVMAspectCorrection>false</ScummVMAspectCorrection>
+    <ScummVMFullscreen>false</ScummVMFullscreen>
+    <ScummVMGameDataFolderPath />
+    <ScummVMGameType />
+    <SortTitle />
+    <Source />
+    <StarRatingFloat>0</StarRatingFloat>
+    <StarRating>0</StarRating>
+    <CommunityStarRating>2</CommunityStarRating>
+    <CommunityStarRatingTotalVotes>4</CommunityStarRatingTotalVotes>
+    <Status>Imported ROM</Status>
+    <DatabaseID>127590</DatabaseID>
+    <WikipediaURL>https://en.wikipedia.org/wiki/Line_Attack_Heroes</WikipediaURL>
+    <Title>Line Attack Heroes</Title>
+    <UseDosBox>false</UseDosBox>
+    <UseScummVM>false</UseScummVM>
+    <Version>(Japan) (WiiWare) [T-En by Brand Newman v1.0]</Version>
+    <Series />
+    <PlayMode>Multiplayer</PlayMode>
+    <Region>Japan</Region>
+    <PlayCount>0</PlayCount>
+    <PlayTime>0</PlayTime>
+    <Portable>false</Portable>
+    <Hide>false</Hide>
+    <Broken>false</Broken>
+    <CloneOf />
+    <Genre>Action</Genre>
+    <MissingVideo>true</MissingVideo>
+    <MissingBoxFrontImage>false</MissingBoxFrontImage>
+    <MissingScreenshotImage>false</MissingScreenshotImage>
+    <MissingMarqueeImage>false</MissingMarqueeImage>
+    <MissingClearLogoImage>false</MissingClearLogoImage>
+    <MissingBackgroundImage>true</MissingBackgroundImage>
+    <MissingBox3dImage>false</MissingBox3dImage>
+    <MissingCartImage>true</MissingCartImage>
+    <MissingCart3dImage>true</MissingCart3dImage>
+    <MissingManual>true</MissingManual>
+    <MissingBannerImage>false</MissingBannerImage>
+    <MissingMusic>true</MissingMusic>
+    <UseStartupScreen>false</UseStartupScreen>
+    <HideAllNonExclusiveFullscreenWindows>false</HideAllNonExclusiveFullscreenWindows>
+    <StartupLoadDelay>0</StartupLoadDelay>
+    <HideMouseCursorInGame>false</HideMouseCursorInGame>
+    <DisableShutdownScreen>false</DisableShutdownScreen>
+    <AggressiveWindowHiding>false</AggressiveWindowHiding>
+    <OverrideDefaultStartupScreenSettings>false</OverrideDefaultStartupScreenSettings>
+    <UsePauseScreen>false</UsePauseScreen>
+    <PauseAutoHotkeyScript />
+    <ResumeAutoHotkeyScript />
+    <OverrideDefaultPauseScreenSettings>false</OverrideDefaultPauseScreenSettings>
+    <SuspendProcessOnPause>false</SuspendProcessOnPause>
+    <ForcefulPauseScreenActivation>false</ForcefulPauseScreenActivation>
+    <LoadStateAutoHotkeyScript />
+    <SaveStateAutoHotkeyScript />
+    <ResetAutoHotkeyScript />
+    <SwapDiscsAutoHotkeyScript />
+    <CustomDosBoxVersionPath />
+    <ReleaseType>Released</ReleaseType>
+    <MaxPlayers>0</MaxPlayers>
+    <VideoUrl />
+    <AndroidBoxFrontThumbPath />
+    <AndroidBoxFrontFullPath />
+    <AndroidClearLogoThumbPath />
+    <AndroidClearLogoFullPath />
+    <AndroidBackgroundPath />
+    <AndroidBackgroundThumbPath />
+    <AndroidGameTitleScreenshotThumbPath />
+    <AndroidGameplayScreenshotThumbPath />
+    <AndroidGameTitleScreenshotPath />
+    <AndroidGameplayScreenshotPath />
+    <AndroidVideoPath />
+    <HasCloudSynced>false</HasCloudSynced>
+  </Game>
+  <Game>
+    <GogAppId />
+    <OriginAppId />
+    <OriginInstallPath />
+    <VideoPath />
+    <ThemeVideoPath />
+    <ApplicationPath>S:\roms-translated-1g1r\archive-org-nintendo-wii\Pokemon Mystery Dungeon - Let's Go! Tempest Adventure Squad (Japan) (WiiWare) [T-En by Higsby &amp; MegaMinerd &amp; SpecialAgentApe v1.03] [n].zip</ApplicationPath>
+    <CommandLine />
+    <Completed>false</Completed>
+    <ConfigurationCommandLine />
+    <ConfigurationPath />
+    <DateAdded>2023-12-25T19:16:39.3103283+08:00</DateAdded>
+    <DateModified>2024-01-31T07:30:43.4646934+08:00</DateModified>
+    <Developer>Chunsoft</Developer>
+    <DosBoxConfigurationPath />
+    <Emulator>d66bc5b0-a990-48b4-ad28-c9841d92e214</Emulator>
+    <Favorite>false</Favorite>
+    <ID>0ab55ab8-33cc-4382-bd1b-66077c3d5a69</ID>
+    <ManualPath />
+    <MusicPath />
+    <Notes>Pokémon Fushigi no Dungeon: Ikuzo! Arashi no Boukendan (Pokémon Mystery Dungeon: Let's Go! Stormy Adventure Squad!) is a Roguelike video game developed by Chunsoft and published by Nintendo for WiiWare as part of the Pokémon Mystery Dungeon: Adventure Squad! set of games within the Pokémon Mystery Dungeon series. The other games within the generation are Pokémon Fushigi no Dungeon: Susume! Honō no Bōkendan (Pokémon Mystery Dungeon: Keep Going! Blazing Adventure Squad) and Pokémon Fushigi no Dungeon: Mezase! Hikari no Bōkendan (Pokémon Mystery Dungeon: Go For It! Light Adventure Squad!) Much like standard Pokémon releases, all three games share the same engine, artwork, and environments; however each game has entirely unique dungeons built from the shared assets. They were the first Pokémon Mystery Dungeon titles to be released on a console, and the first to be a Japanese exclusive.</Notes>
+    <Platform>Nintendo Wii [T-En]</Platform>
+    <Publisher>Nintendo</Publisher>
+    <Rating>Not Rated</Rating>
+    <ReleaseDate>2009-08-04T15:00:00+08:00</ReleaseDate>
+    <RootFolder />
+    <ScummVMAspectCorrection>false</ScummVMAspectCorrection>
+    <ScummVMFullscreen>false</ScummVMFullscreen>
+    <ScummVMGameDataFolderPath />
+    <ScummVMGameType />
+    <SortTitle />
+    <Source />
+    <StarRatingFloat>0</StarRatingFloat>
+    <StarRating>0</StarRating>
+    <CommunityStarRating>3.857143</CommunityStarRating>
+    <CommunityStarRatingTotalVotes>7</CommunityStarRatingTotalVotes>
+    <Status>Imported ROM</Status>
+    <DatabaseID>127071</DatabaseID>
+    <WikipediaURL />
+    <Title>Pokemon Mystery Dungeon: Let's Go! Tempest Adventure Squad</Title>
+    <UseDosBox>false</UseDosBox>
+    <UseScummVM>false</UseScummVM>
+    <Version>(Japan) (WiiWare) [T-En by Higsby &amp; MegaMinerd &amp; SpecialAgentApe v1.03] [n]</Version>
+    <Series />
+    <PlayMode>Single Player</PlayMode>
+    <Region>Japan</Region>
+    <PlayCount>0</PlayCount>
+    <PlayTime>0</PlayTime>
+    <Portable>false</Portable>
+    <Hide>false</Hide>
+    <Broken>false</Broken>
+    <CloneOf />
+    <Genre>Adventure; Role-Playing</Genre>
+    <MissingVideo>true</MissingVideo>
+    <MissingBoxFrontImage>false</MissingBoxFrontImage>
+    <MissingScreenshotImage>false</MissingScreenshotImage>
+    <MissingMarqueeImage>true</MissingMarqueeImage>
+    <MissingClearLogoImage>false</MissingClearLogoImage>
+    <MissingBackgroundImage>true</MissingBackgroundImage>
+    <MissingBox3dImage>false</MissingBox3dImage>
+    <MissingCartImage>true</MissingCartImage>
+    <MissingCart3dImage>true</MissingCart3dImage>
+    <MissingManual>true</MissingManual>
+    <MissingBannerImage>false</MissingBannerImage>
+    <MissingMusic>true</MissingMusic>
+    <UseStartupScreen>false</UseStartupScreen>
+    <HideAllNonExclusiveFullscreenWindows>false</HideAllNonExclusiveFullscreenWindows>
+    <StartupLoadDelay>0</StartupLoadDelay>
+    <HideMouseCursorInGame>false</HideMouseCursorInGame>
+    <DisableShutdownScreen>false</DisableShutdownScreen>
+    <AggressiveWindowHiding>false</AggressiveWindowHiding>
+    <OverrideDefaultStartupScreenSettings>false</OverrideDefaultStartupScreenSettings>
+    <UsePauseScreen>false</UsePauseScreen>
+    <PauseAutoHotkeyScript />
+    <ResumeAutoHotkeyScript />
+    <OverrideDefaultPauseScreenSettings>false</OverrideDefaultPauseScreenSettings>
+    <SuspendProcessOnPause>false</SuspendProcessOnPause>
+    <ForcefulPauseScreenActivation>false</ForcefulPauseScreenActivation>
+    <LoadStateAutoHotkeyScript />
+    <SaveStateAutoHotkeyScript />
+    <ResetAutoHotkeyScript />
+    <SwapDiscsAutoHotkeyScript />
+    <CustomDosBoxVersionPath />
+    <ReleaseType>Released</ReleaseType>
+    <MaxPlayers>1</MaxPlayers>
+    <VideoUrl />
+    <AndroidBoxFrontThumbPath />
+    <AndroidBoxFrontFullPath />
+    <AndroidClearLogoThumbPath />
+    <AndroidClearLogoFullPath />
+    <AndroidBackgroundPath />
+    <AndroidBackgroundThumbPath />
+    <AndroidGameTitleScreenshotThumbPath />
+    <AndroidGameplayScreenshotThumbPath />
+    <AndroidGameTitleScreenshotPath />
+    <AndroidGameplayScreenshotPath />
+    <AndroidVideoPath />
+    <HasCloudSynced>false</HasCloudSynced>
+  </Game>
+  <Game>
+    <GogAppId />
+    <OriginAppId />
+    <OriginInstallPath />
+    <VideoPath />
+    <ThemeVideoPath />
+    <ApplicationPath>S:\roms-translated-1g1r\archive-org-nintendo-wii\Soul Eater - Monotone Princess (Japan) [T-En by Anime Game Translations Team v1.0].zip</ApplicationPath>
+    <CommandLine />
+    <Completed>false</Completed>
+    <ConfigurationCommandLine />
+    <ConfigurationPath />
+    <DateAdded>2023-12-25T19:16:39.3133453+08:00</DateAdded>
+    <DateModified>2024-01-26T01:05:16.3446834+08:00</DateModified>
+    <Developer>Square Enix</Developer>
+    <DosBoxConfigurationPath />
+    <Emulator>d66bc5b0-a990-48b4-ad28-c9841d92e214</Emulator>
+    <Favorite>false</Favorite>
+    <ID>a9b10d24-04f0-4a9c-973d-562a2bf2e0fa</ID>
+    <ManualPath />
+    <MusicPath />
+    <Notes>Three Soul Eater video games were produced. The first, Soul Eater: Monotone Princess, is an action-adventure video game exclusively for the Wii and developed by Square Enix with Bones. It was released on September 25, 2008 in Japan. Two characters that appear in the game, Grimoire and Ponera, are original characters designed by author Atsushi Ōkubo; Ponera is the titular Monotone Princess and Grimoire is known as Noah in the manga.
+
+The player controls a Meister, either Maka, Black Star or Death the Kid, accompanied by their Weapon partner to fight those masked creatures. The game is separated in a number of missions leading to a boss fight. A number of foes, displayed in the lower-right corner, must be found and defeated in each stage. While exploring, the Weapon follows the Meister in human form, and changes into a weapon when enemies are encountered. Health is replenished by sun icons found by breaking crates lying around during exploration phases. Once the target number of defeated foes is reached, the level is cleared, and the player is rated on clear time, damage taken, number of hits and level bonus. The next mission can then be selected.</Notes>
+    <Platform>Nintendo Wii [T-En]</Platform>
+    <Publisher>Square Enix</Publisher>
+    <Rating>Not Rated</Rating>
+    <ReleaseDate>2008-09-25T15:00:00+08:00</ReleaseDate>
+    <RootFolder />
+    <ScummVMAspectCorrection>false</ScummVMAspectCorrection>
+    <ScummVMFullscreen>false</ScummVMFullscreen>
+    <ScummVMGameDataFolderPath />
+    <ScummVMGameType />
+    <SortTitle />
+    <Source />
+    <StarRatingFloat>0</StarRatingFloat>
+    <StarRating>0</StarRating>
+    <CommunityStarRating>4</CommunityStarRating>
+    <CommunityStarRatingTotalVotes>2</CommunityStarRatingTotalVotes>
+    <Status>Imported ROM</Status>
+    <DatabaseID>178467</DatabaseID>
+    <WikipediaURL>https://en.wikipedia.org/wiki/Soul_Eater_(manga)</WikipediaURL>
+    <Title>Soul Eater: Monotone Princess</Title>
+    <UseDosBox>false</UseDosBox>
+    <UseScummVM>false</UseScummVM>
+    <Version>(Japan) [T-En by Anime Game Translations Team v1.0]</Version>
+    <Series />
+    <PlayMode>Multiplayer</PlayMode>
+    <Region>Japan</Region>
+    <PlayCount>0</PlayCount>
+    <PlayTime>0</PlayTime>
+    <Portable>false</Portable>
+    <Hide>false</Hide>
+    <Broken>false</Broken>
+    <CloneOf />
+    <Genre>Action; Adventure</Genre>
+    <MissingVideo>false</MissingVideo>
+    <MissingBoxFrontImage>false</MissingBoxFrontImage>
+    <MissingScreenshotImage>false</MissingScreenshotImage>
+    <MissingMarqueeImage>true</MissingMarqueeImage>
+    <MissingClearLogoImage>false</MissingClearLogoImage>
+    <MissingBackgroundImage>true</MissingBackgroundImage>
+    <MissingBox3dImage>false</MissingBox3dImage>
+    <MissingCartImage>false</MissingCartImage>
+    <MissingCart3dImage>true</MissingCart3dImage>
+    <MissingManual>true</MissingManual>
+    <MissingBannerImage>false</MissingBannerImage>
+    <MissingMusic>true</MissingMusic>
+    <UseStartupScreen>false</UseStartupScreen>
+    <HideAllNonExclusiveFullscreenWindows>false</HideAllNonExclusiveFullscreenWindows>
+    <StartupLoadDelay>0</StartupLoadDelay>
+    <HideMouseCursorInGame>false</HideMouseCursorInGame>
+    <DisableShutdownScreen>false</DisableShutdownScreen>
+    <AggressiveWindowHiding>false</AggressiveWindowHiding>
+    <OverrideDefaultStartupScreenSettings>false</OverrideDefaultStartupScreenSettings>
+    <UsePauseScreen>false</UsePauseScreen>
+    <PauseAutoHotkeyScript />
+    <ResumeAutoHotkeyScript />
+    <OverrideDefaultPauseScreenSettings>false</OverrideDefaultPauseScreenSettings>
+    <SuspendProcessOnPause>false</SuspendProcessOnPause>
+    <ForcefulPauseScreenActivation>false</ForcefulPauseScreenActivation>
+    <LoadStateAutoHotkeyScript />
+    <SaveStateAutoHotkeyScript />
+    <ResetAutoHotkeyScript />
+    <SwapDiscsAutoHotkeyScript />
+    <CustomDosBoxVersionPath />
+    <ReleaseType>Released</ReleaseType>
+    <MaxPlayers>0</MaxPlayers>
+    <VideoUrl />
+    <AndroidBoxFrontThumbPath />
+    <AndroidBoxFrontFullPath />
+    <AndroidClearLogoThumbPath />
+    <AndroidClearLogoFullPath />
+    <AndroidBackgroundPath />
+    <AndroidBackgroundThumbPath />
+    <AndroidGameTitleScreenshotThumbPath />
+    <AndroidGameplayScreenshotThumbPath />
+    <AndroidGameTitleScreenshotPath />
+    <AndroidGameplayScreenshotPath />
+    <AndroidVideoPath />
+    <HasCloudSynced>false</HasCloudSynced>
+  </Game>
+  <Game>
+    <GogAppId />
+    <OriginAppId />
+    <OriginInstallPath />
+    <VideoPath />
+    <ThemeVideoPath />
+    <ApplicationPath>S:\roms-translated-1g1r\archive-org-nintendo-wii\Takt of Magic (Japan) [T-En by Brand Newman v1.02].zip</ApplicationPath>
+    <CommandLine />
+    <Completed>false</Completed>
+    <ConfigurationCommandLine />
+    <ConfigurationPath />
+    <DateAdded>2023-12-25T19:16:39.3131567+08:00</DateAdded>
+    <DateModified>2024-01-29T01:59:58.3748548+08:00</DateModified>
+    <Developer>Taito</Developer>
+    <DosBoxConfigurationPath />
+    <Emulator>d66bc5b0-a990-48b4-ad28-c9841d92e214</Emulator>
+    <Favorite>false</Favorite>
+    <ID>58622d14-3f4e-4ea1-854a-f8f3b128330e</ID>
+    <ManualPath />
+    <MusicPath />
+    <Notes>Takt of Magic is a game released for Wii in 2009. It is mainly developed by Taito and published by Nintendo. In the game the player will use the Wii Remote to cast spells by drawing a certain pattern. The game has yet to be released outside Japan.</Notes>
+    <Platform>Nintendo Wii [T-En]</Platform>
+    <Publisher>Nintendo</Publisher>
+    <Rating>Not Rated</Rating>
+    <ReleaseDate>2009-05-21T15:00:00+08:00</ReleaseDate>
+    <RootFolder />
+    <ScummVMAspectCorrection>false</ScummVMAspectCorrection>
+    <ScummVMFullscreen>false</ScummVMFullscreen>
+    <ScummVMGameDataFolderPath />
+    <ScummVMGameType />
+    <SortTitle />
+    <Source />
+    <StarRatingFloat>0</StarRatingFloat>
+    <StarRating>0</StarRating>
+    <CommunityStarRating>2.6666667</CommunityStarRating>
+    <CommunityStarRatingTotalVotes>3</CommunityStarRatingTotalVotes>
+    <Status>Imported ROM</Status>
+    <DatabaseID>178433</DatabaseID>
+    <WikipediaURL />
+    <Title>Takt of Magic</Title>
+    <UseDosBox>false</UseDosBox>
+    <UseScummVM>false</UseScummVM>
+    <Version>(Japan) [T-En by Brand Newman v1.02]</Version>
+    <Series />
+    <PlayMode>Multiplayer</PlayMode>
+    <Region>Japan</Region>
+    <PlayCount>0</PlayCount>
+    <PlayTime>0</PlayTime>
+    <Portable>false</Portable>
+    <Hide>false</Hide>
+    <Broken>false</Broken>
+    <CloneOf />
+    <Genre>Role-Playing; Strategy</Genre>
+    <MissingVideo>true</MissingVideo>
+    <MissingBoxFrontImage>false</MissingBoxFrontImage>
+    <MissingScreenshotImage>false</MissingScreenshotImage>
+    <MissingMarqueeImage>true</MissingMarqueeImage>
+    <MissingClearLogoImage>false</MissingClearLogoImage>
+    <MissingBackgroundImage>true</MissingBackgroundImage>
+    <MissingBox3dImage>false</MissingBox3dImage>
+    <MissingCartImage>false</MissingCartImage>
+    <MissingCart3dImage>true</MissingCart3dImage>
+    <MissingManual>true</MissingManual>
+    <MissingBannerImage>false</MissingBannerImage>
+    <MissingMusic>true</MissingMusic>
+    <UseStartupScreen>false</UseStartupScreen>
+    <HideAllNonExclusiveFullscreenWindows>false</HideAllNonExclusiveFullscreenWindows>
+    <StartupLoadDelay>0</StartupLoadDelay>
+    <HideMouseCursorInGame>false</HideMouseCursorInGame>
+    <DisableShutdownScreen>false</DisableShutdownScreen>
+    <AggressiveWindowHiding>false</AggressiveWindowHiding>
+    <OverrideDefaultStartupScreenSettings>false</OverrideDefaultStartupScreenSettings>
+    <UsePauseScreen>false</UsePauseScreen>
+    <PauseAutoHotkeyScript />
+    <ResumeAutoHotkeyScript />
+    <OverrideDefaultPauseScreenSettings>false</OverrideDefaultPauseScreenSettings>
+    <SuspendProcessOnPause>false</SuspendProcessOnPause>
+    <ForcefulPauseScreenActivation>false</ForcefulPauseScreenActivation>
+    <LoadStateAutoHotkeyScript />
+    <SaveStateAutoHotkeyScript />
+    <ResetAutoHotkeyScript />
+    <SwapDiscsAutoHotkeyScript />
+    <CustomDosBoxVersionPath />
+    <ReleaseType>Released</ReleaseType>
+    <MaxPlayers>0</MaxPlayers>
+    <VideoUrl>https://www.youtube.com/watch?v=QTqc_KjX_Ek</VideoUrl>
+    <AndroidBoxFrontThumbPath />
+    <AndroidBoxFrontFullPath />
+    <AndroidClearLogoThumbPath />
+    <AndroidClearLogoFullPath />
+    <AndroidBackgroundPath />
+    <AndroidBackgroundThumbPath />
+    <AndroidGameTitleScreenshotThumbPath />
+    <AndroidGameplayScreenshotThumbPath />
+    <AndroidGameTitleScreenshotPath />
+    <AndroidGameplayScreenshotPath />
+    <AndroidVideoPath />
+    <HasCloudSynced>false</HasCloudSynced>
+  </Game>
+  <Game>
+    <GogAppId />
+    <OriginAppId />
+    <OriginInstallPath />
+    <VideoPath />
+    <ThemeVideoPath />
+    <ApplicationPath>S:\roms-translated-1g1r\archive-org-nintendo-wii\Pokemon Mystery Dungeon - Keep Going! Wildfire Adventure Squad (Japan) (WiiWare) [T-En by Higsby &amp; MegaMinerd &amp; SpecialAgentApe &amp; Wowjinxy v1.03] [n].zip</ApplicationPath>
+    <CommandLine />
+    <Completed>false</Completed>
+    <ConfigurationCommandLine />
+    <ConfigurationPath />
+    <DateAdded>2023-12-25T19:16:39.3105293+08:00</DateAdded>
+    <DateModified>2024-01-29T01:57:53.1249734+08:00</DateModified>
+    <Developer>Chunsoft</Developer>
+    <DosBoxConfigurationPath />
+    <Emulator>d66bc5b0-a990-48b4-ad28-c9841d92e214</Emulator>
+    <Favorite>false</Favorite>
+    <ID>4a7301af-61cf-4f61-b7e4-16e14942a1f1</ID>
+    <ManualPath />
+    <MusicPath />
+    <Notes>Pokémon Fushigi no Dungeon: Susume! Honō no Bōkendan (Pokémon Mystery Dungeon: Keep Going! Blazing Adventure Squad) is a Roguelike video game developed by Chunsoft and published by Nintendo for WiiWare as part of the Pokémon Mystery Dungeon: Adventure Squad! set of games within the Pokémon Mystery Dungeon series. The other games within the generation are Pokémon Fushigi no Dungeon: Ikuzo! Arashi no Bōkendan (Pokémon Mystery Dungeon: Let's Go! Stormy Adventure Squad!) and Pokémon Fushigi no Dungeon: Mezase! Hikari no Bōkendan (Pokémon Mystery Dungeon: Go For It! Light Adventure Squad!) Much like standard Pokémon releases, all three games share the same engine, artwork, and environments; however each game has entirely unique dungeons built from the shared assets. They were the first Pokémon Mystery Dungeon titles to be released on a console, and the first to be a Japanese exclusive.</Notes>
+    <Platform>Nintendo Wii [T-En]</Platform>
+    <Publisher>Nintendo</Publisher>
+    <Rating>Not Rated</Rating>
+    <ReleaseDate>2009-08-04T15:00:00+08:00</ReleaseDate>
+    <RootFolder />
+    <ScummVMAspectCorrection>false</ScummVMAspectCorrection>
+    <ScummVMFullscreen>false</ScummVMFullscreen>
+    <ScummVMGameDataFolderPath />
+    <ScummVMGameType />
+    <SortTitle />
+    <Source />
+    <StarRatingFloat>0</StarRatingFloat>
+    <StarRating>0</StarRating>
+    <CommunityStarRating>3.5625</CommunityStarRating>
+    <CommunityStarRatingTotalVotes>8</CommunityStarRatingTotalVotes>
+    <Status>Imported ROM</Status>
+    <DatabaseID>127070</DatabaseID>
+    <WikipediaURL />
+    <Title>Pokemon Mystery Dungeon: Keep Going! Wildfire Adventure Squad</Title>
+    <UseDosBox>false</UseDosBox>
+    <UseScummVM>false</UseScummVM>
+    <Version>(Japan) (WiiWare) [T-En by Higsby &amp; MegaMinerd &amp; SpecialAgentApe &amp; Wowjinxy v1.03] [n]</Version>
+    <Series />
+    <PlayMode>Single Player</PlayMode>
+    <Region>Japan</Region>
+    <PlayCount>0</PlayCount>
+    <PlayTime>0</PlayTime>
+    <Portable>false</Portable>
+    <Hide>false</Hide>
+    <Broken>false</Broken>
+    <CloneOf />
+    <Genre>Adventure; Role-Playing</Genre>
+    <MissingVideo>true</MissingVideo>
+    <MissingBoxFrontImage>false</MissingBoxFrontImage>
+    <MissingScreenshotImage>false</MissingScreenshotImage>
+    <MissingMarqueeImage>true</MissingMarqueeImage>
+    <MissingClearLogoImage>false</MissingClearLogoImage>
+    <MissingBackgroundImage>true</MissingBackgroundImage>
+    <MissingBox3dImage>false</MissingBox3dImage>
+    <MissingCartImage>true</MissingCartImage>
+    <MissingCart3dImage>true</MissingCart3dImage>
+    <MissingManual>true</MissingManual>
+    <MissingBannerImage>false</MissingBannerImage>
+    <MissingMusic>true</MissingMusic>
+    <UseStartupScreen>false</UseStartupScreen>
+    <HideAllNonExclusiveFullscreenWindows>false</HideAllNonExclusiveFullscreenWindows>
+    <StartupLoadDelay>0</StartupLoadDelay>
+    <HideMouseCursorInGame>false</HideMouseCursorInGame>
+    <DisableShutdownScreen>false</DisableShutdownScreen>
+    <AggressiveWindowHiding>false</AggressiveWindowHiding>
+    <OverrideDefaultStartupScreenSettings>false</OverrideDefaultStartupScreenSettings>
+    <UsePauseScreen>false</UsePauseScreen>
+    <PauseAutoHotkeyScript />
+    <ResumeAutoHotkeyScript />
+    <OverrideDefaultPauseScreenSettings>false</OverrideDefaultPauseScreenSettings>
+    <SuspendProcessOnPause>false</SuspendProcessOnPause>
+    <ForcefulPauseScreenActivation>false</ForcefulPauseScreenActivation>
+    <LoadStateAutoHotkeyScript />
+    <SaveStateAutoHotkeyScript />
+    <ResetAutoHotkeyScript />
+    <SwapDiscsAutoHotkeyScript />
+    <CustomDosBoxVersionPath />
+    <ReleaseType>Released</ReleaseType>
+    <MaxPlayers>1</MaxPlayers>
+    <VideoUrl />
+    <AndroidBoxFrontThumbPath />
+    <AndroidBoxFrontFullPath />
+    <AndroidClearLogoThumbPath />
+    <AndroidClearLogoFullPath />
+    <AndroidBackgroundPath />
+    <AndroidBackgroundThumbPath />
+    <AndroidGameTitleScreenshotThumbPath />
+    <AndroidGameplayScreenshotThumbPath />
+    <AndroidGameTitleScreenshotPath />
+    <AndroidGameplayScreenshotPath />
+    <AndroidVideoPath />
+    <HasCloudSynced>false</HasCloudSynced>
+  </Game>
+  <AlternateName>
+    <GameID>c6377700-451f-4616-aefe-d5ad85045af0</GameID>
+    <Name>斬撃のレギンレイヴ</Name>
+    <Region>Japan</Region>
+  </AlternateName>
+  <AlternateName>
+    <GameID>c6377700-451f-4616-aefe-d5ad85045af0</GameID>
+    <Name>Zangeki no Reginleiv</Name>
+    <Region />
+  </AlternateName>
+  <AlternateName>
+    <GameID>b9f4b352-bf27-4ef7-8824-6dbefee39ef0</GameID>
+    <Name>イケニエノヨル</Name>
+    <Region>Japan</Region>
+  </AlternateName>
+  <AlternateName>
+    <GameID>b9f4b352-bf27-4ef7-8824-6dbefee39ef0</GameID>
+    <Name>活祭之夜</Name>
+    <Region>China</Region>
+  </AlternateName>
+  <AlternateName>
+    <GameID>b9f4b352-bf27-4ef7-8824-6dbefee39ef0</GameID>
+    <Name>Ikenie no Yoru</Name>
+    <Region />
+  </AlternateName>
+  <AlternateName>
+    <GameID>883e987b-92db-40ae-aa5d-d0832f36033b</GameID>
+    <Name>Pokémon Fushigi no Dungeon: Mezase! Hikari no Bōkendan</Name>
+    <Region>Japan</Region>
+  </AlternateName>
+  <AlternateName>
+    <GameID>883e987b-92db-40ae-aa5d-d0832f36033b</GameID>
+    <Name>Pokémon Mystery Dungeon: Go For It! Light Adventure Squad</Name>
+    <Region />
+  </AlternateName>
+  <AlternateName>
+    <GameID>883e987b-92db-40ae-aa5d-d0832f36033b</GameID>
+    <Name>Pokemon Fushigi no Dungeon: Mezase! Hikari no Boukendan</Name>
+    <Region />
+  </AlternateName>
+  <AlternateName>
+    <GameID>883e987b-92db-40ae-aa5d-d0832f36033b</GameID>
+    <Name>Pokemon Mystery Dungeon Go For It Light Adventure Squad</Name>
+    <Region />
+  </AlternateName>
+  <AlternateName>
+    <GameID>392643e6-57b6-42ae-a344-ca74a2091516</GameID>
+    <Name>オプーナ</Name>
+    <Region>Japan</Region>
+  </AlternateName>
+  <AlternateName>
+    <GameID>eb7bdd97-8762-44a5-97c4-4145bcf7493b</GameID>
+    <Name>Fatal Frame IV: Mask of the Lunar Eclipse</Name>
+    <Region />
+  </AlternateName>
+  <AlternateName>
+    <GameID>eb7bdd97-8762-44a5-97c4-4145bcf7493b</GameID>
+    <Name>Zero: Tsukihami no Kamen</Name>
+    <Region />
+  </AlternateName>
+  <AlternateName>
+    <GameID>152e1c14-1862-47b0-9922-e6500b59ee34</GameID>
+    <Name>Earth Seeker</Name>
+    <Region />
+  </AlternateName>
+  <AlternateName>
+    <GameID>0ab55ab8-33cc-4382-bd1b-66077c3d5a69</GameID>
+    <Name>Pokémon Fushigi no Dungeon: Ikuzo! Arashi no Bōkendan</Name>
+    <Region>Japan</Region>
+  </AlternateName>
+  <AlternateName>
+    <GameID>0ab55ab8-33cc-4382-bd1b-66077c3d5a69</GameID>
+    <Name>Pokémon Mystery Dungeon: Let's Go! Stormy Adventure Squad</Name>
+    <Region />
+  </AlternateName>
+  <AlternateName>
+    <GameID>0ab55ab8-33cc-4382-bd1b-66077c3d5a69</GameID>
+    <Name>Pokemon Fushigi no Dungeon: Ikuzo! Arashi no Boukendan</Name>
+    <Region>Japan</Region>
+  </AlternateName>
+  <AlternateName>
+    <GameID>a9b10d24-04f0-4a9c-973d-562a2bf2e0fa</GameID>
+    <Name>Soul Eater</Name>
+    <Region />
+  </AlternateName>
+  <AlternateName>
+    <GameID>4a7301af-61cf-4f61-b7e4-16e14942a1f1</GameID>
+    <Name>Pokémon Fushigi no Dungeon: Susume! Honō no Bōkendan</Name>
+    <Region>Japan</Region>
+  </AlternateName>
+  <AlternateName>
+    <GameID>4a7301af-61cf-4f61-b7e4-16e14942a1f1</GameID>
+    <Name>Pokemon Fushigi no Dungeon: Susume! Honou no Boukendan</Name>
+    <Region>Japan</Region>
+  </AlternateName>
+  <AlternateName>
+    <GameID>4a7301af-61cf-4f61-b7e4-16e14942a1f1</GameID>
+    <Name>Pokémon Mystery Dungeon: Keep Going! Blazing Adventure Squad</Name>
+    <Region />
+  </AlternateName>
+  <AlternateName>
+    <GameID>4a7301af-61cf-4f61-b7e4-16e14942a1f1</GameID>
+    <Name>Pokemon Mystery Dungeon Keep Going Blazing Adventure Squad</Name>
+    <Region />
+  </AlternateName>
+  <AlternateName>
+    <GameID>4a7301af-61cf-4f61-b7e4-16e14942a1f1</GameID>
+    <Name>Pokemon Fushigi no Dungeon: Susume! Honoo no Boukendan</Name>
+    <Region />
+  </AlternateName>
+  <GameControllerSupport>
+    <ControllerId>80204c38-9303-44a0-917d-29b1f39ca49d</ControllerId>
+    <GameId>8f22ba3f-18d0-4d87-9b6f-6e73a4d7b0b3</GameId>
+    <SupportLevel>3</SupportLevel>
+  </GameControllerSupport>
+  <GameControllerSupport>
+    <ControllerId>f0297b00-a014-4653-ba76-51bd4c4ed435</ControllerId>
+    <GameId>8f22ba3f-18d0-4d87-9b6f-6e73a4d7b0b3</GameId>
+  </GameControllerSupport>
+  <GameControllerSupport>
+    <ControllerId>f5bce82f-457b-4666-9a92-589ec7d4295a</ControllerId>
+    <GameId>8f22ba3f-18d0-4d87-9b6f-6e73a4d7b0b3</GameId>
+  </GameControllerSupport>
+  <GameControllerSupport>
+    <ControllerId>259c4328-3d5b-4051-87ee-cf3de78d5050</ControllerId>
+    <GameId>8f22ba3f-18d0-4d87-9b6f-6e73a4d7b0b3</GameId>
+  </GameControllerSupport>
+  <GameControllerSupport>
+    <ControllerId>80204c38-9303-44a0-917d-29b1f39ca49d</ControllerId>
+    <GameId>672f3588-f3d8-4322-a409-c506144f3d3b</GameId>
+    <SupportLevel>3</SupportLevel>
+  </GameControllerSupport>
+  <GameControllerSupport>
+    <ControllerId>f0297b00-a014-4653-ba76-51bd4c4ed435</ControllerId>
+    <GameId>672f3588-f3d8-4322-a409-c506144f3d3b</GameId>
+    <SupportLevel>3</SupportLevel>
+  </GameControllerSupport>
+  <GameControllerSupport>
+    <ControllerId>80204c38-9303-44a0-917d-29b1f39ca49d</ControllerId>
+    <GameId>392643e6-57b6-42ae-a344-ca74a2091516</GameId>
+    <SupportLevel>3</SupportLevel>
+  </GameControllerSupport>
+  <GameControllerSupport>
+    <ControllerId>f0297b00-a014-4653-ba76-51bd4c4ed435</ControllerId>
+    <GameId>392643e6-57b6-42ae-a344-ca74a2091516</GameId>
+    <SupportLevel>3</SupportLevel>
+  </GameControllerSupport>
+  <GameControllerSupport>
+    <ControllerId>f5bce82f-457b-4666-9a92-589ec7d4295a</ControllerId>
+    <GameId>392643e6-57b6-42ae-a344-ca74a2091516</GameId>
+  </GameControllerSupport>
+  <GameControllerSupport>
+    <ControllerId>80204c38-9303-44a0-917d-29b1f39ca49d</ControllerId>
+    <GameId>3cfb55d4-95d3-42c5-8822-69807eb3c680</GameId>
+    <SupportLevel>3</SupportLevel>
+  </GameControllerSupport>
+  <GameControllerSupport>
+    <ControllerId>f0297b00-a014-4653-ba76-51bd4c4ed435</ControllerId>
+    <GameId>3cfb55d4-95d3-42c5-8822-69807eb3c680</GameId>
+  </GameControllerSupport>
+  <GameControllerSupport>
+    <ControllerId>f5bce82f-457b-4666-9a92-589ec7d4295a</ControllerId>
+    <GameId>3cfb55d4-95d3-42c5-8822-69807eb3c680</GameId>
+  </GameControllerSupport>
+  <GameControllerSupport>
+    <ControllerId>259c4328-3d5b-4051-87ee-cf3de78d5050</ControllerId>
+    <GameId>3cfb55d4-95d3-42c5-8822-69807eb3c680</GameId>
+  </GameControllerSupport>
+  <GameControllerSupport>
+    <ControllerId>80204c38-9303-44a0-917d-29b1f39ca49d</ControllerId>
+    <GameId>6e3ba069-fd7a-4681-b530-8b3446e46586</GameId>
+    <SupportLevel>3</SupportLevel>
+  </GameControllerSupport>
+  <GameControllerSupport>
+    <ControllerId>f0297b00-a014-4653-ba76-51bd4c4ed435</ControllerId>
+    <GameId>6e3ba069-fd7a-4681-b530-8b3446e46586</GameId>
+    <SupportLevel>3</SupportLevel>
+  </GameControllerSupport>
+  <GameControllerSupport>
+    <ControllerId>f5bce82f-457b-4666-9a92-589ec7d4295a</ControllerId>
+    <GameId>6e3ba069-fd7a-4681-b530-8b3446e46586</GameId>
+  </GameControllerSupport>
+  <GameControllerSupport>
+    <ControllerId>259c4328-3d5b-4051-87ee-cf3de78d5050</ControllerId>
+    <GameId>6e3ba069-fd7a-4681-b530-8b3446e46586</GameId>
+  </GameControllerSupport>
+  <GameControllerSupport>
+    <ControllerId>80204c38-9303-44a0-917d-29b1f39ca49d</ControllerId>
+    <GameId>ed2ca2cb-bd48-42a5-b8e3-8c98d9819387</GameId>
+    <SupportLevel>3</SupportLevel>
+  </GameControllerSupport>
+  <GameControllerSupport>
+    <ControllerId>f0297b00-a014-4653-ba76-51bd4c4ed435</ControllerId>
+    <GameId>ed2ca2cb-bd48-42a5-b8e3-8c98d9819387</GameId>
+  </GameControllerSupport>
+  <GameControllerSupport>
+    <ControllerId>80204c38-9303-44a0-917d-29b1f39ca49d</ControllerId>
+    <GameId>58622d14-3f4e-4ea1-854a-f8f3b128330e</GameId>
+    <SupportLevel>3</SupportLevel>
+  </GameControllerSupport>
+  <GameControllerSupport>
+    <ControllerId>f0297b00-a014-4653-ba76-51bd4c4ed435</ControllerId>
+    <GameId>58622d14-3f4e-4ea1-854a-f8f3b128330e</GameId>
+    <SupportLevel>3</SupportLevel>
+  </GameControllerSupport>
+</LaunchBox>
