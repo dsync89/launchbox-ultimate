@@ -1,0 +1,604 @@
+<?xml version="1.0" encoding="us-ascii" standalone="yes"?>
+<Config>
+  <ApplName>U_HID Configuration Utility</ApplName>
+  <FileName>minipac.png</FileName>
+  <pins>
+    <Height>18</Height>
+    <Width>17</Width>
+    <Pin00>
+      <Title></Title>
+      <Options>0</Options>
+      <Sequence>0</Sequence>
+      <X-Axis>34</X-Axis>
+      <Y-Axis>274</Y-Axis>
+    </Pin00>
+    <Pin01>
+      <Title>GND</Title>
+      <Options>128</Options>
+      <Sequence>0</Sequence>
+      <X-Axis>34</X-Axis>
+      <Y-Axis>293</Y-Axis>
+    </Pin01>
+    <Pin02>
+      <Title>2B</Title>
+      <Options>3</Options>
+      <Sequence>4</Sequence>
+      <X-Axis>52</X-Axis>
+      <Y-Axis>274</Y-Axis>
+    </Pin02>
+    <Pin03>
+      <Title>2A</Title>
+      <Options>3</Options>
+      <Sequence>6</Sequence>
+      <X-Axis>52</X-Axis>
+      <Y-Axis>293</Y-Axis>
+    </Pin03>
+    <Pin04>
+      <Title>1B</Title>
+      <Options>3</Options>
+      <Sequence>8</Sequence>
+      <X-Axis>70</X-Axis>
+      <Y-Axis>274</Y-Axis>
+    </Pin04>
+    <Pin05>
+      <Title>1A</Title>
+      <Options>3</Options>
+      <Sequence>10</Sequence>
+      <X-Axis>70</X-Axis>
+      <Y-Axis>293</Y-Axis>
+    </Pin05>
+    <Pin06>
+      <Title>2 SW 8</Title>
+      <Options>3</Options>
+      <Sequence>11</Sequence>
+      <X-Axis>88</X-Axis>
+      <Y-Axis>274</Y-Axis>
+    </Pin06>
+    <Pin07>
+      <Title>2 SW 7</Title>
+      <Options>3</Options>
+      <Sequence>9</Sequence>
+      <X-Axis>88</X-Axis>
+      <Y-Axis>293</Y-Axis>
+    </Pin07>
+    <Pin08>
+      <Title>2 SW 6</Title>
+      <Options>3</Options>
+      <Sequence>7</Sequence>
+      <X-Axis>106</X-Axis>
+      <Y-Axis>274</Y-Axis>
+    </Pin08>
+    <Pin09>
+      <Title>2 SW 5</Title>
+      <Options>3</Options>
+      <Sequence>5</Sequence>
+      <X-Axis>106</X-Axis>
+      <Y-Axis>293</Y-Axis>
+    </Pin09>
+    <Pin10>
+      <Title></Title>
+      <Options>0</Options>
+      <Sequence>0</Sequence>
+      <X-Axis>125</X-Axis>
+      <Y-Axis>274</Y-Axis>
+    </Pin10>
+    <Pin11>
+      <Title>GND</Title>
+      <Options>128</Options>
+      <Sequence>0</Sequence>
+      <X-Axis>125</X-Axis>
+      <Y-Axis>293</Y-Axis>
+    </Pin11>
+    <Pin12>
+      <Title>2 SW 4</Title>
+      <Options>3</Options>
+      <Sequence>27</Sequence>
+      <X-Axis>143</X-Axis>
+      <Y-Axis>274</Y-Axis>
+    </Pin12>
+    <Pin13>
+      <Title>2 SW 3</Title>
+      <Options>3</Options>
+      <Sequence>25</Sequence>
+      <X-Axis>143</X-Axis>
+      <Y-Axis>293</Y-Axis>
+    </Pin13>
+    <Pin14>
+      <Title>2 SW 2</Title>
+      <Options>3</Options>
+      <Sequence>23</Sequence>
+      <X-Axis>161</X-Axis>
+      <Y-Axis>274</Y-Axis>
+    </Pin14>
+    <Pin15>
+      <Title>2 SW 1</Title>
+      <Options>3</Options>
+      <Sequence>21</Sequence>
+      <X-Axis>161</X-Axis>
+      <Y-Axis>293</Y-Axis>
+    </Pin15>
+    <Pin16>
+      <Title>2 DOWN</Title>
+      <Options>3</Options>
+      <Sequence>43</Sequence>
+      <X-Axis>179</X-Axis>
+      <Y-Axis>274</Y-Axis>
+    </Pin16>
+    <Pin17>
+      <Title>2 UP</Title>
+      <Options>3</Options>
+      <Sequence>41</Sequence>
+      <X-Axis>179</X-Axis>
+      <Y-Axis>293</Y-Axis>
+    </Pin17>
+    <Pin18>
+      <Title>2 LEFT</Title>
+      <Options>3</Options>
+      <Sequence>39</Sequence>
+      <X-Axis>197</X-Axis>
+      <Y-Axis>274</Y-Axis>
+    </Pin18>
+    <Pin19>
+      <Title>2 RIGHT</Title>
+      <Options>3</Options>
+      <Sequence>37</Sequence>
+      <X-Axis>197</X-Axis>
+      <Y-Axis>293</Y-Axis>
+    </Pin19>
+    <Pin20>
+      <Title></Title>
+      <Options>0</Options>
+      <Sequence>0</Sequence>
+      <X-Axis>215</X-Axis>
+      <Y-Axis>274</Y-Axis>
+    </Pin20>
+    <Pin21>
+      <Title>GND</Title>
+      <Options>128</Options>
+      <Sequence>0</Sequence>
+      <X-Axis>215</X-Axis>
+      <Y-Axis>293</Y-Axis>
+    </Pin21>
+    <Pin22>
+      <Title>COIN 2</Title>
+      <Options>3</Options>
+      <Sequence>35</Sequence>
+      <X-Axis>233</X-Axis>
+      <Y-Axis>274</Y-Axis>
+    </Pin22>
+    <Pin23>
+      <Title>COIN 1</Title>
+      <Options>3</Options>
+      <Sequence>33</Sequence>
+      <X-Axis>233</X-Axis>
+      <Y-Axis>293</Y-Axis>
+    </Pin23>
+    <Pin24>
+      <Title>START 2</Title>
+      <Options>3</Options>
+      <Sequence>31</Sequence>
+      <X-Axis>251</X-Axis>
+      <Y-Axis>274</Y-Axis>
+    </Pin24>
+    <Pin25>
+      <Title>START 1</Title>
+      <Options>3</Options>
+      <Sequence>29</Sequence>
+      <X-Axis>251</X-Axis>
+      <Y-Axis>293</Y-Axis>
+    </Pin25>
+    <Pin26>
+      <Title>1 SW 8</Title>
+      <Options>3</Options>
+      <Sequence>51</Sequence>
+      <JoinedPin>26</JoinedPin>
+      <X-Axis>269</X-Axis>
+      <Y-Axis>274</Y-Axis>
+    </Pin26>
+    <Pin27>
+      <Title>1 SW 7</Title>
+      <Options>3</Options>
+      <Sequence>49</Sequence>
+      <X-Axis>269</X-Axis>
+      <Y-Axis>293</Y-Axis>
+    </Pin27>
+    <Pin28>
+      <Title>1 SW 6</Title>
+      <Options>3</Options>
+      <Sequence>47</Sequence>
+      <X-Axis>287</X-Axis>
+      <Y-Axis>274</Y-Axis>
+    </Pin28>
+    <Pin29>
+      <Title>1 SW 5</Title>
+      <Options>3</Options>
+      <Sequence>45</Sequence>
+      <X-Axis>287</X-Axis>
+      <Y-Axis>293</Y-Axis>
+    </Pin29>
+    <Pin30>
+      <Title></Title>
+      <Options>0</Options>
+      <Sequence>0</Sequence>
+      <X-Axis>306</X-Axis>
+      <Y-Axis>274</Y-Axis>
+    </Pin30>
+    <Pin31>
+      <Title>GND</Title>
+      <Options>128</Options>
+      <Sequence>0</Sequence>
+      <X-Axis>306</X-Axis>
+      <Y-Axis>293</Y-Axis>
+    </Pin31>
+    <Pin32>
+      <Title>1 SW 4</Title>
+      <Options>3</Options>
+      <Sequence>19</Sequence>
+      <X-Axis>324</X-Axis>
+      <Y-Axis>274</Y-Axis>
+    </Pin32>
+    <Pin33>
+      <Title>1 SW 3</Title>
+      <Options>3</Options>
+      <Sequence>17</Sequence>
+      <X-Axis>324</X-Axis>
+      <Y-Axis>293</Y-Axis>
+    </Pin33>
+    <Pin34>
+      <Title>1 SW 2</Title>
+      <Options>3</Options>
+      <Sequence>15</Sequence>
+      <X-Axis>342</X-Axis>
+      <Y-Axis>274</Y-Axis>
+    </Pin34>
+    <Pin35>
+      <Title>1 SW 1</Title>
+      <Options>3</Options>
+      <Sequence>13</Sequence>
+      <X-Axis>342</X-Axis>
+      <Y-Axis>293</Y-Axis>
+    </Pin35>
+    <Pin36>
+      <Title>1 DOWN</Title>
+      <Options>3</Options>
+      <Sequence>12</Sequence>
+      <X-Axis>360</X-Axis>
+      <Y-Axis>274</Y-Axis>
+    </Pin36>
+    <Pin37>
+      <Title>1 UP</Title>
+      <Options>3</Options>
+      <Sequence>14</Sequence>
+      <X-Axis>360</X-Axis>
+      <Y-Axis>293</Y-Axis>
+    </Pin37>
+    <Pin38>
+      <Title>1 LEFT</Title>
+      <Options>3</Options>
+      <Sequence>16</Sequence>
+      <X-Axis>378</X-Axis>
+      <Y-Axis>274</Y-Axis>
+    </Pin38>
+    <Pin39>
+      <Title>1 RIGHT</Title>
+      <Options>3</Options>
+      <Sequence>18</Sequence>
+       <X-Axis>378</X-Axis>
+      <Y-Axis>293</Y-Axis>
+    </Pin39>
+    <Pin40>
+      <Title></Title>
+      <Options>0</Options>
+      <Sequence>0</Sequence>
+      <X-Axis>106</X-Axis>
+      <Y-Axis>84</Y-Axis>
+    </Pin40>
+    <Pin41>
+      <Title>GND</Title>
+      <Options>128</Options>
+      <Sequence>0</Sequence>
+      <X-Axis>106</X-Axis>
+      <Y-Axis>65</Y-Axis>
+    </Pin41>
+    <Pin42>
+      <Title>MO RIGHT</Title>
+      <Options>3</Options>
+      <Sequence>38</Sequence>
+      <X-Axis>88</X-Axis>
+      <Y-Axis>84</Y-Axis>
+    </Pin42>
+    <Pin43>
+      <Title>MO LEFT</Title>
+      <Options>3</Options>
+      <Sequence>36</Sequence>
+      <X-Axis>88</X-Axis>
+      <Y-Axis>65</Y-Axis>
+    </Pin43>
+    <Pin44>
+      <Title>TB Y2</Title>
+      <Options>255</Options>
+      <Sequence>0</Sequence>
+      <X-Axis>70</X-Axis>
+      <Y-Axis>84</Y-Axis>
+    </Pin44>
+    <Pin45>
+      <Title>TB Y1</Title>
+      <Options>255</Options>
+      <Sequence>0</Sequence>
+      <X-Axis>70</X-Axis>
+      <Y-Axis>65</Y-Axis>
+    </Pin45>
+    <Pin46>
+      <Title>TB X2</Title>
+      <Options>255</Options>
+      <Sequence>0</Sequence>
+      <QuadPartner>47</QuadPartner>
+      <X-Axis>52</X-Axis>
+      <Y-Axis>84</Y-Axis>
+    </Pin46>
+    <Pin47>
+      <Title>TB X1</Title>
+      <Options>255</Options>
+      <Sequence>0</Sequence>
+      <X-Axis>52</X-Axis>
+      <Y-Axis>65</Y-Axis>
+    </Pin47>
+    <Pin48>
+      <Title>SPIN X2</Title>
+      <Options>255</Options>
+      <Sequence>0</Sequence>
+      <X-Axis>34</X-Axis>
+      <Y-Axis>84</Y-Axis>
+    </Pin48>
+    <Pin49>
+      <Title>SPIN X1</Title>
+      <Options>255</Options>
+      <Sequence>0</Sequence>
+       <X-Axis>34</X-Axis>
+      <Y-Axis>65</Y-Axis>
+    </Pin49>
+    <Pin50>
+      <Title>J6 Pin 1</Title>
+      <Options>0</Options>
+      <Sequence>0</Sequence>
+      <X-Axis>196</X-Axis>
+      <Y-Axis>84</Y-Axis>
+    </Pin50>
+    <Pin51>
+      <Title>J6 Pin 2</Title>
+      <Options>1</Options>
+      <Sequence>0</Sequence>
+      <X-Axis>196</X-Axis>
+      <Y-Axis>65</Y-Axis>
+    </Pin51>
+    <Pin52>
+      <Title>J6 Pin 3</Title>
+      <Options>1</Options>
+      <Sequence>0</Sequence>
+      <X-Axis>178</X-Axis>
+      <Y-Axis>84</Y-Axis>
+    </Pin52>
+    <Pin53>
+      <Title>J6 Pin 4</Title>
+      <Options>1</Options>
+      <Sequence>0</Sequence>
+      <X-Axis>178</X-Axis>
+      <Y-Axis>65</Y-Axis>
+    </Pin53>
+    <Pin54>
+      <Title>J6 Pin 5</Title>
+      <Options>1</Options>
+      <Sequence>0</Sequence>
+      <X-Axis>160</X-Axis>
+      <Y-Axis>84</Y-Axis>
+    </Pin54>
+    <Pin55>
+      <Title>J6 Pin 6</Title>
+      <Options>1</Options>
+      <Sequence>0</Sequence>
+      <X-Axis>160</X-Axis>
+      <Y-Axis>65</Y-Axis>
+    </Pin55>
+    <Pin56>
+      <Title>J6 Pin 7</Title>
+      <Options>1</Options>
+      <Sequence>0</Sequence>
+      <X-Axis>142</X-Axis>
+      <Y-Axis>84</Y-Axis>
+    </Pin56>
+    <Pin57>
+      <Title>J6 Pin 8</Title>
+      <Options>1</Options>
+      <Sequence>0</Sequence>
+      <X-Axis>142</X-Axis>
+      <Y-Axis>65</Y-Axis>
+    </Pin57>
+    <Pin58>
+      <Title>J6 Pin 9</Title>
+      <Options>1</Options>
+      <Sequence>0</Sequence>
+      <X-Axis>124</X-Axis>
+      <Y-Axis>84</Y-Axis>
+    </Pin58>
+    <Pin59>
+      <Title>J6 Pin 10</Title>
+      <Options>1</Options>
+      <Sequence>0</Sequence>
+      <X-Axis>124</X-Axis>
+      <Y-Axis>65</Y-Axis>
+    </Pin59>
+    <Pin60>
+      <Title>J7 Pin 1</Title>
+      <Options>0</Options>
+      <Sequence>0</Sequence>
+      <X-Axis>286</X-Axis>
+      <Y-Axis>84</Y-Axis>
+    </Pin60>
+    <Pin61>
+      <Title>J7 Pin 2</Title>
+      <Options>128</Options>
+      <Sequence>0</Sequence>
+      <X-Axis>286</X-Axis>
+      <Y-Axis>65</Y-Axis>
+    </Pin61>
+    <Pin62>
+      <Title>J7 Pin 3</Title>
+      <Options>1</Options>
+      <Sequence>0</Sequence>
+      <X-Axis>268</X-Axis>
+      <Y-Axis>84</Y-Axis>
+    </Pin62>
+    <Pin63>
+      <Title>J7 Pin 4</Title>
+      <Options>1</Options>
+      <Sequence>0</Sequence>
+      <X-Axis>268</X-Axis>
+      <Y-Axis>65</Y-Axis>
+    </Pin63>
+    <Pin64>
+      <Title>J7 Pin 5</Title>
+      <Options>1</Options>
+      <Sequence>0</Sequence>
+      <X-Axis>250</X-Axis>
+      <Y-Axis>84</Y-Axis>
+    </Pin64>
+    <Pin65>
+      <Title>J7 Pin 6</Title>
+      <Options>1</Options>
+      <Sequence>0</Sequence>
+      <X-Axis>250</X-Axis>
+      <Y-Axis>65</Y-Axis>
+    </Pin65>
+    <Pin66>
+      <Title>J7 Pin 7</Title>
+      <Options>1</Options>
+      <Sequence>0</Sequence>
+      <X-Axis>232</X-Axis>
+      <Y-Axis>84</Y-Axis>
+    </Pin66>
+    <Pin67>
+      <Title>J7 Pin 8</Title>
+      <Options>1</Options>
+      <Sequence>0</Sequence>
+      <X-Axis>232</X-Axis>
+      <Y-Axis>65</Y-Axis>
+    </Pin67>
+    <Pin68>
+      <Title>J7 Pin 9</Title>
+      <Options>1</Options>
+      <Sequence>0</Sequence>
+      <X-Axis>214</X-Axis>
+      <Y-Axis>84</Y-Axis>
+    </Pin68>
+    <Pin69>
+      <Title>J7 Pin 10</Title>
+      <Options>1</Options>
+      <Sequence>0</Sequence>
+      <X-Axis>214</X-Axis>
+      <Y-Axis>65</Y-Axis>
+    </Pin69>
+  </pins>
+    <fixed>
+      <Fix01>
+        <Sequence>20</Sequence>
+        <Value>255</Value>
+      </Fix01>
+      <Fix02>
+        <Sequence>22</Sequence>
+        <Value>255</Value>
+      </Fix02>
+      <Fix03>
+        <Sequence>24</Sequence>
+        <Value>255</Value>
+      </Fix03>
+      <Fix04>
+        <Sequence>26</Sequence>
+        <Value>255</Value>
+      </Fix04>
+      <Fix05>
+        <Sequence>28</Sequence>
+        <Value>255</Value>
+      </Fix05>
+      <Fix06>
+        <Sequence>30</Sequence>
+        <Value>255</Value>
+      </Fix06>
+      <Fix07>
+        <Sequence>32</Sequence>
+        <Value>255</Value>
+      </Fix07>
+      <Fix08>
+        <Sequence>34</Sequence>
+        <Value>255</Value>
+      </Fix08>
+      <Fix09>
+        <Sequence>40</Sequence>
+        <Value>255</Value>
+      </Fix09>
+      <Fix10>
+        <Sequence>42</Sequence>
+        <Value>255</Value>
+      </Fix10>
+      <Fix11>
+        <Sequence>44</Sequence>
+        <Value>255</Value>
+      </Fix11>
+      <Fix12>
+        <Sequence>46</Sequence>
+        <Value>255</Value>
+      </Fix12>
+      <Fix13>
+        <Sequence>48</Sequence>
+        <Value>255</Value>
+      </Fix13>
+      <Fix14>
+        <Sequence>50</Sequence>
+        <Value>255</Value>
+      </Fix14>
+      <Fix15>
+        <Sequence>52</Sequence>
+        <Value>255</Value>
+      </Fix15>
+      <Fix16>
+        <Sequence>53</Sequence>
+        <Value>255</Value>
+      </Fix16>
+  </fixed>
+  <legends>
+    <Legend01>
+      <Title>GamePad Button</Title>
+      <Right>Yes</Right>
+      <X-Axis>120</X-Axis>
+      <Y-Axis>10</Y-Axis>
+    </Legend01>
+    <Legend02>
+      <Title>Keyboard Key</Title>
+      <Right>Yes</Right>
+      <X-Axis>120</X-Axis>
+      <Y-Axis>30</Y-Axis>
+    </Legend02>
+    <Legend03>
+      <Title>Mouse Button</Title>
+      <Right>Yes</Right>
+      <X-Axis>270</X-Axis>
+      <Y-Axis>10</Y-Axis>
+    </Legend03>
+    <Legend07>
+      <Title>5 Volts</Title>
+      <Right>Yes</Right>
+      <X-Axis>30</X-Axis>
+      <Y-Axis>30</Y-Axis>
+    </Legend07>
+    <Legend08>
+      <Title>Ground</Title>
+      <X-Axis>30</X-Axis>
+      <Y-Axis>10</Y-Axis>
+    </Legend08>
+    <Legend09>
+      <Title>I-PAC Shift Key</Title>
+      <Right>Yes</Right>
+      <X-Axis>270</X-Axis>
+      <Y-Axis>30</Y-Axis>
+    </Legend09>
+  </legends>
+</Config>

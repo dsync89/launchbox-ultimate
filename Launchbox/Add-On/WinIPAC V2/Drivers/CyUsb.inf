@@ -1,0 +1,225 @@
+; Installation INF for the U-HID firmware upgrade Driver for Windows 2K/XP/2003/Vista
+; including support for x86, x64, and IA64 platforms
+;
+;
+
+[Version]
+Signature="$WINDOWS NT$"
+Class=USB
+ClassGUID={36FC9E60-C465-11CF-8056-444553540000}
+provider=%CYPRESS%
+;---Uncomment and complete below to support WHQL submission---;
+CatalogFile.NTx86  = cyusbx86.cat
+CatalogFile.NTIA64 = cyusbia64.cat
+CatalogFile.NTAMD64 = cyusbamd64.cat
+
+DriverVer=10/23/2009,1.08.0120.0
+;-------------------------------------------------------------;
+
+[SourceDisksNames]
+1=%CyUsb_INSTALL%,,,
+
+[SourceDisksFiles]
+CyUsb.sys = 1
+CyUsbI64.sys = 1
+CyUsbX64.sys = 1
+;-----Uncomment below to support script file processing-----;
+Adapt_FW.spt = 1
+;------------------------------------------------------------;
+
+[DestinationDirs]
+CyUsb.Files.Ext = 10,System32\Drivers
+CyUsbI64.Files.Ext = 10,System32\Drivers
+CyUsbX64.Files.Ext = 10,System32\Drivers
+;-----Uncomment below to support script file processing-----;
+CyUsb.Files.Spt = 10,System32\CyUsb
+;------------------------------------------------------------;
+
+[ControlFlags]
+ExcludeFromSelect = *
+
+[PreCopySection]
+HKR,,NoSetupUI,,1
+
+[Manufacturer]
+%MfgName%=Cypress, ntamd64, ntia64
+
+[Cypress]
+%VID_d209&PID_0750.DeviceDesc%=CyUsb, USB\VID_d209&PID_0750
+
+[Cypress.ntamd64]
+%VID_d209&PID_0750.DeviceDesc%=CyUsbX64, USB\VID_d209&PID_0750
+
+[Cypress.ntia64]
+%VID_d209&PID_0750.DeviceDesc%=CyUsbI64, USB\VID_d209&PID_0750
+
+; Windows 2K/XP/2003 - X86 platforms
+[CyUsb.NT]
+CopyFiles=CyUsb.Files.Ext
+;-----Uncomment below to support script file processing-----;
+;CopyFiles=CyUsb.Files.Spt
+;------------------------------------------------------------;
+AddReg=CyUsbX86.AddReg
+
+[CyUsb.NT.HW]
+AddReg=CyUsb.AddReg.Guid
+
+[CyUsb.NT.Services]
+Addservice = CyUsb, 0x00000002, CyUsb.AddService
+
+; Windows 2K/XP/2003 - X86 platforms w/ Script
+[CyUsb_Adapt.NT]
+CopyFiles=CyUsb.Files.Ext
+;-----Uncomment below to support script file processing-----;
+CopyFiles=CyUsb.Files.Spt
+;------------------------------------------------------------;
+AddReg=CyUsbX86.AddReg
+
+[CyUsb_Adapt.NT.HW]
+AddReg=CyUsb.AddReg.Guid
+;-----Uncomment below to support script file processing-----;
+AddReg=CyUsb.AddReg.Script
+;------------------------------------------------------------;
+
+[CyUsb_Adapt.NT.Services]
+Addservice = CyUsb, 0x00000002, CyUsb.AddService
+
+[CyUsbX86.AddReg]
+HKR,,DevLoader,,*ntkern
+HKR,,NTMPDriver,,CyUsb.sys
+
+[CyUsb.AddService]
+DisplayName    = %CyUsb.SvcDesc%
+ServiceType    = 1                  ; SERVICE_KERNEL_DRIVER
+StartType      = 3                  ; SERVICE_DEMAND_START
+ErrorControl   = 1                  ; SERVICE_ERROR_NORMAL
+ServiceBinary  = %10%\System32\Drivers\CyUsb.sys
+LoadOrderGroup = Base
+
+[CyUsb.Files.Ext]
+CyUsb.sys
+
+
+; Windows 2K/XP/2003 - X64 platforms
+[CyUsbX64]
+CopyFiles=CyUsbX64.Files.Ext
+;-----Uncomment below to support script file processing-----;
+;CopyFiles=CyUsb.Files.Spt
+;------------------------------------------------------------;
+AddReg=CyUsbX64.AddReg
+
+[CyUsbX64.HW]
+AddReg=CyUsb.AddReg.Guid
+
+[CyUsbX64.Services]
+Addservice = CyUsb, 0x00000002, CyUsbX64.AddService
+
+; Windows 2K/XP/2003 - X64 platforms w/ Script
+[CyUsbX64_Adapt]
+CopyFiles=CyUsbX64.Files.Ext
+;-----Uncomment below to support script file processing-----;
+CopyFiles=CyUsb.Files.Spt
+;------------------------------------------------------------;
+AddReg=CyUsbX64.AddReg
+
+[CyUsbX64_Adapt.HW]
+AddReg=CyUsb.AddReg.Guid
+;-----Uncomment below to support script file processing-----;
+AddReg=CyUsb.AddReg.Script
+;------------------------------------------------------------;
+
+[CyUsbX64_Adapt.Services]
+Addservice = CyUsb, 0x00000002, CyUsbX64.AddService
+
+[CyUsbX64.AddReg]
+HKR,,DevLoader,,*ntkern
+HKR,,NTMPDriver,,CyUsbX64.sys
+
+[CyUsbX64.AddService]
+DisplayName    = %CyUsb.SvcDesc%
+ServiceType    = 1                  ; SERVICE_KERNEL_DRIVER
+StartType      = 3                  ; SERVICE_DEMAND_START
+ErrorControl   = 1                  ; SERVICE_ERROR_NORMAL
+ServiceBinary  = %10%\System32\Drivers\CyUsbX64.sys
+LoadOrderGroup = Base
+
+[CyUsbX64.Files.Ext]
+CyUsbX64.sys
+
+
+; Windows 2K/XP/2003 - IA64 platforms
+[CyUsbI64]
+CopyFiles=CyUsbI64.Files.Ext
+;-----Uncomment below to support script file processing-----;
+;CopyFiles=CyUsb.Files.Spt
+;------------------------------------------------------------;
+AddReg=CyUsbI64.AddReg
+
+[CyUsbI64.HW]
+AddReg=CyUsb.AddReg.Guid
+
+[CyUsbI64.Services]
+Addservice = CyUsb, 0x00000002, CyUsbI64.AddService
+
+; Windows 2K/XP/2003 - IA64 platforms w/ Script
+[CyUsbI64_Adapt]
+CopyFiles=CyUsbI64.Files.Ext
+;-----Uncomment below to support script file processing-----;
+CopyFiles=CyUsb.Files.Spt
+;------------------------------------------------------------;
+AddReg=CyUsbI64.AddReg
+
+[CyUsbI64_Adapt.HW]
+AddReg=CyUsb.AddReg.Guid
+;-----Uncomment below to support script file processing-----;
+AddReg=CyUsb.AddReg.Script
+;------------------------------------------------------------;
+
+[CyUsbI64_Adapt.Services]
+Addservice = CyUsb, 0x00000002, CyUsbI64.AddService
+
+[CyUsbI64.AddReg]
+HKR,,DevLoader,,*ntkern
+HKR,,NTMPDriver,,CyUsbI64.sys
+
+[CyUsbI64.AddService]
+DisplayName    = %CyUsb.SvcDesc%
+ServiceType    = 1                  ; SERVICE_KERNEL_DRIVER
+StartType      = 3                  ; SERVICE_DEMAND_START
+ErrorControl   = 1                  ; SERVICE_ERROR_NORMAL
+ServiceBinary  = %10%\System32\Drivers\CyUsbI64.sys
+LoadOrderGroup = Base
+
+[CyUsbI64.Files.Ext]
+CyUsbI64.sys
+
+
+;-----Uncomment below to support script file processing-----;
+[CyUsb.Files.Spt]
+Adapt_FW.spt
+;------------------------------------------------------------;
+
+[CyUsb.AddReg.Guid]
+HKR,,DriverGUID,,%CyUsb.GUID%
+;------------------------------------------------------------;
+
+;-----Uncomment below to support script file processing-----;
+[CyUsb.AddReg.Script]
+HKR,,DriverEXECSCRIPT,,%CyUsb.EXECSCRIPT%
+;------------------------------------------------------------;
+
+
+;---------------------------------------------------------------;
+
+[Strings]
+CYPRESS="U-HID"
+MfgName="U-HID"
+CyUsb_INSTALL="U-HID Firmware upgrade"
+VID_d209&PID_0750.DeviceDesc="U-HID Firmware upgrade"
+CyUsb.SvcDesc="U-HID Firmware upgrade"
+;------------Replace GUID below with custom GUID-------------;
+CyUsb.GUID="{AE18AA60-7F6A-11d4-97DD-00010229B959}"
+;------------------------------------------------------------;
+;-----Uncomment below to support script file processing-----;
+CyUsb.EXECSCRIPT="\systemroot\system32\CyUsb\Adapt_FW.spt"
+;------------------------------------------------------------;

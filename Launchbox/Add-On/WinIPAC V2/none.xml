@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="us-ascii" standalone="yes"?>
+<Config>
+  <ApplName>I-PAC UIO Configuration Utility</ApplName>
+  <FileName>none.png</FileName>
+  <pins>
+    <Height>18</Height>
+    <Width>17</Width>
+    <Pin00>
+     </Pin00>
+    <Pin01>
+     </Pin01>
+    <Pin02>
+    </Pin02>
+    <Pin03>
+     </Pin03>
+    <Pin04>
+     </Pin04>
+    <Pin05>
+     </Pin05>
+    <Pin06>
+     </Pin06>
+    <Pin07>
+    </Pin07>
+    <Pin08>
+     </Pin08>
+    <Pin09>
+     </Pin09>
+    <Pin10>
+      </Pin10>
+    <Pin71>
+      <Title>4 SW 4</Title>
+      <Options>2</Options>
+      <Sequence>48</Sequence>
+      <QuadPartner />
+      <X-Axis>0</X-Axis>
+      <Y-Axis>0</Y-Axis>
+    </Pin71>
+  </pins>
+  <legends>
+    </legends>
+</Config>

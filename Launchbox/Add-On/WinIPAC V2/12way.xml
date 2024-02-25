@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="us-ascii" standalone="yes"?>
+<Config>
+  <ApplName>I-PAC UIO Configuration Utility</ApplName>
+  <FileName>12way.png</FileName>
+  <pins>
+    <Height>20</Height>
+    <Width>20</Width>
+    <Pin01>
+      <Title>LEFT</Title>
+      <Options>3</Options>
+      <Sequence>4</Sequence>
+      <QuadPartner />
+      <X-Axis>160</X-Axis>
+      <Y-Axis>260</Y-Axis>
+    </Pin01>
+    <Pin02>
+      <Title>RIGHT</Title>
+      <Options>3</Options>
+      <Sequence>5</Sequence>
+      <QuadPartner />
+      <X-Axis>160</X-Axis>
+      <Y-Axis>288</Y-Axis>
+    </Pin02>
+  </pins>
+    <fixed>
+   </fixed>
+  <legends>
+  </legends>
+</Config>
