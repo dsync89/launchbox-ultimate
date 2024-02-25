@@ -1,0 +1,29 @@
+<?xml version="1.0"?>
+<Profile>
+  <Enabled>True</Enabled>
+  <Name>Sony Playstation</Name>
+  <Type>Emulator</Type>
+  <Layout>SonyPlaystation</Layout>
+  <LayoutOverride />
+  <LayoutSub />
+  <Labels>Sony Playstation</Labels>
+  <Database />
+  <Executable />
+  <WindowTitle />
+  <WindowClass />
+  <UseExe>False</UseExe>
+  <Screenshot>False</Screenshot>
+  <Maximize>True</Maximize>
+  <Minimize>True</Minimize>
+  <ShowKey />
+  <HideKey />
+  <ShowSendKeys>{ESCAPE}</ShowSendKeys>
+  <HideSendKeys>{ESCAPE}</HideSendKeys>
+  <Manuals>C:\Artwork\N64\Manuals</Manuals>
+  <OpCards>C:\Artwork\N64\OpCards</OpCards>
+  <Snaps>C:\Artwork\N64\Snaps</Snaps>
+  <Titles>C:\Artwork\N64\Titles</Titles>
+  <Carts>C:\Artwork\N64\Carts</Carts>
+  <Boxes>C:\Artwork\N64\Boxes</Boxes>
+  <Nfo>C:\Artwork\N64\Nfo</Nfo>
+</Profile>

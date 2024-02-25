@@ -1,0 +1,29 @@
+<?xml version="1.0"?>
+<Profile>
+  <Enabled>True</Enabled>
+  <Name>RetroArch - Nintendo Game Boy Advance</Name>
+  <Type>Emulator</Type>
+  <Layout>NintendoGameBoyAdvance_RETROARCH</Layout>
+  <LayoutOverride />
+  <LayoutSub />
+  <Labels>Nintendo Game Boy Advance</Labels>
+  <Database />
+  <Executable />
+  <WindowTitle />
+  <WindowClass />
+  <UseExe>False</UseExe>
+  <Screenshot>False</Screenshot>
+  <Maximize>False</Maximize>
+  <Minimize>False</Minimize>
+  <ShowKey />
+  <HideKey />
+  <ShowSendKeys>{ESCAPE}</ShowSendKeys>
+  <HideSendKeys>{ESCAPE}</HideSendKeys>
+  <Manuals />
+  <OpCards />
+  <Snaps />
+  <Titles />
+  <Carts />
+  <Boxes />
+  <Nfo />
+</Profile>

@@ -1,0 +1,29 @@
+<?xml version="1.0"?>
+<Profile>
+  <Enabled>True</Enabled>
+  <Name>Dolphin - Nintendo GameCube</Name>
+  <Type>Emulator</Type>
+  <Layout>NintendoGameCube_DOLPHIN</Layout>
+  <LayoutOverride />
+  <LayoutSub />
+  <Labels>Nintendo GameCube</Labels>
+  <Database />
+  <Executable />
+  <WindowTitle />
+  <WindowClass />
+  <UseExe>False</UseExe>
+  <Screenshot>False</Screenshot>
+  <Maximize>False</Maximize>
+  <Minimize>False</Minimize>
+  <ShowKey />
+  <HideKey />
+  <ShowSendKeys>{ESCAPE}</ShowSendKeys>
+  <HideSendKeys>{ESCAPE}</HideSendKeys>
+  <Manuals />
+  <OpCards />
+  <Snaps />
+  <Titles />
+  <Carts />
+  <Boxes />
+  <Nfo />
+</Profile>

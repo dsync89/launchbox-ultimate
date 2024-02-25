@@ -1,0 +1,29 @@
+<?xml version="1.0"?>
+<Profile>
+  <Enabled>True</Enabled>
+  <Name>RPCS3 - Sony Playstation 3</Name>
+  <Type>Emulator</Type>
+  <Layout>SonyPlaystation3_RPCS3</Layout>
+  <LayoutOverride />
+  <LayoutSub />
+  <Labels>Sony Playstation 3</Labels>
+  <Database />
+  <Executable />
+  <WindowTitle />
+  <WindowClass />
+  <UseExe>False</UseExe>
+  <Screenshot>False</Screenshot>
+  <Maximize>False</Maximize>
+  <Minimize>False</Minimize>
+  <ShowKey />
+  <HideKey />
+  <ShowSendKeys>{ESCAPE}</ShowSendKeys>
+  <HideSendKeys>{ESCAPE}</HideSendKeys>
+  <Manuals />
+  <OpCards />
+  <Snaps />
+  <Titles />
+  <Carts />
+  <Boxes />
+  <Nfo />
+</Profile>
