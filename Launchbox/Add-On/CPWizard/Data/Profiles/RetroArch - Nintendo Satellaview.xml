@@ -3,7 +3,7 @@
   <Enabled>True</Enabled>
   <Name>RetroArch - Nintendo Satellaview</Name>
   <Type>Emulator</Type>
-  <Layout>NintendoSuperNintendoEntertainmentSystem_RETROARCH</Layout>
+  <Layout>NintendoSatellaview_RETROARCH</Layout>
   <LayoutOverride />
   <LayoutSub />
   <Labels>Nintendo Satellaview</Labels>

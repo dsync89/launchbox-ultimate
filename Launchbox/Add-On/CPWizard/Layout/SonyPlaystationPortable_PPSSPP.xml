@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <Layout>
-  <Background>background_vewlix_red_2560x780-filled.png</Background>
+  <Background>background_vewlix_red_2560x780-filled-fotor-20240228145838.png</Background>
   <LayoutSub />
   <ShowMiniInfo>False</ShowMiniInfo>
   <Images>
@@ -57,13 +57,13 @@
     </Image>
     <Image Name="T10ButtonWhite_reflect_60x60.png" X="1720" Y="40" Width="60" Height="60" Sizeable="False" AlphaFade="True" AlphaValue="10" LabelLink="7" />
     <Image Name="T10ButtonWhite_reflect_60x60.png" X="1800" Y="40" Width="60" Height="60" Sizeable="False" AlphaFade="True" AlphaValue="10" LabelLink="8" />
-    <Image Name="Logos\Sony Playstation.png" X="2111" Y="675" Width="343" Height="62" Sizeable="False" AlphaFade="True" AlphaValue="10" LabelLink="" />
     <Image Name="T1JoystickRed.png" X="1714" Y="401" Width="83" Height="83" Sizeable="True" AlphaFade="True" AlphaValue="10" LabelLink="[PLAYER_1_JOYSTICK]" />
-    <Image Name="[IMAGE_LAYOUTSUB]" X="72" Y="32" Width="64" Height="64" Sizeable="True" AlphaFade="True" AlphaValue="10" LabelLink="" />
-    <Image Name="[IMAGE_LAYOUTSUB]" X="72" Y="96" Width="64" Height="64" Sizeable="True" AlphaFade="True" AlphaValue="10" LabelLink="" />
-    <Image Name="[IMAGE_LAYOUTSUB]" X="8" Y="96" Width="64" Height="64" Sizeable="True" AlphaFade="True" AlphaValue="10" LabelLink="" />
-    <Image Name="[IMAGE_LAYOUTSUB]" X="136" Y="96" Width="64" Height="64" Sizeable="True" AlphaFade="True" AlphaValue="10" LabelLink="" />
-    <Image Name="Emulators\PPSSPP-h80px.png" X="2184" Y="40" Width="275" Height="96" Sizeable="True" AlphaFade="True" AlphaValue="10" LabelLink="" />
+    <Image Name="Emulators\PPSSPP-h80px.png" X="2156" Y="33" Width="313" Height="101" Sizeable="True" AlphaFade="True" AlphaValue="10" LabelLink="" />
+    <Image Name="Company Logo\Sony-h120px.png" X="2095" Y="652" Width="380" Height="68" Sizeable="False" AlphaFade="True" AlphaValue="10" LabelLink="" />
+    <Image Name="Controllers-Custom\Sony PSP-w550px.png" X="1023" Y="456" Width="550" Height="230" Sizeable="True" AlphaFade="True" AlphaValue="10" LabelLink="" />
+    <Image Name="1p.png" X="38" Y="600" Width="150" Height="148" Sizeable="False" AlphaFade="True" AlphaValue="10" LabelLink="" />
+    <Image Name="Icons\Sony Playstation-h100px.png" X="46" Y="34" Width="129" Height="100" Sizeable="False" AlphaFade="True" AlphaValue="10" LabelLink="" />
+    <Image Name="Logos\Sony PSP-02-h680px.png" X="973" Y="29" Width="601" Height="100" Sizeable="True" AlphaFade="True" AlphaValue="10" LabelLink="" />
   </Images>
   <ColorImages Enabled="True">
     <ColorImage Name="Black" Image="T4ButtonBlack.png" />
@@ -81,266 +81,203 @@
     <ColorImage Name="Brown" Image="T10ButtonOrange_reflect_120x120.png" />
   </ColorImages>
   <Labels>
-    <Label Name="[KEYCODE_I]" Group="[GROUP_6]" X="2110" Y="488" Width="0" Height="0" Sizeable="False" Arrow="False" Spot="False">
+    <Label Name="[KEYCODE_I]" Group="[GROUP_6]" X="2016" Y="488" Width="189" Height="34" Sizeable="False" Arrow="False" Spot="False">
       <Font Name="Arial" Size="20.25" FontStyle="Bold" Color="White" />
       <Text Align="Center" Style="Outline" />
       <Codes>
         <Code Type="Key Code" Value="[KEYCODE_I]" />
       </Codes>
     </Label>
-    <Label Name="X" Group="[GROUP_3]" X="748" Y="496" Width="42" Height="34" Sizeable="False" Arrow="False" Spot="False">
+    <Label Name="X" Group="[GROUP_3]" X="755" Y="496" Width="28" Height="34" Sizeable="False" Arrow="False" Spot="False">
       <Font Name="Arial" Size="20.25" FontStyle="Bold" Color="White" />
       <Text Align="Center" Style="Outline" />
       <Codes>
         <Code Type="Custom Text" Value="X" />
       </Codes>
     </Label>
-    <Label Name="EMUNAME" Group="" X="1207" Y="103" Width="165" Height="46" Sizeable="False" Arrow="True" Spot="True">
-      <Font Name="Arial" Size="27.75" FontStyle="Bold" Color="White" />
-      <Text Align="Center" Style="Outline" />
-      <Codes>
-        <Code Type="Custom Text" Value="EMUNAME" />
-      </Codes>
-    </Label>
-    <Label Name="[KEYCODE_Q]" Group="[GROUP_5]" X="2261" Y="352" Width="0" Height="0" Sizeable="False" Arrow="False" Spot="False">
+    <Label Name="[KEYCODE_Q]" Group="[GROUP_5]" X="2160" Y="352" Width="203" Height="34" Sizeable="False" Arrow="False" Spot="False">
       <Font Name="Arial" Size="20.25" FontStyle="Bold" Color="White" />
       <Text Align="Center" Style="Outline" />
       <Codes>
         <Code Type="Key Code" Value="[KEYCODE_Q]" />
       </Codes>
     </Label>
-    <Label Name="[GROUP_5]" Group="" X="2192" Y="224" Width="0" Height="0" Sizeable="False" Arrow="True" Spot="True">
-      <Font Name="Arial" Size="20.25" FontStyle="Bold" Color="White" />
-      <Text Align="Center" Style="Shadow" />
-      <Codes>
-        <Code Type="Label Group" Value="[GROUP_5]" />
-      </Codes>
-    </Label>
-    <Label Name="[KEYCODE_K]" Group="[GROUP_6]" X="2244" Y="496" Width="0" Height="0" Sizeable="False" Arrow="False" Spot="False">
+    <Label Name="[KEYCODE_K]" Group="[GROUP_6]" X="2144" Y="496" Width="201" Height="34" Sizeable="False" Arrow="False" Spot="False">
       <Font Name="Arial" Size="20.25" FontStyle="Bold" Color="White" />
       <Text Align="Center" Style="Outline" />
       <Codes>
         <Code Type="Key Code" Value="[KEYCODE_K]" />
       </Codes>
     </Label>
-    <Label Name="[MISC_ALTERNATING]" Group="" X="1172" Y="288" Width="0" Height="0" Sizeable="False" Arrow="True" Spot="True">
-      <Font Name="Arial" Size="12" FontStyle="Bold" Color="White" />
-      <Text Align="Center" Style="Outline" />
-      <Codes>
-        <Code Type="Misc Code" Value="[MISC_ALTERNATING]" />
-      </Codes>
-    </Label>
-    <Label Name="V" Group="[GROUP_4]" X="884" Y="499" Width="45" Height="34" Sizeable="False" Arrow="True" Spot="True">
+    <Label Name="V" Group="[GROUP_4]" X="892" Y="499" Width="28" Height="34" Sizeable="False" Arrow="True" Spot="True">
       <Font Name="Arial" Size="20.25" FontStyle="Bold" Color="White" />
       <Text Align="Center" Style="Outline" />
       <Codes>
         <Code Type="Custom Text" Value="V" />
       </Codes>
     </Label>
-    <Label Name="LAlt" Group="[GROUP_2]" X="627" Y="336" Width="71" Height="62" Sizeable="False" Arrow="True" Spot="True">
+    <Label Name="LAlt" Group="[GROUP_2]" X="606" Y="336" Width="113" Height="60" Sizeable="False" Arrow="True" Spot="True">
       <Font Name="Arial" Size="36" FontStyle="Bold" Color="White" />
       <Text Align="Center" Style="Outline" />
       <Codes>
         <Code Type="Custom Text" Value="LAlt" />
       </Codes>
     </Label>
-    <Label Name="[KEYCODE_A]" Group="[GROUP_5]" X="1996" Y="392" Width="0" Height="0" Sizeable="False" Arrow="False" Spot="False">
+    <Label Name="[KEYCODE_A]" Group="[GROUP_5]" X="1896" Y="392" Width="201" Height="34" Sizeable="False" Arrow="False" Spot="False">
       <Font Name="Arial" Size="20.25" FontStyle="Bold" Color="White" />
       <Text Align="Center" Style="Outline" />
       <Codes>
         <Code Type="Key Code" Value="[KEYCODE_A]" />
       </Codes>
     </Label>
-    <Label Name="5" Group="" X="840" Y="120" Width="71" Height="20" Sizeable="False" Arrow="True" Spot="True">
+    <Label Name="5" Group="" X="868" Y="120" Width="15" Height="20" Sizeable="False" Arrow="True" Spot="True">
       <Font Name="Arial" Size="12" FontStyle="Bold" Color="White" />
       <Text Align="Center" Style="Outline" />
       <Codes>
         <Code Type="Custom Text" Value="5" />
       </Codes>
     </Label>
-    <Label Name="LShift" Group="[GROUP_3]" X="471" Y="530" Width="71" Height="62" Sizeable="False" Arrow="True" Spot="True">
+    <Label Name="LShift" Group="[GROUP_3]" X="428" Y="530" Width="157" Height="60" Sizeable="False" Arrow="True" Spot="True">
       <Font Name="Arial" Size="36" FontStyle="Bold" Color="White" />
       <Text Align="Center" Style="Outline" />
       <Codes>
         <Code Type="Custom Text" Value="LShift" />
       </Codes>
     </Label>
-    <Label Name="[KEYCODE_J]" Group="" X="2394" Y="360" Width="0" Height="0" Sizeable="False" Arrow="False" Spot="False">
+    <Label Name="[KEYCODE_J]" Group="" X="2296" Y="360" Width="196" Height="34" Sizeable="False" Arrow="False" Spot="False">
       <Font Name="Arial" Size="20.25" FontStyle="Bold" Color="White" />
       <Text Align="Center" Style="Outline" />
       <Codes>
         <Code Type="Key Code" Value="[KEYCODE_J]" />
       </Codes>
     </Label>
-    <Label Name="LCtrl" Group="[GROUP_2]" X="511" Y="389" Width="60" Height="62" Sizeable="False" Arrow="True" Spot="True">
+    <Label Name="LCtrl" Group="[GROUP_2]" X="475" Y="389" Width="132" Height="60" Sizeable="False" Arrow="True" Spot="True">
       <Font Name="Arial" Size="36" FontStyle="Bold" Color="White" />
       <Text Align="Center" Style="Outline" />
       <Codes>
         <Code Type="Custom Text" Value="LCtrl" />
       </Codes>
     </Label>
-    <Label Name="[PLAYER_1_START]" Group="" X="1180" Y="400" Width="0" Height="0" Sizeable="False" Arrow="True" Spot="True">
+    <Label Name="[PLAYER_1_START]" Group="" X="1036" Y="295" Width="280" Height="34" Sizeable="False" Arrow="True" Spot="True">
       <Font Name="Arial" Size="20.25" FontStyle="Bold" Color="White" />
       <Text Align="Center" Style="Outline" />
       <Codes>
         <Code Type="Player Code" Value="[PLAYER_1_START]" />
       </Codes>
     </Label>
-    <Label Name="Z" Group="[GROUP_3]" X="607" Y="491" Width="55" Height="48" Sizeable="False" Arrow="True" Spot="True">
+    <Label Name="Z" Group="[GROUP_3]" X="616" Y="491" Width="36" Height="46" Sizeable="False" Arrow="True" Spot="True">
       <Font Name="Arial" Size="27.75" FontStyle="Bold" Color="White" />
       <Text Align="Center" Style="Outline" />
       <Codes>
         <Code Type="Custom Text" Value="Z" />
       </Codes>
     </Label>
-    <Label Name="[GROUP_3]" Group="" X="728" Y="616" Width="0" Height="0" Sizeable="False" Arrow="True" Spot="True">
-      <Font Name="Arial" Size="20.25" FontStyle="Bold" Color="White" />
-      <Text Align="Center" Style="Shadow" />
-      <Codes>
-        <Code Type="Label Group" Value="[GROUP_3]" />
-      </Codes>
-    </Label>
-    <Label Name="[GROUP_1]" Group="" X="800" Y="16" Width="0" Height="0" Sizeable="False" Arrow="True" Spot="True">
+    <Label Name="[GROUP_1]" Group="" X="752" Y="16" Width="96" Height="20" Sizeable="False" Arrow="True" Spot="True">
       <Font Name="Arial" Size="12" FontStyle="Bold" Color="White" />
       <Text Align="Center" Style="Outline" />
       <Codes>
         <Code Type="Label Group" Value="[GROUP_1]" />
       </Codes>
     </Label>
-    <Label Name="[GROUP_4]" Group="" X="1752" Y="16" Width="0" Height="0" Sizeable="False" Arrow="True" Spot="True">
+    <Label Name="[GROUP_4]" Group="" X="1704" Y="16" Width="96" Height="20" Sizeable="False" Arrow="True" Spot="True">
       <Font Name="Arial" Size="12" FontStyle="Bold" Color="White" />
       <Text Align="Center" Style="Outline" />
       <Codes>
         <Code Type="Label Group" Value="[GROUP_4]" />
       </Codes>
     </Label>
-    <Label Name="[KEYCODE_W]" Group="[GROUP_6]" X="1959" Y="544" Width="0" Height="0" Sizeable="False" Arrow="False" Spot="False">
+    <Label Name="[KEYCODE_W]" Group="[GROUP_6]" X="1856" Y="544" Width="207" Height="34" Sizeable="False" Arrow="False" Spot="False">
       <Font Name="Arial" Size="20.25" FontStyle="Bold" Color="White" />
       <Text Align="Center" Style="Outline" />
       <Codes>
         <Code Type="Key Code" Value="[KEYCODE_W]" />
       </Codes>
     </Label>
-    <Label Name="[KEYCODE_S]" Group="[GROUP_5]" X="2132" Y="344" Width="0" Height="0" Sizeable="False" Arrow="False" Spot="False">
+    <Label Name="[KEYCODE_S]" Group="[GROUP_5]" X="2032" Y="344" Width="200" Height="34" Sizeable="False" Arrow="False" Spot="False">
       <Font Name="Arial" Size="20.25" FontStyle="Bold" Color="White" />
       <Text Align="Center" Style="Outline" />
       <Codes>
         <Code Type="Key Code" Value="[KEYCODE_S]" />
       </Codes>
     </Label>
-    <Label Name="[KEYCODE_RIGHT]" Group="[GROUP_1]" X="-1936" Y="152" Width="0" Height="0" Sizeable="False" Arrow="True" Spot="True">
+    <Label Name="[KEYCODE_RIGHT]" Group="[GROUP_1]" X="-2015" Y="152" Width="159" Height="20" Sizeable="False" Arrow="True" Spot="True">
       <Font Name="Arial" Size="12" FontStyle="Bold" Color="White" />
       <Text Align="Left" Style="Outline" />
       <Codes>
         <Code Type="Key Code" Value="[KEYCODE_RIGHT]" />
       </Codes>
     </Label>
-    <Label Name="[PLAYER_2_START]" Group="" X="1364" Y="400" Width="0" Height="0" Sizeable="False" Arrow="True" Spot="True">
+    <Label Name="[PLAYER_2_START]" Group="" X="1220" Y="295" Width="280" Height="34" Sizeable="False" Arrow="True" Spot="True">
       <Font Name="Arial" Size="20.25" FontStyle="Bold" Color="White" />
       <Text Align="Center" Style="Outline" />
       <Codes>
         <Code Type="Player Code" Value="[PLAYER_2_START]" />
       </Codes>
     </Label>
-    <Label Name="C" Group="" X="933" Y="357" Width="0" Height="0" Sizeable="False" Arrow="True" Spot="True">
+    <Label Name="C" Group="" X="918" Y="357" Width="30" Height="34" Sizeable="False" Arrow="True" Spot="True">
       <Font Name="Arial" Size="20.25" FontStyle="Bold" Color="White" />
       <Text Align="Center" Style="Outline" />
       <Codes>
         <Code Type="Custom Text" Value="C" />
       </Codes>
     </Label>
-    <Label Name="EMUPLATFORM" Group="" X="1109" Y="19" Width="333" Height="80" Sizeable="False" Arrow="True" Spot="True">
-      <Font Name="Arial" Size="48" FontStyle="Bold" Color="White" />
-      <Text Align="Center" Style="Outline" />
-      <Codes>
-        <Code Type="Custom Text" Value="EMUPLATFORM" />
-      </Codes>
-    </Label>
-    <Label Name="Space" Group="[GROUP_2]" X="796" Y="348" Width="0" Height="0" Sizeable="False" Arrow="False" Spot="False">
+    <Label Name="Space" Group="[GROUP_2]" X="751" Y="348" Width="91" Height="34" Sizeable="False" Arrow="False" Spot="False">
       <Font Name="Arial" Size="20.25" FontStyle="Bold" Color="White" />
       <Text Align="Center" Style="Outline" />
       <Codes>
         <Code Type="Custom Text" Value="Space" />
       </Codes>
     </Label>
-    <Label Name="Player2Joystick" Group="" X="1646" Y="624" Width="224" Height="34" Sizeable="False" Arrow="True" Spot="True">
+    <Label Name="Player2Joystick" Group="" X="1648" Y="624" Width="220" Height="34" Sizeable="False" Arrow="True" Spot="True">
       <Font Name="Arial" Size="20.25" FontStyle="Bold" Color="White" />
       <Text Align="Center" Style="Outline" />
       <Codes>
         <Code Type="Custom Text" Value="Player2Joystick" />
       </Codes>
     </Label>
-    <Label Name="[GROUP_2]" Group="" X="728" Y="224" Width="0" Height="0" Sizeable="False" Arrow="True" Spot="True">
-      <Font Name="Arial" Size="20.25" FontStyle="Bold" Color="White" />
-      <Text Align="Center" Style="Shadow" />
-      <Codes>
-        <Code Type="Label Group" Value="[GROUP_2]" />
-      </Codes>
-    </Label>
-    <Label Name="[GROUP_6]" Group="" X="2192" Y="616" Width="0" Height="0" Sizeable="False" Arrow="True" Spot="True">
-      <Font Name="Arial" Size="20.25" FontStyle="Bold" Color="White" />
-      <Text Align="Center" Style="Shadow" />
-      <Codes>
-        <Code Type="Label Group" Value="[GROUP_6]" />
-      </Codes>
-    </Label>
-    <Label Name="[KEYCODE_L]" Group="" X="2379" Y="496" Width="0" Height="0" Sizeable="False" Arrow="False" Spot="False">
+    <Label Name="[KEYCODE_L]" Group="" X="2280" Y="496" Width="198" Height="34" Sizeable="False" Arrow="False" Spot="False">
       <Font Name="Arial" Size="20.25" FontStyle="Bold" Color="White" />
       <Text Align="Center" Style="Outline" />
       <Codes>
         <Code Type="Key Code" Value="[KEYCODE_L]" />
       </Codes>
     </Label>
-    <Label Name="[MISC_GAME_NAME]" Group="" X="1315" Y="248" Width="0" Height="0" Sizeable="False" Arrow="True" Spot="True">
-      <Font Name="Arial" Size="20.25" FontStyle="Bold" Color="White" />
-      <Text Align="Center" Style="Outline" />
-      <Codes>
-        <Code Type="Misc Code" Value="[MISC_GAME_NAME]" />
-      </Codes>
-    </Label>
-    <Label Name="[MISC_ROM_NAME]" Group="" X="1457" Y="280" Width="0" Height="0" Sizeable="False" Arrow="True" Spot="True">
-      <Font Name="Arial" Size="20.25" FontStyle="Bold" Color="White" />
-      <Text Align="Center" Style="Outline" />
-      <Codes>
-        <Code Type="Misc Code" Value="[MISC_ROM_NAME]" />
-      </Codes>
-    </Label>
-    <Label Name="Player1Joystick" Group="" X="191" Y="626" Width="207" Height="34" Sizeable="False" Arrow="True" Spot="True">
+    <Label Name="Player1Joystick" Group="" X="184" Y="626" Width="220" Height="34" Sizeable="False" Arrow="True" Spot="True">
       <Font Name="Arial" Size="20.25" FontStyle="Bold" Color="White" />
       <Text Align="Center" Style="Outline" />
       <Codes>
         <Code Type="Custom Text" Value="Player1Joystick" />
       </Codes>
     </Label>
-    <Label Name="4" Group="" X="799" Y="120" Width="0" Height="0" Sizeable="False" Arrow="True" Spot="True">
+    <Label Name="4" Group="" X="792" Y="120" Width="15" Height="20" Sizeable="False" Arrow="True" Spot="True">
       <Font Name="Arial" Size="12" FontStyle="Bold" Color="White" />
       <Text Align="Center" Style="Outline" />
       <Codes>
         <Code Type="Custom Text" Value="4" />
       </Codes>
     </Label>
-    <Label Name="F5" Group="" X="689" Y="120" Width="54" Height="20" Sizeable="False" Arrow="True" Spot="True">
+    <Label Name="F5" Group="" X="704" Y="120" Width="25" Height="20" Sizeable="False" Arrow="True" Spot="True">
       <Font Name="Arial" Size="12" FontStyle="Bold" Color="White" />
       <Text Align="Center" Style="Outline" />
       <Codes>
         <Code Type="Custom Text" Value="F5" />
       </Codes>
     </Label>
-    <Label Name="6" Group="" X="1668" Y="120" Width="0" Height="0" Sizeable="False" Arrow="True" Spot="True">
+    <Label Name="6" Group="" X="1661" Y="120" Width="15" Height="20" Sizeable="False" Arrow="True" Spot="True">
       <Font Name="Arial" Size="12" FontStyle="Bold" Color="White" />
       <Text Align="Center" Style="Outline" />
       <Codes>
         <Code Type="Custom Text" Value="6" />
       </Codes>
     </Label>
-    <Label Name="7" Group="" X="1712" Y="120" Width="78" Height="20" Sizeable="False" Arrow="True" Spot="True">
+    <Label Name="7" Group="" X="1744" Y="120" Width="15" Height="20" Sizeable="False" Arrow="True" Spot="True">
       <Font Name="Arial" Size="12" FontStyle="Bold" Color="White" />
       <Text Align="Center" Style="Outline" />
       <Codes>
         <Code Type="Custom Text" Value="7" />
       </Codes>
     </Label>
-    <Label Name="8" Group="" X="1792" Y="120" Width="76" Height="20" Sizeable="False" Arrow="True" Spot="True">
+    <Label Name="8" Group="" X="1823" Y="120" Width="15" Height="20" Sizeable="False" Arrow="True" Spot="True">
       <Font Name="Arial" Size="12" FontStyle="Bold" Color="White" />
       <Text Align="Center" Style="Outline" />
       <Codes>

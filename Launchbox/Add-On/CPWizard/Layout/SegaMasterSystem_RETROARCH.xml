@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <Layout>
-  <Background>background_vewlix_red_2560x780-filled.png</Background>
+  <Background>background_vewlix_red_2560x780-filled-fotor-20240228145838.png</Background>
   <LayoutSub />
   <ShowMiniInfo>False</ShowMiniInfo>
   <Images>
@@ -55,13 +55,17 @@
     <Image Name="T10ButtonWhite_reflect_60x60.png" X="1640" Y="40" Width="60" Height="60" Sizeable="False" AlphaFade="True" AlphaValue="10" LabelLink="6" />
     <Image Name="T10ButtonWhite_reflect_60x60.png" X="1720" Y="40" Width="60" Height="60" Sizeable="False" AlphaFade="True" AlphaValue="10" LabelLink="7" />
     <Image Name="T10ButtonWhite_reflect_60x60.png" X="1800" Y="40" Width="60" Height="60" Sizeable="False" AlphaFade="True" AlphaValue="10" LabelLink="8" />
-    <Image Name="C:\Programs\LaunchBox\Add-On\CPWizard-master\bin\Release\Media\Logos\Sega Master System.png" X="2200" Y="624" Width="256" Height="104" Sizeable="True" AlphaFade="True" AlphaValue="10" LabelLink="" />
     <Image Name="T1JoystickRed.png" X="1714" Y="401" Width="83" Height="83" Sizeable="True" AlphaFade="True" AlphaValue="10" LabelLink="[PLAYER_1_JOYSTICK]" />
     <Image Name="[IMAGE_LAYOUTSUB]" X="72" Y="32" Width="64" Height="64" Sizeable="True" AlphaFade="True" AlphaValue="10" LabelLink="" />
     <Image Name="[IMAGE_LAYOUTSUB]" X="72" Y="96" Width="64" Height="64" Sizeable="True" AlphaFade="True" AlphaValue="10" LabelLink="" />
     <Image Name="[IMAGE_LAYOUTSUB]" X="8" Y="96" Width="64" Height="64" Sizeable="True" AlphaFade="True" AlphaValue="10" LabelLink="" />
     <Image Name="[IMAGE_LAYOUTSUB]" X="136" Y="96" Width="64" Height="64" Sizeable="True" AlphaFade="True" AlphaValue="10" LabelLink="" />
-    <Image Name="Emulators\RetroArch_h60px.png" X="2131" Y="46" Width="330" Height="66" Sizeable="False" AlphaFade="True" AlphaValue="10" LabelLink="" />
+    <Image Name="Emulators\RetroArch-h100px.png" X="1982" Y="36" Width="496" Height="100" Sizeable="False" AlphaFade="True" AlphaValue="10" LabelLink="" />
+    <Image Name="Controllers-Custom\Sega Master System-h400px.png" X="1028" Y="476" Width="542" Height="243" Sizeable="True" AlphaFade="True" AlphaValue="10" LabelLink="" />
+    <Image Name="Device\Sega Master System-h160px.png" X="324" Y="0" Width="291" Height="160" Sizeable="False" AlphaFade="True" AlphaValue="10" LabelLink="" />
+    <Image Name="Company Logo\Sega-h120px.png" X="2107" Y="630" Width="363" Height="120" Sizeable="False" AlphaFade="True" AlphaValue="10" LabelLink="" />
+    <Image Name="Logos\Sega Master System 2-h100px.png" X="1066" Y="17" Width="413" Height="135" Sizeable="True" AlphaFade="True" AlphaValue="10" LabelLink="" />
+    <Image Name="2p.png" X="38" Y="600" Width="150" Height="138" Sizeable="False" AlphaFade="True" AlphaValue="10" LabelLink="" />
   </Images>
   <ColorImages Enabled="True">
     <ColorImage Name="Black" Image="T4ButtonBlack.png" />
@@ -93,13 +97,6 @@
         <Code Type="Custom Text" Value="X" />
       </Codes>
     </Label>
-    <Label Name="EMUNAME" Group="" X="1160" Y="96" Width="210" Height="46" Sizeable="False" Arrow="True" Spot="True">
-      <Font Name="Arial" Size="27.75" FontStyle="Bold" Color="White" />
-      <Text Align="Center" Style="Outline" />
-      <Codes>
-        <Code Type="Custom Text" Value="EMUNAME" />
-      </Codes>
-    </Label>
     <Label Name="Q" Group="[GROUP_5]" X="2232" Y="344" Width="55" Height="60" Sizeable="False" Arrow="True" Spot="True">
       <Font Name="Arial" Size="36" FontStyle="Bold" Color="White" />
       <Text Align="Center" Style="Outline" />
@@ -107,25 +104,11 @@
         <Code Type="Custom Text" Value="Q" />
       </Codes>
     </Label>
-    <Label Name="[GROUP_5]" Group="" X="2112" Y="224" Width="161" Height="34" Sizeable="False" Arrow="True" Spot="True">
-      <Font Name="Arial" Size="20.25" FontStyle="Bold" Color="White" />
-      <Text Align="Center" Style="Shadow" />
-      <Codes>
-        <Code Type="Label Group" Value="[GROUP_5]" />
-      </Codes>
-    </Label>
     <Label Name="K" Group="[GROUP_6]" X="2208" Y="488" Width="52" Height="60" Sizeable="False" Arrow="True" Spot="True">
       <Font Name="Arial" Size="36" FontStyle="Bold" Color="White" />
       <Text Align="Center" Style="Outline" />
       <Codes>
         <Code Type="Custom Text" Value="K" />
-      </Codes>
-    </Label>
-    <Label Name="[MISC_ALTERNATING]" Group="" X="1072" Y="488" Width="185" Height="20" Sizeable="False" Arrow="True" Spot="True">
-      <Font Name="Arial" Size="12" FontStyle="Bold" Color="White" />
-      <Text Align="Center" Style="Outline" />
-      <Codes>
-        <Code Type="Misc Code" Value="[MISC_ALTERNATING]" />
       </Codes>
     </Label>
     <Label Name="V" Group="[GROUP_4]" X="881" Y="495" Width="49" Height="60" Sizeable="False" Arrow="True" Spot="True">
@@ -226,7 +209,7 @@
         <Code Type="Custom Text" Value="S" />
       </Codes>
     </Label>
-    <Label Name="[KEYCODE_RIGHT]" Group="[GROUP_1]" X="-2410" Y="152" Width="159" Height="20" Sizeable="False" Arrow="True" Spot="True">
+    <Label Name="[KEYCODE_RIGHT]" Group="[GROUP_1]" X="-2489" Y="152" Width="159" Height="20" Sizeable="False" Arrow="True" Spot="True">
       <Font Name="Arial" Size="12" FontStyle="Bold" Color="White" />
       <Text Align="Left" Style="Outline" />
       <Codes>
@@ -245,13 +228,6 @@
       <Text Align="Center" Style="Outline" />
       <Codes>
         <Code Type="Custom Text" Value="C" />
-      </Codes>
-    </Label>
-    <Label Name="EMUPLATFORM" Group="" X="1072" Y="24" Width="401" Height="60" Sizeable="False" Arrow="True" Spot="True">
-      <Font Name="Arial" Size="36" FontStyle="Bold" Color="White" />
-      <Text Align="Center" Style="Outline" />
-      <Codes>
-        <Code Type="Custom Text" Value="EMUPLATFORM" />
       </Codes>
     </Label>
     <Label Name="Space" Group="[GROUP_2]" X="712" Y="336" Width="162" Height="60" Sizeable="False" Arrow="False" Spot="False">
@@ -275,32 +251,11 @@
         <Code Type="Label Group" Value="[GROUP_2]" />
       </Codes>
     </Label>
-    <Label Name="[GROUP_6]" Group="" X="2112" Y="616" Width="161" Height="34" Sizeable="False" Arrow="True" Spot="True">
-      <Font Name="Arial" Size="20.25" FontStyle="Bold" Color="White" />
-      <Text Align="Center" Style="Shadow" />
-      <Codes>
-        <Code Type="Label Group" Value="[GROUP_6]" />
-      </Codes>
-    </Label>
     <Label Name="L" Group="" X="2349" Y="491" Width="47" Height="60" Sizeable="False" Arrow="True" Spot="True">
       <Font Name="Arial" Size="36" FontStyle="Bold" Color="White" />
       <Text Align="Center" Style="Outline" />
       <Codes>
         <Code Type="Custom Text" Value="L" />
-      </Codes>
-    </Label>
-    <Label Name="[MISC_GAME_NAME]" Group="" X="1160" Y="456" Width="294" Height="34" Sizeable="False" Arrow="True" Spot="True">
-      <Font Name="Arial" Size="20.25" FontStyle="Bold" Color="White" />
-      <Text Align="Center" Style="Outline" />
-      <Codes>
-        <Code Type="Misc Code" Value="[MISC_GAME_NAME]" />
-      </Codes>
-    </Label>
-    <Label Name="[MISC_ROM_NAME]" Group="" X="1312" Y="488" Width="275" Height="34" Sizeable="False" Arrow="True" Spot="True">
-      <Font Name="Arial" Size="20.25" FontStyle="Bold" Color="White" />
-      <Text Align="Center" Style="Outline" />
-      <Codes>
-        <Code Type="Misc Code" Value="[MISC_ROM_NAME]" />
       </Codes>
     </Label>
     <Label Name="Player1Joystick" Group="" X="184" Y="626" Width="220" Height="34" Sizeable="False" Arrow="True" Spot="True">

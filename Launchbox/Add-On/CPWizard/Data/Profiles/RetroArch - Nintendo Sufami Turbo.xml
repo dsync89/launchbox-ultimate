@@ -3,7 +3,7 @@
   <Enabled>True</Enabled>
   <Name>RetroArch - Nintendo Sufami Turbo</Name>
   <Type>Emulator</Type>
-  <Layout>NintendoSuperNintendoEntertainmentSystem_RETROARCH</Layout>
+  <Layout>NintendoSufamiTurbo_RETROARCH</Layout>
   <LayoutOverride />
   <LayoutSub />
   <Labels>Nintendo Sufami Turbo</Labels>

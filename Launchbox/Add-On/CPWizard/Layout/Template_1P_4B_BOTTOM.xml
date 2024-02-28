@@ -62,11 +62,9 @@
     <Image Name="T1JoystickRed.png" X="1714" Y="401" Width="83" Height="83" Sizeable="True" AlphaFade="True" AlphaValue="10" LabelLink="[PLAYER_1_JOYSTICK]">
       <Color Hue="0" Saturation="0" Brightness="1" />
     </Image>
-    <Image Name="[IMAGE_LAYOUTSUB]" X="72" Y="32" Width="64" Height="64" Sizeable="True" AlphaFade="True" AlphaValue="10" LabelLink="" />
-    <Image Name="[IMAGE_LAYOUTSUB]" X="72" Y="96" Width="64" Height="64" Sizeable="True" AlphaFade="True" AlphaValue="10" LabelLink="" />
-    <Image Name="[IMAGE_LAYOUTSUB]" X="8" Y="96" Width="64" Height="64" Sizeable="True" AlphaFade="True" AlphaValue="10" LabelLink="" />
-    <Image Name="[IMAGE_LAYOUTSUB]" X="136" Y="96" Width="64" Height="64" Sizeable="True" AlphaFade="True" AlphaValue="10" LabelLink="" />
     <Image Name="Emulators\RetroArch_h60px.png" X="2131" Y="46" Width="330" Height="66" Sizeable="False" AlphaFade="True" AlphaValue="10" LabelLink="" />
+    <Image Name="Controllers-Custom\Nintendo GameCube-h350px.png" X="1049" Y="408" Width="450" Height="350" Sizeable="True" AlphaFade="True" AlphaValue="10" LabelLink="" />
+    <Image Name="Device\Nintendo GameCube-h350px.png" X="188" Y="7" Width="201" Height="149" Sizeable="True" AlphaFade="True" AlphaValue="10" LabelLink="" />
   </Images>
   <ColorImages Enabled="True">
     <ColorImage Name="Black" Image="T4ButtonBlack.png" />
@@ -124,13 +122,6 @@
       <Text Align="Center" Style="Outline" />
       <Codes>
         <Code Type="Custom Text" Value="K" />
-      </Codes>
-    </Label>
-    <Label Name="[MISC_ALTERNATING]" Group="" X="1072" Y="488" Width="185" Height="20" Sizeable="False" Arrow="True" Spot="True">
-      <Font Name="Arial" Size="12" FontStyle="Bold" Color="White" />
-      <Text Align="Center" Style="Outline" />
-      <Codes>
-        <Code Type="Misc Code" Value="[MISC_ALTERNATING]" />
       </Codes>
     </Label>
     <Label Name="V" Group="" X="881" Y="495" Width="49" Height="60" Sizeable="False" Arrow="True" Spot="True">
@@ -231,7 +222,7 @@
         <Code Type="Custom Text" Value="S" />
       </Codes>
     </Label>
-    <Label Name="[KEYCODE_RIGHT]" Group="[GROUP_1]" X="-2410" Y="152" Width="159" Height="20" Sizeable="False" Arrow="True" Spot="True">
+    <Label Name="[KEYCODE_RIGHT]" Group="[GROUP_1]" X="-2489" Y="152" Width="159" Height="20" Sizeable="False" Arrow="True" Spot="True">
       <Font Name="Arial" Size="12" FontStyle="Bold" Color="White" />
       <Text Align="Left" Style="Outline" />
       <Codes>
@@ -252,7 +243,7 @@
         <Code Type="Custom Text" Value="C" />
       </Codes>
     </Label>
-    <Label Name="EMUPLATFORM" Group="" X="1072" Y="24" Width="401" Height="60" Sizeable="False" Arrow="True" Spot="True">
+    <Label Name="EMUPLATFORM" Group="" X="1072" Y="16" Width="401" Height="60" Sizeable="False" Arrow="True" Spot="True">
       <Font Name="Arial" Size="36" FontStyle="Bold" Color="White" />
       <Text Align="Center" Style="Outline" />
       <Codes>
@@ -292,20 +283,6 @@
       <Text Align="Center" Style="Outline" />
       <Codes>
         <Code Type="Custom Text" Value="L" />
-      </Codes>
-    </Label>
-    <Label Name="[MISC_GAME_NAME]" Group="" X="1160" Y="456" Width="294" Height="34" Sizeable="False" Arrow="True" Spot="True">
-      <Font Name="Arial" Size="20.25" FontStyle="Bold" Color="White" />
-      <Text Align="Center" Style="Outline" />
-      <Codes>
-        <Code Type="Misc Code" Value="[MISC_GAME_NAME]" />
-      </Codes>
-    </Label>
-    <Label Name="[MISC_ROM_NAME]" Group="" X="1312" Y="488" Width="275" Height="34" Sizeable="False" Arrow="True" Spot="True">
-      <Font Name="Arial" Size="20.25" FontStyle="Bold" Color="White" />
-      <Text Align="Center" Style="Outline" />
-      <Codes>
-        <Code Type="Misc Code" Value="[MISC_ROM_NAME]" />
       </Codes>
     </Label>
     <Label Name="Player1Joystick" Group="" X="184" Y="626" Width="220" Height="34" Sizeable="False" Arrow="True" Spot="True">
